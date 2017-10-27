@@ -1,6 +1,0 @@
-<map id="lbann::dropout::fp_compute" name="lbann::dropout::fp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a7f8a6efd69263d6268ced61c8121f344" title="lbann::Layer::get_execution_mode" alt="" coords="176,5,397,32"/>
-<area shape="rect" id="node3" href="$namespacelbann.html#a6add4d3337110d567e7b398a262fd010" title="lbann::bernoulli_fill\l_procdet" alt="" coords="222,57,351,98"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#ae6ce9c2fdec6f81803f6b1a6555c31c5" title="lbann::get_fast_generator" alt="" coords="202,123,371,149"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#a4fea7ba21017b49d1e34394b4c20c764" title="lbann::get_generator" alt="" coords="446,64,586,91"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="lbann::Layer::setup_gpu" name="lbann::Layer::setup_gpu">
-<area shape="rect" id="node2" href="$classlbann_1_1relu__layer.html#a8c305ba4dc7f19b4d64102e83e50ea86" title="lbann::relu_layer::\lsetup_gpu" alt="" coords="228,5,353,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#aef1ce8742619dddb3371e6c5cc64af4c" title="Initialize GPU objects. " alt="" coords="227,70,354,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1local__response__normalization__layer.html#a3df95733ab76629a76518175c5b692ab" title="Initialize GPU objects. " alt="" coords="217,135,365,191"/>
-<area shape="rect" id="node5" href="$classlbann_1_1pooling__layer.html#aacfb8108c1a8ad39edafff1406ed9458" title="Initialize GPU objects. " alt="" coords="222,214,359,255"/>
-<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#af455f02e7d3111a3610bc3fb705f3292" title="lbann::Layer::setup" alt="" coords="224,280,357,307"/>
-</map>

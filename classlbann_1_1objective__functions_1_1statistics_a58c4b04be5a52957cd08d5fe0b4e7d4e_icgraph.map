@@ -1,5 +1,0 @@
-<map id="lbann::objective_functions::statistics::reset_stats" name="lbann::objective_functions::statistics::reset_stats">
-<area shape="rect" id="node2" href="$classlbann_1_1objective__functions_1_1objective__fn.html#aa4a532228e0d8cd65d5bc672c6797cf4" title="lbann::objective_functions\l::objective_fn::reset_obj_fn" alt="" coords="227,5,405,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a4fe63768651b4f2bb593ca7249c205f4" title="lbann::target_layer\l::resetCost" alt="" coords="454,5,583,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1target__layer.html#af1edacbfc44d1a9df1df3b26fe2ea22b" title="lbann::target_layer\l::epoch_reset" alt="" coords="633,5,762,46"/>
-</map>

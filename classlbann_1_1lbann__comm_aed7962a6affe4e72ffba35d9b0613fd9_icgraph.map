@@ -1,8 +1,0 @@
-<map id="lbann::lbann_comm::is_world_rank_on_node" name="lbann::lbann_comm::is_world_rank_on_node">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#ad8f810130cd0cd3afd94700713b763b9" title="lbann::lbann_comm::\lis_rank_node_local" alt="" coords="214,103,357,145"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a1cdea4beed41ce5c49ff6fb7828fda36" title="lbann::lbann_comm::\lrecursive_doubling_allreduce_pow2" alt="" coords="405,5,632,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ab348cd0f3948e6b349bc3efa22da55cc" title="lbann::lbann_comm::\lpe_ring_allreduce" alt="" coords="447,70,590,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a6faf6ca606f7da224d523236b6e28dd9" title="lbann::lbann_comm::\lring_allreduce" alt="" coords="447,135,590,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a2787c78c2cfb2f90c156732e81301cac" title="lbann::lbann_comm::\lrabenseifner_allreduce" alt="" coords="443,201,595,242"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a34d5414f1ac4749e6f0937b638bb5cc6" title="lbann::lbann_comm::\lintermodel_allreduce" alt="" coords="681,103,823,145"/>
-</map>

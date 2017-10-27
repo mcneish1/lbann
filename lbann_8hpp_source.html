@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">f660449-ci254663199</span>
+   &#160;<span id="projectnumber">7c2bc9b-ci293905082</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -121,163 +121,92 @@ $(document).ready(function(){initNavTree('lbann_8hpp_source.html','');});
 <div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="preprocessor">#ifndef LBANN_HPP_INCLUDED</span></div>
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#define LBANN_HPP_INCLUDED</span></div>
 <div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="preprocessor"></span></div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="model__dnn_8hpp.html">lbann/models/model_dnn.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="model__greedy__layerwise__autoencoder_8hpp.html">lbann/models/model_greedy_layerwise_autoencoder.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="elu_8hpp.html">lbann/layers/activations/elu.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="id_8hpp.html">lbann/layers/activations/id.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="leaky__relu_8hpp.html">lbann/layers/activations/leaky_relu.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="relu_8hpp.html">lbann/layers/activations/relu.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="selu_8hpp.html">lbann/layers/activations/selu.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="sigmoid_8hpp.html">lbann/layers/activations/sigmoid.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="smooth__relu_8hpp.html">lbann/layers/activations/smooth_relu.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="softmax_8hpp.html">lbann/layers/activations/softmax.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="softplus_8hpp.html">lbann/layers/activations/softplus.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="tanh_8hpp.html">lbann/layers/activations/tanh.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="fully__connected_8hpp.html">lbann/layers/learning/fully_connected.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="convolution_8hpp.html">lbann/layers/learning/convolution.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="pooling_8hpp.html">lbann/layers/transform/pooling.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="branch_8hpp.html">lbann/layers/transform/branch.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="sum_8hpp.html">lbann/layers/transform/sum.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="local__response__normalization_8hpp.html">lbann/layers/regularizers/local_response_normalization.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="dropout_8hpp.html">lbann/layers/regularizers/dropout.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="selu__dropout_8hpp.html">lbann/layers/regularizers/selu_dropout.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="batch__normalization_8hpp.html">lbann/layers/regularizers/batch_normalization.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="input__layer__distributed__minibatch_8hpp.html">lbann/layers/io/input/input_layer_distributed_minibatch.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="target__layer__distributed__minibatch_8hpp.html">lbann/layers/io/target/target_layer_distributed_minibatch.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="input__layer__partitioned__minibatch_8hpp.html">lbann/layers/io/input/input_layer_partitioned_minibatch.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="target__layer__partitioned__minibatch_8hpp.html">lbann/layers/io/target/target_layer_partitioned_minibatch.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="reconstruction_8hpp.html">lbann/layers/io/target/reconstruction.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;</div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="data__reader__imagenet_8hpp.html">lbann/data_readers/data_reader_imagenet.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="data__reader__imagenet__single_8hpp.html">lbann/data_readers/data_reader_imagenet_single.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="data__reader__cifar10_8hpp.html">lbann/data_readers/data_reader_cifar10.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="data__reader__mnist_8hpp.html">lbann/data_readers/data_reader_mnist.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="data__reader__imagenet__single__cv_8hpp.html">lbann/data_readers/data_reader_imagenet_single_cv.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="data__reader__synthetic_8hpp.html">lbann/data_readers/data_reader_synthetic.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="data__reader__nci_8hpp.html">lbann/data_readers/data_reader_nci.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="data__reader__cnpy_8hpp.html">lbann/data_readers/data_reader_cnpy.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__check__init_8hpp.html">lbann/callbacks/callback_check_init.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__checknan_8hpp.html">lbann/callbacks/callback_checknan.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__checksmall_8hpp.html">lbann/callbacks/callback_checksmall.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__print_8hpp.html">lbann/callbacks/callback_print.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__io_8hpp.html">lbann/callbacks/callback_io.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__summary_8hpp.html">lbann/callbacks/callback_summary.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__timer_8hpp.html">lbann/callbacks/callback_timer.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__learning__rate_8hpp.html">lbann/callbacks/callback_learning_rate.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__debug_8hpp.html">lbann/callbacks/callback_debug.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__imcomm_8hpp.html">lbann/callbacks/callback_imcomm.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__dump__weights_8hpp.html">lbann/callbacks/callback_dump_weights.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__dump__activations_8hpp.html">lbann/callbacks/callback_dump_activations.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__dump__gradients_8hpp.html">lbann/callbacks/callback_dump_gradients.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__dump__minibatch__sample__indices_8hpp.html">lbann/callbacks/callback_dump_minibatch_sample_indices.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__early__stopping_8hpp.html">lbann/callbacks/callback_early_stopping.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__ltfb_8hpp.html">lbann/callbacks/callback_ltfb.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="callback__save__images_8hpp.html">lbann/callbacks/callback_save_images.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="profiler_8hpp.html">lbann/callbacks/profiler.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;</div>
-<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="optimizer__adagrad_8hpp.html">lbann/optimizers/optimizer_adagrad.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="optimizer__adam_8hpp.html">lbann/optimizers/optimizer_adam.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="optimizer__hypergradient__adam_8hpp.html">lbann/optimizers/optimizer_hypergradient_adam.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="optimizer__rmsprop_8hpp.html">lbann/optimizers/optimizer_rmsprop.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="optimizer__sgd_8hpp.html">lbann/optimizers/optimizer_sgd.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;</div>
-<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="objective__fn__categorical__cross__entropy_8hpp.html">lbann/objective_functions/objective_fn_categorical_cross_entropy.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="objective__fn__mean__squared__error_8hpp.html">lbann/objective_functions/objective_fn_mean_squared_error.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;</div>
-<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="metric__categorical__accuracy_8hpp.html">lbann/metrics/metric_categorical_accuracy.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="metric__top__k__categorical__accuracy_8hpp.html">lbann/metrics/metric_top_k_categorical_accuracy.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="metric__mean__squared__error_8hpp.html">lbann/metrics/metric_mean_squared_error.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;</div>
-<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="exception_8hpp.html">lbann/utils/exception.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="summary_8hpp.html">lbann/utils/summary.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="options_8hpp.html">lbann/utils/options.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="params_8hpp.html">lbann/params.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="file__io_8hpp.html">lbann/io/file_io.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="persist_8hpp.html">lbann/io/persist.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;</div>
-<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;<span class="preprocessor">#endif // LBANN_HPP_INCLUDED</span></div>
-<div class="ttc" id="objective__fn__categorical__cross__entropy_8hpp_html"><div class="ttname"><a href="objective__fn__categorical__cross__entropy_8hpp.html">objective_fn_categorical_cross_entropy.hpp</a></div></div>
-<div class="ttc" id="callback__save__images_8hpp_html"><div class="ttname"><a href="callback__save__images_8hpp.html">callback_save_images.hpp</a></div></div>
-<div class="ttc" id="data__reader__cifar10_8hpp_html"><div class="ttname"><a href="data__reader__cifar10_8hpp.html">data_reader_cifar10.hpp</a></div></div>
-<div class="ttc" id="callback__print_8hpp_html"><div class="ttname"><a href="callback__print_8hpp.html">callback_print.hpp</a></div></div>
-<div class="ttc" id="summary_8hpp_html"><div class="ttname"><a href="summary_8hpp.html">summary.hpp</a></div></div>
-<div class="ttc" id="callback__dump__weights_8hpp_html"><div class="ttname"><a href="callback__dump__weights_8hpp.html">callback_dump_weights.hpp</a></div></div>
-<div class="ttc" id="dropout_8hpp_html"><div class="ttname"><a href="dropout_8hpp.html">dropout.hpp</a></div></div>
-<div class="ttc" id="callback__dump__gradients_8hpp_html"><div class="ttname"><a href="callback__dump__gradients_8hpp.html">callback_dump_gradients.hpp</a></div></div>
-<div class="ttc" id="optimizer__hypergradient__adam_8hpp_html"><div class="ttname"><a href="optimizer__hypergradient__adam_8hpp.html">optimizer_hypergradient_adam.hpp</a></div></div>
-<div class="ttc" id="local__response__normalization_8hpp_html"><div class="ttname"><a href="local__response__normalization_8hpp.html">local_response_normalization.hpp</a></div></div>
-<div class="ttc" id="callback__imcomm_8hpp_html"><div class="ttname"><a href="callback__imcomm_8hpp.html">callback_imcomm.hpp</a></div></div>
-<div class="ttc" id="callback__check__init_8hpp_html"><div class="ttname"><a href="callback__check__init_8hpp.html">callback_check_init.hpp</a></div></div>
-<div class="ttc" id="file__io_8hpp_html"><div class="ttname"><a href="file__io_8hpp.html">file_io.hpp</a></div></div>
-<div class="ttc" id="softplus_8hpp_html"><div class="ttname"><a href="softplus_8hpp.html">softplus.hpp</a></div></div>
-<div class="ttc" id="target__layer__partitioned__minibatch_8hpp_html"><div class="ttname"><a href="target__layer__partitioned__minibatch_8hpp.html">target_layer_partitioned_minibatch.hpp</a></div></div>
-<div class="ttc" id="callback__checksmall_8hpp_html"><div class="ttname"><a href="callback__checksmall_8hpp.html">callback_checksmall.hpp</a></div></div>
-<div class="ttc" id="tanh_8hpp_html"><div class="ttname"><a href="tanh_8hpp.html">tanh.hpp</a></div></div>
-<div class="ttc" id="target__layer__distributed__minibatch_8hpp_html"><div class="ttname"><a href="target__layer__distributed__minibatch_8hpp.html">target_layer_distributed_minibatch.hpp</a></div></div>
-<div class="ttc" id="objective__fn__mean__squared__error_8hpp_html"><div class="ttname"><a href="objective__fn__mean__squared__error_8hpp.html">objective_fn_mean_squared_error.hpp</a></div></div>
-<div class="ttc" id="optimizer__adagrad_8hpp_html"><div class="ttname"><a href="optimizer__adagrad_8hpp.html">optimizer_adagrad.hpp</a></div></div>
-<div class="ttc" id="sigmoid_8hpp_html"><div class="ttname"><a href="sigmoid_8hpp.html">sigmoid.hpp</a></div></div>
-<div class="ttc" id="optimizer__sgd_8hpp_html"><div class="ttname"><a href="optimizer__sgd_8hpp.html">optimizer_sgd.hpp</a></div></div>
-<div class="ttc" id="callback__timer_8hpp_html"><div class="ttname"><a href="callback__timer_8hpp.html">callback_timer.hpp</a></div></div>
-<div class="ttc" id="softmax_8hpp_html"><div class="ttname"><a href="softmax_8hpp.html">softmax.hpp</a></div></div>
-<div class="ttc" id="input__layer__partitioned__minibatch_8hpp_html"><div class="ttname"><a href="input__layer__partitioned__minibatch_8hpp.html">input_layer_partitioned_minibatch.hpp</a></div></div>
-<div class="ttc" id="callback__ltfb_8hpp_html"><div class="ttname"><a href="callback__ltfb_8hpp.html">callback_ltfb.hpp</a></div></div>
-<div class="ttc" id="fully__connected_8hpp_html"><div class="ttname"><a href="fully__connected_8hpp.html">fully_connected.hpp</a></div></div>
-<div class="ttc" id="callback__early__stopping_8hpp_html"><div class="ttname"><a href="callback__early__stopping_8hpp.html">callback_early_stopping.hpp</a></div></div>
-<div class="ttc" id="reconstruction_8hpp_html"><div class="ttname"><a href="reconstruction_8hpp.html">reconstruction.hpp</a></div></div>
-<div class="ttc" id="data__reader__nci_8hpp_html"><div class="ttname"><a href="data__reader__nci_8hpp.html">data_reader_nci.hpp</a></div></div>
-<div class="ttc" id="data__reader__imagenet__single__cv_8hpp_html"><div class="ttname"><a href="data__reader__imagenet__single__cv_8hpp.html">data_reader_imagenet_single_cv.hpp</a></div></div>
-<div class="ttc" id="params_8hpp_html"><div class="ttname"><a href="params_8hpp.html">params.hpp</a></div></div>
-<div class="ttc" id="metric__mean__squared__error_8hpp_html"><div class="ttname"><a href="metric__mean__squared__error_8hpp.html">metric_mean_squared_error.hpp</a></div></div>
-<div class="ttc" id="optimizer__adam_8hpp_html"><div class="ttname"><a href="optimizer__adam_8hpp.html">optimizer_adam.hpp</a></div></div>
-<div class="ttc" id="batch__normalization_8hpp_html"><div class="ttname"><a href="batch__normalization_8hpp.html">batch_normalization.hpp</a></div></div>
-<div class="ttc" id="relu_8hpp_html"><div class="ttname"><a href="relu_8hpp.html">relu.hpp</a></div></div>
-<div class="ttc" id="selu_8hpp_html"><div class="ttname"><a href="selu_8hpp.html">selu.hpp</a></div></div>
-<div class="ttc" id="elu_8hpp_html"><div class="ttname"><a href="elu_8hpp.html">elu.hpp</a></div></div>
-<div class="ttc" id="metric__top__k__categorical__accuracy_8hpp_html"><div class="ttname"><a href="metric__top__k__categorical__accuracy_8hpp.html">metric_top_k_categorical_accuracy.hpp</a></div></div>
-<div class="ttc" id="exception_8hpp_html"><div class="ttname"><a href="exception_8hpp.html">exception.hpp</a></div></div>
-<div class="ttc" id="input__layer__distributed__minibatch_8hpp_html"><div class="ttname"><a href="input__layer__distributed__minibatch_8hpp.html">input_layer_distributed_minibatch.hpp</a></div></div>
-<div class="ttc" id="callback__learning__rate_8hpp_html"><div class="ttname"><a href="callback__learning__rate_8hpp.html">callback_learning_rate.hpp</a></div></div>
-<div class="ttc" id="sum_8hpp_html"><div class="ttname"><a href="sum_8hpp.html">sum.hpp</a></div></div>
-<div class="ttc" id="branch_8hpp_html"><div class="ttname"><a href="branch_8hpp.html">branch.hpp</a></div></div>
-<div class="ttc" id="persist_8hpp_html"><div class="ttname"><a href="persist_8hpp.html">persist.hpp</a></div></div>
-<div class="ttc" id="convolution_8hpp_html"><div class="ttname"><a href="convolution_8hpp.html">convolution.hpp</a></div></div>
-<div class="ttc" id="callback__debug_8hpp_html"><div class="ttname"><a href="callback__debug_8hpp.html">callback_debug.hpp</a></div></div>
-<div class="ttc" id="data__reader__imagenet_8hpp_html"><div class="ttname"><a href="data__reader__imagenet_8hpp.html">data_reader_imagenet.hpp</a></div></div>
-<div class="ttc" id="optimizer__rmsprop_8hpp_html"><div class="ttname"><a href="optimizer__rmsprop_8hpp.html">optimizer_rmsprop.hpp</a></div></div>
-<div class="ttc" id="data__reader__synthetic_8hpp_html"><div class="ttname"><a href="data__reader__synthetic_8hpp.html">data_reader_synthetic.hpp</a></div></div>
-<div class="ttc" id="options_8hpp_html"><div class="ttname"><a href="options_8hpp.html">options.hpp</a></div></div>
-<div class="ttc" id="metric__categorical__accuracy_8hpp_html"><div class="ttname"><a href="metric__categorical__accuracy_8hpp.html">metric_categorical_accuracy.hpp</a></div></div>
-<div class="ttc" id="data__reader__mnist_8hpp_html"><div class="ttname"><a href="data__reader__mnist_8hpp.html">data_reader_mnist.hpp</a></div></div>
-<div class="ttc" id="callback__dump__minibatch__sample__indices_8hpp_html"><div class="ttname"><a href="callback__dump__minibatch__sample__indices_8hpp.html">callback_dump_minibatch_sample_indices.hpp</a></div></div>
-<div class="ttc" id="pooling_8hpp_html"><div class="ttname"><a href="pooling_8hpp.html">pooling.hpp</a></div></div>
-<div class="ttc" id="selu__dropout_8hpp_html"><div class="ttname"><a href="selu__dropout_8hpp.html">selu_dropout.hpp</a></div></div>
-<div class="ttc" id="model__greedy__layerwise__autoencoder_8hpp_html"><div class="ttname"><a href="model__greedy__layerwise__autoencoder_8hpp.html">model_greedy_layerwise_autoencoder.hpp</a></div></div>
-<div class="ttc" id="id_8hpp_html"><div class="ttname"><a href="id_8hpp.html">id.hpp</a></div></div>
-<div class="ttc" id="profiler_8hpp_html"><div class="ttname"><a href="profiler_8hpp.html">profiler.hpp</a></div></div>
-<div class="ttc" id="callback__io_8hpp_html"><div class="ttname"><a href="callback__io_8hpp.html">callback_io.hpp</a></div></div>
-<div class="ttc" id="callback__dump__activations_8hpp_html"><div class="ttname"><a href="callback__dump__activations_8hpp.html">callback_dump_activations.hpp</a></div></div>
-<div class="ttc" id="data__reader__cnpy_8hpp_html"><div class="ttname"><a href="data__reader__cnpy_8hpp.html">data_reader_cnpy.hpp</a></div></div>
-<div class="ttc" id="model__dnn_8hpp_html"><div class="ttname"><a href="model__dnn_8hpp.html">model_dnn.hpp</a></div></div>
-<div class="ttc" id="leaky__relu_8hpp_html"><div class="ttname"><a href="leaky__relu_8hpp.html">leaky_relu.hpp</a></div></div>
-<div class="ttc" id="data__reader__imagenet__single_8hpp_html"><div class="ttname"><a href="data__reader__imagenet__single_8hpp.html">data_reader_imagenet_single.hpp</a></div></div>
-<div class="ttc" id="callback__summary_8hpp_html"><div class="ttname"><a href="callback__summary_8hpp.html">callback_summary.hpp</a></div></div>
-<div class="ttc" id="callback__checknan_8hpp_html"><div class="ttname"><a href="callback__checknan_8hpp.html">callback_checknan.hpp</a></div></div>
-<div class="ttc" id="smooth__relu_8hpp_html"><div class="ttname"><a href="smooth__relu_8hpp.html">smooth_relu.hpp</a></div></div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__model__dnn_8hpp.html">lbann/models/lbann_model_dnn.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__model__stacked__autoencoder_8hpp.html">lbann/models/lbann_model_stacked_autoencoder.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__model__greedy__layerwise__autoencoder_8hpp.html">lbann/models/lbann_model_greedy_layerwise_autoencoder.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__layer__activations_8hpp.html">lbann/layers/lbann_layer_activations.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__layer__fully__connected_8hpp.html">lbann/layers/lbann_layer_fully_connected.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__layer__softmax_8hpp.html">lbann/layers/lbann_layer_softmax.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__layer__convolutional_8hpp.html">lbann/layers/lbann_layer_convolutional.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__layer__pooling_8hpp.html">lbann/layers/lbann_layer_pooling.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__input__layer__distributed__minibatch_8hpp.html">lbann/layers/lbann_input_layer_distributed_minibatch.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__target__layer__distributed__minibatch_8hpp.html">lbann/layers/lbann_target_layer_distributed_minibatch.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__input__layer__distributed__minibatch__parallel__io_8hpp.html">lbann/layers/lbann_input_layer_distributed_minibatch_parallel_io.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__target__layer__distributed__minibatch__parallel__io_8hpp.html">lbann/layers/lbann_target_layer_distributed_minibatch_parallel_io.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="comment">//#include &quot;lbann/layers/lbann_target_layer_unsupervised.hpp&quot;</span></div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__data__reader__imagenet_8hpp.html">lbann/data_readers/lbann_data_reader_imagenet.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__print_8hpp.html">lbann/callbacks/lbann_callback_print.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__io_8hpp.html">lbann/callbacks/lbann_callback_io.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__summary_8hpp.html">lbann/callbacks/lbann_callback_summary.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__timer_8hpp.html">lbann/callbacks/lbann_callback_timer.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__learning__rate_8hpp.html">lbann/callbacks/lbann_callback_learning_rate.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__debug_8hpp.html">lbann/callbacks/lbann_callback_debug.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__imcomm_8hpp.html">lbann/callbacks/lbann_callback_imcomm.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__dump__weights_8hpp.html">lbann/callbacks/lbann_callback_dump_weights.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__callback__early__stopping_8hpp.html">lbann/callbacks/lbann_callback_early_stopping.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__objective__fn_8hpp.html">lbann/objective_functions/lbann_objective_fn.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__objective__fn__categorical__cross__entropy_8hpp.html">lbann/objective_functions/lbann_objective_fn_categorical_cross_entropy.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__objective__fn__mean__squared__error_8hpp.html">lbann/objective_functions/lbann_objective_fn_mean_squared_error.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__metric_8hpp.html">lbann/metrics/lbann_metric.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__metric__categorical__accuracy_8hpp.html">lbann/metrics/lbann_metric_categorical_accuracy.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__metric__mean__squared__error_8hpp.html">lbann/metrics/lbann_metric_mean_squared_error.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__dropout_8hpp.html">lbann/regularization/lbann_dropout.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__exception_8hpp.html">lbann/utils/lbann_exception.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__summary_8hpp.html">lbann/utils/lbann_summary.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__params_8hpp.html">lbann/lbann_params.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__file__io_8hpp.html">lbann/io/lbann_file_io.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="lbann__persist_8hpp.html">lbann/io/lbann_persist.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;<span class="preprocessor">#endif // LBANN_HPP_INCLUDED</span></div>
+<div class="ttc" id="lbann__callback__dump__weights_8hpp_html"><div class="ttname"><a href="lbann__callback__dump__weights_8hpp.html">lbann_callback_dump_weights.hpp</a></div></div>
+<div class="ttc" id="lbann__callback__early__stopping_8hpp_html"><div class="ttname"><a href="lbann__callback__early__stopping_8hpp.html">lbann_callback_early_stopping.hpp</a></div></div>
+<div class="ttc" id="lbann__model__stacked__autoencoder_8hpp_html"><div class="ttname"><a href="lbann__model__stacked__autoencoder_8hpp.html">lbann_model_stacked_autoencoder.hpp</a></div></div>
+<div class="ttc" id="lbann__model__greedy__layerwise__autoencoder_8hpp_html"><div class="ttname"><a href="lbann__model__greedy__layerwise__autoencoder_8hpp.html">lbann_model_greedy_layerwise_autoencoder.hpp</a></div></div>
+<div class="ttc" id="lbann__callback__summary_8hpp_html"><div class="ttname"><a href="lbann__callback__summary_8hpp.html">lbann_callback_summary.hpp</a></div></div>
+<div class="ttc" id="lbann__params_8hpp_html"><div class="ttname"><a href="lbann__params_8hpp.html">lbann_params.hpp</a></div></div>
+<div class="ttc" id="lbann__persist_8hpp_html"><div class="ttname"><a href="lbann__persist_8hpp.html">lbann_persist.hpp</a></div></div>
+<div class="ttc" id="lbann__metric__mean__squared__error_8hpp_html"><div class="ttname"><a href="lbann__metric__mean__squared__error_8hpp.html">lbann_metric_mean_squared_error.hpp</a></div></div>
+<div class="ttc" id="lbann__model__dnn_8hpp_html"><div class="ttname"><a href="lbann__model__dnn_8hpp.html">lbann_model_dnn.hpp</a></div></div>
+<div class="ttc" id="lbann__metric__categorical__accuracy_8hpp_html"><div class="ttname"><a href="lbann__metric__categorical__accuracy_8hpp.html">lbann_metric_categorical_accuracy.hpp</a></div></div>
+<div class="ttc" id="lbann__input__layer__distributed__minibatch_8hpp_html"><div class="ttname"><a href="lbann__input__layer__distributed__minibatch_8hpp.html">lbann_input_layer_distributed_minibatch.hpp</a></div></div>
+<div class="ttc" id="lbann__objective__fn__mean__squared__error_8hpp_html"><div class="ttname"><a href="lbann__objective__fn__mean__squared__error_8hpp.html">lbann_objective_fn_mean_squared_error.hpp</a></div></div>
+<div class="ttc" id="lbann__summary_8hpp_html"><div class="ttname"><a href="lbann__summary_8hpp.html">lbann_summary.hpp</a></div></div>
+<div class="ttc" id="lbann__callback__debug_8hpp_html"><div class="ttname"><a href="lbann__callback__debug_8hpp.html">lbann_callback_debug.hpp</a></div></div>
+<div class="ttc" id="lbann__callback__io_8hpp_html"><div class="ttname"><a href="lbann__callback__io_8hpp.html">lbann_callback_io.hpp</a></div></div>
+<div class="ttc" id="lbann__dropout_8hpp_html"><div class="ttname"><a href="lbann__dropout_8hpp.html">lbann_dropout.hpp</a></div></div>
+<div class="ttc" id="lbann__objective__fn__categorical__cross__entropy_8hpp_html"><div class="ttname"><a href="lbann__objective__fn__categorical__cross__entropy_8hpp.html">lbann_objective_fn_categorical_cross_entropy.hpp</a></div></div>
+<div class="ttc" id="lbann__file__io_8hpp_html"><div class="ttname"><a href="lbann__file__io_8hpp.html">lbann_file_io.hpp</a></div></div>
+<div class="ttc" id="lbann__callback__imcomm_8hpp_html"><div class="ttname"><a href="lbann__callback__imcomm_8hpp.html">lbann_callback_imcomm.hpp</a></div></div>
+<div class="ttc" id="lbann__metric_8hpp_html"><div class="ttname"><a href="lbann__metric_8hpp.html">lbann_metric.hpp</a></div></div>
+<div class="ttc" id="lbann__target__layer__distributed__minibatch_8hpp_html"><div class="ttname"><a href="lbann__target__layer__distributed__minibatch_8hpp.html">lbann_target_layer_distributed_minibatch.hpp</a></div></div>
+<div class="ttc" id="lbann__layer__convolutional_8hpp_html"><div class="ttname"><a href="lbann__layer__convolutional_8hpp.html">lbann_layer_convolutional.hpp</a></div></div>
+<div class="ttc" id="lbann__data__reader__imagenet_8hpp_html"><div class="ttname"><a href="lbann__data__reader__imagenet_8hpp.html">lbann_data_reader_imagenet.hpp</a></div></div>
+<div class="ttc" id="lbann__layer__softmax_8hpp_html"><div class="ttname"><a href="lbann__layer__softmax_8hpp.html">lbann_layer_softmax.hpp</a></div></div>
+<div class="ttc" id="lbann__layer__activations_8hpp_html"><div class="ttname"><a href="lbann__layer__activations_8hpp.html">lbann_layer_activations.hpp</a></div></div>
+<div class="ttc" id="lbann__input__layer__distributed__minibatch__parallel__io_8hpp_html"><div class="ttname"><a href="lbann__input__layer__distributed__minibatch__parallel__io_8hpp.html">lbann_input_layer_distributed_minibatch_parallel_io.hpp</a></div></div>
+<div class="ttc" id="lbann__callback__timer_8hpp_html"><div class="ttname"><a href="lbann__callback__timer_8hpp.html">lbann_callback_timer.hpp</a></div></div>
+<div class="ttc" id="lbann__objective__fn_8hpp_html"><div class="ttname"><a href="lbann__objective__fn_8hpp.html">lbann_objective_fn.hpp</a></div></div>
+<div class="ttc" id="lbann__layer__fully__connected_8hpp_html"><div class="ttname"><a href="lbann__layer__fully__connected_8hpp.html">lbann_layer_fully_connected.hpp</a></div></div>
+<div class="ttc" id="lbann__layer__pooling_8hpp_html"><div class="ttname"><a href="lbann__layer__pooling_8hpp.html">lbann_layer_pooling.hpp</a></div></div>
+<div class="ttc" id="lbann__callback__learning__rate_8hpp_html"><div class="ttname"><a href="lbann__callback__learning__rate_8hpp.html">lbann_callback_learning_rate.hpp</a></div></div>
+<div class="ttc" id="lbann__exception_8hpp_html"><div class="ttname"><a href="lbann__exception_8hpp.html">lbann_exception.hpp</a></div></div>
+<div class="ttc" id="lbann__target__layer__distributed__minibatch__parallel__io_8hpp_html"><div class="ttname"><a href="lbann__target__layer__distributed__minibatch__parallel__io_8hpp.html">lbann_target_layer_distributed_minibatch_parallel_io.hpp</a></div></div>
+<div class="ttc" id="lbann__callback__print_8hpp_html"><div class="ttname"><a href="lbann__callback__print_8hpp.html">lbann_callback_print.hpp</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_75b82e7e4a5feb05200b9ad7adf06257.html">home</a></li><li class="navelem"><a class="el" href="dir_bacb04149764cbf6394e26ac332ca39a.html">travis</a></li><li class="navelem"><a class="el" href="dir_658dffd2684749c363737148727fc8b1.html">build</a></li><li class="navelem"><a class="el" href="dir_b8f5376c58aa36de7d2328111a389ee6.html">LLNL</a></li><li class="navelem"><a class="el" href="dir_e82981b6f02f904952cd97ec7dcb450c.html">lbann</a></li><li class="navelem"><a class="el" href="dir_eb8329679e609af11719ceffa3ff5139.html">include</a></li><li class="navelem"><a class="el" href="dir_ae19bb3c4b74b705a5918893bf9adbdd.html">lbann</a></li><li class="navelem"><a class="el" href="lbann_8hpp.html">lbann.hpp</a></li>
-    <li class="footer">Generated on Tue Jul 18 2017 02:45:37 for LBANN by
+    <li class="footer">Generated on Fri Oct 27 2017 22:21:26 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

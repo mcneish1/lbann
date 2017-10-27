@@ -1,0 +1,8 @@
+<map id="lbann_data::Pooling::MergeFrom" name="lbann_data::Pooling::MergeFrom">
+<area shape="rect" id="node2" href="$classlbann__data_1_1Pooling.html#a7e6d9e93546463ddf893599d88c2f5f2" title="lbann_data::Pooling\l::num_dims" alt="" coords="191,5,327,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1Pooling.html#acc434df03ffdc62743a6b62ac85563ac" title="lbann_data::Pooling\l::set_num_dims" alt="" coords="191,70,327,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1Pooling.html#a127ceb2743a3322d693722df824ef97f" title="lbann_data::Pooling\l::num_channels" alt="" coords="191,135,327,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1Pooling.html#a9cd1482a0475e1587804246f3d3bb2a1" title="lbann_data::Pooling\l::set_num_channels" alt="" coords="189,201,328,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1Pooling.html#a37cf32afc26b209d5916f80515c986bf" title="lbann_data::Pooling\l::pool_mode" alt="" coords="191,266,327,307"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1Pooling.html#a5bb80cea859f5ce0e9996d0ebc486a8d" title="lbann_data::Pooling\l::activation_type" alt="" coords="191,331,327,373"/>
+</map>

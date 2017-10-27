@@ -1,9 +1,3 @@
 <map id="lbann::lbann_image_preprocessor::mean_subtraction" name="lbann::lbann_image_preprocessor::mean_subtraction">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#ae370cdc9f776ce8cce94a45cacf47425" title="lbann::lbann_image\l_preprocessor::normalize" alt="" coords="197,135,365,177"/>
-<area shape="rect" id="node3" href="$classlbann_1_1cifar10__reader.html#ae7019b4b1794062756db402c3c3d3d1e" title="lbann::cifar10_reader\l::fetch_datum" alt="" coords="439,5,582,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1imagenet__reader.html#a0409dfaba79a665626fe8d498302f69a" title="lbann::imagenet_reader\l::fetch_datum" alt="" coords="432,70,589,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1imagenet__readerSingle.html#ab53b123c4600dbc6235b23635c8f9346" title="lbann::imagenet_readerSingle\l::fetch_datum" alt="" coords="414,135,607,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1mnist__reader.html#a1e70bc8462e7a6f9e684a9bbbd5a6948" title="lbann::mnist_reader\l::fetch_datum" alt="" coords="443,201,579,242"/>
-<area shape="rect" id="node8" href="$classlbann_1_1data__reader__nci.html#a95e8f47738304245cb3d3fa2b313dde2" title="lbann::data_reader\l_nci::fetch_datum" alt="" coords="446,266,575,307"/>
-<area shape="rect" id="node5" href="$classlbann_1_1imagenet__reader.html#a878511ef3b73367f0261336033877dbe" title="to feed multiple layer stacks per sample " alt="" coords="656,70,813,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#ae370cdc9f776ce8cce94a45cacf47425" title="lbann::lbann_image\l_preprocessor::normalize" alt="" coords="197,11,365,53"/>
 </map>

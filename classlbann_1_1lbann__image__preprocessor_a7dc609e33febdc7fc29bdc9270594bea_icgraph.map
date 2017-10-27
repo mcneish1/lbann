@@ -1,12 +1,6 @@
 <map id="lbann::lbann_image_preprocessor::cv_pixels" name="lbann::lbann_image_preprocessor::cv_pixels">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#a27cb5182c4f764cbfa4edecbb78ef29d" title="lbann::lbann_image\l_preprocessor::augment" alt="" coords="221,135,384,177"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__image__preprocessor.html#a3c4f4cc5c90233696566a35a62a1708c" title="lbann::lbann_image\l_preprocessor::internal\l_save_image" alt="" coords="225,292,380,348"/>
-<area shape="rect" id="node3" href="$classlbann_1_1cifar10__reader.html#ae7019b4b1794062756db402c3c3d3d1e" title="lbann::cifar10_reader\l::fetch_datum" alt="" coords="458,5,601,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1imagenet__reader.html#a0409dfaba79a665626fe8d498302f69a" title="lbann::imagenet_reader\l::fetch_datum" alt="" coords="451,70,608,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1imagenet__readerSingle.html#ab53b123c4600dbc6235b23635c8f9346" title="lbann::imagenet_readerSingle\l::fetch_datum" alt="" coords="433,135,626,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1mnist__reader.html#a1e70bc8462e7a6f9e684a9bbbd5a6948" title="lbann::mnist_reader\l::fetch_datum" alt="" coords="461,201,597,242"/>
-<area shape="rect" id="node5" href="$classlbann_1_1imagenet__reader.html#a878511ef3b73367f0261336033877dbe" title="to feed multiple layer stacks per sample " alt="" coords="675,70,832,111"/>
-<area shape="rect" id="node9" href="$classlbann_1_1cifar10__reader.html#a31b7bb67819272106133477e6dbf0eb4" title="lbann::cifar10_reader\l::save_image" alt="" coords="458,266,601,307"/>
-<area shape="rect" id="node10" href="$classlbann_1_1imagenet__reader.html#a04c2634d249ebcad986ad855a9fb3402" title="lbann::imagenet_reader\l::save_image" alt="" coords="451,331,608,373"/>
-<area shape="rect" id="node11" href="$classlbann_1_1mnist__reader.html#aeee3c078174a4978471aca43c358aaae" title="lbann::mnist_reader\l::save_image" alt="" coords="461,397,597,438"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#a27cb5182c4f764cbfa4edecbb78ef29d" title="lbann::lbann_image\l_preprocessor::augment" alt="" coords="221,5,384,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__image__preprocessor.html#ad1d71de3b2f635eb9b2a9a0e41da6e8c" title="lbann::lbann_image\l_preprocessor::internal\l_save_image" alt="" coords="225,69,380,125"/>
+<area shape="rect" id="node4" href="$classlbann_1_1DataReader__ImageNet.html#ade29f36b9d6a5185573de3046f139913" title="lbann::DataReader_ImageNet\l::save_image" alt="" coords="432,43,627,85"/>
+<area shape="rect" id="node5" href="$classlbann_1_1DataReader__MNIST.html#aa392da58cc506eed6e848ef0dc51c325" title="lbann::DataReader_MNIST\l::save_image" alt="" coords="439,109,619,150"/>
 </map>

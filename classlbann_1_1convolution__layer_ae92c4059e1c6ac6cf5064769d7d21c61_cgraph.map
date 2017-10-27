@@ -1,9 +1,0 @@
-<map id="lbann::convolution_layer::operator=" name="lbann::convolution_layer::operator=">
-<area shape="rect" id="node2" href="$classlbann_1_1learning.html#a0a84db7ba4ca325d7f4fc5f7713142e6" title="lbann::learning::operator=" alt="" coords="182,56,351,83"/>
-<area shape="rect" id="node5" href="$classlbann_1_1convolution__layer.html#ac1591d929ac399c82e95bb7cdf406389" title="lbann::convolution\l_layer::setup_views" alt="" coords="197,107,336,149"/>
-<area shape="rect" id="node7" href="$classlbann_1_1optimizer.html#a0c1a5d5981eb740b26e1d3b082421fc7" title="Get parameters. " alt="" coords="197,173,337,214"/>
-<area shape="rect" id="node8" href="$classlbann_1_1optimizer.html#a34a0dff15ff43cf9c76d0e1a4899d4cb" title="lbann::optimizer::set\l_parameters" alt="" coords="197,238,337,279"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a00d8acde68fda2f38c4a39ef8c89234a" title="lbann::Layer::operator=" alt="" coords="401,5,557,32"/>
-<area shape="rect" id="node4" href="$classlbann_1_1optimizer.html#adf19a1d19d832ebfe70072cc202cdf39" title="lbann::optimizer::copy" alt="" coords="403,56,554,83"/>
-<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a705cdeb600e57a076a24f6be1c31f5a5" title="lbann::Layer::setup\l_views" alt="" coords="412,107,545,149"/>
-</map>

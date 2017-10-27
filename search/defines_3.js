@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['debug',['DEBUG',['../base_8hpp.html#ad72dbcf6d0153db1b8d8a58001feed83',1,'base.hpp']]],
-  ['display_5fmatrix',['DISPLAY_MATRIX',['../base_8hpp.html#abdda65d57f990d20b0c11c6f64390c57',1,'base.hpp']]]
+  ['internal_5fsuppress_5fprotobuf_5ffield_5fdeprecation',['INTERNAL_SUPPRESS_PROTOBUF_FIELD_DEPRECATION',['../lbann_8pb_8cc.html#a020e0a0bb943c4473eac722b585472ea',1,'lbann.pb.cc']]]
 ];

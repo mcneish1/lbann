@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">f660449-ci254663199</span>
+   &#160;<span id="projectnumber">7c2bc9b-ci293905082</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -89,7 +89,9 @@ $(document).ready(function(){initNavTree('namespacelbann_1_1metrics.html','');})
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">lbann::metrics Namespace Reference</div>  </div>
 </div><!--header-->
@@ -105,16 +107,236 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1top__k__categorical__accuracy.html">top_k_categorical_accuracy</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a5bb88e5c5dd16c8fce1d3c8abb00aeb1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1">metric_type</a> { <br/>
+&#160;&#160;<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a1dffebe028d20c267303dadf8ea7cc71">metric_type::binary_accuracy</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a576ea1a64c846beca09a6346ba791d6c">metric_type::categorical_accuracy</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a131ca04fc47acb9452ac40b960ef4a8b">metric_type::sparse_categorical_accuracy</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2181fc1bdf576b7cab6f7c0cfdbea4b1">metric_type::top_k_categorical_accuracy</a>, 
+<br/>
+&#160;&#160;<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1acb5e6aed7bcf8192b1e2be7ac124c307">metric_type::mean_squared_error</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a8bf4b333617f6e128047db047fba8b3d">metric_type::mean_absolute_error</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae34cce237b6571cc4e4b8c24339daf72">metric_type::mean_absolute_percentage_error</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a20f18c8bfe460877005ad8a49e0b7f20">metric_type::mean_squared_logarithmic_error</a>, 
+<br/>
+&#160;&#160;<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2e115f4171ceb952bca742eb60fc7e81">metric_type::hinge</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1abaf871b30c1bb57f8cc96367f53ef93b">metric_type::squared_hinge</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1acdcf5d53ed6b7759d1a1dbaacf99df6c">metric_type::categorical_crossentropy</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a205eea9ff70a6d6286dd5e880b172b8b">metric_type::sparse_categorical_crossentropy</a>, 
+<br/>
+&#160;&#160;<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a03a6de919a7de725650618ba698fbdfc">metric_type::binary_crossentropy</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a72fc2a3662849faf2e84a48b16afc598">metric_type::kullback_leibler_divergence</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2c7fa5b4147150b7dfdb1ff83dbfab3e">metric_type::poisson</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ad552dc3282907ae4a391e1c228225410">metric_type::cosine_proximity</a>, 
+<br/>
+&#160;&#160;<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a539becbe3ba1dcc201d64529f6e8e928">metric_type::matthews_correlation</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae2794d8f12719281eff5601251c8a680">metric_type::precision</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1aa05550b785fe9281c54161b4de3a9889">metric_type::recall</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7d85e6e0d2909dbaadc6300004550d0b">metric_type::fbeta_score</a>, 
+<br/>
+&#160;&#160;<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7f0f9953c22b34d50a59ac970c71b584">metric_type::fmeasure</a>, 
+<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1accc0377a8afbf50e7094f5c23a8af223">metric_type::INVALID</a>
+<br/>
+ }</td></tr>
+<tr class="separator:a5bb88e5c5dd16c8fce1d3c8abb00aeb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a92a377214947b621731a0c7171eefb5f"><td class="memItemLeft" align="right" valign="top">static const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelbann_1_1metrics.html#a92a377214947b621731a0c7171eefb5f">_to_string</a> (<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1">metric_type</a> m)</td></tr>
+<tr class="separator:a92a377214947b621731a0c7171eefb5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa0e50becab147be6623e1e0feb27b81"><td class="memItemLeft" align="right" valign="top">static const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelbann_1_1metrics.html#aaa0e50becab147be6623e1e0feb27b81">_disp_unit</a> (<a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1">metric_type</a> m)</td></tr>
+<tr class="separator:aaa0e50becab147be6623e1e0feb27b81"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1">lbann::metrics::metric_type</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a1dffebe028d20c267303dadf8ea7cc71"></a>binary_accuracy</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a576ea1a64c846beca09a6346ba791d6c"></a>categorical_accuracy</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a131ca04fc47acb9452ac40b960ef4a8b"></a>sparse_categorical_accuracy</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2181fc1bdf576b7cab6f7c0cfdbea4b1"></a>top_k_categorical_accuracy</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1acb5e6aed7bcf8192b1e2be7ac124c307"></a>mean_squared_error</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a8bf4b333617f6e128047db047fba8b3d"></a>mean_absolute_error</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae34cce237b6571cc4e4b8c24339daf72"></a>mean_absolute_percentage_error</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a20f18c8bfe460877005ad8a49e0b7f20"></a>mean_squared_logarithmic_error</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2e115f4171ceb952bca742eb60fc7e81"></a>hinge</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1abaf871b30c1bb57f8cc96367f53ef93b"></a>squared_hinge</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1acdcf5d53ed6b7759d1a1dbaacf99df6c"></a>categorical_crossentropy</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a205eea9ff70a6d6286dd5e880b172b8b"></a>sparse_categorical_crossentropy</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a03a6de919a7de725650618ba698fbdfc"></a>binary_crossentropy</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a72fc2a3662849faf2e84a48b16afc598"></a>kullback_leibler_divergence</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2c7fa5b4147150b7dfdb1ff83dbfab3e"></a>poisson</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1ad552dc3282907ae4a391e1c228225410"></a>cosine_proximity</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a539becbe3ba1dcc201d64529f6e8e928"></a>matthews_correlation</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae2794d8f12719281eff5601251c8a680"></a>precision</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1aa05550b785fe9281c54161b4de3a9889"></a>recall</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7d85e6e0d2909dbaadc6300004550d0b"></a>fbeta_score</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7f0f9953c22b34d50a59ac970c71b584"></a>fmeasure</em>&#160;</td><td class="fielddoc">
+</td></tr>
+<tr><td class="fieldname"><em><a class="anchor" id="a5bb88e5c5dd16c8fce1d3c8abb00aeb1accc0377a8afbf50e7094f5c23a8af223"></a>INVALID</em>&#160;</td><td class="fielddoc">
+</td></tr>
+</table>
+
+<p>Definition at line <a class="el" href="lbann__metric_8hpp_source.html#l00051">51</a> of file <a class="el" href="lbann__metric_8hpp_source.html">lbann_metric.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;                           {<a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a1dffebe028d20c267303dadf8ea7cc71">binary_accuracy</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a576ea1a64c846beca09a6346ba791d6c">categorical_accuracy</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a131ca04fc47acb9452ac40b960ef4a8b">sparse_categorical_accuracy</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2181fc1bdf576b7cab6f7c0cfdbea4b1">top_k_categorical_accuracy</a>,</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;        <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1acb5e6aed7bcf8192b1e2be7ac124c307">mean_squared_error</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a8bf4b333617f6e128047db047fba8b3d">mean_absolute_error</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae34cce237b6571cc4e4b8c24339daf72">mean_absolute_percentage_error</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a20f18c8bfe460877005ad8a49e0b7f20">mean_squared_logarithmic_error</a>,</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;        <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2e115f4171ceb952bca742eb60fc7e81">hinge</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1abaf871b30c1bb57f8cc96367f53ef93b">squared_hinge</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1acdcf5d53ed6b7759d1a1dbaacf99df6c">categorical_crossentropy</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a205eea9ff70a6d6286dd5e880b172b8b">sparse_categorical_crossentropy</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a03a6de919a7de725650618ba698fbdfc">binary_crossentropy</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a72fc2a3662849faf2e84a48b16afc598">kullback_leibler_divergence</a>,</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;        <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2c7fa5b4147150b7dfdb1ff83dbfab3e">poisson</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ad552dc3282907ae4a391e1c228225410">cosine_proximity</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a539becbe3ba1dcc201d64529f6e8e928">matthews_correlation</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae2794d8f12719281eff5601251c8a680">precision</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1aa05550b785fe9281c54161b4de3a9889">recall</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7d85e6e0d2909dbaadc6300004550d0b">fbeta_score</a>, <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7f0f9953c22b34d50a59ac970c71b584">fmeasure</a>, <a class="code" href="namespacelbann.html#a33be342c4bdc4c00e9f91ff3a2f20743accc0377a8afbf50e7094f5c23a8af223">INVALID</a>};</div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2c7fa5b4147150b7dfdb1ff83dbfab3e"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2c7fa5b4147150b7dfdb1ff83dbfab3e">lbann::metrics::metric_type::poisson</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a1dffebe028d20c267303dadf8ea7cc71"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a1dffebe028d20c267303dadf8ea7cc71">lbann::metrics::metric_type::binary_accuracy</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a576ea1a64c846beca09a6346ba791d6c"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a576ea1a64c846beca09a6346ba791d6c">lbann::metrics::metric_type::categorical_accuracy</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a539becbe3ba1dcc201d64529f6e8e928"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a539becbe3ba1dcc201d64529f6e8e928">lbann::metrics::metric_type::matthews_correlation</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a8bf4b333617f6e128047db047fba8b3d"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a8bf4b333617f6e128047db047fba8b3d">lbann::metrics::metric_type::mean_absolute_error</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1aa05550b785fe9281c54161b4de3a9889"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1aa05550b785fe9281c54161b4de3a9889">lbann::metrics::metric_type::recall</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a03a6de919a7de725650618ba698fbdfc"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a03a6de919a7de725650618ba698fbdfc">lbann::metrics::metric_type::binary_crossentropy</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7f0f9953c22b34d50a59ac970c71b584"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7f0f9953c22b34d50a59ac970c71b584">lbann::metrics::metric_type::fmeasure</a></div></div>
+<div class="ttc" id="namespacelbann_html_a33be342c4bdc4c00e9f91ff3a2f20743accc0377a8afbf50e7094f5c23a8af223"><div class="ttname"><a href="namespacelbann.html#a33be342c4bdc4c00e9f91ff3a2f20743accc0377a8afbf50e7094f5c23a8af223">lbann::layer_type::INVALID</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a20f18c8bfe460877005ad8a49e0b7f20"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a20f18c8bfe460877005ad8a49e0b7f20">lbann::metrics::metric_type::mean_squared_logarithmic_error</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a72fc2a3662849faf2e84a48b16afc598"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a72fc2a3662849faf2e84a48b16afc598">lbann::metrics::metric_type::kullback_leibler_divergence</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1acdcf5d53ed6b7759d1a1dbaacf99df6c"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1acdcf5d53ed6b7759d1a1dbaacf99df6c">lbann::metrics::metric_type::categorical_crossentropy</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7d85e6e0d2909dbaadc6300004550d0b"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a7d85e6e0d2909dbaadc6300004550d0b">lbann::metrics::metric_type::fbeta_score</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a205eea9ff70a6d6286dd5e880b172b8b"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a205eea9ff70a6d6286dd5e880b172b8b">lbann::metrics::metric_type::sparse_categorical_crossentropy</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1ad552dc3282907ae4a391e1c228225410"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ad552dc3282907ae4a391e1c228225410">lbann::metrics::metric_type::cosine_proximity</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae34cce237b6571cc4e4b8c24339daf72"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae34cce237b6571cc4e4b8c24339daf72">lbann::metrics::metric_type::mean_absolute_percentage_error</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae2794d8f12719281eff5601251c8a680"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1ae2794d8f12719281eff5601251c8a680">lbann::metrics::metric_type::precision</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2181fc1bdf576b7cab6f7c0cfdbea4b1"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2181fc1bdf576b7cab6f7c0cfdbea4b1">lbann::metrics::metric_type::top_k_categorical_accuracy</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1acb5e6aed7bcf8192b1e2be7ac124c307"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1acb5e6aed7bcf8192b1e2be7ac124c307">lbann::metrics::metric_type::mean_squared_error</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2e115f4171ceb952bca742eb60fc7e81"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a2e115f4171ceb952bca742eb60fc7e81">lbann::metrics::metric_type::hinge</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1a131ca04fc47acb9452ac40b960ef4a8b"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a131ca04fc47acb9452ac40b960ef4a8b">lbann::metrics::metric_type::sparse_categorical_accuracy</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1abaf871b30c1bb57f8cc96367f53ef93b"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1abaf871b30c1bb57f8cc96367f53ef93b">lbann::metrics::metric_type::squared_hinge</a></div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a class="anchor" id="aaa0e50becab147be6623e1e0feb27b81"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static const char* lbann::metrics::_disp_unit </td>
+          <td>(</td>
+          <td class="paramtype">metric_type&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="lbann__metric_8hpp_source.html#l00068">68</a> of file <a class="el" href="lbann__metric_8hpp_source.html">lbann_metric.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;                                                                       {</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;      <span class="keywordflow">switch</span>(m) {</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;      <span class="keywordflow">case</span> metric_type::categorical_accuracy:</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;        <span class="keywordflow">return</span> <span class="stringliteral">&quot;%&quot;</span>;</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;      <span class="keywordflow">case</span> metric_type::mean_squared_error:</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;        <span class="keywordflow">return</span> <span class="stringliteral">&quot;&quot;</span>;</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;      <span class="keywordflow">default</span>:</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;        <span class="keywordflow">throw</span> lbann_exception(<span class="stringliteral">&quot;Invalid metric type specified&quot;</span>);</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;      }</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;      <span class="keywordflow">return</span> <a class="code" href="datatype_8hpp.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>;</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    }</div>
+<div class="ttc" id="datatype_8hpp_html_a070d2ce7b6bb7e5c05602aa8c308d0c4"><div class="ttname"><a href="datatype_8hpp.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a></div><div class="ttdeci">#define NULL</div><div class="ttdef"><b>Definition:</b> <a href="datatype_8hpp_source.html#l00035">datatype.hpp:35</a></div></div>
+</div><!-- fragment -->
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespacelbann_1_1metrics_aaa0e50becab147be6623e1e0feb27b81_icgraph.png" border="0" usemap="#namespacelbann_1_1metrics_aaa0e50becab147be6623e1e0feb27b81_icgraph" alt=""/></div>
+<map name="namespacelbann_1_1metrics_aaa0e50becab147be6623e1e0feb27b81_icgraph" id="namespacelbann_1_1metrics_aaa0e50becab147be6623e1e0feb27b81_icgraph">
+<area shape="rect" id="node2" href="classlbann_1_1lbann__callback__print.html#a8476b787abe4b035570b2ccc577a5062" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="224,5,371,46"/><area shape="rect" id="node3" href="classlbann_1_1lbann__callback__print.html#a16c68b70cb9a24d8268a055d96c7bdad" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="224,70,371,111"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a92a377214947b621731a0c7171eefb5f"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static const char* lbann::metrics::_to_string </td>
+          <td>(</td>
+          <td class="paramtype">metric_type&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="lbann__metric_8hpp_source.html#l00056">56</a> of file <a class="el" href="lbann__metric_8hpp_source.html">lbann_metric.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;                                                                       {</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;      <span class="keywordflow">switch</span>(m) {</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;      <span class="keywordflow">case</span> metric_type::categorical_accuracy:</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;        <span class="keywordflow">return</span> <span class="stringliteral">&quot;categorical accuracy&quot;</span>;</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;      <span class="keywordflow">case</span> metric_type::mean_squared_error:</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;        <span class="keywordflow">return</span> <span class="stringliteral">&quot;mean squared error&quot;</span>;</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;      <span class="keywordflow">default</span>:</div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;        <span class="keywordflow">throw</span> lbann_exception(<span class="stringliteral">&quot;Invalid metric type specified&quot;</span>);</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;      }</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;      <span class="keywordflow">return</span> <a class="code" href="datatype_8hpp.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a>;</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    }</div>
+<div class="ttc" id="datatype_8hpp_html_a070d2ce7b6bb7e5c05602aa8c308d0c4"><div class="ttname"><a href="datatype_8hpp.html#a070d2ce7b6bb7e5c05602aa8c308d0c4">NULL</a></div><div class="ttdeci">#define NULL</div><div class="ttdef"><b>Definition:</b> <a href="datatype_8hpp_source.html#l00035">datatype.hpp:35</a></div></div>
+</div><!-- fragment -->
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="namespacelbann_1_1metrics.html">metrics</a></li>
-    <li class="footer">Generated on Tue Jul 18 2017 02:45:40 for LBANN by
+    <li class="footer">Generated on Fri Oct 27 2017 22:21:30 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

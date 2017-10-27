@@ -1,5 +1,5 @@
 <map id="lbann::fast_rand_int_pow2" name="lbann::fast_rand_int_pow2">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#aa58689369b5b3898b75b7b31ca574b38" title="lbann::lbann_quantizer\l::col_reconstruction" alt="" coords="229,38,381,79"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#a7e4dfca5770dfd88ae6255b0407d8f80" title="lbann::lbann_quantizer\l::adaptive_quantize" alt="" coords="445,5,597,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#a25ed3869c6bc615ae51198803ea4e33d" title="lbann::lbann_quantizer\l::adaptive_quantize_replace" alt="" coords="429,70,613,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#aa58689369b5b3898b75b7b31ca574b38" title="lbann::lbann_quantizer\l::col_reconstruction" alt="" coords="229,41,381,82"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#af1d5338e2e1682156e4f654b110be70d" title="lbann::lbann_quantizer\l::adaptive_threshold_quantize" alt="" coords="429,5,624,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#ad1fe245c411c515540f9d0ac289f2203" title="lbann::lbann_quantizer\l::adaptive_threshold_quantize\l_replace" alt="" coords="429,69,624,125"/>
 </map>

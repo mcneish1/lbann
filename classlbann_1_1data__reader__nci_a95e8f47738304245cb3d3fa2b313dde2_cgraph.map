@@ -1,9 +1,0 @@
-<map id="lbann::data_reader_nci::fetch_datum" name="lbann::data_reader_nci::fetch_datum">
-<area shape="rect" id="node2" href="$classlbann_1_1data__reader__nci.html#aceb1170d93d94d922e86b13532e1f966" title="lbann::data_reader\l_nci::map_label_2int" alt="" coords="197,41,339,82"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__image__preprocessor.html#ae370cdc9f776ce8cce94a45cacf47425" title="lbann::lbann_image\l_preprocessor::normalize" alt="" coords="184,106,352,147"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__image__preprocessor.html#a02cfd4d8c26a317540b587eb52cef0d5" title="lbann::lbann_image\l_preprocessor::z_score" alt="" coords="406,5,565,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__image__preprocessor.html#aa7a8926d0544100f7d3caa9289d94826" title="lbann::lbann_image\l_preprocessor::unit_scale" alt="" coords="400,70,571,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__image__preprocessor.html#ab499dd9f11d98998b5902d639f70fa8e" title="lbann::lbann_image\l_preprocessor::mean\l_subtraction" alt="" coords="413,135,557,191"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__image__preprocessor.html#a05c4cb5cb842df5d46eebe15c6ea9de3" title="lbann::lbann_image\l_preprocessor::unit\l_variance" alt="" coords="418,215,553,271"/>
-<area shape="rect" id="node7" href="$namespacelbann.html#a604ae9da0173b8be2bfb6877997d6d5c" title="Compute mean and standard deviation over matrix entries. " alt="" coords="619,142,775,183"/>
-</map>

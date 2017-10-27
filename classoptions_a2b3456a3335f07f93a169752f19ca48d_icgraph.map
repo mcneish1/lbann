@@ -1,5 +1,0 @@
-<map id="options::get_string" name="options::get_string">
-<area shape="rect" id="node2" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="365,5,517,32"/>
-<area shape="rect" id="node3" href="$proto__common_8hpp.html#a4f1af470c45e9ed06039685e5f72ea4a" title="prints prototext file, cmd line, etc to file " alt="" coords="390,68,493,95"/>
-<area shape="rect" id="node4" href="$classoptions.html#abbd0cd86090897becf55cb1165f76d5c" title="Returns true if the database contains the option. " alt="" coords="185,31,317,57"/>
-</map>

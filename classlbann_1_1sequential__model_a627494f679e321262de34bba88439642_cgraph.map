@@ -1,6 +1,0 @@
-<map id="lbann::sequential_model::operator=" name="lbann::sequential_model::operator=">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a05e8bd6c745ce4414be98462147ec52e" title="lbann::model::operator=" alt="" coords="223,45,382,72"/>
-<area shape="rect" id="node5" href="$classlbann_1_1io__layer.html#aa8607be3f6e0ac3ac7bb18a4dbd3b018" title="lbann::io_layer::set\l_data_readers_from_layer" alt="" coords="217,97,389,138"/>
-<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1metric.html#afed075627534afbd02fff549979f8312" title="lbann::metrics::metric\l::copy" alt="" coords="450,5,598,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1objective__functions_1_1objective__fn.html#af615ea7cd3fdf3b9b366ddaea63d9080" title="lbann::objective_functions\l::objective_fn::copy" alt="" coords="437,70,611,111"/>
-</map>

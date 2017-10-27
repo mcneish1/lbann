@@ -1,7 +1,0 @@
-<map id="lbann::Layer::get_num_neurons" name="lbann::Layer::get_num_neurons">
-<area shape="rect" id="node2" href="$classlbann_1_1reconstruction__layer.html#aa97e3fe29a20b5ba4e4c974545df6a2c" title="lbann::reconstruction\l_layer::setup_dims" alt="" coords="223,5,366,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1batch__normalization.html#ab515e25ae0e7e4e3349d82d0ad1d9b88" title="lbann::batch_normalization\l::setup_data" alt="" coords="206,70,383,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1sequential__model.html#aa8c82036ab32a3caf35811ff887bb64b" title="lbann::sequential_model\l::num_previous_neurons" alt="" coords="213,135,377,177"/>
-<area shape="rect" id="node5" href="$proto__common_8cpp.html#ad7e0b249b3481b7555c2991a4a04b41a" title="get_prev_neurons_and\l_index" alt="" coords="218,201,371,242"/>
-<area shape="rect" id="node6" href="$proto__common_8hpp.html#ae2a457f2c139d20adceaaac13cf3bb9b" title="add_layers" alt="" coords="432,208,517,235"/>
-</map>

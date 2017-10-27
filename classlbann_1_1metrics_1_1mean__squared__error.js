@@ -1,15 +1,11 @@
 var classlbann_1_1metrics_1_1mean__squared__error =
 [
-    [ "mean_squared_error", "classlbann_1_1metrics_1_1mean__squared__error.html#a449a9cc248a2987227a564402ce7c559", null ],
-    [ "mean_squared_error", "classlbann_1_1metrics_1_1mean__squared__error.html#a9384f4ff5a6bd41a39a4a81515814901", null ],
-    [ "~mean_squared_error", "classlbann_1_1metrics_1_1mean__squared__error.html#a3d5b63fe87f44e88165f98d4ac5401ff", null ],
-    [ "compute_metric", "classlbann_1_1metrics_1_1mean__squared__error.html#aa6e21862438833bfa3b67f5d63651d37", null ],
-    [ "copy", "classlbann_1_1metrics_1_1mean__squared__error.html#a6ab0073afe2f41fc13671ba1446325a7", null ],
-    [ "fp_set_std_matrix_view", "classlbann_1_1metrics_1_1mean__squared__error.html#ae658f16922ecc67b8c3fb14b0288070f", null ],
-    [ "name", "classlbann_1_1metrics_1_1mean__squared__error.html#ac92e309d9af95188ee99a9366ffec5ba", null ],
-    [ "operator=", "classlbann_1_1metrics_1_1mean__squared__error.html#a43d0db86f217de7b173da29c2a32aae8", null ],
-    [ "report_lifetime_metric", "classlbann_1_1metrics_1_1mean__squared__error.html#aeaa78f8634bad3126391d228f5844f3c", null ],
-    [ "report_metric", "classlbann_1_1metrics_1_1mean__squared__error.html#aa72260ea744cfa5a683a67e02b089215", null ],
-    [ "setup", "classlbann_1_1metrics_1_1mean__squared__error.html#ac0c8b15a833603bfbbb32d56ae5a8a47", null ],
-    [ "internal_obj_fn", "classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046", null ]
+    [ "mean_squared_error", "classlbann_1_1metrics_1_1mean__squared__error.html#a18c45f8d1b23a57f004454910f06e37a", null ],
+    [ "~mean_squared_error", "classlbann_1_1metrics_1_1mean__squared__error.html#ac83d4649d2816d02f94d90924cfa06fa", null ],
+    [ "compute_metric", "classlbann_1_1metrics_1_1mean__squared__error.html#afa59b94dac61ae853bf09929d0153c68", null ],
+    [ "fp_set_std_matrix_view", "classlbann_1_1metrics_1_1mean__squared__error.html#a0c42a4f81e75949dad72813acbc4a86d", null ],
+    [ "report_lifetime_metric", "classlbann_1_1metrics_1_1mean__squared__error.html#a99c9f8eb520625b60ebd87607f135263", null ],
+    [ "report_metric", "classlbann_1_1metrics_1_1mean__squared__error.html#af5933462864483cd96415baafa595c4e", null ],
+    [ "setup", "classlbann_1_1metrics_1_1mean__squared__error.html#a9c5f6bbad8d24092eeeccb2c9e669e5d", null ],
+    [ "internal_obj_fn", "classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1", null ]
 ];

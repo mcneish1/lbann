@@ -1,7 +1,0 @@
-<map id="lbann::model::do_model_backward_prop_end_cbs" name="lbann::model::do_model_backward_prop_end_cbs">
-<area shape="rect" id="node2" href="$classlbann_1_1deep__neural__network.html#ac05a9fd08fdaaf089bf2cf07f2e0ae9a" title="Training step on one mini&#45;batch. " alt="" coords="239,5,417,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a1a0daefb6ece648c3c5ca0571ad0fe26" title="Training step on one mini&#45;batch. " alt="" coords="227,70,429,111"/>
-<area shape="rect" id="node3" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="500,5,631,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9ccd3dbaef125a5cd993307be7d11ba4" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="478,70,653,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aa600aaacda4275602021b612e1a36e9f" title="Train neural network. " alt="" coords="701,70,864,111"/>
-</map>

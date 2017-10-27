@@ -1,7 +1,0 @@
-<map id="lbann::input_layer_partitioned_minibatch::fp_compute" name="lbann::input_layer_partitioned_minibatch::fp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1partitioned__minibatch.html#a39df479252bad49db9afc2fe86b81898" title="lbann::partitioned\l_minibatch::fetch_to\l_local_matrix" alt="" coords="225,5,365,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1io__layer.html#abbf07dd592d714852090c12855983592" title="lbann::io_layer::update\l_num_samples_processed" alt="" coords="206,85,383,126"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a4f3cc91f8495870723389be15f77184a" title="lbann::model::set_current\l_mini_batch_size" alt="" coords="210,150,379,191"/>
-<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#ad930dd2683533f2154f48d608abe2a21" title="lbann::io_layer::select\l_dataset" alt="" coords="432,85,581,126"/>
-<area shape="rect" id="node5" href="$classlbann_1_1io__layer.html#abc5bd78a2e2933155d85327e0844402d" title="lbann::io_layer::get\l_dataset" alt="" coords="630,85,762,126"/>
-</map>

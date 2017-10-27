@@ -1,4 +1,0 @@
-<map id="lbann::lbann_callback_profiler::get_color" name="lbann::lbann_callback_profiler::get_color">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__profiler.html#aa5cf1f83fd9206c08acc7a4edb013b2d" title="lbann::lbann_callback\l_profiler::on_forward\l_prop_begin" alt="" coords="204,5,351,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__profiler.html#a2cf970aae20e6518c75d3593dd41f924" title="lbann::lbann_callback\l_profiler::on_backward\l_prop_begin" alt="" coords="201,85,354,141"/>
-</map>

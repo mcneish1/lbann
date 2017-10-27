@@ -1,7 +1,4 @@
 <map id="lbann::persist::get_bytes" name="lbann::persist::get_bytes">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a731757adee63f97593e7ddbfa3c97ce1" title="lbann::model::checkpoint\lShared" alt="" coords="190,38,357,79"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a61534dec88b64ec5fc672376e50ee00c" title="lbann::model::restartShared" alt="" coords="182,104,365,131"/>
-<area shape="rect" id="node3" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="436,5,567,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9ccd3dbaef125a5cd993307be7d11ba4" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="414,70,589,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aa600aaacda4275602021b612e1a36e9f" title="Train neural network. " alt="" coords="637,70,800,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a731757adee63f97593e7ddbfa3c97ce1" title="lbann::model::checkpoint\lShared" alt="" coords="190,5,357,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a61534dec88b64ec5fc672376e50ee00c" title="lbann::model::restartShared" alt="" coords="182,71,365,97"/>
 </map>

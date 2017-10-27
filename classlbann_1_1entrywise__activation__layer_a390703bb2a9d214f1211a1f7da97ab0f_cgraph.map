@@ -1,5 +1,0 @@
-<map id="lbann::entrywise_activation_layer::fp_compute" name="lbann::entrywise_activation_layer::fp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1entrywise__activation__layer.html#aeb270dda0c2ec95dd34c35e1e8300f11" title="lbann::entrywise_activation\l_layer::fp_compute_gpu" alt="" coords="235,5,415,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1entrywise__activation__layer.html#a8d4b0376b9783414c1cb7812351122ce" title="lbann::entrywise_activation\l_layer::fp_compute_cpu" alt="" coords="235,70,415,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1entrywise__activation__layer.html#a1b77b8b459417f7f62b92fb71545beeb" title="lbann::entrywise_activation\l_layer::activation_function" alt="" coords="465,70,645,111"/>
-</map>

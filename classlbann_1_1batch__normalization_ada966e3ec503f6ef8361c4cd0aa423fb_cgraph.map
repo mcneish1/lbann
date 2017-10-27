@@ -1,4 +1,0 @@
-<map id="lbann::batch_normalization::update_compute" name="lbann::batch_normalization::update_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a7f8a6efd69263d6268ced61c8121f344" title="lbann::Layer::get_execution_mode" alt="" coords="232,5,453,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a15f0487c474d261086723422a8bad921" title="Update parameters using objective function gradient. " alt="" coords="262,56,423,83"/>
-</map>

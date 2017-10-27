@@ -1,7 +1,6 @@
 <map id="lbann::lbann_quantizer::get_adaptive_quantization_threads" name="lbann::lbann_quantizer::get_adaptive_quantization_threads">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#a22b898932caed41ccf24abcb67c00ba1" title="lbann::lbann_quantizer\l::get_adaptive_quantization\l_copy_threads" alt="" coords="235,35,416,91"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#a7e4dfca5770dfd88ae6255b0407d8f80" title="lbann::lbann_quantizer\l::adaptive_quantize" alt="" coords="480,10,632,51"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#a25ed3869c6bc615ae51198803ea4e33d" title="lbann::lbann_quantizer\l::adaptive_quantize_replace" alt="" coords="464,91,648,133"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__quantizer.html#acf8d21e8114a00fdea53d919d76dd511" title="lbann::lbann_quantizer\l::adaptive_unquantize" alt="" coords="249,166,401,207"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__quantizer.html#a1f63f7be2e227a48ebaa25056e6f85bc" title="lbann::lbann_quantizer\l::adaptive_unquantize_add" alt="" coords="237,231,414,273"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#af1d5338e2e1682156e4f654b110be70d" title="lbann::lbann_quantizer\l::adaptive_threshold_quantize" alt="" coords="256,5,451,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#aa255344d87e8aa9e889aa626ac1b4c81" title="lbann::lbann_quantizer\l::adaptive_threshold_unquantize" alt="" coords="249,70,458,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#a4551fb3f9423f8a41248628f739337e6" title="lbann::lbann_quantizer\l::adaptive_threshold_unquantize_add" alt="" coords="235,135,472,177"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__quantizer.html#ad1fe245c411c515540f9d0ac289f2203" title="lbann::lbann_quantizer\l::adaptive_threshold_quantize\l_replace" alt="" coords="256,200,451,256"/>
 </map>

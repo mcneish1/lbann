@@ -1,7 +1,0 @@
-<map id="lbann::optimizer::get_parameters" name="lbann::optimizer::get_parameters">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#aaa407129cf1df628908abbc5fdb6cbfc" title="lbann::convolution\l_layer::convolution_layer" alt="" coords="207,5,374,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#ae92c4059e1c6ac6cf5064769d7d21c61" title="lbann::convolution\l_layer::operator=" alt="" coords="227,70,354,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1fully__connected__layer.html#a377e44ab7eccb1aec467be5667bef6fe" title="lbann::fully_connected\l_layer::fully_connected_layer" alt="" coords="195,135,386,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1fully__connected__layer.html#ab06d01021d4e89cd2f4f64c330e7cc31" title="lbann::fully_connected\l_layer::operator=" alt="" coords="215,201,367,242"/>
-<area shape="rect" id="node6" href="$classlbann_1_1batch__normalization.html#a62e642fc7c064a49826e5d4a10a87e5c" title="lbann::batch_normalization\l::batch_normalization" alt="" coords="202,266,379,307"/>
-</map>

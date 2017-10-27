@@ -1,0 +1,37 @@
+<map id="lbann_data::Layer::MergeFrom" name="lbann_data::Layer::MergeFrom">
+<area shape="rect" id="node2" href="$classlbann__data_1_1Layer.html#a637617931ee87206a8483b915791bc16" title="lbann_data::Layer::\lindex" alt="" coords="213,5,347,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1Layer.html#a29a73a42cec4c089455dc5cd400a6b81" title="lbann_data::Layer::\lset_index" alt="" coords="213,70,347,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1Layer.html#ac7eedc397c8fce5d6b2ea45fac1b6e14" title="lbann_data::Layer::\lhas_input_distributed\l_minibatch_parallel_io" alt="" coords="205,135,355,191"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1Layer.html#a5db3482243a9179256a23206dd4ab7c4" title="lbann_data::Layer::\lmutable_input_distributed\l_minibatch_parallel_io" alt="" coords="195,215,365,271"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1Layer.html#a386042606229d8ccd0fe3b9ee643ce8f" title="lbann_data::Layer::\linput_distributed_minibatch\l_parallel_io" alt="" coords="190,295,370,351"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1Layer.html#ae9b1dcab7bc00a0936ba356c99ac38f2" title="lbann_data::Layer::\lhas_input_distributed\l_minibatch" alt="" coords="207,375,353,431"/>
+<area shape="rect" id="node8" href="$classlbann__data_1_1Layer.html#a205f0eab7fe7f73f58ce6bfe49ee6602" title="lbann_data::Layer::\lmutable_input_distributed\l_minibatch" alt="" coords="195,455,365,511"/>
+<area shape="rect" id="node9" href="$classlbann__data_1_1Layer.html#afb0d12e5eb5b828a7896d778846e3181" title="lbann_data::Layer::\linput_distributed_minibatch" alt="" coords="190,534,370,575"/>
+<area shape="rect" id="node10" href="$classlbann__data_1_1Layer.html#a4d4595192269ecccdcb8935992017401" title="lbann_data::Layer::\lhas_input" alt="" coords="213,599,347,641"/>
+<area shape="rect" id="node11" href="$classlbann__data_1_1Layer.html#a22fc73236e865882fa983efd5b1c1d9e" title="lbann_data::Layer::\lmutable_input" alt="" coords="213,665,347,706"/>
+<area shape="rect" id="node12" href="$classlbann__data_1_1Layer.html#aa80487dea8cd1acd7a58cfa9a269b86b" title="lbann_data::Layer::\linput" alt="" coords="213,730,347,771"/>
+<area shape="rect" id="node13" href="$classlbann__data_1_1Layer.html#a15967c7b348fea39feaf38e57895d7bb" title="lbann_data::Layer::\lhas_fully_connected" alt="" coords="209,795,351,837"/>
+<area shape="rect" id="node14" href="$classlbann__data_1_1Layer.html#a74159beddbcba87e76d22b472263e2ee" title="lbann_data::Layer::\lmutable_fully_connected" alt="" coords="197,861,363,902"/>
+<area shape="rect" id="node15" href="$classlbann__data_1_1Layer.html#a7d43bf3a6316b37626e5bb9ee17cb113" title="lbann_data::Layer::\lfully_connected" alt="" coords="213,926,347,967"/>
+<area shape="rect" id="node16" href="$classlbann__data_1_1Layer.html#a90cda0948514d95f001c6996206f496a" title="lbann_data::Layer::\lhas_pooling" alt="" coords="213,991,347,1033"/>
+<area shape="rect" id="node17" href="$classlbann__data_1_1Layer.html#a2adf60fec7a0531a4f57ef5f00af336c" title="lbann_data::Layer::\lmutable_pooling" alt="" coords="213,1057,347,1098"/>
+<area shape="rect" id="node18" href="$classlbann__data_1_1Layer.html#a66c0312011f4ecc6efe66b330232d74d" title="lbann_data::Layer::\lpooling" alt="" coords="213,1122,347,1163"/>
+<area shape="rect" id="node19" href="$classlbann__data_1_1Layer.html#a739780294933eb6168a774c0e0e2fa92" title="lbann_data::Layer::\lhas_convolution" alt="" coords="213,1187,347,1229"/>
+<area shape="rect" id="node20" href="$classlbann__data_1_1Layer.html#a02bb586fd7e7f8f4546931b9fdb1439e" title="lbann_data::Layer::\lmutable_convolution" alt="" coords="209,1253,351,1294"/>
+<area shape="rect" id="node21" href="$classlbann__data_1_1Layer.html#a2c4b10112ce7d3e261062910679145bf" title="lbann_data::Layer::\lconvolution" alt="" coords="213,1318,347,1359"/>
+<area shape="rect" id="node22" href="$classlbann__data_1_1Layer.html#ae9850daa13c21f4377bed8bd2e7a12e2" title="lbann_data::Layer::\lhas_softmax" alt="" coords="213,1383,347,1425"/>
+<area shape="rect" id="node23" href="$classlbann__data_1_1Layer.html#ad0793befd7b4b8d6054ec56cb729d54e" title="lbann_data::Layer::\lmutable_softmax" alt="" coords="213,1449,347,1490"/>
+<area shape="rect" id="node24" href="$classlbann__data_1_1Layer.html#a112d9809809173d6049288d5c03e785e" title="lbann_data::Layer::\lsoftmax" alt="" coords="213,1514,347,1555"/>
+<area shape="rect" id="node25" href="$classlbann__data_1_1Layer.html#a0283d3471ce52a38723cd6da71c08f75" title="lbann_data::Layer::\lhas_target" alt="" coords="213,1579,347,1621"/>
+<area shape="rect" id="node26" href="$classlbann__data_1_1Layer.html#a3ada9fc78bc0b0a7053833580d739476" title="lbann_data::Layer::\lmutable_target" alt="" coords="213,1645,347,1686"/>
+<area shape="rect" id="node27" href="$classlbann__data_1_1Layer.html#ab9984a4da46662998dd7a0088a53884d" title="lbann_data::Layer::\ltarget" alt="" coords="213,1710,347,1751"/>
+<area shape="rect" id="node28" href="$classlbann__data_1_1Layer.html#abb0ad301d7c81aab9174819a45009d26" title="lbann_data::Layer::\lhas_target_parallel" alt="" coords="213,1775,347,1817"/>
+<area shape="rect" id="node29" href="$classlbann__data_1_1Layer.html#a0d3f34ef3769329b3b68a40a06cb44d5" title="lbann_data::Layer::\lmutable_target_parallel" alt="" coords="202,1841,358,1882"/>
+<area shape="rect" id="node30" href="$classlbann__data_1_1Layer.html#aca189bade8e1d8a8c9167875adc3c59d" title="lbann_data::Layer::\ltarget_parallel" alt="" coords="213,1906,347,1947"/>
+<area shape="rect" id="node31" href="$classlbann__data_1_1Layer.html#a2abcdcc95db0516a55148515bd18315d" title="lbann_data::Layer::\lhas_target_distributed\l_minibatch" alt="" coords="205,1971,355,2027"/>
+<area shape="rect" id="node32" href="$classlbann__data_1_1Layer.html#a0e5ec5342b90210c4d6d2b72ca1541f3" title="lbann_data::Layer::\lmutable_target_distributed\l_minibatch" alt="" coords="193,2051,367,2107"/>
+<area shape="rect" id="node33" href="$classlbann__data_1_1Layer.html#ae6b752ac1f424272eb515025dda07ef8" title="lbann_data::Layer::\ltarget_distributed_minibatch" alt="" coords="187,2130,373,2171"/>
+<area shape="rect" id="node34" href="$classlbann__data_1_1Layer.html#a5b2afe928f931db16a272dd7123c0cef" title="lbann_data::Layer::\lhas_target_distributed\l_minibatch_parallel_io" alt="" coords="205,2195,355,2251"/>
+<area shape="rect" id="node35" href="$classlbann__data_1_1Layer.html#a4bfa65c6408f029d5c4385e5ce9b8921" title="lbann_data::Layer::\lmutable_target_distributed\l_minibatch_parallel_io" alt="" coords="193,2275,367,2331"/>
+<area shape="rect" id="node36" href="$classlbann__data_1_1Layer.html#a097d9490dc5520a44921df1ed457d309" title="lbann_data::Layer::\ltarget_distributed_minibatch\l_parallel_io" alt="" coords="187,2355,373,2411"/>
+</map>

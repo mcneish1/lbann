@@ -1,8 +1,0 @@
-<map id="/home/travis/build/LLNL/lbann/src/optimizers/optimizer_hypergradient_adam.cpp" name="/home/travis/build/LLNL/lbann/src/optimizers/optimizer_hypergradient_adam.cpp">
-<area shape="rect" id="node2" href="$optimizer__hypergradient__adam_8hpp.html" title="lbann/optimizers/optimizer\l_hypergradient_adam.hpp" alt="" coords="37,126,211,167"/>
-<area shape="rect" id="node11" href="$exception_8hpp.html" title="lbann/utils/exception.hpp" alt="" coords="227,216,393,243"/>
-<area shape="rect" id="node3" href="$optimizer_8hpp.html" title="lbann/optimizers/optimizer.hpp" alt="" coords="5,216,203,243"/>
-<area shape="rect" id="node4" href="$base_8hpp.html" title="lbann/base.hpp" alt="" coords="102,365,212,392"/>
-<area shape="rect" id="node7" href="$comm_8hpp.html" title="lbann/comm.hpp" alt="" coords="207,291,325,317"/>
-<area shape="rect" id="node6" href="$Elemental__extensions_8hpp.html" title="lbann/Elemental_extensions.hpp" alt="" coords="124,440,333,467"/>
-</map>

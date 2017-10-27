@@ -1,0 +1,7 @@
+<map id="lbann::model::get_cur_testing_step" name="lbann::model::get_cur_testing_step">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__debug.html#a6e6a59d03698ccfffb8528bb7b4087ad" title="lbann::lbann_callback\l_debug::on_batch_evaluate_begin" alt="" coords="200,5,419,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__debug.html#adbc71c2af2c97d14dda2120b8ba6191e" title="lbann::lbann_callback\l_debug::on_batch_evaluate_end" alt="" coords="205,70,414,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__debug.html#aa72952524fb4b559b334ecd7c9906cac" title="lbann::lbann_callback\l_debug::on_evaluate_forward\l_prop_begin" alt="" coords="213,135,405,191"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__debug.html#a4edca180930053d7a24708022d134149" title="lbann::lbann_callback\l_debug::on_evaluate_forward\l_prop_end" alt="" coords="213,215,405,271"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__print.html#a16c68b70cb9a24d8268a055d96c7bdad" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="236,294,383,335"/>
+</map>

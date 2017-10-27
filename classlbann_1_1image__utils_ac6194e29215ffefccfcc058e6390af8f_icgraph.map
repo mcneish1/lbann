@@ -1,5 +1,0 @@
-<map id="lbann::image_utils::loadJPG" name="lbann::image_utils::loadJPG">
-<area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader.html#a0409dfaba79a665626fe8d498302f69a" title="lbann::imagenet_reader\l::fetch_datum" alt="" coords="200,5,357,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1imagenet__readerSingle.html#ab53b123c4600dbc6235b23635c8f9346" title="lbann::imagenet_readerSingle\l::fetch_datum" alt="" coords="182,70,375,111"/>
-<area shape="rect" id="node3" href="$classlbann_1_1imagenet__reader.html#a878511ef3b73367f0261336033877dbe" title="to feed multiple layer stacks per sample " alt="" coords="424,5,581,46"/>
-</map>

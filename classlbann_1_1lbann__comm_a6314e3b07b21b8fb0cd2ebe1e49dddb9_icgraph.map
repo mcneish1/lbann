@@ -1,5 +1,0 @@
-<map id="lbann::lbann_comm::sendrecv" name="lbann::lbann_comm::sendrecv">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#a61e8479f25d209be238f1b61115f7a0d" title="lbann::lbann_comm::\lsendrecv" alt="" coords="199,5,342,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__ltfb.html#a2b6d87cf89e3d65ce5730aa8a052eee8" title="lbann::lbann_callback\l_ltfb::exchange" alt="" coords="197,70,344,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__ltfb.html#a9988fd86e8e03811d1c79b30d4771d8d" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="392,70,539,111"/>
-</map>

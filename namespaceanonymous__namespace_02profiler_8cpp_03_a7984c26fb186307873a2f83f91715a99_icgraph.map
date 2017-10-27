@@ -1,6 +1,0 @@
-<map id="anonymous_namespace{profiler::cpp}::prof_region_end" name="anonymous_namespace{profiler::cpp}::prof_region_end">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__profiler.html#a0819d719d0a045c1f4757d431d8282cb" title="lbann::lbann_callback\l_profiler::on_epoch_end" alt="" coords="216,5,376,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__profiler.html#abfe81618e0a1b21a5bb0cee43b8daca9" title="lbann::lbann_callback\l_profiler::on_batch_end" alt="" coords="217,70,375,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__profiler.html#a3d38f3164ecdb97e19c83b023bc19e41" title="lbann::lbann_callback\l_profiler::on_forward\l_prop_end" alt="" coords="223,135,369,191"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__profiler.html#a7dfe82b67b3005177d61f7d307b12f39" title="lbann::lbann_callback\l_profiler::on_backward\l_prop_end" alt="" coords="219,215,373,271"/>
-</map>

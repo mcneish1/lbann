@@ -1,0 +1,4 @@
+<map id="lbann::lbann_comm::wait" name="lbann::lbann_comm::wait">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#adea3a61b63e75b577a7e28ff45f2b20a" title="lbann::lbann_quantizer\l::intermodel_ring_reduce\l_scatter" alt="" coords="227,5,391,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#acdfe2509be7c3761f4b98dfce03b18a6" title="lbann::lbann_quantizer\l::intermodel_ring_allgather" alt="" coords="222,85,397,126"/>
+</map>

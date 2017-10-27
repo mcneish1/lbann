@@ -1,6 +1,6 @@
 <map id="/home/travis/build/LLNL/lbann/include/lbann/lbann.hpp" name="/home/travis/build/LLNL/lbann/include/lbann/lbann.hpp">
-<area shape="rect" id="node2" href="$proto__common_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/proto\l/proto_common.cpp" alt="" coords="5,213,152,269"/>
-<area shape="rect" id="node3" href="$params_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/params.hpp" alt="" coords="277,109,413,165"/>
-<area shape="rect" id="node5" href="$proto__common_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/proto/proto_common.hpp" alt="" coords="47,109,252,165"/>
-<area shape="rect" id="node4" href="$params_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/params.cpp" alt="" coords="252,221,439,262"/>
+<area shape="rect" id="node2" href="$lbann__params_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/lbann_params.hpp" alt="" coords="91,109,257,165"/>
+<area shape="rect" id="node3" href="$lbann__params_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/lbann\l_params.cpp" alt="" coords="4,213,152,269"/>
+<area shape="rect" id="node4" href="$lbann__proto_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/proto/lbann_proto.hpp" alt="" coords="177,213,364,269"/>
+<area shape="rect" id="node5" href="$lbann__proto_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/proto\l/lbann_proto.cpp" alt="" coords="197,317,344,373"/>
 </map>

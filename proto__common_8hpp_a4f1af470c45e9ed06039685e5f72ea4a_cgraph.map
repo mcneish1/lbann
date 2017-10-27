@@ -1,9 +1,0 @@
-<map id="save_session" name="save_session">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="158,21,301,62"/>
-<area shape="rect" id="node5" href="$classoptions.html#a9ecfe9c365269df68a41b961c31ae3f5" title="returns a pointer to the Options singleton " alt="" coords="184,87,275,113"/>
-<area shape="rect" id="node6" href="$classoptions.html#abbd0cd86090897becf55cb1165f76d5c" title="Returns true if the database contains the option. " alt="" coords="163,137,295,164"/>
-<area shape="rect" id="node7" href="$classoptions.html#a2b3456a3335f07f93a169752f19ca48d" title="returns the value of the option; throws exception if option doesn&#39;t exist " alt="" coords="357,153,486,180"/>
-<area shape="rect" id="node8" href="$namespacelbann.html#aefae2a9fc9d742ece0fa8ca7ed9ee137" title="lbann::exists" alt="" coords="181,239,277,265"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="350,5,493,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="350,70,493,111"/>
-</map>

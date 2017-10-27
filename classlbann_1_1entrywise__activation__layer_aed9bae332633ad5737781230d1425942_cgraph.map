@@ -1,5 +1,0 @@
-<map id="lbann::entrywise_activation_layer::bp_compute" name="lbann::entrywise_activation_layer::bp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1entrywise__activation__layer.html#a569674cb4c0f50ea76acc0733fc53ba9" title="lbann::entrywise_activation\l_layer::bp_compute_gpu" alt="" coords="235,5,415,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1entrywise__activation__layer.html#a38c2c090f26fb8ca269bef45989564a5" title="lbann::entrywise_activation\l_layer::bp_compute_cpu" alt="" coords="235,70,415,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1entrywise__activation__layer.html#a087797bb675808db710496201ca14e28" title="lbann::entrywise_activation\l_layer::activation_function\l_gradient" alt="" coords="465,63,645,119"/>
-</map>

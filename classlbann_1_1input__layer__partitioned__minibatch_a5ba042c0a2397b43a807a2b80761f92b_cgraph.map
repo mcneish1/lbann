@@ -1,6 +1,0 @@
-<map id="lbann::input_layer_partitioned_minibatch::fetch_from_data_reader" name="lbann::input_layer_partitioned_minibatch::fetch_from_data_reader">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#a32ee376093a2e4293bd9e56783cb2790" title="lbann::io_layer::select\l_data_reader" alt="" coords="221,5,371,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1generic__data__reader.html#a46b658ba4f6b746632b683568ab76f77" title="lbann::generic_data\l_reader::fetch_data" alt="" coords="229,70,363,111"/>
-<area shape="rect" id="node3" href="$classlbann_1_1io__layer.html#ad930dd2683533f2154f48d608abe2a21" title="lbann::io_layer::select\l_dataset" alt="" coords="419,5,568,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#abc5bd78a2e2933155d85327e0844402d" title="lbann::io_layer::get\l_dataset" alt="" coords="617,5,749,46"/>
-</map>

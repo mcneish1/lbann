@@ -1,7 +1,0 @@
-<map id="init_callbacks" name="init_callbacks">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="174,37,317,78"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a8f45cdca82dbc0cc1f519898474cc6ec" title="lbann::model::add_callback" alt="" coords="155,103,335,129"/>
-<area shape="rect" id="node6" href="$proto__common_8cpp.html#a025bbe3b6db33a69a8291eba1f3bb47c" title="get_comm_type" alt="" coords="188,153,303,180"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="385,5,527,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="385,70,527,111"/>
-</map>

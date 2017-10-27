@@ -1,4 +1,4 @@
 <map id="lbann::sequential_model::at_epoch_start" name="lbann::sequential_model::at_epoch_start">
 <area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#a4f0e3bbd6bc638432723179efc2998ab" title="lbann::io_layer::at\l_new_epoch" alt="" coords="216,5,341,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a2f903d63aadcb936fb2a2535f6adcdc6" title="lbann::generic_data\l_reader::at_new_epoch" alt="" coords="389,5,547,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1DataReader.html#a8dc49d9479d54e50123a6e21ffa8d023" title="lbann::DataReader::\lat_new_epoch" alt="" coords="389,5,528,46"/>
 </map>

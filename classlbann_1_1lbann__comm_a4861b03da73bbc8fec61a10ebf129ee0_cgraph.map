@@ -1,4 +1,0 @@
-<map id="lbann::lbann_comm::intermodel_reduce" name="lbann::lbann_comm::intermodel_reduce">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="198,5,341,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="198,70,341,111"/>
-</map>

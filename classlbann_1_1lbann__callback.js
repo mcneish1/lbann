@@ -1,11 +1,7 @@
 var classlbann_1_1lbann__callback =
 [
-    [ "lbann_callback", "classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584", null ],
-    [ "lbann_callback", "classlbann_1_1lbann__callback.html#a91d994616b8bf98685ac32939228f96a", null ],
-    [ "~lbann_callback", "classlbann_1_1lbann__callback.html#ac91abaec389f8d2547512c45ae587304", null ],
-    [ "copy", "classlbann_1_1lbann__callback.html#a9f545d1269a8c7af335625d049691f26", null ],
-    [ "get_batch_interval", "classlbann_1_1lbann__callback.html#aa6d75ab4527a3a966207fa91f8484077", null ],
-    [ "name", "classlbann_1_1lbann__callback.html#a7522c7a14f1d6a1ea762cc2d7248eb3a", null ],
+    [ "lbann_callback", "classlbann_1_1lbann__callback.html#af4c9e2cf1c87cbf741bb0316f6f5fab2", null ],
+    [ "name", "classlbann_1_1lbann__callback.html#a1a14e9228f1606d3492b6011d56937f5", null ],
     [ "on_backward_prop_begin", "classlbann_1_1lbann__callback.html#a2c0709a26179d115ff85b7561786ee27", null ],
     [ "on_backward_prop_begin", "classlbann_1_1lbann__callback.html#abeb1e486e259fd358332abf1e952f630", null ],
     [ "on_backward_prop_end", "classlbann_1_1lbann__callback.html#af183624e63ba65e0003fa988f53dee0c", null ],
@@ -31,9 +27,10 @@ var classlbann_1_1lbann__callback =
     [ "on_train_end", "classlbann_1_1lbann__callback.html#af28078b0ddaef45124465bef01eefedf", null ],
     [ "on_validation_begin", "classlbann_1_1lbann__callback.html#a2bde303671110519388d9962bc3e5583", null ],
     [ "on_validation_end", "classlbann_1_1lbann__callback.html#adc16e42e5064dc2dc8d84dfbfc1325eb", null ],
-    [ "operator=", "classlbann_1_1lbann__callback.html#a66b0a8c00a273669fa782ece59e8898b", null ],
-    [ "set_summarizer", "classlbann_1_1lbann__callback.html#a02d924df2f8ca851578dc76d9015e48d", null ],
+    [ "set_name", "classlbann_1_1lbann__callback.html#ae8c3014d503a9ae1b0a16f6cc0cb5b4c", null ],
+    [ "set_summarizer", "classlbann_1_1lbann__callback.html#a95a4372d04e804fd2318a464ca20aa1c", null ],
     [ "setup", "classlbann_1_1lbann__callback.html#aab5086e27d9bb0a7c7ee8ffc1bc58671", null ],
-    [ "m_batch_interval", "classlbann_1_1lbann__callback.html#a6126e310e9924398c18ccf76bb91c705", null ],
-    [ "m_summarizer", "classlbann_1_1lbann__callback.html#a277d46138184f85f161a8263b8322c76", null ]
+    [ "batch_interval", "classlbann_1_1lbann__callback.html#a3cc7709835db75ef3c27ce6ec1df34de", null ],
+    [ "m_name", "classlbann_1_1lbann__callback.html#a023264b245b2ceb384abe17eab202552", null ],
+    [ "summarizer", "classlbann_1_1lbann__callback.html#ad48ff47a64f2dff3a12d8bd282f554cb", null ]
 ];

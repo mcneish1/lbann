@@ -1,7 +1,6 @@
 <map id="lbann::sequential_model::save_to_checkpoint_shared" name="lbann::sequential_model::save_to_checkpoint_shared">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a41098c2b2b23e49cdbe8746ef7cac5c8" title="lbann::model::save\l_to_checkpoint_shared" alt="" coords="246,57,402,98"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#a7b3241dbf03d52f663c73088ae4ee78c" title="lbann::persist::get_rank" alt="" coords="451,5,610,32"/>
-<area shape="rect" id="node4" href="$classlbann_1_1persist.html#a742334568de0aca958dbaf7bbabd3cba" title="lbann::persist::write\l_uint32" alt="" coords="463,122,599,163"/>
-<area shape="rect" id="node6" href="$classlbann_1_1persist.html#aced95e3bc711276b072af97b65ef9fc1" title="lbann::persist::write\l_uint64" alt="" coords="463,57,599,98"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="659,97,787,124"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a41098c2b2b23e49cdbe8746ef7cac5c8" title="lbann::model::save\l_to_checkpoint_shared" alt="" coords="246,63,402,105"/>
+<area shape="rect" id="node3" href="$classlbann_1_1persist.html#a742334568de0aca958dbaf7bbabd3cba" title="lbann::persist::write\l_uint32" alt="" coords="451,5,587,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1persist.html#aced95e3bc711276b072af97b65ef9fc1" title="lbann::persist::write\l_uint64" alt="" coords="451,70,587,111"/>
+<area shape="rect" id="node4" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="635,45,763,72"/>
 </map>

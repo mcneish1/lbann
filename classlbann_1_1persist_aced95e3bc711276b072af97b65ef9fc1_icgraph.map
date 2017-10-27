@@ -1,12 +1,8 @@
 <map id="lbann::persist::write_uint64" name="lbann::persist::write_uint64">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#ae59b49fad28d273f72035f227fa846af" title="lbann::io_layer::saveToCheckpoint\lShared" alt="" coords="190,5,413,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a07bd58356e359987a2eb4c08e7bf9117" title="Given directory to store checkpoint files, write state to file and add to number of bytes written..." alt="" coords="190,70,413,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1DataReader.html#a520f6e7b4d7cc12c2f572ff061656ce8" title="Given directory to store checkpoint files, write state to file and add to number of bytes written..." alt="" coords="215,5,387,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#ae59b49fad28d273f72035f227fa846af" title="lbann::io_layer::saveToCheckpoint\lShared" alt="" coords="190,70,413,111"/>
 <area shape="rect" id="node5" href="$classlbann_1_1model.html#a41098c2b2b23e49cdbe8746ef7cac5c8" title="lbann::model::save\l_to_checkpoint_shared" alt="" coords="223,135,379,177"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#ac224c4cc4be919f48ef39c61d65ca03f" title="lbann::input_layer\l::saveToCheckpointShared" alt="" coords="467,5,647,46"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a731757adee63f97593e7ddbfa3c97ce1" title="lbann::model::checkpoint\lShared" alt="" coords="474,70,641,111"/>
-<area shape="rect" id="node10" href="$classlbann_1_1sequential__model.html#abd91f8469ac7a5d73df540d12936cf4a" title="lbann::sequential_model\l::save_to_checkpoint_shared" alt="" coords="461,138,653,179"/>
-<area shape="rect" id="node7" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="724,5,855,46"/>
-<area shape="rect" id="node8" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9ccd3dbaef125a5cd993307be7d11ba4" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="702,70,877,111"/>
-<area shape="rect" id="node9" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aa600aaacda4275602021b612e1a36e9f" title="Train neural network. " alt="" coords="925,70,1088,111"/>
-<area shape="rect" id="node11" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ae0ec210d3ecf58caa0d8d80e6768ba1b" title="Save model to shared checkpoint. " alt="" coords="708,135,871,191"/>
+<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#ac224c4cc4be919f48ef39c61d65ca03f" title="lbann::input_layer\l::saveToCheckpointShared" alt="" coords="467,38,647,79"/>
+<area shape="rect" id="node6" href="$classlbann_1_1sequential__model.html#abd91f8469ac7a5d73df540d12936cf4a" title="lbann::sequential_model\l::save_to_checkpoint_shared" alt="" coords="461,135,653,177"/>
+<area shape="rect" id="node7" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ae0ec210d3ecf58caa0d8d80e6768ba1b" title="Save model to shared checkpoint. " alt="" coords="701,128,864,184"/>
 </map>

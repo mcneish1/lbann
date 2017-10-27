@@ -1,6 +1,0 @@
-<map id="lbann::learning::get_weights_gradient" name="lbann::learning::get_weights_gradient">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#a1cc160d368f1dd5bd30f1504c0df8003" title="lbann::lbann_callback\l_imcomm::setup" alt="" coords="199,5,345,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#a9e409109c25b6173bc57108281e7aeb5" title="lbann::lbann_callback\l_imcomm::on_epoch_end" alt="" coords="187,70,357,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__imcomm.html#ace11211398e94728880476981f25fdc2" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="406,151,570,207"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__imcomm.html#aaf6c058e679122a3340782859d0d3622" title="lbann::lbann_callback\l_imcomm::do_summary" alt="" coords="191,187,353,229"/>
-</map>

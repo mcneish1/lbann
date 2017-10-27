@@ -1,7 +1,0 @@
-<map id="lbann::distributed_minibatch::distributed_minibatch" name="lbann::distributed_minibatch::distributed_minibatch">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#a483bf8a72d44a0e83da45f3d47bd20d4" title="lbann::lbann_comm::\lget_model_grid" alt="" coords="229,5,371,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a06a31f9df1860358ef0ef68d9e165cac" title="lbann::lbann_comm::\lam_model_master" alt="" coords="229,70,371,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1distributed__minibatch.html#af07708a133875b64073dc5808fb2935e" title="lbann::distributed\l_minibatch::compute\l_max_num_parallel_readers" alt="" coords="208,135,392,191"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="441,38,583,79"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ad61b35af881db9671f3d71ddbf1ced3f" title="lbann::lbann_comm::\lget_model_master" alt="" coords="441,103,583,145"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="lbann::reconstruction_layer::epoch_print" name="lbann::reconstruction_layer::epoch_print">
-<area shape="rect" id="node2" href="$classlbann_1_1reconstruction__layer.html#a7ff16b30c6321ac044efeadf85302ce4" title="lbann::reconstruction\l_layer::average_cost" alt="" coords="198,5,341,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="198,70,341,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="390,129,533,170"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="198,187,341,229"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a142c396a4d4a2c16ee234b813e7e45a6" title="lbann::lbann_comm::\lintermodel_gather" alt="" coords="198,253,341,294"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="390,63,533,105"/>
-</map>

@@ -1,10 +1,9 @@
 <map id="lbann::lbann_callback_debug::on_evaluate_forward_prop_end" name="lbann::lbann_callback_debug::on_evaluate_forward_prop_end">
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="245,5,469,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a6f3e07a71fbe105800930c8bfc26831d" title="lbann::model::get_cur\l_validation_step" alt="" coords="284,57,431,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#ae213ea2a37bfcc416897fad4d0aa2434" title="lbann::model::get_cur\l_testing_step" alt="" coords="284,122,431,163"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a36d6d3da1911bed5305f99e36b2577e3" title="lbann::model::get_cur\l_validation_step" alt="" coords="284,57,431,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a6ee961f393a4276f44b328a76a58c7ee" title="lbann::model::get_cur\l_testing_step" alt="" coords="284,122,431,163"/>
 <area shape="rect" id="node5" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="275,188,440,215"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="286,239,429,281"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="286,305,429,346"/>
-<area shape="rect" id="node8" href="$base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="318,371,397,397"/>
-<area shape="rect" id="node9" href="$classlbann_1_1Layer.html#aa0da8a58bab0e1de8e410c70b81a3427" title="lbann::Layer::get_index" alt="" coords="279,421,436,448"/>
+<area shape="rect" id="node8" href="$lbann__base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="318,371,397,397"/>
 </map>

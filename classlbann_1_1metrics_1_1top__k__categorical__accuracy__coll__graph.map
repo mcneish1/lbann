@@ -1,9 +1,0 @@
-<map id="lbann::metrics::top_k_categorical_accuracy&lt; T_layout &gt;" name="lbann::metrics::top_k_categorical_accuracy&lt; T_layout &gt;">
-<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="14,368,161,395"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="10,13,144,40"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="55,248,151,275"/>
-<area shape="rect" id="node6" href="$classlbann_1_1optimizer__factory.html" title="Optimizer factory base class. " alt="" coords="161,149,321,176"/>
-<area shape="rect" id="node4" href="$classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="189,248,353,275"/>
-<area shape="rect" id="node7" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="347,142,520,183"/>
-<area shape="rect" id="node8" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="347,6,520,47"/>
-</map>

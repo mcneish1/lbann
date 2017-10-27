@@ -1,8 +1,0 @@
-<map id="lbann::generic_data_reader::getm_batch_max" name="lbann::generic_data_reader::getm_batch_max">
-<area shape="rect" id="node2" href="$classlbann_1_1distributed__minibatch.html#aebdf5fc25ad9b6aff2eb9756981dd488" title="lbann::distributed\l_minibatch::calculate\l_num_iterations_per_epoch" alt="" coords="227,85,408,141"/>
-<area shape="rect" id="node5" href="$classlbann_1_1partitioned__minibatch.html#a68913118571c19c5d16379e909d59be3" title="lbann::partitioned\l_minibatch::calculate\l_num_iterations_per_epoch" alt="" coords="227,165,408,221"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer__distributed__minibatch.html#af883c005161129cada9e9fe61fe81505" title="lbann::input_layer\l_distributed_minibatch\l::setup_data" alt="" coords="456,5,608,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1target__layer__distributed__minibatch.html#ab241e32c6b99419ca8ca4f934cee8b41" title="lbann::target_layer\l_distributed_minibatch\l::setup_data" alt="" coords="456,85,608,141"/>
-<area shape="rect" id="node6" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a8ddb5abe2b6fa88233fe43170944d8a5" title="lbann::input_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="456,165,608,221"/>
-<area shape="rect" id="node7" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a765ddabb22477da9810aa9eb3c374319" title="lbann::target_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="456,245,608,301"/>
-</map>

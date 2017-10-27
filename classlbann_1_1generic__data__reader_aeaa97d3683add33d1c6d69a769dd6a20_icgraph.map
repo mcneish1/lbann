@@ -1,4 +1,0 @@
-<map id="lbann::generic_data_reader::fetch_responses" name="lbann::generic_data_reader::fetch_responses">
-<area shape="rect" id="node2" href="$classlbann_1_1target__layer__distributed__minibatch.html#ab8335a2fe62461f578c14eba35087480" title="lbann::target_layer\l_distributed_minibatch\l::fetch_from_data_reader" alt="" coords="225,5,391,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__partitioned__minibatch.html#ad399c7cdb14e7a28b57c8b1ddf8ef16b" title="lbann::target_layer\l_partitioned_minibatch\l::fetch_from_data_reader" alt="" coords="225,85,391,141"/>
-</map>

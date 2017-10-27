@@ -1,8 +1,0 @@
-<map id="lbann::lbann_callback_summary::on_train_begin" name="lbann::lbann_callback_summary::on_train_begin">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__summary.html#a72a46c51527a02516584ce1e49e5cd29" title="lbann::lbann_callback\l_summary::save_histograms" alt="" coords="230,115,421,157"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#ab6f53860dab77f0ce1d941d07360ef5a" title="lbann::model::get_layers" alt="" coords="477,5,641,32"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__summary.html#a751dd6388848304f6ec2912779590372" title="lbann::lbann_summary\l::reduce_histogram" alt="" coords="482,57,635,98"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="469,123,648,149"/>
-<area shape="rect" id="node6" href="$classlbann_1_1learning.html#a4081d1cf0da2905c4243d793aebb85df" title="lbann::learning::get\l_weights_biases" alt="" coords="493,174,625,215"/>
-<area shape="rect" id="node7" href="$classlbann_1_1learning.html#a4790878da2dfa939f844ea83073183d7" title="lbann::learning::get\l_weights_biases_gradient" alt="" coords="473,239,645,281"/>
-</map>

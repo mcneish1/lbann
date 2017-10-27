@@ -1,6 +1,0 @@
-<map id="options::get_int" name="options::get_int">
-<area shape="rect" id="node2" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="339,52,491,78"/>
-<area shape="rect" id="node3" href="$classoptions.html#a527cabe27f2105830127bc00947fe98a" title="returns the value of the option; throws exception if option doesn&#39;t exist " alt="" coords="167,26,289,53"/>
-<area shape="rect" id="node4" href="$classoptions.html#a8869f3a6af40e990fbcb333ee4c83fd2" title="Returns true if the database contains the option. " alt="" coords="171,77,285,104"/>
-<area shape="rect" id="node5" href="$classoptions.html#a475f001a1e016481d74ba8111964cf64" title="Returns true if the database contains the option. " alt="" coords="166,128,290,154"/>
-</map>

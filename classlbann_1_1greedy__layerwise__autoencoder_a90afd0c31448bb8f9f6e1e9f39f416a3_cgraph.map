@@ -1,6 +1,0 @@
-<map id="lbann::greedy_layerwise_autoencoder::remove_mirror" name="lbann::greedy_layerwise_autoencoder::remove_mirror">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="246,38,389,79"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a0d278ffa94dd6749e017c2af5c78178d" title="lbann::model::setup" alt="" coords="249,104,385,131"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="438,5,581,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="438,70,581,111"/>
-</map>

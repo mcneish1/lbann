@@ -1,0 +1,20 @@
+<map id="lbann_data::TrainingParams::MergePartialFromCodedStream" name="lbann_data::TrainingParams::MergePartialFromCodedStream">
+<area shape="rect" id="node2" href="$classlbann__data_1_1TrainingParams.html#a6060f61ce7bb8a6f003891db9fb833b5" title="lbann_data::TrainingParams\l::mutable_activation_type" alt="" coords="273,5,457,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1TrainingParams.html#a8653bab6d6449a0bd97f0c3d1ae4ae90" title="lbann_data::TrainingParams\l::activation_type" alt="" coords="273,70,457,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1TrainingParams.html#ab47928e660bc07241f72dd0b294e6719" title="lbann_data::TrainingParams\l::mutable_weight_initialization" alt="" coords="267,135,463,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1TrainingParams.html#aea238ff7e45038be34d36f51d2add8b8" title="lbann_data::TrainingParams\l::weight_initialization" alt="" coords="273,201,457,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1TrainingParams.html#ae9f16728084172a6f7517ae5edd79f42" title="lbann_data::TrainingParams\l::mutable_dataset_root_dir" alt="" coords="273,266,457,307"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1TrainingParams.html#a8fc48be6419b1f6be5636adbb0eb28e9" title="lbann_data::TrainingParams\l::dataset_root_dir" alt="" coords="273,331,457,373"/>
+<area shape="rect" id="node8" href="$classlbann__data_1_1TrainingParams.html#af2ce8f72cc3372939ce3599986bda36e" title="lbann_data::TrainingParams\l::mutable_save_image_dir" alt="" coords="273,397,457,438"/>
+<area shape="rect" id="node9" href="$classlbann__data_1_1TrainingParams.html#a587c87f7803f7c855df0e6b063e869af" title="lbann_data::TrainingParams\l::save_image_dir" alt="" coords="273,462,457,503"/>
+<area shape="rect" id="node10" href="$classlbann__data_1_1TrainingParams.html#a19ff8b3a4aaf67a905ffca922e43d88a" title="lbann_data::TrainingParams\l::mutable_parameter_dir" alt="" coords="273,527,457,569"/>
+<area shape="rect" id="node11" href="$classlbann__data_1_1TrainingParams.html#a2b8b0684758b08d25c98280ddb021d3a" title="lbann_data::TrainingParams\l::parameter_dir" alt="" coords="273,593,457,634"/>
+<area shape="rect" id="node12" href="$classlbann__data_1_1TrainingParams.html#a2e050b72cb4d35cc43d0b32557ad3db3" title="lbann_data::TrainingParams\l::mutable_train_file" alt="" coords="273,658,457,699"/>
+<area shape="rect" id="node13" href="$classlbann__data_1_1TrainingParams.html#aaa356475586b4d1f9bc1ccb06bb5225d" title="lbann_data::TrainingParams\l::train_file" alt="" coords="273,723,457,765"/>
+<area shape="rect" id="node14" href="$classlbann__data_1_1TrainingParams.html#a255e3626a80c59434b1957a8cb5c10fe" title="lbann_data::TrainingParams\l::mutable_test_file" alt="" coords="273,789,457,830"/>
+<area shape="rect" id="node15" href="$classlbann__data_1_1TrainingParams.html#ae1b536a4fce8c482e3a1d5979b9b1d5f" title="lbann_data::TrainingParams\l::test_file" alt="" coords="273,854,457,895"/>
+<area shape="rect" id="node16" href="$classlbann__data_1_1TrainingParams.html#a1528f60795372a6ba4f367a1a61a35c5" title="lbann_data::TrainingParams\l::mutable_summary_dir" alt="" coords="273,919,457,961"/>
+<area shape="rect" id="node17" href="$classlbann__data_1_1TrainingParams.html#a2f3f3012986727a1560517d56795d441" title="lbann_data::TrainingParams\l::summary_dir" alt="" coords="273,985,457,1026"/>
+<area shape="rect" id="node18" href="$classlbann__data_1_1TrainingParams.html#ae078ec17b762793d0af94b9206fdfc8b" title="lbann_data::TrainingParams\l::mutable_dump_dir" alt="" coords="273,1050,457,1091"/>
+<area shape="rect" id="node19" href="$classlbann__data_1_1TrainingParams.html#aac5e095c6bce8612c27c81c88989398e" title="lbann_data::TrainingParams\l::dump_dir" alt="" coords="273,1115,457,1157"/>
+</map>

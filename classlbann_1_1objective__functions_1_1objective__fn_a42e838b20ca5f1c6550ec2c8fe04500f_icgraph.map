@@ -1,6 +1,4 @@
 <map id="lbann::objective_functions::objective_fn::report_aggregate_avg_obj_fn" name="lbann::objective_functions::objective_fn::report_aggregate_avg_obj_fn">
-<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#ab7390ac945aad671b0765772434bd06b" title="lbann::target_layer\l::summarize_stats" alt="" coords="307,5,437,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#ab36a7f84eb5a59b3723399ffe92a446c" title="lbann::target_layer\l::epoch_print" alt="" coords="307,70,437,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__early__stopping.html#ab1e8e8674750ff71cc9bcb4ac7102eaa" title="lbann::lbann_callback\l_early_stopping::on_validation_end" alt="" coords="259,135,485,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__adaptive__learning__rate.html#a91fb5630bb686605a900337e556f58c5" title="lbann::lbann_callback\l_adaptive_learning_rate\l::schedule" alt="" coords="293,200,451,256"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__early__stopping.html#ab1e8e8674750ff71cc9bcb4ac7102eaa" title="lbann::lbann_callback\l_early_stopping::on_validation_end" alt="" coords="259,5,485,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__adaptive__learning__rate.html#a19596ebb10690c61068b18b786ab5716" title="lbann::lbann_callback\l_adaptive_learning_rate\l::schedule" alt="" coords="293,69,451,125"/>
 </map>

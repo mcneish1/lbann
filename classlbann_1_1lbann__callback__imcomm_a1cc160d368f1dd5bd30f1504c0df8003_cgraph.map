@@ -1,10 +1,8 @@
 <map id="lbann::lbann_callback_imcomm::setup" name="lbann::lbann_callback_imcomm::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#ab6f53860dab77f0ce1d941d07360ef5a" title="lbann::model::get_layers" alt="" coords="215,5,379,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa64829cba8a84928a396893172a1d116" title="lbann::model::set_effective\l_mini_batch_size" alt="" coords="208,57,387,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="213,122,382,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="215,188,380,215"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="226,239,369,281"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__imcomm.html#a7cfeece659ac4d1664a46b4e6119588b" title="lbann::lbann_callback\l_imcomm::ct_needs_reshape" alt="" coords="201,305,394,346"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__imcomm.html#a4f38fa45a0f7a8b290f6d2b701d20622" title="lbann::lbann_callback\l_imcomm::ct_does_quantization" alt="" coords="443,334,653,375"/>
-<area shape="rect" id="node9" href="$classlbann_1_1learning.html#a61bfaebb32af9ba8e284fa96137f9883" title="lbann::learning::get\l_weights_gradient" alt="" coords="231,422,363,463"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="223,5,387,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="223,56,388,83"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="234,107,377,149"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__imcomm.html#ad3a9f43ceb08af462ce9d378e70bd76d" title="lbann::lbann_callback\l_imcomm::ct_does_quantization" alt="" coords="200,173,411,214"/>
+<area shape="rect" id="node6" href="$classlbann_1_1SGD.html#af50d26b32a7ead68b4a7a22dd9851adb" title="lbann::SGD::setup" alt="" coords="240,239,371,265"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a06a31f9df1860358ef0ef68d9e165cac" title="lbann::lbann_comm::\lam_model_master" alt="" coords="459,231,602,273"/>
 </map>

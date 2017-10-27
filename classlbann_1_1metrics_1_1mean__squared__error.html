@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.6"/>
-<title>LBANN: lbann::metrics::mean_squared_error&lt; T_layout &gt; Class Template Reference</title>
+<title>LBANN: lbann::metrics::mean_squared_error Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">f660449-ci254663199</span>
+   &#160;<span id="projectnumber">7c2bc9b-ci293905082</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -93,220 +93,155 @@ $(document).ready(function(){initNavTree('classlbann_1_1metrics_1_1mean__squared
 <a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="classlbann_1_1metrics_1_1mean__squared__error-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">lbann::metrics::mean_squared_error&lt; T_layout &gt; Class Template Reference</div>  </div>
+<div class="title">lbann::metrics::mean_squared_error Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &lt;<a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>&gt;</code></p>
+<p><code>#include &lt;<a class="el" href="lbann__metric__mean__squared__error_8hpp_source.html">lbann_metric_mean_squared_error.hpp</a>&gt;</code></p>
 <div class="dynheader">
-Inheritance diagram for lbann::metrics::mean_squared_error&lt; T_layout &gt;:</div>
+Inheritance diagram for lbann::metrics::mean_squared_error:</div>
 <div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error__inherit__graph.png" border="0" usemap="#lbann_1_1metrics_1_1mean__squared__error_3_01T__layout_01_4_inherit__map" alt="Inheritance graph"/></div>
-<map name="lbann_1_1metrics_1_1mean__squared__error_3_01T__layout_01_4_inherit__map" id="lbann_1_1metrics_1_1mean__squared__error_3_01T__layout_01_4_inherit__map">
-<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="22,5,169,32"/></map>
+<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error__inherit__graph.png" border="0" usemap="#lbann_1_1metrics_1_1mean__squared__error_inherit__map" alt="Inheritance graph"/></div>
+<map name="lbann_1_1metrics_1_1mean__squared__error_inherit__map" id="lbann_1_1metrics_1_1mean__squared__error_inherit__map">
+<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="5,5,152,32"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <div class="dynheader">
-Collaboration diagram for lbann::metrics::mean_squared_error&lt; T_layout &gt;:</div>
+Collaboration diagram for lbann::metrics::mean_squared_error:</div>
 <div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error__coll__graph.png" border="0" usemap="#lbann_1_1metrics_1_1mean__squared__error_3_01T__layout_01_4_coll__map" alt="Collaboration graph"/></div>
-<map name="lbann_1_1metrics_1_1mean__squared__error_3_01T__layout_01_4_coll__map" id="lbann_1_1metrics_1_1mean__squared__error_3_01T__layout_01_4_coll__map">
-<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="1046,107,1194,133"/><area shape="rect" id="node3" href="classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="25,135,159,161"/><area shape="rect" id="node5" href="classlbann_1_1model.html" title="lbann::model" alt="" coords="693,156,789,183"/><area shape="rect" id="node6" href="classlbann_1_1optimizer__factory.html" title="Optimizer factory base class. " alt="" coords="342,196,503,223"/><area shape="rect" id="node4" href="classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="659,32,824,59"/><area shape="rect" id="node7" href="classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="336,249,509,290"/><area shape="rect" id="node9" href="classlbann_1_1objective__functions_1_1mean__squared__error.html" title="lbann::objective_functions\l::mean_squared_error" alt="" coords="848,194,1021,235"/><area shape="rect" id="node8" href="classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="5,249,179,290"/></map>
+<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error__coll__graph.png" border="0" usemap="#lbann_1_1metrics_1_1mean__squared__error_coll__map" alt="Collaboration graph"/></div>
+<map name="lbann_1_1metrics_1_1mean__squared__error_coll__map" id="lbann_1_1metrics_1_1mean__squared__error_coll__map">
+<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="987,107,1135,133"/><area shape="rect" id="node3" href="classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="355,104,490,131"/><area shape="rect" id="node5" href="classlbann_1_1model.html" title="lbann::model" alt="" coords="635,144,731,171"/><area shape="rect" id="node4" href="classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="600,31,765,57"/><area shape="rect" id="node6" href="classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="336,170,509,211"/><area shape="rect" id="node8" href="classlbann_1_1objective__functions_1_1mean__squared__error.html" title="lbann::objective_functions\l::mean_squared_error" alt="" coords="789,181,963,222"/><area shape="rect" id="node7" href="classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="5,170,179,211"/></map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a449a9cc248a2987227a564402ce7c559"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a449a9cc248a2987227a564402ce7c559">mean_squared_error</a> (<a class="el" href="classlbann_1_1lbann__comm.html">lbann_comm</a> *<a class="el" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a>)</td></tr>
-<tr class="memdesc:a449a9cc248a2987227a564402ce7c559"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a449a9cc248a2987227a564402ce7c559">More...</a><br/></td></tr>
-<tr class="separator:a449a9cc248a2987227a564402ce7c559"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9384f4ff5a6bd41a39a4a81515814901"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a9384f4ff5a6bd41a39a4a81515814901">mean_squared_error</a> (const <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a>&lt; T_layout &gt; &amp;other)=default</td></tr>
-<tr class="separator:a9384f4ff5a6bd41a39a4a81515814901"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a43d0db86f217de7b173da29c2a32aae8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a43d0db86f217de7b173da29c2a32aae8">operator=</a> (const <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a>&lt; T_layout &gt; &amp;other)=default</td></tr>
-<tr class="separator:a43d0db86f217de7b173da29c2a32aae8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d5b63fe87f44e88165f98d4ac5401ff"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a3d5b63fe87f44e88165f98d4ac5401ff">~mean_squared_error</a> ()</td></tr>
-<tr class="memdesc:a3d5b63fe87f44e88165f98d4ac5401ff"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#a3d5b63fe87f44e88165f98d4ac5401ff">More...</a><br/></td></tr>
-<tr class="separator:a3d5b63fe87f44e88165f98d4ac5401ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ab0073afe2f41fc13671ba1446325a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a6ab0073afe2f41fc13671ba1446325a7">copy</a> () const </td></tr>
-<tr class="separator:a6ab0073afe2f41fc13671ba1446325a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac0c8b15a833603bfbbb32d56ae5a8a47"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#ac0c8b15a833603bfbbb32d56ae5a8a47">setup</a> (int num_neurons, int mini_batch_size)</td></tr>
-<tr class="separator:ac0c8b15a833603bfbbb32d56ae5a8a47"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae658f16922ecc67b8c3fb14b0288070f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#ae658f16922ecc67b8c3fb14b0288070f">fp_set_std_matrix_view</a> (int cur_mini_batch_size)</td></tr>
-<tr class="separator:ae658f16922ecc67b8c3fb14b0288070f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6e21862438833bfa3b67f5d63651d37"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#aa6e21862438833bfa3b67f5d63651d37">compute_metric</a> (<a class="el" href="base_8hpp.html#afad88fb587c304caea8a36ee5a5c1df8">ElMat</a> &amp;predictions_v, <a class="el" href="base_8hpp.html#afad88fb587c304caea8a36ee5a5c1df8">ElMat</a> &amp;groundtruth_v)</td></tr>
-<tr class="separator:aa6e21862438833bfa3b67f5d63651d37"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa72260ea744cfa5a683a67e02b089215"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#aa72260ea744cfa5a683a67e02b089215">report_metric</a> (<a class="el" href="base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a> mode)</td></tr>
-<tr class="separator:aa72260ea744cfa5a683a67e02b089215"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeaa78f8634bad3126391d228f5844f3c"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#aeaa78f8634bad3126391d228f5844f3c">report_lifetime_metric</a> (<a class="el" href="base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a> mode)</td></tr>
-<tr class="separator:aeaa78f8634bad3126391d228f5844f3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac92e309d9af95188ee99a9366ffec5ba"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#ac92e309d9af95188ee99a9366ffec5ba">name</a> () const </td></tr>
-<tr class="separator:ac92e309d9af95188ee99a9366ffec5ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18c45f8d1b23a57f004454910f06e37a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a18c45f8d1b23a57f004454910f06e37a">mean_squared_error</a> (<a class="el" href="classlbann_1_1lbann__comm.html">lbann_comm</a> *<a class="el" href="classlbann_1_1metrics_1_1metric.html#abc54e22801ebf70fef5210294a833a9b">comm</a>)</td></tr>
+<tr class="memdesc:a18c45f8d1b23a57f004454910f06e37a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a18c45f8d1b23a57f004454910f06e37a">More...</a><br/></td></tr>
+<tr class="separator:a18c45f8d1b23a57f004454910f06e37a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac83d4649d2816d02f94d90924cfa06fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#ac83d4649d2816d02f94d90924cfa06fa">~mean_squared_error</a> ()</td></tr>
+<tr class="memdesc:ac83d4649d2816d02f94d90924cfa06fa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#ac83d4649d2816d02f94d90924cfa06fa">More...</a><br/></td></tr>
+<tr class="separator:ac83d4649d2816d02f94d90924cfa06fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c5f6bbad8d24092eeeccb2c9e669e5d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a9c5f6bbad8d24092eeeccb2c9e669e5d">setup</a> (int num_neurons, int mini_batch_size)</td></tr>
+<tr class="separator:a9c5f6bbad8d24092eeeccb2c9e669e5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c42a4f81e75949dad72813acbc4a86d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a0c42a4f81e75949dad72813acbc4a86d">fp_set_std_matrix_view</a> (int64_t cur_mini_batch_size)</td></tr>
+<tr class="separator:a0c42a4f81e75949dad72813acbc4a86d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa59b94dac61ae853bf09929d0153c68"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#afa59b94dac61ae853bf09929d0153c68">compute_metric</a> (<a class="el" href="lbann__base_8hpp.html#afad88fb587c304caea8a36ee5a5c1df8">ElMat</a> &amp;predictions_v, <a class="el" href="lbann__base_8hpp.html#afad88fb587c304caea8a36ee5a5c1df8">ElMat</a> &amp;groundtruth_v)</td></tr>
+<tr class="separator:afa59b94dac61ae853bf09929d0153c68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5933462864483cd96415baafa595c4e"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#af5933462864483cd96415baafa595c4e">report_metric</a> (<a class="el" href="lbann__base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a> mode)</td></tr>
+<tr class="separator:af5933462864483cd96415baafa595c4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99c9f8eb520625b60ebd87607f135263"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a99c9f8eb520625b60ebd87607f135263">report_lifetime_metric</a> (<a class="el" href="lbann__base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a> mode)</td></tr>
+<tr class="separator:a99c9f8eb520625b60ebd87607f135263"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_classlbann_1_1metrics_1_1metric"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_classlbann_1_1metrics_1_1metric')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="classlbann_1_1metrics_1_1metric.html">lbann::metrics::metric</a></td></tr>
-<tr class="memitem:a88766bc9201d38a3240d89dcb91fcab5 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a88766bc9201d38a3240d89dcb91fcab5">metric</a> (<a class="el" href="classlbann_1_1lbann__comm.html">lbann_comm</a> *<a class="el" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a>)</td></tr>
+<tr class="memitem:a88766bc9201d38a3240d89dcb91fcab5 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a88766bc9201d38a3240d89dcb91fcab5">metric</a> (<a class="el" href="classlbann_1_1lbann__comm.html">lbann_comm</a> *<a class="el" href="classlbann_1_1metrics_1_1metric.html#abc54e22801ebf70fef5210294a833a9b">comm</a>)</td></tr>
 <tr class="memdesc:a88766bc9201d38a3240d89dcb91fcab5 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor.  <a href="#a88766bc9201d38a3240d89dcb91fcab5">More...</a><br/></td></tr>
 <tr class="separator:a88766bc9201d38a3240d89dcb91fcab5 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8dfba2337ce2569793dcc93ad5aa018 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#aa8dfba2337ce2569793dcc93ad5aa018">metric</a> (const <a class="el" href="classlbann_1_1metrics_1_1metric.html">metric</a> &amp;other)=default</td></tr>
-<tr class="separator:aa8dfba2337ce2569793dcc93ad5aa018 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb0c6e846feda7d6d73cffc0d0f6f4c8 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1metric.html">metric</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#adb0c6e846feda7d6d73cffc0d0f6f4c8">operator=</a> (const <a class="el" href="classlbann_1_1metrics_1_1metric.html">metric</a> &amp;other)=default</td></tr>
-<tr class="separator:adb0c6e846feda7d6d73cffc0d0f6f4c8 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a90f80d226b74ee2489559c1e3e49dbb3 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a90f80d226b74ee2489559c1e3e49dbb3">~metric</a> ()</td></tr>
-<tr class="memdesc:a90f80d226b74ee2489559c1e3e49dbb3 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#a90f80d226b74ee2489559c1e3e49dbb3">More...</a><br/></td></tr>
-<tr class="separator:a90f80d226b74ee2489559c1e3e49dbb3 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a71a212bd821f4c80558e77f2cd38a804 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1statistics.html">statistics</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a71a212bd821f4c80558e77f2cd38a804">get_statistics</a> (<a class="el" href="base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a> mode)</td></tr>
-<tr class="separator:a71a212bd821f4c80558e77f2cd38a804 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8dda0ac0fe667b4a5f770e3b6ddc6f8 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#af8dda0ac0fe667b4a5f770e3b6ddc6f8">~metric</a> ()</td></tr>
+<tr class="memdesc:af8dda0ac0fe667b4a5f770e3b6ddc6f8 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor.  <a href="#af8dda0ac0fe667b4a5f770e3b6ddc6f8">More...</a><br/></td></tr>
+<tr class="separator:af8dda0ac0fe667b4a5f770e3b6ddc6f8 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac061126c26394ba06314e0924c214299 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1statistics.html">statistics</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#ac061126c26394ba06314e0924c214299">get_statistics</a> (<a class="el" href="lbann__base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a> mode)</td></tr>
+<tr class="separator:ac061126c26394ba06314e0924c214299 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0962c210248b591fafb5aa158f2287f6 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a0962c210248b591fafb5aa158f2287f6">record_error</a> (double error, long num_samples)</td></tr>
 <tr class="separator:a0962c210248b591fafb5aa158f2287f6 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5cc1d6d2f40977a2b19c77961564a37d inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a5cc1d6d2f40977a2b19c77961564a37d">reset_metric</a> ()</td></tr>
 <tr class="separator:a5cc1d6d2f40977a2b19c77961564a37d inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af0ef8e45a3fe74f869638911480f79e1 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#af0ef8e45a3fe74f869638911480f79e1">display_unit</a> () const </td></tr>
-<tr class="separator:af0ef8e45a3fe74f869638911480f79e1 inherit pub_methods_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
-<tr class="memitem:a71e12b83fb10c48df554605365d6c046"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1objective__functions_1_1mean__squared__error.html">lbann::objective_functions::mean_squared_error</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">internal_obj_fn</a></td></tr>
-<tr class="separator:a71e12b83fb10c48df554605365d6c046"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_attribs_classlbann_1_1metrics_1_1metric"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_classlbann_1_1metrics_1_1metric')"><img src="closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="classlbann_1_1metrics_1_1metric.html">lbann::metrics::metric</a></td></tr>
-<tr class="memitem:a33b3527a28a6e8d8eaf719d9327fe303 inherit pro_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1statistics.html">statistics</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a33b3527a28a6e8d8eaf719d9327fe303">m_training_stats</a></td></tr>
-<tr class="separator:a33b3527a28a6e8d8eaf719d9327fe303 inherit pro_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a28589fea20a9ed6bcc043e0f17ad5453 inherit pro_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1statistics.html">statistics</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a28589fea20a9ed6bcc043e0f17ad5453">m_validation_stats</a></td></tr>
-<tr class="separator:a28589fea20a9ed6bcc043e0f17ad5453 inherit pro_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52dcd2cbed8053d9a00462dd326cebd6 inherit pro_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1statistics.html">statistics</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a52dcd2cbed8053d9a00462dd326cebd6">m_testing_stats</a></td></tr>
-<tr class="separator:a52dcd2cbed8053d9a00462dd326cebd6 inherit pro_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a13a38b9b0c81442d7e5c8c378cad8117 inherit pro_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1lbann__comm.html">lbann_comm</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a13a38b9b0c81442d7e5c8c378cad8117">m_comm</a></td></tr>
-<tr class="separator:a13a38b9b0c81442d7e5c8c378cad8117 inherit pro_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a281a1f5f15d6acd1973beaf17fb129f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1objective__functions_1_1mean__squared__error.html">lbann::objective_functions::mean_squared_error</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">internal_obj_fn</a></td></tr>
+<tr class="separator:a281a1f5f15d6acd1973beaf17fb129f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pub_attribs_classlbann_1_1metrics_1_1metric"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_classlbann_1_1metrics_1_1metric')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="classlbann_1_1metrics_1_1metric.html">lbann::metrics::metric</a></td></tr>
-<tr class="memitem:ab8214235f2bfbc05d28c13beeb1f8bb4 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1model.html">model</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#ab8214235f2bfbc05d28c13beeb1f8bb4">m_neural_network_model</a></td></tr>
-<tr class="separator:ab8214235f2bfbc05d28c13beeb1f8bb4 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33b3527a28a6e8d8eaf719d9327fe303 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1statistics.html">statistics</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a33b3527a28a6e8d8eaf719d9327fe303">m_training_stats</a></td></tr>
+<tr class="separator:a33b3527a28a6e8d8eaf719d9327fe303 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28589fea20a9ed6bcc043e0f17ad5453 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1statistics.html">statistics</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a28589fea20a9ed6bcc043e0f17ad5453">m_validation_stats</a></td></tr>
+<tr class="separator:a28589fea20a9ed6bcc043e0f17ad5453 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52dcd2cbed8053d9a00462dd326cebd6 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1metrics_1_1statistics.html">statistics</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#a52dcd2cbed8053d9a00462dd326cebd6">m_testing_stats</a></td></tr>
+<tr class="separator:a52dcd2cbed8053d9a00462dd326cebd6 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc54e22801ebf70fef5210294a833a9b inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1lbann__comm.html">lbann_comm</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#abc54e22801ebf70fef5210294a833a9b">comm</a></td></tr>
+<tr class="separator:abc54e22801ebf70fef5210294a833a9b inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2923a8982c083c63d3414bd3a6670a1 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlbann_1_1model.html">model</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#aa2923a8982c083c63d3414bd3a6670a1">neural_network_model</a></td></tr>
+<tr class="separator:aa2923a8982c083c63d3414bd3a6670a1 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4118ce33325ab57e57ad21c7dde8fa0 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1">metric_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1metrics_1_1metric.html#ab4118ce33325ab57e57ad21c7dde8fa0">type</a></td></tr>
+<tr class="separator:ab4118ce33325ab57e57ad21c7dde8fa0 inherit pub_attribs_classlbann_1_1metrics_1_1metric"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><h3>template&lt;data_layout T_layout&gt;<br/>
-class lbann::metrics::mean_squared_error&lt; T_layout &gt;</h3>
-
-
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00038">38</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
+<div class="textblock">
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8hpp_source.html#l00038">38</a> of file <a class="el" href="lbann__metric__mean__squared__error_8hpp_source.html">lbann_metric_mean_squared_error.hpp</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="a449a9cc248a2987227a564402ce7c559"></a>
+<a class="anchor" id="a18c45f8d1b23a57f004454910f06e37a"></a>
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::<a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a> </td>
+          <td class="memname">lbann::metrics::mean_squared_error::mean_squared_error </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="classlbann_1_1lbann__comm.html">lbann_comm</a> *&#160;</td>
           <td class="paramname"><em>comm</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 <p>Constructor. </p>
 
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00041">41</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;                                       :</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <a class="code" href="classlbann_1_1metrics_1_1metric.html#a88766bc9201d38a3240d89dcb91fcab5">metric</a>(<a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a>),</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">internal_obj_fn</a>(<a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a>) {}</div>
-<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a71e12b83fb10c48df554605365d6c046"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="metric__mean__squared__error_8hpp_source.html#l00092">metric_mean_squared_error.hpp:92</a></div></div>
-<div class="ttc" id="file__io_8cpp_html_ab048c6f9fcbcfaa57ce68b00263dbebe"><div class="ttname"><a href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a></div><div class="ttdeci">static MPI_Comm comm</div><div class="ttdef"><b>Definition:</b> <a href="file__io_8cpp_source.html#l00044">file_io.cpp:44</a></div></div>
-<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_a88766bc9201d38a3240d89dcb91fcab5"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#a88766bc9201d38a3240d89dcb91fcab5">lbann::metrics::metric::metric</a></div><div class="ttdeci">metric(lbann_comm *comm)</div><div class="ttdoc">Constructor. </div><div class="ttdef"><b>Definition:</b> <a href="metric_8hpp_source.html#l00071">metric.hpp:71</a></div></div>
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html#l00033">33</a> of file <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html">lbann_metric_mean_squared_error.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;  : <a class="code" href="classlbann_1_1metrics_1_1metric.html#a88766bc9201d38a3240d89dcb91fcab5">metric</a>(<a class="code" href="classlbann_1_1metrics_1_1metric.html#abc54e22801ebf70fef5210294a833a9b">comm</a>),</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">internal_obj_fn</a>(<a class="code" href="classlbann_1_1metrics_1_1metric.html#abc54e22801ebf70fef5210294a833a9b">comm</a>)</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;{</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;  this-&gt;<a class="code" href="classlbann_1_1metrics_1_1metric.html#ab4118ce33325ab57e57ad21c7dde8fa0">type</a> = <a class="code" href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1acb5e6aed7bcf8192b1e2be7ac124c307">metric_type::mean_squared_error</a>;</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;}</div>
+<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_ab4118ce33325ab57e57ad21c7dde8fa0"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#ab4118ce33325ab57e57ad21c7dde8fa0">lbann::metrics::metric::type</a></div><div class="ttdeci">metric_type type</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric_8hpp_source.html#l00144">lbann_metric.hpp:144</a></div></div>
+<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_abc54e22801ebf70fef5210294a833a9b"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#abc54e22801ebf70fef5210294a833a9b">lbann::metrics::metric::comm</a></div><div class="ttdeci">lbann_comm * comm</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric_8hpp_source.html#l00142">lbann_metric.hpp:142</a></div></div>
+<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_a88766bc9201d38a3240d89dcb91fcab5"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#a88766bc9201d38a3240d89dcb91fcab5">lbann::metrics::metric::metric</a></div><div class="ttdeci">metric(lbann_comm *comm)</div><div class="ttdoc">Constructor. </div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric_8hpp_source.html#l00115">lbann_metric.hpp:115</a></div></div>
+<div class="ttc" id="namespacelbann_1_1metrics_html_a5bb88e5c5dd16c8fce1d3c8abb00aeb1acb5e6aed7bcf8192b1e2be7ac124c307"><div class="ttname"><a href="namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1acb5e6aed7bcf8192b1e2be7ac124c307">lbann::metrics::metric_type::mean_squared_error</a></div></div>
+<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a281a1f5f15d6acd1973beaf17fb129f1"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric__mean__squared__error_8hpp_source.html#l00055">lbann_metric_mean_squared_error.hpp:55</a></div></div>
 </div><!-- fragment -->
-<p><div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error_a449a9cc248a2987227a564402ce7c559_icgraph.png" border="0" usemap="#classlbann_1_1metrics_1_1mean__squared__error_a449a9cc248a2987227a564402ce7c559_icgraph" alt=""/></div>
-<map name="classlbann_1_1metrics_1_1mean__squared__error_a449a9cc248a2987227a564402ce7c559_icgraph" id="classlbann_1_1metrics_1_1mean__squared__error_a449a9cc248a2987227a564402ce7c559_icgraph">
-<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1mean__squared__error.html#a6ab0073afe2f41fc13671ba1446325a7" title="lbann::metrics::mean\l_squared_error::copy" alt="" coords="203,11,347,53"/></map>
-</div>
-</p>
-
 </div>
 </div>
-<a class="anchor" id="a9384f4ff5a6bd41a39a4a81515814901"></a>
+<a class="anchor" id="ac83d4649d2816d02f94d90924cfa06fa"></a>
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::<a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a> </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a>&lt; T_layout &gt; &amp;&#160;</td>
-          <td class="paramname"><em>other</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a3d5b63fe87f44e88165f98d4ac5401ff"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::~<a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a> </td>
+          <td class="memname">lbann::metrics::mean_squared_error::~mean_squared_error </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
 <p>Destructor. </p>
 
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00049">49</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;{}</div>
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html#l00040">40</a> of file <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html">lbann_metric_mean_squared_error.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;                                                    {</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;  <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">internal_obj_fn</a>.<a class="code" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a01008f4a9fb66335fc6773b5410bc879">~mean_squared_error</a>();</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;}</div>
+<div class="ttc" id="classlbann_1_1objective__functions_1_1mean__squared__error_html_a01008f4a9fb66335fc6773b5410bc879"><div class="ttname"><a href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a01008f4a9fb66335fc6773b5410bc879">lbann::objective_functions::mean_squared_error::~mean_squared_error</a></div><div class="ttdeci">~mean_squared_error()</div><div class="ttdef"><b>Definition:</b> <a href="lbann__objective__fn__mean__squared__error_8cpp_source.html#l00042">lbann_objective_fn_mean_squared_error.cpp:42</a></div></div>
+<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a281a1f5f15d6acd1973beaf17fb129f1"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric__mean__squared__error_8hpp_source.html#l00055">lbann_metric_mean_squared_error.hpp:55</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="aa6e21862438833bfa3b67f5d63651d37"></a>
+<a class="anchor" id="afa59b94dac61ae853bf09929d0153c68"></a>
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">double <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::compute_metric </td>
+          <td class="memname">double lbann::metrics::mean_squared_error::compute_metric </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="base_8hpp.html#afad88fb587c304caea8a36ee5a5c1df8">ElMat</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="lbann__base_8hpp.html#afad88fb587c304caea8a36ee5a5c1df8">ElMat</a> &amp;&#160;</td>
           <td class="paramname"><em>predictions_v</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="base_8hpp.html#afad88fb587c304caea8a36ee5a5c1df8">ElMat</a> &amp;&#160;</td>
+          <td class="paramtype"><a class="el" href="lbann__base_8hpp.html#afad88fb587c304caea8a36ee5a5c1df8">ElMat</a> &amp;&#160;</td>
           <td class="paramname"><em>groundtruth_v</em>&#160;</td>
         </tr>
         <tr>
@@ -317,286 +252,146 @@ template&lt;data_layout T_layout&gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1metrics_1_1metric.html#affe1a598c434133ea19509beb20383bc">lbann::metrics::metric</a>.</p>
 
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00062">62</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;                                                                    {</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;    <span class="keywordtype">double</span> num_errors =</div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;      <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">internal_obj_fn</a>.<a class="code" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a6e0da017bc30fdbb9c9ba4c298ff94e3">compute_mean_squared_error</a>(predictions_v, groundtruth_v);</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    <span class="keywordflow">return</span> num_errors;</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a71e12b83fb10c48df554605365d6c046"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="metric__mean__squared__error_8hpp_source.html#l00092">metric_mean_squared_error.hpp:92</a></div></div>
-<div class="ttc" id="classlbann_1_1objective__functions_1_1mean__squared__error_html_a6e0da017bc30fdbb9c9ba4c298ff94e3"><div class="ttname"><a href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a6e0da017bc30fdbb9c9ba4c298ff94e3">lbann::objective_functions::mean_squared_error::compute_mean_squared_error</a></div><div class="ttdeci">double compute_mean_squared_error(const AbsDistMat &amp;predictions_v, const AbsDistMat &amp;groundtruth_v)</div><div class="ttdoc">Compute mean squared error. </div><div class="ttdef"><b>Definition:</b> <a href="objective__fn__mean__squared__error_8cpp_source.html#l00053">objective_fn_mean_squared_error.cpp:53</a></div></div>
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html#l00055">55</a> of file <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html">lbann_metric_mean_squared_error.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;                                                                                                {</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;  <span class="keywordtype">double</span> num_errors = <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">internal_obj_fn</a>.<a class="code" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a2657b6a2f44a939042705e3bc93be33e">compute_mean_squared_error</a>(predictions_v, groundtruth_v);</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;  <span class="keywordflow">return</span> num_errors;</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;}</div>
+<div class="ttc" id="classlbann_1_1objective__functions_1_1mean__squared__error_html_a2657b6a2f44a939042705e3bc93be33e"><div class="ttname"><a href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a2657b6a2f44a939042705e3bc93be33e">lbann::objective_functions::mean_squared_error::compute_mean_squared_error</a></div><div class="ttdeci">double compute_mean_squared_error(ElMat &amp;predictions_v, ElMat &amp;groundtruth_v)</div><div class="ttdoc">Compute mean squared error. </div><div class="ttdef"><b>Definition:</b> <a href="lbann__objective__fn__mean__squared__error_8cpp_source.html#l00059">lbann_objective_fn_mean_squared_error.cpp:59</a></div></div>
+<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a281a1f5f15d6acd1973beaf17fb129f1"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric__mean__squared__error_8hpp_source.html#l00055">lbann_metric_mean_squared_error.hpp:55</a></div></div>
 </div><!-- fragment -->
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error_aa6e21862438833bfa3b67f5d63651d37_cgraph.png" border="0" usemap="#classlbann_1_1metrics_1_1mean__squared__error_aa6e21862438833bfa3b67f5d63651d37_cgraph" alt=""/></div>
-<map name="classlbann_1_1metrics_1_1mean__squared__error_aa6e21862438833bfa3b67f5d63651d37_cgraph" id="classlbann_1_1metrics_1_1mean__squared__error_aa6e21862438833bfa3b67f5d63651d37_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a6e0da017bc30fdbb9c9ba4c298ff94e3" title="Compute mean squared error. " alt="" coords="222,4,429,60"/></map>
-</div>
-</p>
-
 </div>
 </div>
-<a class="anchor" id="a6ab0073afe2f41fc13671ba1446325a7"></a>
+<a class="anchor" id="a0c42a4f81e75949dad72813acbc4a86d"></a>
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a>* <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::copy </td>
+          <td class="memname">void lbann::metrics::mean_squared_error::fp_set_std_matrix_view </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Implements <a class="el" href="classlbann_1_1metrics_1_1metric.html#afed075627534afbd02fff549979f8312">lbann::metrics::metric</a>.</p>
-
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00051">51</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;{ <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a449a9cc248a2987227a564402ce7c559">mean_squared_error</a>(*<span class="keyword">this</span>); }</div>
-<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a449a9cc248a2987227a564402ce7c559"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a449a9cc248a2987227a564402ce7c559">lbann::metrics::mean_squared_error::mean_squared_error</a></div><div class="ttdeci">mean_squared_error(lbann_comm *comm)</div><div class="ttdoc">Constructor. </div><div class="ttdef"><b>Definition:</b> <a href="metric__mean__squared__error_8hpp_source.html#l00041">metric_mean_squared_error.hpp:41</a></div></div>
-</div><!-- fragment -->
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error_a6ab0073afe2f41fc13671ba1446325a7_cgraph.png" border="0" usemap="#classlbann_1_1metrics_1_1mean__squared__error_a6ab0073afe2f41fc13671ba1446325a7_cgraph" alt=""/></div>
-<map name="classlbann_1_1metrics_1_1mean__squared__error_a6ab0073afe2f41fc13671ba1446325a7_cgraph" id="classlbann_1_1metrics_1_1mean__squared__error_a6ab0073afe2f41fc13671ba1446325a7_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1mean__squared__error.html#a449a9cc248a2987227a564402ce7c559" title="Constructor. " alt="" coords="198,4,346,60"/></map>
-</div>
-</p>
-
-</div>
-</div>
-<a class="anchor" id="ae658f16922ecc67b8c3fb14b0288070f"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::fp_set_std_matrix_view </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype">int64_t&#160;</td>
           <td class="paramname"><em>cur_mini_batch_size</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="classlbann_1_1metrics_1_1metric.html#af5ba86dc073e7e41863c9a6b03274613">lbann::metrics::metric</a>.</p>
+<p>Reimplemented from <a class="el" href="classlbann_1_1metrics_1_1metric.html#a073c6c2c2861c1bd53d2a0d32e3251fe">lbann::metrics::metric</a>.</p>
 
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00058">58</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;                                                       {</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <span class="comment">// Set the view based on the size of the current mini-batch</span></div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">internal_obj_fn</a>.<a class="code" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a394d23dbb9f1a84a9313c317de31244a">fp_set_std_matrix_view</a>(cur_mini_batch_size);</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1objective__functions_1_1mean__squared__error_html_a394d23dbb9f1a84a9313c317de31244a"><div class="ttname"><a href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a394d23dbb9f1a84a9313c317de31244a">lbann::objective_functions::mean_squared_error::fp_set_std_matrix_view</a></div><div class="ttdeci">void fp_set_std_matrix_view(int cur_mini_batch_size)</div><div class="ttdef"><b>Definition:</b> <a href="objective__fn__mean__squared__error_8cpp_source.html#l00045">objective_fn_mean_squared_error.cpp:45</a></div></div>
-<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a71e12b83fb10c48df554605365d6c046"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="metric__mean__squared__error_8hpp_source.html#l00092">metric_mean_squared_error.hpp:92</a></div></div>
-</div><!-- fragment -->
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error_ae658f16922ecc67b8c3fb14b0288070f_cgraph.png" border="0" usemap="#classlbann_1_1metrics_1_1mean__squared__error_ae658f16922ecc67b8c3fb14b0288070f_cgraph" alt=""/></div>
-<map name="classlbann_1_1metrics_1_1mean__squared__error_ae658f16922ecc67b8c3fb14b0288070f_cgraph" id="classlbann_1_1metrics_1_1mean__squared__error_ae658f16922ecc67b8c3fb14b0288070f_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a394d23dbb9f1a84a9313c317de31244a" title="lbann::objective_functions\l::mean_squared_error::fp\l_set_std_matrix_view" alt="" coords="205,4,379,60"/></map>
-</div>
-</p>
-
-</div>
-</div>
-<a class="anchor" id="ac92e309d9af95188ee99a9366ffec5ba"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::name </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<p>Return a string name for this metric. </p>
-
-<p>Implements <a class="el" href="classlbann_1_1metrics_1_1metric.html#a3217bc47b69aa5285d9f7862f3aa05de">lbann::metrics::metric</a>.</p>
-
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00089">89</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;mean squared error&quot;</span>; }</div>
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html#l00050">50</a> of file <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html">lbann_metric_mean_squared_error.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                                                                                       {</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;  <span class="comment">// Set the view based on the size of the current mini-batch</span></div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;  <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">internal_obj_fn</a>.<a class="code" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a862570ae6234c97b3f3bea66b1929890">fp_set_std_matrix_view</a>(cur_mini_batch_size);</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;}</div>
+<div class="ttc" id="classlbann_1_1objective__functions_1_1mean__squared__error_html_a862570ae6234c97b3f3bea66b1929890"><div class="ttname"><a href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a862570ae6234c97b3f3bea66b1929890">lbann::objective_functions::mean_squared_error::fp_set_std_matrix_view</a></div><div class="ttdeci">void fp_set_std_matrix_view(int64_t cur_mini_batch_size)</div><div class="ttdef"><b>Definition:</b> <a href="lbann__objective__fn__mean__squared__error_8cpp_source.html#l00051">lbann_objective_fn_mean_squared_error.cpp:51</a></div></div>
+<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a281a1f5f15d6acd1973beaf17fb129f1"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric__mean__squared__error_8hpp_source.html#l00055">lbann_metric_mean_squared_error.hpp:55</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a class="anchor" id="a43d0db86f217de7b173da29c2a32aae8"></a>
+<a class="anchor" id="a99c9f8eb520625b60ebd87607f135263"></a>
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a>&amp; <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::operator= </td>
+          <td class="memname">double lbann::metrics::mean_squared_error::report_lifetime_metric </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a>&lt; T_layout &gt; &amp;&#160;</td>
-          <td class="paramname"><em>other</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="aeaa78f8634bad3126391d228f5844f3c"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::report_lifetime_metric </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="lbann__base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a>&#160;</td>
           <td class="paramname"><em>mode</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1metrics_1_1metric.html#a82698045b1aabad5cce1a0c89b56cee2">lbann::metrics::metric</a>.</p>
 
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00078">78</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;                                                     {</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    statistics *stats = <a class="code" href="classlbann_1_1metrics_1_1metric.html#a71a212bd821f4c80558e77f2cd38a804">get_statistics</a>(mode);</div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;    <span class="keywordtype">double</span> total_error = stats-&gt;m_total_error;</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    <span class="keywordtype">long</span> total_num_samples = stats-&gt;m_total_num_samples;</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;</div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;    <span class="keywordtype">double</span> mse = total_error / total_num_samples;</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;    <span class="keywordtype">string</span> score = std::to_string(mse);</div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    <span class="keywordflow">return</span> mse;</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_a71a212bd821f4c80558e77f2cd38a804"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#a71a212bd821f4c80558e77f2cd38a804">lbann::metrics::metric::get_statistics</a></div><div class="ttdeci">statistics * get_statistics(execution_mode mode)</div><div class="ttdef"><b>Definition:</b> <a href="metric_8cpp_source.html#l00034">metric.cpp:34</a></div></div>
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html#l00072">72</a> of file <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html">lbann_metric_mean_squared_error.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;                                                                                 {</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  statistics *stats = <a class="code" href="classlbann_1_1metrics_1_1metric.html#ac061126c26394ba06314e0924c214299">get_statistics</a>(mode);</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  <span class="keywordtype">double</span> total_error = stats-&gt;m_total_error;</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;  <span class="keywordtype">long</span> total_num_samples = stats-&gt;m_total_num_samples;</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;  <span class="keywordtype">double</span> mse = total_error / total_num_samples;</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;  <span class="keywordtype">string</span> score = std::to_string(mse);</div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;  <span class="comment">// std::cout &lt;&lt; _to_string(type) &lt;&lt; &quot; reporting a metric with &quot; &lt;&lt; total_error &lt;&lt; &quot; errors and &quot; &lt;&lt; total_num_samples &lt;&lt; &quot; samples, a mse of &quot; &lt;&lt; mse &lt;&lt; &quot; and a score of &quot; &lt;&lt; score &lt;&lt; endl;</span></div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;  <span class="keywordflow">return</span> mse;</div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;}</div>
+<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_ac061126c26394ba06314e0924c214299"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#ac061126c26394ba06314e0924c214299">lbann::metrics::metric::get_statistics</a></div><div class="ttdeci">statistics * get_statistics(execution_mode mode)</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric_8cpp_source.html#l00032">lbann_metric.cpp:32</a></div></div>
 </div><!-- fragment -->
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error_aeaa78f8634bad3126391d228f5844f3c_cgraph.png" border="0" usemap="#classlbann_1_1metrics_1_1mean__squared__error_aeaa78f8634bad3126391d228f5844f3c_cgraph" alt=""/></div>
-<map name="classlbann_1_1metrics_1_1mean__squared__error_aeaa78f8634bad3126391d228f5844f3c_cgraph" id="classlbann_1_1metrics_1_1mean__squared__error_aeaa78f8634bad3126391d228f5844f3c_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1metric.html#a71a212bd821f4c80558e77f2cd38a804" title="lbann::metrics::metric\l::get_statistics" alt="" coords="203,11,351,53"/></map>
-</div>
-</p>
-
 </div>
 </div>
-<a class="anchor" id="aa72260ea744cfa5a683a67e02b089215"></a>
+<a class="anchor" id="af5933462864483cd96415baafa595c4e"></a>
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">double <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::report_metric </td>
+          <td class="memname">double lbann::metrics::mean_squared_error::report_metric </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="lbann__base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8">execution_mode</a>&#160;</td>
           <td class="paramname"><em>mode</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1metrics_1_1metric.html#a98acba8f5dbcce2d3b639fbcc97a56fe">lbann::metrics::metric</a>.</p>
 
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00068">68</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;                                            {</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;    statistics *stats = <a class="code" href="classlbann_1_1metrics_1_1metric.html#a71a212bd821f4c80558e77f2cd38a804">get_statistics</a>(mode);</div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    <span class="keywordtype">double</span> error_per_epoch = stats-&gt;m_error_per_epoch;</div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;    <span class="keywordtype">long</span> samples_per_epoch = stats-&gt;m_samples_per_epoch;</div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;    <span class="keywordtype">double</span> mse = error_per_epoch / samples_per_epoch;</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    <span class="keywordtype">string</span> score = std::to_string(mse);</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <span class="keywordflow">return</span> mse;</div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_a71a212bd821f4c80558e77f2cd38a804"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#a71a212bd821f4c80558e77f2cd38a804">lbann::metrics::metric::get_statistics</a></div><div class="ttdeci">statistics * get_statistics(execution_mode mode)</div><div class="ttdef"><b>Definition:</b> <a href="metric_8cpp_source.html#l00034">metric.cpp:34</a></div></div>
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html#l00060">60</a> of file <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html">lbann_metric_mean_squared_error.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;                                                                        {</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;  statistics *stats = <a class="code" href="classlbann_1_1metrics_1_1metric.html#ac061126c26394ba06314e0924c214299">get_statistics</a>(mode);</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;  <span class="keywordtype">double</span> error_per_epoch = stats-&gt;m_error_per_epoch;</div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;  <span class="keywordtype">long</span> samples_per_epoch = stats-&gt;m_samples_per_epoch;</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;  <span class="keywordtype">double</span> mse = error_per_epoch / samples_per_epoch;</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;  <span class="keywordtype">string</span> score = std::to_string(mse);</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;  <span class="comment">// std::cout &lt;&lt; _to_string(type) &lt;&lt; &quot; reporting a metric with &quot; &lt;&lt; error_per_epoch &lt;&lt; &quot; errors and &quot; &lt;&lt; samples_per_epoch &lt;&lt; &quot; samples, a mse of &quot; &lt;&lt; mse &lt;&lt; &quot; and a score of &quot; &lt;&lt; score &lt;&lt; endl;</span></div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;  <span class="keywordflow">return</span> mse;</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;}</div>
+<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_ac061126c26394ba06314e0924c214299"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#ac061126c26394ba06314e0924c214299">lbann::metrics::metric::get_statistics</a></div><div class="ttdeci">statistics * get_statistics(execution_mode mode)</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric_8cpp_source.html#l00032">lbann_metric.cpp:32</a></div></div>
 </div><!-- fragment -->
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error_aa72260ea744cfa5a683a67e02b089215_cgraph.png" border="0" usemap="#classlbann_1_1metrics_1_1mean__squared__error_aa72260ea744cfa5a683a67e02b089215_cgraph" alt=""/></div>
-<map name="classlbann_1_1metrics_1_1mean__squared__error_aa72260ea744cfa5a683a67e02b089215_cgraph" id="classlbann_1_1metrics_1_1mean__squared__error_aa72260ea744cfa5a683a67e02b089215_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1metric.html#a71a212bd821f4c80558e77f2cd38a804" title="lbann::metrics::metric\l::get_statistics" alt="" coords="203,11,351,53"/></map>
-</div>
-</p>
-
 </div>
 </div>
-<a class="anchor" id="ac0c8b15a833603bfbbb32d56ae5a8a47"></a>
+<a class="anchor" id="a9c5f6bbad8d24092eeeccb2c9e669e5d"></a>
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::setup </td>
+          <td class="memname">void lbann::metrics::mean_squared_error::setup </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>num_neurons</em>, </td>
@@ -615,46 +410,44 @@ template&lt;data_layout T_layout&gt; </div>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1metrics_1_1metric.html#ad87909c3c9793a05c88420ab8473dbd2">lbann::metrics::metric</a>.</p>
 
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00053">53</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;                                                   {</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    <a class="code" href="classlbann_1_1metrics_1_1metric.html#ad87909c3c9793a05c88420ab8473dbd2">metric::setup</a>(num_neurons, mini_batch_size);</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="comment">// Setup the internal objective function</span></div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">internal_obj_fn</a>.<a class="code" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a046d61530dd2b63e3e6810770e9d669a">setup</a>(num_neurons, mini_batch_size);</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a71e12b83fb10c48df554605365d6c046"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a71e12b83fb10c48df554605365d6c046">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="metric__mean__squared__error_8hpp_source.html#l00092">metric_mean_squared_error.hpp:92</a></div></div>
-<div class="ttc" id="classlbann_1_1objective__functions_1_1mean__squared__error_html_a046d61530dd2b63e3e6810770e9d669a"><div class="ttname"><a href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a046d61530dd2b63e3e6810770e9d669a">lbann::objective_functions::mean_squared_error::setup</a></div><div class="ttdeci">void setup(int num_neurons, int mini_batch_size)</div><div class="ttdef"><b>Definition:</b> <a href="objective__fn__mean__squared__error_8cpp_source.html#l00041">objective_fn_mean_squared_error.cpp:41</a></div></div>
-<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_ad87909c3c9793a05c88420ab8473dbd2"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#ad87909c3c9793a05c88420ab8473dbd2">lbann::metrics::metric::setup</a></div><div class="ttdeci">virtual void setup(int num_neurons, int mini_batch_size)</div><div class="ttdef"><b>Definition:</b> <a href="metric_8hpp_source.html#l00084">metric.hpp:84</a></div></div>
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html#l00044">44</a> of file <a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html">lbann_metric_mean_squared_error.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;                                                                               {</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;  <a class="code" href="classlbann_1_1metrics_1_1metric.html#ad87909c3c9793a05c88420ab8473dbd2">metric::setup</a>(num_neurons, mini_batch_size);</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;  <span class="comment">// Setup the internal objective function</span></div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;  <a class="code" href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">internal_obj_fn</a>.<a class="code" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a046d61530dd2b63e3e6810770e9d669a">setup</a>(num_neurons, mini_batch_size);</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;}</div>
+<div class="ttc" id="classlbann_1_1objective__functions_1_1mean__squared__error_html_a046d61530dd2b63e3e6810770e9d669a"><div class="ttname"><a href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a046d61530dd2b63e3e6810770e9d669a">lbann::objective_functions::mean_squared_error::setup</a></div><div class="ttdeci">void setup(int num_neurons, int mini_batch_size)</div><div class="ttdef"><b>Definition:</b> <a href="lbann__objective__fn__mean__squared__error_8cpp_source.html#l00047">lbann_objective_fn_mean_squared_error.cpp:47</a></div></div>
+<div class="ttc" id="classlbann_1_1metrics_1_1mean__squared__error_html_a281a1f5f15d6acd1973beaf17fb129f1"><div class="ttname"><a href="classlbann_1_1metrics_1_1mean__squared__error.html#a281a1f5f15d6acd1973beaf17fb129f1">lbann::metrics::mean_squared_error::internal_obj_fn</a></div><div class="ttdeci">lbann::objective_functions::mean_squared_error internal_obj_fn</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric__mean__squared__error_8hpp_source.html#l00055">lbann_metric_mean_squared_error.hpp:55</a></div></div>
+<div class="ttc" id="classlbann_1_1metrics_1_1metric_html_ad87909c3c9793a05c88420ab8473dbd2"><div class="ttname"><a href="classlbann_1_1metrics_1_1metric.html#ad87909c3c9793a05c88420ab8473dbd2">lbann::metrics::metric::setup</a></div><div class="ttdeci">virtual void setup(int num_neurons, int mini_batch_size)</div><div class="ttdef"><b>Definition:</b> <a href="lbann__metric_8hpp_source.html#l00126">lbann_metric.hpp:126</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error_ac0c8b15a833603bfbbb32d56ae5a8a47_cgraph.png" border="0" usemap="#classlbann_1_1metrics_1_1mean__squared__error_ac0c8b15a833603bfbbb32d56ae5a8a47_cgraph" alt=""/></div>
-<map name="classlbann_1_1metrics_1_1mean__squared__error_ac0c8b15a833603bfbbb32d56ae5a8a47_cgraph" id="classlbann_1_1metrics_1_1mean__squared__error_ac0c8b15a833603bfbbb32d56ae5a8a47_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1metric.html#ad87909c3c9793a05c88420ab8473dbd2" title="lbann::metrics::metric\l::setup" alt="" coords="223,5,371,46"/><area shape="rect" id="node3" href="classlbann_1_1objective__functions_1_1mean__squared__error.html#a046d61530dd2b63e3e6810770e9d669a" title="lbann::objective_functions\l::mean_squared_error::setup" alt="" coords="203,70,391,111"/></map>
+<div class="center"><img src="classlbann_1_1metrics_1_1mean__squared__error_a9c5f6bbad8d24092eeeccb2c9e669e5d_cgraph.png" border="0" usemap="#classlbann_1_1metrics_1_1mean__squared__error_a9c5f6bbad8d24092eeeccb2c9e669e5d_cgraph" alt=""/></div>
+<map name="classlbann_1_1metrics_1_1mean__squared__error_a9c5f6bbad8d24092eeeccb2c9e669e5d_cgraph" id="classlbann_1_1metrics_1_1mean__squared__error_a9c5f6bbad8d24092eeeccb2c9e669e5d_cgraph">
+<area shape="rect" id="node2" href="classlbann_1_1metrics_1_1metric.html#ad87909c3c9793a05c88420ab8473dbd2" title="lbann::metrics::metric\l::setup" alt="" coords="203,5,351,46"/></map>
 </div>
 </p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a class="anchor" id="a71e12b83fb10c48df554605365d6c046"></a>
+<a class="anchor" id="a281a1f5f15d6acd1973beaf17fb129f1"></a>
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;data_layout T_layout&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlbann_1_1objective__functions_1_1mean__squared__error.html">lbann::objective_functions::mean_squared_error</a> <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a>&lt; T_layout &gt;::internal_obj_fn</td>
+          <td class="memname"><a class="el" href="classlbann_1_1objective__functions_1_1mean__squared__error.html">lbann::objective_functions::mean_squared_error</a> lbann::metrics::mean_squared_error::internal_obj_fn</td>
         </tr>
       </table>
   </td>
@@ -664,12 +457,13 @@ template&lt;data_layout T_layout&gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="metric__mean__squared__error_8hpp_source.html#l00092">92</a> of file <a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a>.</p>
+<p>Definition at line <a class="el" href="lbann__metric__mean__squared__error_8hpp_source.html#l00055">55</a> of file <a class="el" href="lbann__metric__mean__squared__error_8hpp_source.html">lbann_metric_mean_squared_error.hpp</a>.</p>
 
 </div>
 </div>
-<hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/travis/build/LLNL/lbann/include/lbann/metrics/<a class="el" href="metric__mean__squared__error_8hpp_source.html">metric_mean_squared_error.hpp</a></li>
+<hr/>The documentation for this class was generated from the following files:<ul>
+<li>/home/travis/build/LLNL/lbann/include/lbann/metrics/<a class="el" href="lbann__metric__mean__squared__error_8hpp_source.html">lbann_metric_mean_squared_error.hpp</a></li>
+<li>/home/travis/build/LLNL/lbann/src/metrics/<a class="el" href="lbann__metric__mean__squared__error_8cpp_source.html">lbann_metric_mean_squared_error.cpp</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -677,7 +471,7 @@ template&lt;data_layout T_layout&gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="namespacelbann_1_1metrics.html">metrics</a></li><li class="navelem"><a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">mean_squared_error</a></li>
-    <li class="footer">Generated on Tue Jul 18 2017 02:45:40 for LBANN by
+    <li class="footer">Generated on Fri Oct 27 2017 22:21:30 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

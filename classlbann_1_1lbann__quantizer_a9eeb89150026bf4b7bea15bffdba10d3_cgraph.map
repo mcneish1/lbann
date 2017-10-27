@@ -1,6 +1,0 @@
-<map id="lbann::lbann_quantizer::onebit_quantize" name="lbann::lbann_quantizer::onebit_quantize">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#a4dd4696cbbfd93c73e5fb3c40fcb16c3" title="lbann::lbann_quantizer\l::onebit_quantize" alt="" coords="205,78,357,119"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#a12d481b919e35f150cc9617711e0e712" title="lbann::lbann_quantizer\l::get_onebit_quantized\l_matrix_height" alt="" coords="414,5,567,61"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#ae6ce9c2fdec6f81803f6b1a6555c31c5" title="lbann::get_fast_generator" alt="" coords="406,85,575,112"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#a557aaed6267e7aaf583a75149e9c670c" title="lbann::fast_rand_int" alt="" coords="423,136,559,163"/>
-</map>

@@ -31,7 +31,7 @@ var NAVTREE =
     [ "Files", null, [
       [ "File List", "files.html", "files" ],
       [ "File Members", "globals.html", [
-        [ "All", "globals.html", null ],
+        [ "All", "globals.html", "globals_dup" ],
         [ "Functions", "globals_func.html", null ],
         [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
@@ -45,18 +45,24 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"Elemental__extensions_8cpp.html",
-"classlbann_1_1PerformanceParams.html#abde9f8ab7421f863f11542721c93768f",
-"classlbann_1_1dataset.html#a41834453907dfea600e48595ac200c73",
-"classlbann_1_1greedy__layerwise__autoencoder.html#aa91a4cf3c342021aee73d7bcedbf7ef6",
-"classlbann_1_1lbann__callback__adaptive__learning__rate.html#a9fa0b96fb9c57fb075d58f1381f5d1e5",
-"classlbann_1_1lbann__comm.html#a02a03227cc27e3516f0d9f9812f32019a5a99a7b378e450d9e91b10b1f0085274",
-"classlbann_1_1lbann__summary.html",
-"classlbann_1_1model.html#af31a76afc53061747d2170a65e98f692",
-"classlbann_1_1sequential__model.html#a53a5c755d5ec4cc58f7fcbbf47a030c3",
-"data__reader__cifar10_8cpp.html",
-"lbann_8hpp.html",
-"random_8hpp.html#a557aaed6267e7aaf583a75149e9c670c"
+"annotated.html",
+"classlbann_1_1Layer.html#a9d4a379d5c9e1102e63b48c53dd8ed44",
+"classlbann_1_1dataset.html",
+"classlbann_1_1lbann__callback__imcomm.html#aef048c5bdeb5b36d7b5e0fdfddfb6a7a",
+"classlbann_1_1lbann__quantizer.html#a5b9d72b9133517e0212f73908a576c7e",
+"classlbann_1_1persist.html#a1adc7102c1b4bc91534ca156decbd965",
+"classlbann__data_1_1Convolution.html#a8eba784bc0b63aa14482b8b9a7f84280",
+"classlbann__data_1_1DataReaderMnist.html#a7b2212b3d957737b9814f981e700d392",
+"classlbann__data_1_1Input.html#ab5995cd5026d087fcb764a736c5520ac",
+"classlbann__data_1_1LbannPB.html#a33568bc990e990f1701fe046071cc90e",
+"classlbann__data_1_1NetworkParams.html#af5a1525b977fc039c40fb4394dd7a7d1",
+"classlbann__data_1_1Softmax.html#a55528cb91aa111b11e0277e1101a1a61",
+"classlbann__data_1_1TargetParallel.html#a7569113a65be00508ecb33e09602f44d",
+"classlbann__data_1_1TrainingParams.html#ad99765c56977344287133c289e6fa54b",
+"functions_vars_a.html",
+"lbann__callback_8hpp.html",
+"lbann__objective__fn_8hpp.html#a84a6b5226a98ba2d0c65c3a2a9afb43c",
+"struct__BOX3__USHORT.html#a05678808cf5a5c0aa1549d793423d967"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,0 +1,11 @@
+<map id="lbann_data::Optimizer::MergeFrom" name="lbann_data::Optimizer::MergeFrom">
+<area shape="rect" id="node2" href="$classlbann__data_1_1Optimizer.html#a417a7430681f028d8b2170cb1d098fb2" title="lbann_data::Optimizer\l::name" alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1Optimizer.html#a584b772d00e8e6bf5c6fb5e7832f0812" title="lbann_data::Optimizer\l::learn_rate" alt="" coords="203,70,352,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1Optimizer.html#a9c83f1013a37c38d8b7b4460c1c9d639" title="lbann_data::Optimizer\l::set_learn_rate" alt="" coords="203,135,352,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1Optimizer.html#aed4403b04e7d96c28d142c135c9bbc11" title="lbann_data::Optimizer\l::momentum" alt="" coords="203,201,352,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1Optimizer.html#abadad81550e4257ee8d4b38023273fff" title="lbann_data::Optimizer\l::set_momentum" alt="" coords="203,266,352,307"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1Optimizer.html#a7641079fcea216c9530b13a55e01af49" title="lbann_data::Optimizer\l::decay" alt="" coords="203,331,352,373"/>
+<area shape="rect" id="node8" href="$classlbann__data_1_1Optimizer.html#aa4d2a3eaeb1128c896b28e4d0b223c9f" title="lbann_data::Optimizer\l::set_decay" alt="" coords="203,397,352,438"/>
+<area shape="rect" id="node9" href="$classlbann__data_1_1Optimizer.html#a3226fdb1498955f011f87b765c05d574" title="lbann_data::Optimizer\l::nesterov" alt="" coords="203,462,352,503"/>
+<area shape="rect" id="node10" href="$classlbann__data_1_1Optimizer.html#af432cb4622bfc169a1779ea27a28e748" title="lbann_data::Optimizer\l::set_nesterov" alt="" coords="203,527,352,569"/>
+</map>

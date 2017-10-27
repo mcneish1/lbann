@@ -1,7 +1,0 @@
-<map id="lbann::convolution_layer::fp_compute" name="lbann::convolution_layer::fp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#ae43725a33c0a4ad1daf63c115a436941" title="Convolution forward propagation with cuDNN. " alt="" coords="189,5,363,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#aee7af14f0e5f4fb4afa490de959a49d1" title="Convolution forward propagation with im2col GEMM algorithm. " alt="" coords="187,70,365,111"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#aa3636a1979e40da2af91f30a12b90db9" title="Rearrange image blocks into matrix columns. " alt="" coords="437,52,536,79"/>
-<area shape="rect" id="node6" href="$namespacelbann_1_1cublas.html#a3f2c0cc2635ddf07072a5b90e858c619" title="lbann::cublas::Gemm" alt="" coords="413,103,560,129"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#adc05d10657be77ccd9a74b1621c416c3" title="Rearrange 2D image blocks into matrix columns. " alt="" coords="608,52,728,79"/>
-</map>

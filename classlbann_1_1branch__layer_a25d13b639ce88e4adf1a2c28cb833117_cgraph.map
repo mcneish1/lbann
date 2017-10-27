@@ -1,8 +1,0 @@
-<map id="lbann::branch_layer::copy" name="lbann::branch_layer::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1branch__layer.html#ae726956239e61232842e711fa07461ec" title="Constructor. " alt="" coords="190,49,325,90"/>
-<area shape="rect" id="node3" href="$classlbann_1_1branch__layer.html#a7fda0cd8a9f970b6e7a72a53b41af9f5" title="lbann::branch_layer\l::initialize_distributed\l_matrices" alt="" coords="373,5,517,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1branch__layer.html#a992a11870de5c4e31702db0f7abba29b" title="lbann::branch_layer\l::add_child" alt="" coords="378,85,513,126"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="566,85,709,126"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="758,51,901,93"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="758,117,901,158"/>
-</map>

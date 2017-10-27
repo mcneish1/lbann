@@ -1,9 +1,0 @@
-<map id="lbann::lbann_callback_ltfb" name="lbann::lbann_callback_ltfb">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback.html" title="lbann::lbann_callback" alt="" coords="659,7,805,33"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html" title="lbann::lbann_summary" alt="" coords="346,7,499,33"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="25,109,159,136"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="684,139,780,165"/>
-<area shape="rect" id="node6" href="$classlbann_1_1optimizer__factory.html" title="Optimizer factory base class. " alt="" coords="342,171,503,197"/>
-<area shape="rect" id="node7" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="336,222,509,263"/>
-<area shape="rect" id="node8" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="5,222,179,263"/>
-</map>

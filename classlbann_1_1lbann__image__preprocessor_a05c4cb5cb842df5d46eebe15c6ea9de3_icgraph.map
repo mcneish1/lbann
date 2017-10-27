@@ -1,10 +1,3 @@
 <map id="lbann::lbann_image_preprocessor::unit_variance" name="lbann::lbann_image_preprocessor::unit_variance">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#ae370cdc9f776ce8cce94a45cacf47425" title="lbann::lbann_image\l_preprocessor::normalize" alt="" coords="189,135,357,177"/>
-<area shape="rect" id="node9" href="$proto__common_8hpp.html#a954150c50e90b511638c4b402791483a" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="213,201,334,228"/>
-<area shape="rect" id="node3" href="$classlbann_1_1cifar10__reader.html#ae7019b4b1794062756db402c3c3d3d1e" title="lbann::cifar10_reader\l::fetch_datum" alt="" coords="431,5,574,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1imagenet__reader.html#a0409dfaba79a665626fe8d498302f69a" title="lbann::imagenet_reader\l::fetch_datum" alt="" coords="424,70,581,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1imagenet__readerSingle.html#ab53b123c4600dbc6235b23635c8f9346" title="lbann::imagenet_readerSingle\l::fetch_datum" alt="" coords="406,135,599,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1mnist__reader.html#a1e70bc8462e7a6f9e684a9bbbd5a6948" title="lbann::mnist_reader\l::fetch_datum" alt="" coords="435,201,571,242"/>
-<area shape="rect" id="node8" href="$classlbann_1_1data__reader__nci.html#a95e8f47738304245cb3d3fa2b313dde2" title="lbann::data_reader\l_nci::fetch_datum" alt="" coords="438,266,567,307"/>
-<area shape="rect" id="node5" href="$classlbann_1_1imagenet__reader.html#a878511ef3b73367f0261336033877dbe" title="to feed multiple layer stacks per sample " alt="" coords="648,70,805,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#ae370cdc9f776ce8cce94a45cacf47425" title="lbann::lbann_image\l_preprocessor::normalize" alt="" coords="189,11,357,53"/>
 </map>

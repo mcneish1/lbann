@@ -1,5 +1,4 @@
 <map id="lbann::lbann_image_preprocessor::scale" name="lbann::lbann_image_preprocessor::scale">
-<area shape="rect" id="node2" href="$classlbann_1_1data__reader__nci.html#a630b728e6b639561f6581c4036ef2da0" title="lbann::data_reader\l_nci::data_reader_nci" alt="" coords="197,5,344,46"/>
-<area shape="rect" id="node4" href="$proto__common_8hpp.html#a954150c50e90b511638c4b402791483a" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="210,71,331,97"/>
-<area shape="rect" id="node3" href="$classlbann_1_1data__reader__nci.html#a2458ad9755a991545ed77198bbfbfa41" title="lbann::data_reader\l_nci::copy" alt="" coords="393,5,522,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1DataReader__ImageNet.html#ade29f36b9d6a5185573de3046f139913" title="lbann::DataReader_ImageNet\l::save_image" alt="" coords="197,5,392,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1DataReader__MNIST.html#aa392da58cc506eed6e848ef0dc51c325" title="lbann::DataReader_MNIST\l::save_image" alt="" coords="205,70,385,111"/>
 </map>

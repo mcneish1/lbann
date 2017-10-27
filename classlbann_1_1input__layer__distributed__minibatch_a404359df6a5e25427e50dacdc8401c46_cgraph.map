@@ -1,4 +1,0 @@
-<map id="lbann::input_layer_distributed_minibatch::copy" name="lbann::input_layer_distributed_minibatch::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#a0d22ce76a5f4d55cd6cd1193831887e6" title="lbann::input_layer\l_distributed_minibatch\l::input_layer_distributed\l_minibatch" alt="" coords="243,5,403,75"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer__distributed__minibatch.html#a603a367b4ace39a3753d32d9e08635e2" title="lbann::input_layer\l_distributed_minibatch\l::initialize_distributed\l_matrices" alt="" coords="451,5,603,75"/>
-</map>

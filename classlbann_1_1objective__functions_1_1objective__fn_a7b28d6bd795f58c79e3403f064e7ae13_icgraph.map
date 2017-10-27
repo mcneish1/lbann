@@ -1,5 +1,0 @@
-<map id="lbann::objective_functions::objective_fn::compute_obj_fn" name="lbann::objective_functions::objective_fn::compute_obj_fn">
-<area shape="rect" id="node2" href="$classlbann_1_1reconstruction__layer.html#a5fd2bc9fcf77b19ab20a8334324d917a" title="lbann::reconstruction\l_layer::fp_compute" alt="" coords="258,5,401,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch.html#a6932c43b5996b9f90e4ebbc08b0ed316" title="lbann::target_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="253,69,405,125"/>
-<area shape="rect" id="node4" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a56413ddede333fc862b35fccb939a78b" title="lbann::target_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="253,149,405,205"/>
-</map>

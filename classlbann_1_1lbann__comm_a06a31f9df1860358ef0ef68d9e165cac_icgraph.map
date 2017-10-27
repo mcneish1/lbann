@@ -1,10 +1,14 @@
 <map id="lbann::lbann_comm::am_model_master" name="lbann::lbann_comm::am_model_master">
-<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1top__k__categorical__accuracy.html#a054e7cbe53e9a6c00ac19654f2187b8b" title="lbann::metrics::top\l_k_categorical_accuracy\l::compute_metric" alt="" coords="227,5,394,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__early__stopping.html#ab1e8e8674750ff71cc9bcb4ac7102eaa" title="lbann::lbann_callback\l_early_stopping::on_validation_end" alt="" coords="198,85,423,126"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__learning__rate.html#ab4ef80742344cca2ea63489498942b0f" title="lbann::lbann_callback\l_learning_rate::on_epoch_end" alt="" coords="213,150,408,191"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__ltfb.html#a9988fd86e8e03811d1c79b30d4771d8d" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="237,215,384,257"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__print.html#a8476b787abe4b035570b2ccc577a5062" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="237,281,384,322"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__print.html#a16c68b70cb9a24d8268a055d96c7bdad" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="237,346,384,387"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__timer.html#ac37653fa834c01c98ebb05cd03e08e3b" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="235,411,386,453"/>
-<area shape="rect" id="node9" href="$classlbann_1_1distributed__minibatch.html#a56db381a14daa503b90473866071a789" title="lbann::distributed\l_minibatch::distributed\l_minibatch" alt="" coords="234,476,387,532"/>
+<area shape="rect" id="node2" href="$classlbann_1_1Adagrad.html#a5cf6582fca9b7c09fa5c66f7e307fc50" title="Constructor. " alt="" coords="228,5,393,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Adagrad.html#aa2a53383b4b520018bdd07e359da7e60" title="Setup optimizer. " alt="" coords="236,56,385,83"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Adam.html#a212d41fb042389e6b4495bb16e7925a9" title="lbann::Adam::Adam" alt="" coords="242,107,379,133"/>
+<area shape="rect" id="node5" href="$classlbann_1_1RMSprop.html#a6b9c3cac0287cfc2c949cf89b9e4f53a" title="lbann::RMSprop::RMSprop" alt="" coords="221,157,400,184"/>
+<area shape="rect" id="node6" href="$classlbann_1_1RMSprop.html#abe367d366653b001830769f30b6eebb2" title="lbann::RMSprop::setup" alt="" coords="233,208,389,235"/>
+<area shape="rect" id="node7" href="$classlbann_1_1SGD.html#af50d26b32a7ead68b4a7a22dd9851adb" title="lbann::SGD::setup" alt="" coords="245,259,376,285"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__early__stopping.html#ab1e8e8674750ff71cc9bcb4ac7102eaa" title="lbann::lbann_callback\l_early_stopping::on_validation_end" alt="" coords="198,310,423,351"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__learning__rate.html#ab4ef80742344cca2ea63489498942b0f" title="lbann::lbann_callback\l_learning_rate::on_epoch_end" alt="" coords="213,375,408,417"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__print.html#a8476b787abe4b035570b2ccc577a5062" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="237,441,384,482"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__callback__print.html#a16c68b70cb9a24d8268a055d96c7bdad" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="237,506,384,547"/>
+<area shape="rect" id="node13" href="$classlbann_1_1lbann__callback__timer.html#ac37653fa834c01c98ebb05cd03e08e3b" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="235,571,386,613"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__imcomm.html#a1cc160d368f1dd5bd30f1504c0df8003" title="lbann::lbann_callback\l_imcomm::setup" alt="" coords="472,251,619,293"/>
 </map>

@@ -1,7 +1,0 @@
-<map id="lbann::learning::fp_set_std_matrix_view" name="lbann::learning::fp_set_std_matrix_view">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a935881e25a98b4ffad1985dc04c19572" title="lbann::Layer::fp_set\l_std_matrix_view" alt="" coords="203,70,341,111"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="394,5,563,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a502bd724f9fb27f0e899306c69a3ec47" title="lbann::lbann_comm::\lintermodel_allreduce" alt="" coords="407,70,550,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#aa64829cba8a84928a396893172a1d116" title="lbann::model::set_effective\l_mini_batch_size" alt="" coords="389,135,568,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="617,70,759,111"/>
-</map>

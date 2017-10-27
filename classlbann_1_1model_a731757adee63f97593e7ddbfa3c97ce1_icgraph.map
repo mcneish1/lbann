@@ -1,5 +1,0 @@
-<map id="lbann::model::checkpointShared" name="lbann::model::checkpointShared">
-<area shape="rect" id="node2" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="244,5,375,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9ccd3dbaef125a5cd993307be7d11ba4" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="222,70,397,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aa600aaacda4275602021b612e1a36e9f" title="Train neural network. " alt="" coords="445,70,608,111"/>
-</map>

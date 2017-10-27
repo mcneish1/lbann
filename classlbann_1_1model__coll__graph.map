@@ -1,6 +1,5 @@
 <map id="lbann::model" name="lbann::model">
-<area shape="rect" id="node2" href="$classlbann_1_1optimizer__factory.html" title="Optimizer factory base class. " alt="" coords="342,53,503,80"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="25,9,159,36"/>
-<area shape="rect" id="node4" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="336,105,509,146"/>
-<area shape="rect" id="node5" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="5,105,179,146"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="5,149,139,176"/>
+<area shape="rect" id="node3" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="164,142,337,183"/>
+<area shape="rect" id="node4" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="164,6,337,47"/>
 </map>

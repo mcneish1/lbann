@@ -1,5 +1,0 @@
-<map id="lbann::fully_connected_layer::bp_compute" name="lbann::fully_connected_layer::bp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1fully__connected__layer.html#ac7785d80e68e2633a8788625d9d70ace" title="lbann::fully_connected\l_layer::bp_compute_weights" alt="" coords="206,5,394,46"/>
-<area shape="rect" id="node3" href="$namespaceEl.html#a584f088a3325a8222d4d6ac37be04b04" title="El::RowSum" alt="" coords="252,71,348,97"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#adc2be91222e59b976a40f614dbcfb644" title="lbann::model::get_effective\l_mini_batch_size" alt="" coords="211,122,389,163"/>
-</map>

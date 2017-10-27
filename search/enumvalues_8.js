@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['onebit_5fquantization',['ONEBIT_QUANTIZATION',['../classlbann_1_1lbann__callback__imcomm.html#acf7e894b3381e7f9b71020dc73594d6aa06f19090efbd982638c20bcb8a3c7d33',1,'lbann::lbann_callback_imcomm']]]
+  ['kullback_5fleibler_5fdivergence',['kullback_leibler_divergence',['../namespacelbann_1_1metrics.html#a5bb88e5c5dd16c8fce1d3c8abb00aeb1a72fc2a3662849faf2e84a48b16afc598',1,'lbann::metrics']]]
 ];

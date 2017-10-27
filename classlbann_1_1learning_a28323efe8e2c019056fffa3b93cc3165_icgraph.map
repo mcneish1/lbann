@@ -1,6 +1,0 @@
-<map id="lbann::learning::get_optimizer" name="lbann::learning::get_optimizer">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__learning__rate.html#a3814efdf7b26e6162a66ab5d982a9abf" title="lbann::lbann_callback\l_learning_rate::setup" alt="" coords="211,5,357,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__learning__rate.html#ab4ef80742344cca2ea63489498942b0f" title="lbann::lbann_callback\l_learning_rate::on_epoch_end" alt="" coords="187,70,381,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__step__learning__rate.html#aefae27df4d0239eb132acbd16d821292" title="lbann::lbann_callback\l_step_learning_rate::\lschedule" alt="" coords="211,135,357,191"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__adaptive__learning__rate.html#a91fb5630bb686605a900337e556f58c5" title="lbann::lbann_callback\l_adaptive_learning_rate\l::schedule" alt="" coords="205,215,363,271"/>
-</map>

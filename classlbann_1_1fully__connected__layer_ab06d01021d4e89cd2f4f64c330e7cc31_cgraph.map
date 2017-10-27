@@ -1,9 +1,0 @@
-<map id="lbann::fully_connected_layer::operator=" name="lbann::fully_connected_layer::operator=">
-<area shape="rect" id="node2" href="$classlbann_1_1learning.html#a0a84db7ba4ca325d7f4fc5f7713142e6" title="lbann::learning::operator=" alt="" coords="206,56,375,83"/>
-<area shape="rect" id="node5" href="$classlbann_1_1fully__connected__layer.html#a9df470c0cd47e4f35b8bc6f831f92fd7" title="lbann::fully_connected\l_layer::setup_views" alt="" coords="215,107,367,149"/>
-<area shape="rect" id="node7" href="$classlbann_1_1optimizer.html#a0c1a5d5981eb740b26e1d3b082421fc7" title="Get parameters. " alt="" coords="221,173,361,214"/>
-<area shape="rect" id="node8" href="$classlbann_1_1optimizer.html#a34a0dff15ff43cf9c76d0e1a4899d4cb" title="lbann::optimizer::set\l_parameters" alt="" coords="221,238,361,279"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a00d8acde68fda2f38c4a39ef8c89234a" title="lbann::Layer::operator=" alt="" coords="425,5,581,32"/>
-<area shape="rect" id="node4" href="$classlbann_1_1optimizer.html#adf19a1d19d832ebfe70072cc202cdf39" title="lbann::optimizer::copy" alt="" coords="427,56,578,83"/>
-<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a705cdeb600e57a076a24f6be1c31f5a5" title="lbann::Layer::setup\l_views" alt="" coords="436,107,569,149"/>
-</map>

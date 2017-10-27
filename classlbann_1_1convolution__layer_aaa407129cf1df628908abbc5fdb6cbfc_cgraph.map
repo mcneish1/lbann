@@ -1,6 +1,0 @@
-<map id="lbann::convolution_layer::convolution_layer" name="lbann::convolution_layer::convolution_layer">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#ac1591d929ac399c82e95bb7cdf406389" title="lbann::convolution\l_layer::setup_views" alt="" coords="223,5,361,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1optimizer.html#a0c1a5d5981eb740b26e1d3b082421fc7" title="Get parameters. " alt="" coords="222,70,362,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#a34a0dff15ff43cf9c76d0e1a4899d4cb" title="lbann::optimizer::set\l_parameters" alt="" coords="222,135,362,177"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a705cdeb600e57a076a24f6be1c31f5a5" title="lbann::Layer::setup\l_views" alt="" coords="411,5,544,46"/>
-</map>

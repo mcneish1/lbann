@@ -1,7 +1,0 @@
-<map id="lbann::branch_layer::branch_layer" name="lbann::branch_layer::branch_layer">
-<area shape="rect" id="node2" href="$classlbann_1_1branch__layer.html#a7fda0cd8a9f970b6e7a72a53b41af9f5" title="lbann::branch_layer\l::initialize_distributed\l_matrices" alt="" coords="189,5,333,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1branch__layer.html#a992a11870de5c4e31702db0f7abba29b" title="lbann::branch_layer\l::add_child" alt="" coords="194,85,329,126"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="382,85,525,126"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="574,51,717,93"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="574,117,717,158"/>
-</map>

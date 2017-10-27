@@ -1,5 +1,0 @@
-<map id="lbann::model::setup" name="lbann::model::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9531d27227598e0f28a6fc04ef672ebf" title="Inserts a mirror layer for specified layer index. " alt="" coords="195,13,375,54"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a90afd0c31448bb8f9f6e1e9f39f416a3" title="Removes mirror for specified layer index. " alt="" coords="190,78,381,119"/>
-<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a05dce313fe4e587c6ca9088f78c6b84f" title="Restore model from shared checkpoint. " alt="" coords="429,5,595,61"/>
-</map>

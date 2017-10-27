@@ -1,7 +1,0 @@
-<map id="lbann::col2im_2d" name="lbann::col2im_2d">
-<area shape="rect" id="node2" href="$namespacelbann.html#a0e1225f72580ffb5166181392b68b651" title="Rearrange matrix columns into image blocks. " alt="" coords="173,45,272,72"/>
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#add5788df11451dbdc7fc94b7b8b5bb45" title="Convolution backward propagation with im2col GEMM algorithm. " alt="" coords="320,5,501,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1pooling__layer.html#a704aca0e1e5bba7d27b7755133e6d50b" title="Pooling forward propagation with im2col. " alt="" coords="337,70,484,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1convolution__layer.html#ac223a97714153369c52db5b348f0dc15" title="lbann::convolution\l_layer::bp_compute" alt="" coords="551,5,687,46"/>
-<area shape="rect" id="node6" href="$classlbann_1_1pooling__layer.html#a28d046be7848eafaa8eb2d4f935e743c" title="lbann::pooling_layer\l::bp_compute" alt="" coords="550,70,687,111"/>
-</map>

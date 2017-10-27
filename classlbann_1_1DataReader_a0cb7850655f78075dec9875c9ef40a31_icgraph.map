@@ -1,0 +1,9 @@
+<map id="lbann::DataReader::position_valid" name="lbann::DataReader::position_valid">
+<area shape="rect" id="node2" href="$classlbann_1_1DataReader__ImageNet.html#a75900ca7c2eac253c8a312166de5d538" title="lbann::DataReader_ImageNet\l::fetch_data" alt="" coords="192,5,387,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1DataReader__MNIST.html#a3d0698b2ad0c60ff4988a2d3ec10b5fc" title="lbann::DataReader_MNIST\l::fetch_data" alt="" coords="199,70,379,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1DataReader__MNIST.html#a4ab28aa052bbcc836db26a45a0179d12" title="lbann::DataReader_MNIST\l::fetch_label" alt="" coords="199,135,379,177"/>
+<area shape="rect" id="node5" href="$classlbann_1_1data__reader__nci.html#afa506ee711efad5be46146b9164eb105" title="lbann::data_reader\l_nci::fetch_data" alt="" coords="225,201,354,242"/>
+<area shape="rect" id="node6" href="$classlbann_1_1data__reader__nci.html#abc8fa6fee6f2e8d7c1c9a958224f3b23" title="lbann::data_reader\l_nci::fetch_label" alt="" coords="225,266,354,307"/>
+<area shape="rect" id="node7" href="$classlbann_1_1data__reader__nci__regression.html#af30f0151957bcd17ff72e96581139eb1" title="lbann::data_reader\l_nci_regression::fetch_data" alt="" coords="198,331,381,373"/>
+<area shape="rect" id="node8" href="$classlbann_1_1data__reader__nci__regression.html#a28b98ee7d8d0a05f851ad38091593ed6" title="lbann::data_reader\l_nci_regression::fetch\l_response" alt="" coords="214,396,365,452"/>
+</map>

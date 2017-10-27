@@ -1,5 +1,0 @@
-<map id="lbann::batch_normalization::operator=" name="lbann::batch_normalization::operator=">
-<area shape="rect" id="node2" href="$classlbann_1_1regularizer__layer.html#a1e199a411e4fd1e53ebf829b25b4610e" title="lbann::regularizer\l_layer::operator=" alt="" coords="247,5,369,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#adf19a1d19d832ebfe70072cc202cdf39" title="lbann::optimizer::copy" alt="" coords="233,71,383,97"/>
-<area shape="rect" id="node4" href="$classlbann_1_1optimizer.html#a34a0dff15ff43cf9c76d0e1a4899d4cb" title="lbann::optimizer::set\l_parameters" alt="" coords="238,122,378,163"/>
-</map>

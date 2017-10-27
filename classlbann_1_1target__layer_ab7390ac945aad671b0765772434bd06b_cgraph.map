@@ -1,8 +1,0 @@
-<map id="lbann::target_layer::summarize_stats" name="lbann::target_layer::summarize_stats">
-<area shape="rect" id="node2" href="$classlbann_1_1objective__functions_1_1objective__fn.html#af2305cce30d17eb4ac84ac4cd02425cb" title="lbann::objective_functions\l::objective_fn::name" alt="" coords="200,5,373,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="454,142,607,183"/>
-<area shape="rect" id="node4" href="$classlbann_1_1objective__functions_1_1objective__fn.html#a42e838b20ca5f1c6550ec2c8fe04500f" title="lbann::objective_functions\l::objective_fn::report_aggregate\l_avg_obj_fn" alt="" coords="184,69,389,125"/>
-<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a7f3f26e2ae0497f9a00fd6bc56b50543" title="lbann::Layer::summarize\l_stats" alt="" coords="204,201,369,242"/>
-<area shape="rect" id="node5" href="$classlbann_1_1objective__functions_1_1objective__fn.html#a72da9f08ac5f3426d3c5ef15fd1c5a24" title="lbann::objective_functions\l::objective_fn::get_statistics" alt="" coords="437,77,624,118"/>
-<area shape="rect" id="node7" href="$classlbann_1_1Layer.html#a0a0f8e32e2b17953f87652f855ccfbf9" title="lbann::Layer::reset\l_counters" alt="" coords="465,207,596,249"/>
-</map>

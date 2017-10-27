@@ -1,4 +1,0 @@
-<map id="lbann::lbann_callback_imcomm::reshape_mat" name="lbann::lbann_callback_imcomm::reshape_mat">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#a9e409109c25b6173bc57108281e7aeb5" title="lbann::lbann_callback\l_imcomm::on_epoch_end" alt="" coords="216,5,387,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#ace11211398e94728880476981f25fdc2" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="219,69,383,125"/>
-</map>

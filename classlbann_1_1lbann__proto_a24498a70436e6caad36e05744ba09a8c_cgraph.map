@@ -1,0 +1,8 @@
+<map id="lbann::lbann_proto::add_optimizer" name="lbann::lbann_proto::add_optimizer">
+<area shape="rect" id="node2" href="$classlbann__data_1_1Model.html#aaf34fa4e5fc04abce6e974a4b0c592f6" title="lbann_data::Model::\lmutable_optimizer" alt="" coords="188,5,324,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1Optimizer.html#a7cb439c01dc4e081dc84a8d33e65b364" title="lbann_data::Optimizer\l::set_name" alt="" coords="181,70,331,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1Optimizer.html#a9c83f1013a37c38d8b7b4460c1c9d639" title="lbann_data::Optimizer\l::set_learn_rate" alt="" coords="181,135,331,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1Optimizer.html#abadad81550e4257ee8d4b38023273fff" title="lbann_data::Optimizer\l::set_momentum" alt="" coords="181,201,331,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1Optimizer.html#aa4d2a3eaeb1128c896b28e4d0b223c9f" title="lbann_data::Optimizer\l::set_decay" alt="" coords="181,266,331,307"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1Optimizer.html#af432cb4622bfc169a1779ea27a28e748" title="lbann_data::Optimizer\l::set_nesterov" alt="" coords="181,331,331,373"/>
+</map>

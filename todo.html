@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">f660449-ci254663199</span>
+   &#160;<span id="projectnumber">7c2bc9b-ci293905082</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -93,82 +93,80 @@ $(document).ready(function(){initNavTree('todo.html','');});
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><dl class="reflist">
-<dt><a class="anchor" id="_todo000005"></a>Member <a class="el" href="base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c">_to_string</a>  (execution_mode m)</dt>
+<dt><a class="anchor" id="_todo000020"></a>Member <a class="el" href="lbann__base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c">_to_string</a>  (execution_mode m)</dt>
 <dd>this should be an lbann_exception but then the class has to move to resolve dependencies  </dd>
-<dt><a class="anchor" id="_todo000008"></a>Namespace <a class="el" href="namespacelbann.html">lbann</a>  </dt>
+<dt><a class="anchor" id="_todo000019"></a>Namespace <a class="el" href="namespacelbann.html">lbann</a>  </dt>
 <dd>- add support for save and restore  </dd>
-<dt><a class="anchor" id="_todo000003"></a>Member <a class="el" href="namespacelbann.html#a085b697db535c10a6fd6689cc4445bd4">lbann::columnwise_mean_and_stdev</a>  (const AbsDistMat &amp;data, AbsDistMat &amp;means, AbsDistMat &amp;stdevs)</dt>
-<dd>Numerically stable implementation  </dd>
-<dt><a class="anchor" id="_todo000007"></a>Member <a class="el" href="classlbann_1_1generic__data__distribution.html#a6d4df95075fa35cee8f0a559f3e2606b">lbann::generic_data_distribution::fetch_from_data_reader</a>  (Mat &amp;M_local)</dt>
-<dd>BVE replace this with a function pointer that is passed into the fetch_to_local_matrix function to avoid the "circular" function dependence  </dd>
-<dt><a class="anchor" id="_todo000010"></a>Member <a class="el" href="classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b">lbann::generic_data_reader::get_num_iterations_per_epoch</a>  () const </dt>
-<dd>BVE FIXME merge this with alternate approach  </dd>
-<dt><a class="anchor" id="_todo000011"></a>Member <a class="el" href="classlbann_1_1generic__data__reader.html#ab570063483a1f604ca2fc536c3d83de7">lbann::generic_data_reader::m_num_iterations_per_epoch</a>  </dt>
-<dd>BVE FIXME merge this with alternate approach  </dd>
-<dt><a class="anchor" id="_todo000009"></a>Member <a class="el" href="classlbann_1_1generic__data__reader.html#a91573d9599b503a6bdf2939e69659e8b">lbann::generic_data_reader::set_num_iterations_per_epoch</a>  (int num_iterations_per_epoch)</dt>
-<dd>BVE FIXME merge this with alternate approach  </dd>
-<dt><a class="anchor" id="_todo000033"></a>Member <a class="el" href="namespacelbann.html#a8987701a637ff0e678114aa77e9c4d40">lbann::init_data_seq_random</a>  (int seed)</dt>
-<dd>Support saving/restoring the generator's state. This is directly supported via the &gt;&gt; and &lt;&lt; operators on the generator (reading/writing from/to a stream).  </dd>
+<dt><a class="anchor" id="_todo000007"></a>Member <a class="el" href="classlbann_1_1convolutional__layer.html#a4a6beefd3b7c00b569fa739ee8db7f7a">lbann::convolutional_layer::bp_linearity</a>  ()</dt>
+<dd>Write a more efficient implementation  </dd>
+<dt><a class="anchor" id="_todo000006"></a>Member <a class="el" href="classlbann_1_1convolutional__layer.html#a1f5432a04851833838950908defe7029">lbann::convolutional_layer::fp_linearity</a>  ()</dt>
+<dd>Write a more efficient implementation  </dd>
+<dt><a class="anchor" id="_todo000022"></a>Member <a class="el" href="classlbann_1_1deep__neural__network.html#a4095db900926a90d40020b5598ca5215">lbann::deep_neural_network::check_gradient</a>  (CircMat &amp;X, CircMat &amp;Y, double *gradient_errors)</dt>
+<dd>This is very old and probably broken  </dd>
 <dt><a class="anchor" id="_todo000032"></a>Member <a class="el" href="namespacelbann.html#acef152f20e422b3aea1a3c1691a533ac">lbann::init_random</a>  (int seed, lbann_comm *comm)</dt>
 <dd>Support saving/restoring the generator's state. This is directly supported via the &gt;&gt; and &lt;&lt; operators on the generator (reading/writing from/to a stream).  </dd>
-<dt><a class="anchor" id="_todo000012"></a>Member <a class="el" href="classlbann_1_1input__layer__partitioned__minibatch.html#a9b0aa94ba618fb281049a9acf0de51df">lbann::input_layer_partitioned_minibatch&lt; T_layout &gt;::input_layer_partitioned_minibatch</a>  (lbann_comm *comm, int mini_batch_size, int num_parallel_readers, std::map&lt; execution_mode, generic_data_reader * &gt; data_readers)</dt>
-<dd>make the map and vector references  </dd>
-<dt><a class="anchor" id="_todo000015"></a>Member <a class="el" href="classlbann_1_1io__layer.html#a053ded9a9b4345a3d186ca9c12163a9c">lbann::io_layer::set_testing_data_reader</a>  (generic_data_reader *data_reader)</dt>
+<dt><a class="anchor" id="_todo000004"></a>Member <a class="el" href="classlbann_1_1io__layer.html#abe71d3ff37e3a3ddbb470347458a07ec">lbann::io_layer::get_linearized_data_size</a>  ()</dt>
+<dd>NumNeurons should be hidden inside of an accessor function  </dd>
+<dt><a class="anchor" id="_todo000005"></a>Member <a class="el" href="classlbann_1_1io__layer.html#a3c39307b9bc8166e5034488344445d1e">lbann::io_layer::get_linearized_label_size</a>  ()</dt>
+<dd>NumNeurons should be hidden inside of an accessor function  </dd>
+<dt><a class="anchor" id="_todo000003"></a>Member <a class="el" href="classlbann_1_1io__layer.html#a73ebdd84af9e419d2f21013cf60da207">lbann::io_layer::set_testing_data_reader</a>  (DataReader *data_reader)</dt>
 <dd>put in a check to make sure that this is a data reader that matches what was already there  </dd>
-<dt><a class="anchor" id="_todo000013"></a>Member <a class="el" href="classlbann_1_1io__layer.html#aa146b536ca27da2fef4694d2630ab339">lbann::io_layer::set_training_data_reader</a>  (generic_data_reader *data_reader)</dt>
+<dt><a class="anchor" id="_todo000001"></a>Member <a class="el" href="classlbann_1_1io__layer.html#a2f041f30ef460bd2064be4c9988b6ffe">lbann::io_layer::set_training_data_reader</a>  (DataReader *data_reader)</dt>
 <dd>put in a check to make sure that this is a data reader that matches what was already there  </dd>
-<dt><a class="anchor" id="_todo000014"></a>Member <a class="el" href="classlbann_1_1io__layer.html#aba5e15ea0d597ab10be1e18857190588">lbann::io_layer::set_validation_data_reader</a>  (generic_data_reader *data_reader)</dt>
+<dt><a class="anchor" id="_todo000002"></a>Member <a class="el" href="classlbann_1_1io__layer.html#a147126a1a4372a36a9a52e9632dd2bfc">lbann::io_layer::set_validation_data_reader</a>  (DataReader *data_reader)</dt>
 <dd>put in a check to make sure that this is a data reader that matches what was already there  </dd>
-<dt><a class="anchor" id="_todo000002"></a>Member <a class="el" href="classlbann_1_1Layer.html#a935881e25a98b4ffad1985dc04c19572">lbann::Layer::fp_set_std_matrix_view</a>  ()</dt>
-<dd>BVE FIXME This will cause a bug when you are on the last iteration and the size of the current mini-batch equals the normal mini-batch size. In this case one of the ranks gets out of sync To fix this, we need a flag for when we are on the last mini-batch  </dd>
-<dt><a class="anchor" id="_todo000006"></a>Member <a class="el" href="classlbann_1_1lbann__callback__custom__learning__rate.html#ae37363867f2995689d2eaf9fc4b1f07f">lbann::lbann_callback_custom_learning_rate::lbann_callback_custom_learning_rate</a>  (const lbann_callback_custom_learning_rate &amp;)=default</dt>
-<dd>Need to provide a way for model/layer to be updated after copy.  </dd>
+<dt><a class="anchor" id="_todo000021"></a>Member <a class="el" href="classlbann_1_1lbann__comm.html#a6b7f19e96c92f2e6a98ad2cb0daaa0d1">lbann::lbann_comm::broadcast</a>  (T *data, int count, std::vector&lt; int &gt; &amp;dests, int root)</dt>
+<dd>Can probably optimize this.  </dd>
 <dt><a class="anchor" id="_todo000031"></a>Member <a class="el" href="classlbann_1_1lbann__quantizer.html#a22b898932caed41ccf24abcb67c00ba1">lbann::lbann_quantizer::get_adaptive_quantization_copy_threads</a>  (El::Int width)</dt>
 <dd>Make this configurable at compile time. <dl class="section note"><dt>Note</dt><dd>If this and get_adaptive_quantization_threads return different values for the same width, OpenMP may reap its threads and add additional overhead when invoking a parallel region with more threads.  </dd></dl>
 </dd>
 <dt><a class="anchor" id="_todo000030"></a>Member <a class="el" href="classlbann_1_1lbann__quantizer.html#aaa0c20f755437130172c40ca8e95bc3f">lbann::lbann_quantizer::get_adaptive_quantization_threads</a>  (El::Int width)</dt>
 <dd>Make this configurable at compile time.  </dd>
-<dt><a class="anchor" id="_todo000020"></a>Member <a class="el" href="classlbann_1_1learning.html#a4f4110a232030c1e1382bfd68ebbe08b">lbann::learning::weight_initialization_name</a>  (weight_initialization id)</dt>
-<dd>BVE should the learning layer be able to initialize the matrix, or is that purely a function of the children classes  </dd>
-<dt><a class="anchor" id="_todo000021"></a>Member <a class="el" href="classlbann_1_1metrics_1_1categorical__accuracy.html#a1eece207df26f503c629325bc7cb24c8">lbann::metrics::categorical_accuracy&lt; T_layout &gt;::compute_metric</a>  (ElMat &amp;predictions_v, ElMat &amp;groundtruth_v)</dt>
+<dt><a class="anchor" id="_todo000018"></a>Member <a class="el" href="classlbann_1_1metrics_1_1categorical__accuracy.html#a846a59e6cce13a8d45f7fec33522990e">lbann::metrics::categorical_accuracy::compute_metric</a>  (ElMat &amp;predictions_v, ElMat &amp;groundtruth_v)</dt>
 <dd>- BVE I believe that the following code works, but doesn't need to be this hard it shouldn't have to check the inequality since there should only be one category turned on in the ground truth  </dd>
-<dt><a class="anchor" id="_todo000022"></a>Member <a class="el" href="classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9">lbann::model::get_cur_step</a>  () const </dt>
-<dd>This should be renamed to get_cur_training step and replaced with one that returns the current based on execution mode  </dd>
-<dt><a class="anchor" id="_todo000001"></a>Member <a class="el" href="classlbann_1_1partitioned__minibatch.html#a39df479252bad49db9afc2fe86b81898">lbann::partitioned_minibatch::fetch_to_local_matrix</a>  (Mat &amp;M_local)</dt>
-<dd>compute this by dead reckoning to avoid allreduce  </dd>
-<dt><a class="anchor" id="_todo000016"></a>Member <a class="el" href="classlbann_1_1reconstruction__layer.html#a2ffc9b658ab8ce9287aba9ad01a96871">lbann::reconstruction_layer&lt; T_layout &gt;::reconstruction_layer</a>  (int index, lbann_comm *comm, Layer *original_layer)</dt>
-<dd>note that the reconstruction layer used to use <a class="el" href="base_8hpp.html#a7ab6aada4b2438de8ca3dd783775c2f5a4b78361151cbfcca33e1d560fbaedd59">weight_initialization::glorot_uniform</a>  </dd>
-<dt><a class="anchor" id="_todo000004"></a>Member <a class="el" href="namespacelbann.html#a9b1fd2f864f421aa0bd9f8582ad87c14">lbann::rowwise_mean_and_stdev</a>  (const AbsDistMat &amp;data, AbsDistMat &amp;means, AbsDistMat &amp;stdevs)</dt>
-<dd>Numerically stable implementation  </dd>
-<dt><a class="anchor" id="_todo000027"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#a671ff7d40f7aac97a4d9441a104b7a99">lbann::sequential_model::add</a>  (Layer *new_layer)</dt>
+<dt><a class="anchor" id="_todo000009"></a>Member <a class="el" href="classlbann_1_1pooling__layer.html#a815ce57ebd3a84a2e256b24587b6e43d">lbann::pooling_layer::bp_linearity</a>  ()</dt>
+<dd>Write a more efficient implementation  </dd>
+<dt><a class="anchor" id="_todo000008"></a>Member <a class="el" href="classlbann_1_1pooling__layer.html#a2d9efa294d3c3d0319e05666f73cd545">lbann::pooling_layer::fp_linearity</a>  ()</dt>
+<dd>Write a more efficient implementation  </dd>
+<dt><a class="anchor" id="_todo000027"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#a2341499470419ffae075506df7983c93">lbann::sequential_model::add</a>  (Layer *new_layer)</dt>
 <dd>Consider removing this function. The destructor deallocates all layers, so we might run into problems if a layer is deallocated externally.  </dd>
 <dt><a class="anchor" id="_todo000029"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#ae992c83737819d406e1311ebe24e07f0">lbann::sequential_model::insert</a>  (int index, Layer *new_layer)</dt>
 <dd><p class="startdd">This will mess up layer indices. </p>
 <p class="enddd">Consider removing this function. The destructor deallocates all layers, so we might run into problems if a layer is deallocated externally.  </p>
 </dd>
-<dt><a class="anchor" id="_todo000026"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#aa405c653dae867e862475e13b9df1db0">lbann::sequential_model::load_from_checkpoint</a>  (int fd, const char *filename, size_t *bytes)</dt>
+<dt><a class="anchor" id="_todo000026"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#a66da0af31609146827c238fca77e194d">lbann::sequential_model::load_from_checkpoint</a>  (int fd, const char *filename, uint64_t *bytes)</dt>
 <dd>This is old and likely broken  </dd>
 <dt><a class="anchor" id="_todo000024"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#a7b841c06d54724caecbd2eee309af1c3">lbann::sequential_model::load_from_file</a>  (const std::string file_dir)</dt>
 <dd>This is old and likely broken  </dd>
 <dt><a class="anchor" id="_todo000028"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#a65505f140bd9ffa43af0ead3b911ae52">lbann::sequential_model::remove</a>  (int index)</dt>
 <dd>This will mess up layer indices  </dd>
-<dt><a class="anchor" id="_todo000025"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#a51cd5ae859c66cfb36d25d968ef06203">lbann::sequential_model::save_to_checkpoint</a>  (int fd, const char *filename, size_t *bytes)</dt>
+<dt><a class="anchor" id="_todo000025"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#aa249267bd3e129b480c4615f51bfaed5">lbann::sequential_model::save_to_checkpoint</a>  (int fd, const char *filename, uint64_t *bytes)</dt>
 <dd>This is old and likely broken  </dd>
 <dt><a class="anchor" id="_todo000023"></a>Member <a class="el" href="classlbann_1_1sequential__model.html#a10e9245e9c58c4b3c3c365f0b65e92b8">lbann::sequential_model::save_to_file</a>  (const std::string file_dir)</dt>
 <dd>This is old and likely broken  </dd>
-<dt><a class="anchor" id="_todo000018"></a>Member <a class="el" href="classlbann_1_1target__layer.html#a141ad37ff20ce7d40057a9ff75f42707">lbann::target_layer::loadFromCheckpoint</a>  (int fd, const char *filename, size_t *bytes)</dt>
+<dt><a class="anchor" id="_todo000011"></a>Member <a class="el" href="classlbann_1_1SoftmaxLayer.html#a056676709f2150874f1ae848d56c2166">lbann::SoftmaxLayer::bp_linearity</a>  ()</dt>
+<dd>Put softmax nonlinearity in bp_nonlinearity function  </dd>
+<dt><a class="anchor" id="_todo000010"></a>Member <a class="el" href="classlbann_1_1SoftmaxLayer.html#a024eedef18ff10e82a88ede326a6bad6">lbann::SoftmaxLayer::fp_linearity</a>  ()</dt>
+<dd>- BVE FIXME I believe that this should be put into a softmax non-linearity / activation function  </dd>
+<dt><a class="anchor" id="_todo000013"></a>Member <a class="el" href="classlbann_1_1target__layer.html#a22b644b111036ed25f03b1359c537273">lbann::target_layer::loadFromCheckpoint</a>  (int fd, const char *filename, uint64_t *bytes)</dt>
 <dd>should probably save m_shared_data_reader  </dd>
-<dt><a class="anchor" id="_todo000017"></a>Member <a class="el" href="classlbann_1_1target__layer.html#ac9ed1e3c8d35631968bef1a9f1889e48">lbann::target_layer::saveToCheckpoint</a>  (int fd, const char *filename, size_t *bytes)</dt>
+<dt><a class="anchor" id="_todo000012"></a>Member <a class="el" href="classlbann_1_1target__layer.html#a34a2da13b32938e52f7bfd8b3e500589">lbann::target_layer::saveToCheckpoint</a>  (int fd, const char *filename, uint64_t *bytes)</dt>
 <dd>should probably save m_shared_data_reader  </dd>
-<dt><a class="anchor" id="_todo000019"></a>Member <a class="el" href="classlbann_1_1target__layer__distributed__minibatch.html#a6932c43b5996b9f90e4ebbc08b0ed316">lbann::target_layer_distributed_minibatch&lt; T_layout &gt;::fp_compute</a>  ()</dt>
-<dd>should this distribute the entire matrix even if there is only a partial mini-batch </dd>
+<dt><a class="anchor" id="_todo000014"></a>Member <a class="el" href="classlbann_1_1target__layer__distributed__minibatch.html#ae10872bc60397e7fbb658c4cd2682856">lbann::target_layer_distributed_minibatch::setup</a>  (int num_prev_neurons)</dt>
+<dd>put in warning about bad target size  </dd>
+<dt><a class="anchor" id="_todo000016"></a>Member <a class="el" href="classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#afca413b0943350f2bd64164a5f268e0d">lbann::target_layer_distributed_minibatch_parallel_io::fp_linearity</a>  ()</dt>
+<dd>should this distribute the entire matrix even if there is only a partial mini-batch  </dd>
+<dt><a class="anchor" id="_todo000015"></a>Member <a class="el" href="classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#ae3d33d5cbe949783e2ef489bc771a721">lbann::target_layer_distributed_minibatch_parallel_io::setup</a>  (int num_prev_neurons)</dt>
+<dd>put in warning about bad target size  </dd>
+<dt><a class="anchor" id="_todo000017"></a>Member <a class="el" href="classlbann_1_1target__layer__unsupervised.html#ae83e1fa821f938376d93d10a5b7f3512">lbann::target_layer_unsupervised::bp_linearity</a>  ()</dt>
+<dd>: get error signal from objective_fn object </dd>
 </dl>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Jul 18 2017 02:45:38 for LBANN by
+    <li class="footer">Generated on Fri Oct 27 2017 22:21:29 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

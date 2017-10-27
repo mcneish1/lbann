@@ -1,5 +1,0 @@
-<map id="lbann::io_layer::get_data_dims" name="lbann::io_layer::get_data_dims">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a5507a2d6b7e8e2f1c187fe64e739c465" title="lbann::input_layer\l::setup_dims" alt="" coords="190,5,314,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#adf6ad69a74e097cfbd02d0a75ee1d5c1" title="lbann::target_layer\l::setup_dims" alt="" coords="187,70,317,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#aa97e3fe29a20b5ba4e4c974545df6a2c" title="lbann::reconstruction\l_layer::setup_dims" alt="" coords="366,70,509,111"/>
-</map>

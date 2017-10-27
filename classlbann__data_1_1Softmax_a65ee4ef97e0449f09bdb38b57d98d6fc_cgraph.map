@@ -1,0 +1,8 @@
+<map id="lbann_data::Softmax::MergeFrom" name="lbann_data::Softmax::MergeFrom">
+<area shape="rect" id="node2" href="$classlbann__data_1_1Softmax.html#ade661835aad836cd059afb846f9c8c93" title="lbann_data::Softmax\l::num_prev_neurons" alt="" coords="209,5,351,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1Softmax.html#a0a06e6e1740422deb68280910a3a4d91" title="lbann_data::Softmax\l::set_num_prev_neurons" alt="" coords="197,70,363,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1Softmax.html#a67b236994a01a6f85dbb0f0fecc1d4bb" title="lbann_data::Softmax\l::num_neurons" alt="" coords="209,135,351,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1Softmax.html#acd8481f9b998b0a38e546ecebf32a4bb" title="lbann_data::Softmax\l::set_num_neurons" alt="" coords="209,201,351,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1Softmax.html#ab3ba40d2c48fd55f57bbc1f283dbe3ca" title="lbann_data::Softmax\l::weight_initialization" alt="" coords="209,266,351,307"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1Softmax.html#af06ba28585e56bb4aee0a5c84cdcfc68" title="lbann_data::Softmax\l::activation_type" alt="" coords="209,331,351,373"/>
+</map>

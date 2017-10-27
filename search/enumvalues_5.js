@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['invalid',['INVALID',['../classlbann_1_1lbann__comm.html#a02a03227cc27e3516f0d9f9812f32019accc0377a8afbf50e7094f5c23a8af223',1,'lbann::lbann_comm::INVALID()'],['../base_8hpp.html#af76c86c7b2798091bc0864a0b81f1e0dafedb2d84cafe20862cb4399751a8a7e3',1,'invalid():&#160;base.hpp'],['../base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8afedb2d84cafe20862cb4399751a8a7e3',1,'invalid():&#160;base.hpp']]]
+  ['glorot_5fnormal',['glorot_normal',['../lbann__base_8hpp.html#a7ab6aada4b2438de8ca3dd783775c2f5ab507cf76b5f5f5bf34a68f6376bf0238',1,'lbann_base.hpp']]],
+  ['glorot_5funiform',['glorot_uniform',['../lbann__base_8hpp.html#a7ab6aada4b2438de8ca3dd783775c2f5a4b78361151cbfcca33e1d560fbaedd59',1,'lbann_base.hpp']]]
 ];

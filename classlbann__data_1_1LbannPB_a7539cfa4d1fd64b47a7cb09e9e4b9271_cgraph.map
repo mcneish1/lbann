@@ -1,0 +1,12 @@
+<map id="lbann_data::LbannPB::MergePartialFromCodedStream" name="lbann_data::LbannPB::MergePartialFromCodedStream">
+<area shape="rect" id="node2" href="$classlbann__data_1_1LbannPB.html#a231627002c2899c0cd1adb728e3cd873" title="lbann_data::LbannPB\l::mutable_data_reader" alt="" coords="281,5,431,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1LbannPB.html#ac51febf71296761e5a1fc05baf83e127" title="lbann_data::LbannPB\l::mutable_model" alt="" coords="283,70,429,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1LbannPB.html#ac116d52c40e9efeef22bbffe301989c8" title="lbann_data::LbannPB\l::mutable_performance\l_params" alt="" coords="279,135,433,191"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1LbannPB.html#a2d81d533d6b3b366af530612b01e7a6d" title="lbann_data::LbannPB\l::mutable_system_params" alt="" coords="268,214,444,255"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1LbannPB.html#a9631db2c7072122025547a558a81f6f5" title="lbann_data::LbannPB\l::mutable_network_params" alt="" coords="267,279,445,321"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1LbannPB.html#a44e61e2ea55b2598f8414b843c7fe03c" title="lbann_data::LbannPB\l::mutable_training_params" alt="" coords="269,345,443,386"/>
+<area shape="rect" id="node8" href="$classlbann__data_1_1LbannPB.html#a4733bbeca538f5572179d2c1752900f1" title="lbann_data::LbannPB\l::mutable_optimizer" alt="" coords="283,410,429,451"/>
+<area shape="rect" id="node9" href="$classlbann__data_1_1LbannPB.html#a9b14e822c59908de64bc0bf7e40cd4e8" title="lbann_data::LbannPB\l::optimizer" alt="" coords="283,475,429,517"/>
+<area shape="rect" id="node10" href="$classlbann__data_1_1LbannPB.html#a62effcb0bd79951d6d99593146c7a4c2" title="lbann_data::LbannPB\l::mutable_objective_fn" alt="" coords="279,541,433,582"/>
+<area shape="rect" id="node11" href="$classlbann__data_1_1LbannPB.html#a8d6a146f67fc6192e779b72693946e44" title="lbann_data::LbannPB\l::objective_fn" alt="" coords="283,606,429,647"/>
+</map>

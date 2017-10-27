@@ -1,10 +1,7 @@
 var classlbann_1_1sigmoid__layer =
 [
-    [ "sigmoid_layer", "classlbann_1_1sigmoid__layer.html#a796120c7ea1d2e33050a7a35dcb6c434", null ],
-    [ "activation_function", "classlbann_1_1sigmoid__layer.html#aecd69b2f833dec157f2527fc6ef2a059", null ],
-    [ "activation_function_gradient", "classlbann_1_1sigmoid__layer.html#a8f1a5328b78d9a40ebacfdfb7fd60636", null ],
-    [ "copy", "classlbann_1_1sigmoid__layer.html#a34f60e7e12c7963be9c482db57125576", null ],
-    [ "get_data_layout", "classlbann_1_1sigmoid__layer.html#a878680dcfd0f9e9b24cb3e1ec41443e9", null ],
-    [ "get_name", "classlbann_1_1sigmoid__layer.html#a561455424248ffa3fa25f2250aa60fbc", null ],
-    [ "initialize_distributed_matrices", "classlbann_1_1sigmoid__layer.html#a12675f23c6c47f373adf63e8051b820b", null ]
+    [ "backwardProp", "classlbann_1_1sigmoid__layer.html#afbd8e6a2b545e86ebd012e9f008c65c1", null ],
+    [ "forwardProp", "classlbann_1_1sigmoid__layer.html#a9ad0a702a440ad58cff171a029c1db72", null ],
+    [ "sigmoid", "classlbann_1_1sigmoid__layer.html#a7f92136aaf4abb244b27c4dcce6439c5", null ],
+    [ "sigmoidPrime", "classlbann_1_1sigmoid__layer.html#a9f44f3adf08fa890153ba0980e4014ea", null ]
 ];

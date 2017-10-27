@@ -1,4 +1,0 @@
-<map id="lbann::sigmoid_layer::copy" name="lbann::sigmoid_layer::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1sigmoid__layer.html#a796120c7ea1d2e33050a7a35dcb6c434" title="lbann::sigmoid_layer\l::sigmoid_layer" alt="" coords="195,11,336,53"/>
-<area shape="rect" id="node3" href="$classlbann_1_1sigmoid__layer.html#a12675f23c6c47f373adf63e8051b820b" title="lbann::sigmoid_layer\l::initialize_distributed\l_matrices" alt="" coords="384,4,528,60"/>
-</map>

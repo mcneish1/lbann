@@ -1,8 +1,5 @@
 <map id="lbann::openwrite" name="lbann::openwrite">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a5bb3c2effb859cf3ca2c5f297acc3195" title="lbann::persist::open\l_checkpoint" alt="" coords="171,9,307,50"/>
-<area shape="rect" id="node7" href="$namespacelbann.html#a35a39e949cfd1d7f8c15f94e4d44ecff" title="Writes a &quot;latest&quot; file which records epoch number and sample offset for the most recent checkpoint..." alt="" coords="175,75,303,101"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a731757adee63f97593e7ddbfa3c97ce1" title="lbann::model::checkpoint\lShared" alt="" coords="355,38,522,79"/>
-<area shape="rect" id="node4" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="593,5,724,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9ccd3dbaef125a5cd993307be7d11ba4" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="571,70,746,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aa600aaacda4275602021b612e1a36e9f" title="Train neural network. " alt="" coords="795,70,957,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a5bb3c2effb859cf3ca2c5f297acc3195" title="lbann::persist::open\l_checkpoint" alt="" coords="171,5,307,46"/>
+<area shape="rect" id="node4" href="$lbann__model_8cpp.html#afd4a8737c86299d582f89707eec8869a" title="Writes a &quot;latest&quot; file which records epoch number and sample offset for the most recent checkpoint..." alt="" coords="194,71,283,97"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a731757adee63f97593e7ddbfa3c97ce1" title="lbann::model::checkpoint\lShared" alt="" coords="355,34,522,75"/>
 </map>

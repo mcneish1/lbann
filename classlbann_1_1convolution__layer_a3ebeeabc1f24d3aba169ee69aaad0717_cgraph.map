@@ -1,4 +1,0 @@
-<map id="lbann::convolution_layer::update_compute" name="lbann::convolution_layer::update_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1learning.html#ad89673b28f168ceaeb6f847d5ad06187" title="lbann::learning::l2\l_regularize" alt="" coords="235,5,359,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a15f0487c474d261086723422a8bad921" title="Update parameters using objective function gradient. " alt="" coords="217,71,378,97"/>
-</map>

@@ -1,5 +1,6 @@
 <map id="lbann::sequential_model" name="lbann::sequential_model">
-<area shape="rect" id="node3" href="$classlbann_1_1deep__neural__network.html" title="lbann::deep_neural\l_network" alt="" coords="5,155,135,197"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html" title="lbann::greedy_layerwise\l_autoencoder" alt="" coords="160,155,323,197"/>
-<area shape="rect" id="node2" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="108,5,204,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1deep__neural__network.html" title="lbann::deep_neural\l_network" alt="" coords="388,5,519,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html" title="lbann::greedy_layerwise\l_autoencoder" alt="" coords="372,70,535,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1stacked__autoencoder.html" title="lbann::stacked_autoencoder" alt="" coords="361,136,546,163"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="5,77,101,104"/>
 </map>

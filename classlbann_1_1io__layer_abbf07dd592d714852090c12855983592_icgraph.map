@@ -1,6 +1,4 @@
 <map id="lbann::io_layer::update_num_samples_processed" name="lbann::io_layer::update_num_samples_processed">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#a7efee9601a8571d8c0d644baaedd19b9" title="lbann::input_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="232,5,384,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a8bbe54cecd09a02d7142aba14eae7224" title="lbann::input_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="232,85,384,141"/>
-<area shape="rect" id="node4" href="$classlbann_1_1target__layer__distributed__minibatch.html#a6932c43b5996b9f90e4ebbc08b0ed316" title="lbann::target_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="232,165,384,221"/>
-<area shape="rect" id="node5" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a56413ddede333fc862b35fccb939a78b" title="lbann::target_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="232,245,384,301"/>
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch__parallel__io.html#a2ca3d853397e62184101325cd2b87f4d" title="lbann::input_layer\l_distributed_minibatch\l_parallel_io::fp_linearity" alt="" coords="233,5,391,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#afca413b0943350f2bd64164a5f268e0d" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io::fp_linearity" alt="" coords="233,85,391,141"/>
 </map>

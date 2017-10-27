@@ -1,0 +1,7 @@
+<map id="lbann_data::DataReader::MergePartialFromCodedStream" name="lbann_data::DataReader::MergePartialFromCodedStream">
+<area shape="rect" id="node2" href="$classlbann__data_1_1DataReader.html#a186b7039e75a21de5495c6a461223081" title="lbann_data::DataReader\l::add_mnist" alt="" coords="267,5,429,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1DataReader.html#a3c77798b082c5e302a243c25657ed536" title="lbann_data::DataReader\l::add_cifar10" alt="" coords="267,70,429,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1DataReader.html#abc72c96d74cccb31b9c885c37a346341" title="lbann_data::DataReader\l::add_imagenet" alt="" coords="267,135,429,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1DataReader.html#a243fcd9a5294afe9b4712972c80264e0" title="lbann_data::DataReader\l::add_nci" alt="" coords="267,201,429,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1DataReader.html#a09fca293def0f3b57b2a34f899ea3295" title="lbann_data::DataReader\l::add_nci_regression" alt="" coords="267,266,429,307"/>
+</map>

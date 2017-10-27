@@ -1,6 +1,0 @@
-<map id="lbann::sequential_model::setup" name="lbann::sequential_model::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="217,37,359,78"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#af61c38d8d5ce7dad5a74dcf459758dea" title="lbann::model::setup\l_callbacks" alt="" coords="220,102,356,143"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="409,5,551,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="409,70,551,111"/>
-</map>

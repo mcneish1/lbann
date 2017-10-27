@@ -1,5 +1,0 @@
-<map id="lbann::objective_functions::objective_fn::setup" name="lbann::objective_functions::objective_fn::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#a97731e2d01ad10b3b37d57d40e99e034" title="lbann::target_layer\l::setup_data" alt="" coords="227,53,357,94"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch.html#ab241e32c6b99419ca8ca4f934cee8b41" title="lbann::target_layer\l_distributed_minibatch\l::setup_data" alt="" coords="405,5,557,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a765ddabb22477da9810aa9eb3c374319" title="lbann::target_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="405,85,557,141"/>
-</map>

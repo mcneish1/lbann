@@ -1,6 +1,0 @@
-<map id="lbann::lbann_comm::rabenseifner_allreduce" name="lbann::lbann_comm::rabenseifner_allreduce">
-<area shape="rect" id="node2" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="222,5,333,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#ae925ac5eaf2895717c709b252961b3bf" title="lbann::lbann_comm::\lget_collective_buffer" alt="" coords="206,57,349,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#ad8f810130cd0cd3afd94700713b763b9" title="lbann::lbann_comm::\lis_rank_node_local" alt="" coords="206,122,349,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#aed7962a6affe4e72ffba35d9b0613fd9" title="lbann::lbann_comm::\lis_world_rank_on_node" alt="" coords="398,122,557,163"/>
-</map>

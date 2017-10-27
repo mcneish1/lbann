@@ -1,10 +1,9 @@
-<map id="lbann::metrics::mean_squared_error&lt; T_layout &gt;" name="lbann::metrics::mean_squared_error&lt; T_layout &gt;">
-<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="1046,107,1194,133"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="25,135,159,161"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="693,156,789,183"/>
-<area shape="rect" id="node6" href="$classlbann_1_1optimizer__factory.html" title="Optimizer factory base class. " alt="" coords="342,196,503,223"/>
-<area shape="rect" id="node4" href="$classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="659,32,824,59"/>
-<area shape="rect" id="node7" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="336,249,509,290"/>
-<area shape="rect" id="node9" href="$classlbann_1_1objective__functions_1_1mean__squared__error.html" title="lbann::objective_functions\l::mean_squared_error" alt="" coords="848,194,1021,235"/>
-<area shape="rect" id="node8" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="5,249,179,290"/>
+<map id="lbann::metrics::mean_squared_error" name="lbann::metrics::mean_squared_error">
+<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="987,107,1135,133"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="355,104,490,131"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="635,144,731,171"/>
+<area shape="rect" id="node4" href="$classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="600,31,765,57"/>
+<area shape="rect" id="node6" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="336,170,509,211"/>
+<area shape="rect" id="node8" href="$classlbann_1_1objective__functions_1_1mean__squared__error.html" title="lbann::objective_functions\l::mean_squared_error" alt="" coords="789,181,963,222"/>
+<area shape="rect" id="node7" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="5,170,179,211"/>
 </map>

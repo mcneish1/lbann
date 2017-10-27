@@ -1,6 +1,0 @@
-<map id="lbann::reconstruction_layer::summarize_stats" name="lbann::reconstruction_layer::summarize_stats">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="433,5,586,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1reconstruction__layer.html#a7ff16b30c6321ac044efeadf85302ce4" title="lbann::reconstruction\l_layer::average_cost" alt="" coords="230,34,373,75"/>
-<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a7f3f26e2ae0497f9a00fd6bc56b50543" title="lbann::Layer::summarize\l_stats" alt="" coords="219,99,384,141"/>
-<area shape="rect" id="node5" href="$classlbann_1_1Layer.html#a0a0f8e32e2b17953f87652f855ccfbf9" title="lbann::Layer::reset\l_counters" alt="" coords="444,99,575,141"/>
-</map>

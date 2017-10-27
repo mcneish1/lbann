@@ -1,4 +1,0 @@
-<map id="lbann::leaky_relu_layer::copy" name="lbann::leaky_relu_layer::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1leaky__relu__layer.html#ab09109a84db09628b3d497e2c21b1f91" title="lbann::leaky_relu_layer\l::leaky_relu_layer" alt="" coords="208,11,363,53"/>
-<area shape="rect" id="node3" href="$classlbann_1_1leaky__relu__layer.html#adafec019f36f6b7f08a166cb544bf295" title="lbann::leaky_relu_layer\l::initialize_distributed\l_matrices" alt="" coords="411,4,565,60"/>
-</map>

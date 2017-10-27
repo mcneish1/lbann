@@ -1,4 +1,0 @@
-<map id="lbann::dropout::copy" name="lbann::dropout::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1dropout.html#a4fed96ed9900eaaa78272880d56d4e4f" title="lbann::dropout::dropout" alt="" coords="195,12,349,39"/>
-<area shape="rect" id="node3" href="$classlbann_1_1dropout.html#af605d2ea7f99b3e6b655f71a0634d170" title="lbann::dropout::initialize\l_distributed_matrices" alt="" coords="398,5,557,46"/>
-</map>

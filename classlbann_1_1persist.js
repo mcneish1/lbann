@@ -2,11 +2,10 @@ var classlbann_1_1persist =
 [
     [ "persist", "classlbann_1_1persist.html#abf1454f4d5b61617ccfa60ba9989f1a3", null ],
     [ "~persist", "classlbann_1_1persist.html#ac0d475c0174f7dbd805a0b0603277cfa", null ],
-    [ "close_checkpoint", "classlbann_1_1persist.html#ab099939d0d91101fbfaf2b85e78be032", null ],
-    [ "close_restart", "classlbann_1_1persist.html#afeef05548e1d17bd09d3805607edd621", null ],
+    [ "close_checkpoint", "classlbann_1_1persist.html#a8baf1782b2a44174f37c26518e3197f6", null ],
+    [ "close_restart", "classlbann_1_1persist.html#a0edeadcf97c65980931511ca61e03465", null ],
     [ "get_bytes", "classlbann_1_1persist.html#a701c3fd5d5e383c9213499bd71b9cd22", null ],
     [ "get_fd", "classlbann_1_1persist.html#aaff6bf3f0afd070498b6117e51a56eb3", null ],
-    [ "get_rank", "classlbann_1_1persist.html#a7b3241dbf03d52f663c73088ae4ee78c", null ],
     [ "open_checkpoint", "classlbann_1_1persist.html#a5bb3c2effb859cf3ca2c5f297acc3195", null ],
     [ "open_restart", "classlbann_1_1persist.html#a8b1d8388246d8b959a7e85940439a0e6", null ],
     [ "read_bytes", "classlbann_1_1persist.html#af24f635f634c8cf30cf53a0e90ec641b", null ],

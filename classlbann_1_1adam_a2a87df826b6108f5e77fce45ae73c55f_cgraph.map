@@ -1,4 +1,0 @@
-<map id="lbann::adam::setup" name="lbann::adam::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1optimizer.html#a6eb6169ed46ad602339c7b0bc2633c37" title="Set parameters to optimize and initialize optimizer. " alt="" coords="187,5,341,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a483bf8a72d44a0e83da45f3d47bd20d4" title="lbann::lbann_comm::\lget_model_grid" alt="" coords="193,57,335,98"/>
-</map>

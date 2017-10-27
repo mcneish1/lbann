@@ -1,6 +1,0 @@
-<map id="lbann::model::get_effective_mini_batch_size" name="lbann::model::get_effective_mini_batch_size">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#a1080b7da9f1d30f5fcede31a0ba5e2a4" title="Convolution backward propagation with cuDNN. " alt="" coords="233,5,412,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1convolution__layer.html#add5788df11451dbdc7fc94b7b8b5bb45" title="Convolution backward propagation with im2col GEMM algorithm. " alt="" coords="232,70,413,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1fully__connected__layer.html#aece7db8bde8cb3dfc88726d2c0aae852" title="lbann::fully_connected\l_layer::bp_compute" alt="" coords="247,135,399,177"/>
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#ac223a97714153369c52db5b348f0dc15" title="lbann::convolution\l_layer::bp_compute" alt="" coords="461,38,597,79"/>
-</map>

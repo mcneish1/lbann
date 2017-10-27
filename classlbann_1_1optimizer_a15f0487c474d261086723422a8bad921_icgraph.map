@@ -1,5 +1,0 @@
-<map id="lbann::optimizer::update" name="lbann::optimizer::update">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#a3ebeeabc1f24d3aba169ee69aaad0717" title="Update convolution filters and biases. " alt="" coords="225,5,386,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1fully__connected__layer.html#a0e5eebd760f4e3762e15af2f0de2ff92" title="lbann::fully_connected\l_layer::update_compute" alt="" coords="225,70,386,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1batch__normalization.html#ada966e3ec503f6ef8361c4cd0aa423fb" title="lbann::batch_normalization\l::update_compute" alt="" coords="217,135,394,177"/>
-</map>

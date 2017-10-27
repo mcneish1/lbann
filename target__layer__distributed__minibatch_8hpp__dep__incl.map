@@ -1,9 +1,0 @@
-<map id="/home/travis/build/LLNL/lbann/include/lbann/layers/io/target/target_layer_distributed_minibatch.hpp" name="/home/travis/build/LLNL/lbann/include/lbann/layers/io/target/target_layer_distributed_minibatch.hpp">
-<area shape="rect" id="node2" href="$softmax_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/layers/activations\l/softmax.hpp" alt="" coords="104,139,267,210"/>
-<area shape="rect" id="node4" href="$lbann_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/lbann.hpp" alt="" coords="235,267,372,323"/>
-<area shape="rect" id="node3" href="$objective__fn__categorical__cross__entropy_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/objective\l_functions/objective_fn\l_categorical_cross_entropy.cpp" alt="" coords="5,259,211,330"/>
-<area shape="rect" id="node5" href="$proto__common_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/proto\l/proto_common.cpp" alt="" coords="63,483,209,539"/>
-<area shape="rect" id="node6" href="$params_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/params.hpp" alt="" coords="333,379,469,435"/>
-<area shape="rect" id="node8" href="$proto__common_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/proto/proto_common.hpp" alt="" coords="103,379,308,435"/>
-<area shape="rect" id="node7" href="$params_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/params.cpp" alt="" coords="308,490,495,531"/>
-</map>

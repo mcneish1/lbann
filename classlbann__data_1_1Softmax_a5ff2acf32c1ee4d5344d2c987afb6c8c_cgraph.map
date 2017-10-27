@@ -1,0 +1,6 @@
+<map id="lbann_data::Softmax::MergePartialFromCodedStream" name="lbann_data::Softmax::MergePartialFromCodedStream">
+<area shape="rect" id="node2" href="$classlbann__data_1_1Softmax.html#ae3e18e8293d61e13aefbcb75edaca0df" title="lbann_data::Softmax\l::mutable_weight_initialization" alt="" coords="267,5,463,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1Softmax.html#ab3ba40d2c48fd55f57bbc1f283dbe3ca" title="lbann_data::Softmax\l::weight_initialization" alt="" coords="294,70,437,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1Softmax.html#a26420319db41a9ced8196c26b577eda0" title="lbann_data::Softmax\l::mutable_activation_type" alt="" coords="280,135,451,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1Softmax.html#af06ba28585e56bb4aee0a5c84cdcfc68" title="lbann_data::Softmax\l::activation_type" alt="" coords="294,201,437,242"/>
+</map>

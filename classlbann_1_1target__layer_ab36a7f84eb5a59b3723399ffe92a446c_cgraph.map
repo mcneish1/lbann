@@ -1,10 +1,3 @@
 <map id="lbann::target_layer::epoch_print" name="lbann::target_layer::epoch_print">
-<area shape="rect" id="node2" href="$classlbann_1_1objective__functions_1_1objective__fn.html#a42e838b20ca5f1c6550ec2c8fe04500f" title="lbann::objective_functions\l::objective_fn::report_aggregate\l_avg_obj_fn" alt="" coords="184,5,389,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="215,85,358,126"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="459,143,602,185"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="215,202,358,243"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a142c396a4d4a2c16ee234b813e7e45a6" title="lbann::lbann_comm::\lintermodel_gather" alt="" coords="215,267,358,309"/>
-<area shape="rect" id="node9" href="$classlbann_1_1objective__functions_1_1objective__fn.html#af2305cce30d17eb4ac84ac4cd02425cb" title="lbann::objective_functions\l::objective_fn::name" alt="" coords="200,333,373,374"/>
-<area shape="rect" id="node3" href="$classlbann_1_1objective__functions_1_1objective__fn.html#a72da9f08ac5f3426d3c5ef15fd1c5a24" title="lbann::objective_functions\l::objective_fn::get_statistics" alt="" coords="437,13,624,54"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="459,78,602,119"/>
+<area shape="rect" id="node2" href="$lbann__base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="185,12,263,39"/>
 </map>

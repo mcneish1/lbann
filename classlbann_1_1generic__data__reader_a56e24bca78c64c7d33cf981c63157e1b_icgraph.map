@@ -1,8 +1,0 @@
-<map id="lbann::generic_data_reader::get_num_iterations_per_epoch" name="lbann::generic_data_reader::get_num_iterations_per_epoch">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#aa146b536ca27da2fef4694d2630ab339" title="lbann::io_layer::set\l_training_data_reader" alt="" coords="244,13,391,54"/>
-<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#aba5e15ea0d597ab10be1e18857190588" title="lbann::io_layer::set\l_validation_data_reader" alt="" coords="238,78,397,119"/>
-<area shape="rect" id="node5" href="$classlbann_1_1io__layer.html#a053ded9a9b4345a3d186ca9c12163a9c" title="lbann::io_layer::set\l_testing_data_reader" alt="" coords="246,143,389,185"/>
-<area shape="rect" id="node7" href="$classlbann_1_1generic__data__distribution.html#af4afbbc43219e10e8b5fbda2e722d150" title="lbann::generic_data\l_distribution::get_num\l_iterations_per_epoch" alt="" coords="242,208,393,264"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a0ae72f8b7c4592e4ff6604da900e586e" title="lbann::target_layer\l::set_training_data\l_reader" alt="" coords="466,5,595,61"/>
-<area shape="rect" id="node6" href="$classlbann_1_1target__layer.html#a48e185324f2cd2d96faa2a69408a3bfa" title="lbann::target_layer\l::set_testing_data_reader" alt="" coords="446,143,615,185"/>
-</map>

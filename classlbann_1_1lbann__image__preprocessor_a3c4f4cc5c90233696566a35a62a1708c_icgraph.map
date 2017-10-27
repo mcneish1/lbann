@@ -1,5 +1,0 @@
-<map id="lbann::lbann_image_preprocessor::internal_save_image" name="lbann::lbann_image_preprocessor::internal_save_image">
-<area shape="rect" id="node2" href="$classlbann_1_1cifar10__reader.html#a31b7bb67819272106133477e6dbf0eb4" title="lbann::cifar10_reader\l::save_image" alt="" coords="215,5,358,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1imagenet__reader.html#a04c2634d249ebcad986ad855a9fb3402" title="lbann::imagenet_reader\l::save_image" alt="" coords="208,70,365,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1mnist__reader.html#aeee3c078174a4978471aca43c358aaae" title="lbann::mnist_reader\l::save_image" alt="" coords="219,135,355,177"/>
-</map>

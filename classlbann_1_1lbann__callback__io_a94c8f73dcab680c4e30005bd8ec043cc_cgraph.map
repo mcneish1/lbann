@@ -1,10 +1,10 @@
 <map id="lbann::lbann_callback_io::on_test_end" name="lbann::lbann_callback_io::on_test_end">
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="212,5,377,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#ab6f53860dab77f0ce1d941d07360ef5a" title="lbann::model::get_layers" alt="" coords="213,56,377,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#aa0da8a58bab0e1de8e410c70b81a3427" title="lbann::Layer::get_index" alt="" coords="216,107,373,133"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="213,56,377,83"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#ab178f73070d2764151a7e6be2614acda" title="lbann::Layer::get_index" alt="" coords="216,107,373,133"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="223,158,366,199"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="223,223,366,265"/>
 <area shape="rect" id="node7" href="$classlbann_1_1io__layer.html#a7a7a678d96785ef6d0b11a04677307a5" title="lbann::io_layer::get\l_num_samples_tested" alt="" coords="218,289,371,330"/>
 <area shape="rect" id="node8" href="$classlbann_1_1io__layer.html#a877f6511133c2705b38522e8157a59d4" title="lbann::io_layer::get\l_total_num_testing_samples" alt="" coords="201,354,389,395"/>
-<area shape="rect" id="node9" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="221,419,368,461"/>
+<area shape="rect" id="node9" href="$classlbann_1_1model.html#a3f6f0384573e9ca4bea93ce0dbebfd28" title="lbann::model::get_cur\l_epoch" alt="" coords="221,419,368,461"/>
 </map>

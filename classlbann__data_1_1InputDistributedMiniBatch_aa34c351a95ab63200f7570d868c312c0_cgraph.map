@@ -1,0 +1,4 @@
+<map id="lbann_data::InputDistributedMiniBatch::CopyFrom" name="lbann_data::InputDistributedMiniBatch::CopyFrom">
+<area shape="rect" id="node2" href="$classlbann__data_1_1InputDistributedMiniBatch.html#a0c0bd411dad33e165f2815d7e073db7b" title="lbann_data::InputDistributed\lMiniBatch::Clear" alt="" coords="241,5,426,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1InputDistributedMiniBatch.html#a2aac8b19125af6e703307b5528bef40a" title="lbann_data::InputDistributed\lMiniBatch::MergeFrom" alt="" coords="241,70,426,111"/>
+</map>

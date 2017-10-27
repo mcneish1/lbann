@@ -1,9 +1,0 @@
-<map id="lbann::learning::get_weights_biases_gradient" name="lbann::learning::get_weights_biases_gradient">
-<area shape="rect" id="node2" href="$classlbann_1_1learning.html#ab874a3a28c20aebc87b794e7c6e5e875" title="lbann::learning::summarize\l_matrices" alt="" coords="241,5,420,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__checknan.html#a1514fb88dcc39cb6d4ec533f99030650" title="lbann::lbann_callback\l_checknan::on_backward\l_prop_end" alt="" coords="245,69,416,125"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checksmall.html#a28ccebaabaec140b9402ad057690640e" title="lbann::lbann_callback\l_checksmall::on_backward\l_prop_end" alt="" coords="241,149,421,205"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__dump__gradients.html#a781f771d7ebfc80310d316869bd74f71" title="lbann::lbann_callback\l_dump_gradients::on_backward\l_prop_end" alt="" coords="227,229,434,285"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__summary.html#a72a46c51527a02516584ce1e49e5cd29" title="lbann::lbann_callback\l_summary::save_histograms" alt="" coords="235,309,426,350"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__summary.html#aeb8e06dd4ccbe95486ae12d0d0600e55" title="lbann::lbann_callback\l_summary::on_train_begin" alt="" coords="483,275,658,317"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__summary.html#a718ae9cdda1c130bbe224f41d7b61bd5" title="lbann::lbann_callback\l_summary::on_epoch_end" alt="" coords="483,341,658,382"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="lbann::lbann_callback_summary::save_histograms" name="lbann::lbann_callback_summary::save_histograms">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__summary.html#aeb8e06dd4ccbe95486ae12d0d0600e55" title="lbann::lbann_callback\l_summary::on_train_begin" alt="" coords="246,5,421,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__summary.html#a718ae9cdda1c130bbe224f41d7b61bd5" title="lbann::lbann_callback\l_summary::on_epoch_end" alt="" coords="246,70,421,111"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="lbann::io_layer::setup_data_readers_for_evaluation" name="lbann::io_layer::setup_data_readers_for_evaluation">
-<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#a474e31f6f68cb2ed837796638d89a644" title="lbann::generic_data\l_reader::setup" alt="" coords="246,38,381,79"/>
-<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a331dae0b9f00fe21d2fbbeade4047bc8" title="lbann::generic_data\l_reader::getNumData" alt="" coords="429,5,576,46"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#aba9d11cb3a739cd84e7234ceeb32d098" title="lbann::get_data_seq\l_generator" alt="" coords="433,70,572,111"/>
-</map>

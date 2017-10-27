@@ -1,8 +1,0 @@
-<map id="/home/travis/build/LLNL/lbann/include/lbann/callbacks/callback_learning_rate.hpp" name="/home/travis/build/LLNL/lbann/include/lbann/callbacks/callback_learning_rate.hpp">
-<area shape="rect" id="node2" href="$callback__learning__rate_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/callbacks\l/callback_learning_rate.cpp" alt="" coords="5,125,184,181"/>
-<area shape="rect" id="node3" href="$lbann_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/lbann.hpp" alt="" coords="209,125,345,181"/>
-<area shape="rect" id="node4" href="$proto__common_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/proto\l/proto_common.cpp" alt="" coords="35,333,181,389"/>
-<area shape="rect" id="node5" href="$params_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/params.hpp" alt="" coords="306,229,443,285"/>
-<area shape="rect" id="node7" href="$proto__common_8hpp.html" title="/home/travis/build\l/LLNL/lbann/include\l/lbann/proto/proto_common.hpp" alt="" coords="76,229,281,285"/>
-<area shape="rect" id="node6" href="$params_8cpp.html" title="/home/travis/build\l/LLNL/lbann/src/params.cpp" alt="" coords="281,341,468,382"/>
-</map>

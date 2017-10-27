@@ -2,9 +2,7 @@
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="253,5,419,32"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="265,57,407,98"/>
 <area shape="rect" id="node4" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="224,123,448,149"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#ab6f53860dab77f0ce1d941d07360ef5a" title="lbann::model::get_layers" alt="" coords="254,173,418,200"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__imcomm.html#a4f38fa45a0f7a8b290f6d2b701d20622" title="lbann::lbann_callback\l_imcomm::ct_does_quantization" alt="" coords="231,225,441,266"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a68b36ba64db34f33cb135bc64c4623e0" title="lbann::lbann_comm::\lintermodel_sum_matrix" alt="" coords="257,290,415,331"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__imcomm.html#ab263486c1b9943be2a7b7e9d35d13602" title="lbann::lbann_callback\l_imcomm::reshape_mat" alt="" coords="255,355,417,397"/>
-<area shape="rect" id="node9" href="$classlbann_1_1learning.html#a61bfaebb32af9ba8e284fa96137f9883" title="lbann::learning::get\l_weights_gradient" alt="" coords="270,421,402,462"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__imcomm.html#ad3a9f43ceb08af462ce9d378e70bd76d" title="lbann::lbann_callback\l_imcomm::ct_does_quantization" alt="" coords="231,174,441,215"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="254,240,418,267"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a68b36ba64db34f33cb135bc64c4623e0" title="lbann::lbann_comm::\lintermodel_sum_matrix" alt="" coords="257,291,415,333"/>
 </map>

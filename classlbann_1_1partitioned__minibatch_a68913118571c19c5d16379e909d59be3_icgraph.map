@@ -1,4 +1,0 @@
-<map id="lbann::partitioned_minibatch::calculate_num_iterations_per_epoch" name="lbann::partitioned_minibatch::calculate_num_iterations_per_epoch">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a8ddb5abe2b6fa88233fe43170944d8a5" title="lbann::input_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="235,5,387,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a765ddabb22477da9810aa9eb3c374319" title="lbann::target_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="235,85,387,141"/>
-</map>

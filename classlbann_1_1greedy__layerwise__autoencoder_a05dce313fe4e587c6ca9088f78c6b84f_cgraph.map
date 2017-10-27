@@ -1,12 +1,7 @@
 <map id="lbann::greedy_layerwise_autoencoder::load_from_checkpoint_shared" name="lbann::greedy_layerwise_autoencoder::load_from_checkpoint_shared">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a7b3241dbf03d52f663c73088ae4ee78c" title="lbann::persist::get_rank" alt="" coords="667,5,826,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#ace1ebb58e2570693cdce0ebd2817113b" title="lbann::persist::read\l_uint32" alt="" coords="680,122,813,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9531d27227598e0f28a6fc04ef672ebf" title="Inserts a mirror layer for specified layer index. " alt="" coords="219,210,399,251"/>
-<area shape="rect" id="node9" href="$classlbann_1_1sequential__model.html#afacd6b4f8ae045e6bc9ed2b8a2e1afa6" title="lbann::sequential_model\l::load_from_checkpoint\l_shared" alt="" coords="228,79,391,135"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#a85385e2a9e058b6720300b4cbdd2b1d0" title="lbann::read_bytes" alt="" coords="875,97,1000,124"/>
-<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a5dfb66e81fc085997402a5e2241316bd" title="lbann::Layer::get_data\l_layout" alt="" coords="458,291,609,333"/>
-<area shape="rect" id="node7" href="$classlbann_1_1sequential__model.html#ae992c83737819d406e1311ebe24e07f0" title="Insert layer in sequential model. " alt="" coords="452,174,615,215"/>
-<area shape="rect" id="node8" href="$classlbann_1_1model.html#a0d278ffa94dd6749e017c2af5c78178d" title="lbann::model::setup" alt="" coords="465,240,601,267"/>
-<area shape="rect" id="node10" href="$classlbann_1_1model.html#a2e02dda11636e015ea0c892ffa541881" title="lbann::model::load\l_from_checkpoint_shared" alt="" coords="448,57,619,98"/>
-<area shape="rect" id="node11" href="$classlbann_1_1persist.html#aa6d996db3714a7ae055adac0d8e8ac63" title="lbann::persist::read\l_uint64" alt="" coords="680,57,813,98"/>
+<area shape="rect" id="node2" href="$classlbann_1_1persist.html#ace1ebb58e2570693cdce0ebd2817113b" title="lbann::persist::read\l_uint32" alt="" coords="648,25,781,66"/>
+<area shape="rect" id="node4" href="$classlbann_1_1sequential__model.html#afacd6b4f8ae045e6bc9ed2b8a2e1afa6" title="lbann::sequential_model\l::load_from_checkpoint\l_shared" alt="" coords="219,36,381,92"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#a85385e2a9e058b6720300b4cbdd2b1d0" title="lbann::read_bytes" alt="" coords="829,65,955,92"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a2e02dda11636e015ea0c892ffa541881" title="lbann::model::load\l_from_checkpoint_shared" alt="" coords="429,87,600,129"/>
+<area shape="rect" id="node6" href="$classlbann_1_1persist.html#aa6d996db3714a7ae055adac0d8e8ac63" title="lbann::persist::read\l_uint64" alt="" coords="648,90,781,131"/>
 </map>

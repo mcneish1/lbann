@@ -1,0 +1,5 @@
+<map id="lbann_data::DataReaderCifar10::operator=" name="lbann_data::DataReaderCifar10::operator=">
+<area shape="rect" id="node2" href="$classlbann__data_1_1DataReaderCifar10.html#a8337e2da3a8b8e1b4dcb827f2b0fafb6" title="lbann_data::DataReaderCifar10\l::CopyFrom" alt="" coords="259,38,464,79"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1DataReaderCifar10.html#a2bcaff87b41554a53fe11b59992f30c3" title="lbann_data::DataReaderCifar10\l::Clear" alt="" coords="512,5,717,46"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1DataReaderCifar10.html#aa1ba7014095d0b5429d35c34cda81908" title="lbann_data::DataReaderCifar10\l::MergeFrom" alt="" coords="512,70,717,111"/>
+</map>

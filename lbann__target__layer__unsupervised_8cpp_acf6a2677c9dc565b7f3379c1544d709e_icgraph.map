@@ -1,0 +1,5 @@
+<map id="m_weight_initialization" name="m_weight_initialization">
+<area shape="rect" id="node2" href="$classlbann_1_1FullyConnectedLayer.html#a814e23d0abe277389426d3a6270d2db1" title="lbann::FullyConnectedLayer\l::setup" alt="" coords="208,5,392,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1SoftmaxLayer.html#ae9e5733f6d95b0d682c9d0763119deec" title="lbann::SoftmaxLayer\l::setup" alt="" coords="229,70,371,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1target__layer__unsupervised.html#a2c42556340f1f7a695ad39c85b9a0c10" title="lbann::target_layer\l_unsupervised::setup" alt="" coords="227,135,373,177"/>
+</map>

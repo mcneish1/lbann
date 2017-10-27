@@ -1,11 +1,8 @@
 <map id="lbann::lbann_callback_summary::on_epoch_end" name="lbann::lbann_callback_summary::on_epoch_end">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a1f27034e3877c7e32c57bcdd673f781d" title="lbann::model::get_metrics" alt="" coords="239,5,411,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="249,57,402,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="469,97,648,124"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__summary.html#a72a46c51527a02516584ce1e49e5cd29" title="lbann::lbann_callback\l_summary::save_histograms" alt="" coords="230,174,421,215"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__summary.html#afca72ec49f3e813b6563285a2153a5be" title="lbann::lbann_summary\l::flush" alt="" coords="249,239,402,281"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#ab6f53860dab77f0ce1d941d07360ef5a" title="lbann::model::get_layers" alt="" coords="477,148,641,175"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__summary.html#a751dd6388848304f6ec2912779590372" title="lbann::lbann_summary\l::reduce_histogram" alt="" coords="482,199,635,241"/>
-<area shape="rect" id="node8" href="$classlbann_1_1learning.html#a4081d1cf0da2905c4243d793aebb85df" title="lbann::learning::get\l_weights_biases" alt="" coords="493,265,625,306"/>
-<area shape="rect" id="node9" href="$classlbann_1_1learning.html#a4790878da2dfa939f844ea83073183d7" title="lbann::learning::get\l_weights_biases_gradient" alt="" coords="473,330,645,371"/>
+<area shape="rect" id="node2" href="$lbann__base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="279,5,358,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html#aacd54e77d45bd1bd56df3a4d71c01ce8" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="242,57,395,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a6fb1e6b55fe9f7ecb70759a9c50a20c5" title="lbann::model::get_cur_step" alt="" coords="229,123,408,149"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="237,173,401,200"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__summary.html#ae5d1a49baa1dfbe939a8142b4adaa135" title="lbann::lbann_summary\l::reduce_histogram" alt="" coords="242,225,395,266"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__summary.html#afca72ec49f3e813b6563285a2153a5be" title="lbann::lbann_summary\l::flush" alt="" coords="242,290,395,331"/>
 </map>

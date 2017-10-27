@@ -1,5 +1,0 @@
-<map id="lbann::convolution_layer::copy" name="lbann::convolution_layer::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#af870eeff405bdb252a7c02415b2cd26e" title="lbann::convolution\l_layer::convolution_layer" alt="" coords="182,46,349,87"/>
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#a60eaabd89fc3900bbf0bb840482b8f20" title="lbann::convolution\l_layer::initialize_distributed\l_matrices" alt="" coords="397,5,576,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a483bf8a72d44a0e83da45f3d47bd20d4" title="lbann::lbann_comm::\lget_model_grid" alt="" coords="625,46,767,87"/>
-</map>

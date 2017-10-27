@@ -1,8 +1,0 @@
-<map id="lbann::sum_layer::copy" name="lbann::sum_layer::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1sum__layer.html#a6cbb8f6936cd4657269ce93a03de921d" title="Constructor. " alt="" coords="211,38,365,79"/>
-<area shape="rect" id="node3" href="$classlbann_1_1sum__layer.html#a9e5a5807d8aaea52340c7c79ebd65b96" title="lbann::sum_layer::initialize\l_distributed_matrices" alt="" coords="413,5,589,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1sum__layer.html#af39d3911290728c908e1f9e7a909f427" title="lbann::sum_layer::add\l_parent" alt="" coords="426,70,577,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="638,70,781,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="830,37,973,78"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="830,102,973,143"/>
-</map>

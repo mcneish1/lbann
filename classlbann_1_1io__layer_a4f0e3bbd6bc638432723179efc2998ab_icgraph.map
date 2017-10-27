@@ -1,6 +1,3 @@
 <map id="lbann::io_layer::at_new_epoch" name="lbann::io_layer::at_new_epoch">
-<area shape="rect" id="node2" href="$classlbann_1_1sequential__model.html#acc7bcdbc4ade874d6e2fd4e1e5e54f0c" title="lbann::sequential_model\l::at_epoch_start" alt="" coords="179,38,341,79"/>
-<area shape="rect" id="node3" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="412,5,543,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9ccd3dbaef125a5cd993307be7d11ba4" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="390,70,565,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aa600aaacda4275602021b612e1a36e9f" title="Train neural network. " alt="" coords="613,70,776,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1sequential__model.html#acc7bcdbc4ade874d6e2fd4e1e5e54f0c" title="lbann::sequential_model\l::at_epoch_start" alt="" coords="179,5,341,46"/>
 </map>

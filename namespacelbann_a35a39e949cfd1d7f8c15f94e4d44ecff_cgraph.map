@@ -1,6 +1,0 @@
-<map id="lbann::write_latest" name="lbann::write_latest">
-<area shape="rect" id="node2" href="$namespacelbann.html#af596e6d2be603e9cf808c98f5412490a" title="lbann::openwrite" alt="" coords="188,5,305,32"/>
-<area shape="rect" id="node3" href="$namespacelbann.html#a3a801c9f48655f81b886af4bff083f27" title="lbann::write_uint32" alt="" coords="181,56,312,83"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#aceeccedbbafccfa071b21ee99be794a5" title="lbann::closewrite" alt="" coords="187,107,307,133"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="360,56,488,83"/>
-</map>

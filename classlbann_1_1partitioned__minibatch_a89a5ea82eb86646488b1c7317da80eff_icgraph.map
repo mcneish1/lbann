@@ -1,4 +1,0 @@
-<map id="lbann::partitioned_minibatch::is_data_set_processed" name="lbann::partitioned_minibatch::is_data_set_processed">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a98411fb24c6b4d262ac1212af18bd94b" title="lbann::input_layer\l_partitioned_minibatch\l::update_compute" alt="" coords="189,5,341,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__partitioned__minibatch.html#aaac73489273aec56cfad2f29e53f90a2" title="lbann::target_layer\l_partitioned_minibatch\l::update_compute" alt="" coords="189,85,341,141"/>
-</map>

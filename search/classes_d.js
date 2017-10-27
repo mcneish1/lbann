@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['objective_5ffn',['objective_fn',['../classlbann_1_1objective__functions_1_1objective__fn.html',1,'lbann::objective_functions']]],
-  ['optimizer',['optimizer',['../classlbann_1_1optimizer.html',1,'lbann']]],
-  ['optimizer_5ffactory',['optimizer_factory',['../classlbann_1_1optimizer__factory.html',1,'lbann']]],
-  ['options',['options',['../classoptions.html',1,'']]]
+  ['performanceparams',['PerformanceParams',['../classlbann_1_1PerformanceParams.html',1,'lbann']]],
+  ['performanceparams',['PerformanceParams',['../classlbann__data_1_1PerformanceParams.html',1,'lbann_data']]],
+  ['persist',['persist',['../classlbann_1_1persist.html',1,'lbann']]],
+  ['pooling',['Pooling',['../classlbann__data_1_1Pooling.html',1,'lbann_data']]],
+  ['pooling_5flayer',['pooling_layer',['../classlbann_1_1pooling__layer.html',1,'lbann']]]
 ];

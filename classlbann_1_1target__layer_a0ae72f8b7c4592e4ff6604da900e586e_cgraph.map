@@ -1,5 +1,0 @@
-<map id="lbann::target_layer::set_training_data_reader" name="lbann::target_layer::set_training_data_reader">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#aa146b536ca27da2fef4694d2630ab339" title="lbann::io_layer::set\l_training_data_reader" alt="" coords="184,41,331,82"/>
-<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a331dae0b9f00fe21d2fbbeade4047bc8" title="lbann::generic_data\l_reader::getNumData" alt="" coords="397,5,544,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="lbann::generic_data\l_reader::get_num_iterations\l_per_epoch" alt="" coords="379,69,562,125"/>
-</map>

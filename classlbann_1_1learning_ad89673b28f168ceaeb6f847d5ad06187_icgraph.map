@@ -1,4 +1,0 @@
-<map id="lbann::learning::l2_regularize" name="lbann::learning::l2_regularize">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#a3ebeeabc1f24d3aba169ee69aaad0717" title="Update convolution filters and biases. " alt="" coords="179,5,341,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1fully__connected__layer.html#a0e5eebd760f4e3762e15af2f0de2ff92" title="lbann::fully_connected\l_layer::update_compute" alt="" coords="179,70,341,111"/>
-</map>

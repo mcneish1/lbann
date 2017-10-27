@@ -1,9 +1,0 @@
-<map id="init_model" name="init_model">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a9694bfc0e75fd68c2c0cac768fab323e" title="lbann::model::model" alt="" coords="180,5,319,32"/>
-<area shape="rect" id="node3" href="$proto__common_8cpp.html#acf81b14e87938b50bb380a34773fa135" title="get_data_layout" alt="" coords="192,56,307,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#adbb03deb321b99e8dbdbe65d7e1a423e" title="lbann::model::add_metric" alt="" coords="165,107,333,133"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a2707333b9bef9650334b25caf4d099f2" title="lbann::model::set_checkpoint_dir" alt="" coords="143,157,356,184"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a5638934d2f9b2b4bb7f0265cd4bccf93" title="lbann::model::set_checkpoint\l_epochs" alt="" coords="153,209,345,250"/>
-<area shape="rect" id="node7" href="$classlbann_1_1model.html#a8628a003ba3b086e4cb7c8a6cd6e95e8" title="lbann::model::set_checkpoint\l_steps" alt="" coords="153,274,345,315"/>
-<area shape="rect" id="node8" href="$classlbann_1_1model.html#a4332ad949eb1733fcb2a0a6e6c9f56e9" title="lbann::model::set_checkpoint_secs" alt="" coords="136,340,363,367"/>
-</map>

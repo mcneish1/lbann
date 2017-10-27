@@ -1,8 +1,0 @@
-<map id="lbann::optimizer::copy" name="lbann::optimizer::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1learning.html#a5e6cb1233ee7dbd62353b00a3b911fb1" title="lbann::learning::learning" alt="" coords="215,5,374,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1learning.html#a0a84db7ba4ca325d7f4fc5f7713142e6" title="lbann::learning::operator=" alt="" coords="210,56,379,83"/>
-<area shape="rect" id="node6" href="$classlbann_1_1batch__normalization.html#a62e642fc7c064a49826e5d4a10a87e5c" title="lbann::batch_normalization\l::batch_normalization" alt="" coords="206,107,383,149"/>
-<area shape="rect" id="node7" href="$classlbann_1_1batch__normalization.html#aeb3c03a8dd166a64a77a26ee06ba81cd" title="lbann::batch_normalization\l::operator=" alt="" coords="206,173,383,214"/>
-<area shape="rect" id="node4" href="$classlbann_1_1convolution__layer.html#ae92c4059e1c6ac6cf5064769d7d21c61" title="lbann::convolution\l_layer::operator=" alt="" coords="445,17,571,58"/>
-<area shape="rect" id="node5" href="$classlbann_1_1fully__connected__layer.html#ab06d01021d4e89cd2f4f64c330e7cc31" title="lbann::fully_connected\l_layer::operator=" alt="" coords="432,82,584,123"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="lbann::target_layer::setup" name="lbann::target_layer::setup">
+<area shape="rect" id="node2" href="$classlbann_1_1target__layer__distributed__minibatch.html#ae10872bc60397e7fbb658c4cd2682856" title="lbann::target_layer\l_distributed_minibatch\l::setup" alt="" coords="184,5,336,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#ae3d33d5cbe949783e2ef489bc771a721" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io::setup" alt="" coords="184,85,336,141"/>
+</map>

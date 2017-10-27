@@ -1,7 +1,0 @@
-<map id="lbann::io_layer::is_for_regression" name="lbann::io_layer::is_for_regression">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#a3c39307b9bc8166e5034488344445d1e" title="lbann::io_layer::get\l_linearized_label_size" alt="" coords="188,5,337,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#adf6ad69a74e097cfbd02d0a75ee1d5c1" title="lbann::target_layer\l::setup_dims" alt="" coords="395,34,525,75"/>
-<area shape="rect" id="node5" href="$classlbann_1_1target__layer__distributed__minibatch.html#ab8335a2fe62461f578c14eba35087480" title="lbann::target_layer\l_distributed_minibatch\l::fetch_from_data_reader" alt="" coords="179,121,346,177"/>
-<area shape="rect" id="node6" href="$classlbann_1_1target__layer__partitioned__minibatch.html#ad399c7cdb14e7a28b57c8b1ddf8ef16b" title="lbann::target_layer\l_partitioned_minibatch\l::fetch_from_data_reader" alt="" coords="179,201,346,257"/>
-<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#aa97e3fe29a20b5ba4e4c974545df6a2c" title="lbann::reconstruction\l_layer::setup_dims" alt="" coords="574,34,717,75"/>
-</map>

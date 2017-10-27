@@ -1,4 +1,0 @@
-<map id="lbann::batch_normalization::copy" name="lbann::batch_normalization::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1batch__normalization.html#afa3ea9823fc6b5621ab6a1596763f83c" title="lbann::batch_normalization\l::batch_normalization" alt="" coords="233,11,410,53"/>
-<area shape="rect" id="node3" href="$classlbann_1_1batch__normalization.html#a72ed9e68b0cabab1eb6a38a7eccfa181" title="lbann::batch_normalization\l::initialize_distributed\l_matrices" alt="" coords="459,4,637,60"/>
-</map>

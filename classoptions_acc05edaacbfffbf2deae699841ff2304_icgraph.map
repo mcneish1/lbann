@@ -1,4 +1,0 @@
-<map id="options::get_float" name="options::get_float">
-<area shape="rect" id="node2" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="349,5,501,32"/>
-<area shape="rect" id="node3" href="$classoptions.html#ae7a5724217b83473c649ee6f1f4fda7a" title="Returns true if the database contains the option. " alt="" coords="176,31,301,57"/>
-</map>

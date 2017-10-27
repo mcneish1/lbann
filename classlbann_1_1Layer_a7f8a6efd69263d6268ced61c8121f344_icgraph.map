@@ -1,9 +1,0 @@
-<map id="lbann::Layer::get_execution_mode" name="lbann::Layer::get_execution_mode">
-<area shape="rect" id="node2" href="$classlbann_1_1batch__normalization.html#af900dea1f07987cd56471a441c5f2f71" title="lbann::batch_normalization\l::fp_compute" alt="" coords="275,5,453,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1batch__normalization.html#a121ba408814e3c2537b2cf015a35ea4a" title="lbann::batch_normalization\l::bp_compute" alt="" coords="275,70,453,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1batch__normalization.html#ada966e3ec503f6ef8361c4cd0aa423fb" title="lbann::batch_normalization\l::update_compute" alt="" coords="275,135,453,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1dropout.html#ab7fa84c3915f5ceac8eed28a183e4ff1" title="lbann::dropout::fp\l_compute" alt="" coords="303,201,425,242"/>
-<area shape="rect" id="node6" href="$classlbann_1_1dropout.html#a619e2c4a87db449d5c18c072b24747ee" title="lbann::dropout::bp\l_compute" alt="" coords="301,266,427,307"/>
-<area shape="rect" id="node7" href="$classlbann_1_1selu__dropout.html#ab37a90f9d582454dc06ef569db1a9601" title="lbann::selu_dropout\l::fp_compute" alt="" coords="297,331,431,373"/>
-<area shape="rect" id="node8" href="$classlbann_1_1selu__dropout.html#a616165378e62f80cb83527b52328293b" title="lbann::selu_dropout\l::bp_compute" alt="" coords="297,397,431,438"/>
-</map>

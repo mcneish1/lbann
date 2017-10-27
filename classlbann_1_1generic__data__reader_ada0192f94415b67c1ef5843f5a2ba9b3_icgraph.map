@@ -1,4 +1,0 @@
-<map id="lbann::generic_data_reader::position_valid" name="lbann::generic_data_reader::position_valid">
-<area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader.html#a878511ef3b73367f0261336033877dbe" title="to feed multiple layer stacks per sample " alt="" coords="224,5,381,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1imagenet__readerSingle__cv.html#a55fd90fb79ec63e14bafcf643f5b9651" title="lbann::imagenet_readerSingle\l_cv::fetch_data" alt="" coords="206,70,399,111"/>
-</map>

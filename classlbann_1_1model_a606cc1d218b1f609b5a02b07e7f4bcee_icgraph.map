@@ -1,6 +1,0 @@
-<map id="lbann::model::at_epoch_start" name="lbann::model::at_epoch_start">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a94fccb9e764f50f437689ef6292e7ff1" title="Returns true if a checkpoint should be taken, false otherwise. " alt="" coords="211,38,343,79"/>
-<area shape="rect" id="node3" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="415,5,545,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9ccd3dbaef125a5cd993307be7d11ba4" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="393,70,567,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aa600aaacda4275602021b612e1a36e9f" title="Train neural network. " alt="" coords="616,70,779,111"/>
-</map>

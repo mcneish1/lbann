@@ -1,11 +1,6 @@
 <map id="lbann::lbann_callback_save_images::on_phase_end" name="lbann::lbann_callback_save_images::on_phase_end">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#ab6f53860dab77f0ce1d941d07360ef5a" title="lbann::model::get_layers" alt="" coords="263,5,427,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a8aedadfbdd6b946cfa3cb9e8bbd16d03" title="lbann::model::get_current\l_phase" alt="" coords="261,57,430,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="272,122,419,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__save__images.html#a82367af43521153dd4449ac028bb8393" title="lbann::lbann_callback\l_save_images::save_image" alt="" coords="253,187,437,229"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="485,136,651,163"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="497,187,639,229"/>
-<area shape="rect" id="node10" href="$classlbann_1_1generic__data__reader.html#a030e7521ba0c120f9519495efcf0cf3c" title="lbann::generic_data\l_reader::save_image" alt="" coords="497,253,639,294"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="699,154,842,195"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="699,219,842,261"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="263,5,427,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#aaac76906df59991f6adcf354b4b1b570" title="lbann::model::get_current\l_phase" alt="" coords="261,57,430,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__save__images.html#a9739e7fd2b9b28397d9849066790a338" title="lbann::lbann_callback\l_save_images::save_image" alt="" coords="253,122,437,163"/>
+<area shape="rect" id="node5" href="$classlbann_1_1DataReader.html#ace9dcc14b29fad80a394bd952f122a72" title="lbann::DataReader::\lsave_image" alt="" coords="485,122,624,163"/>
 </map>

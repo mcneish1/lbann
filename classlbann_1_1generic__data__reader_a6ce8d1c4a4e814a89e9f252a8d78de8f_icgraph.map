@@ -1,5 +1,0 @@
-<map id="lbann::generic_data_reader::get_linearized_label_size" name="lbann::generic_data_reader::get_linearized_label_size">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#a3c39307b9bc8166e5034488344445d1e" title="lbann::io_layer::get\l_linearized_label_size" alt="" coords="208,11,357,53"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#adf6ad69a74e097cfbd02d0a75ee1d5c1" title="lbann::target_layer\l::setup_dims" alt="" coords="406,11,535,53"/>
-<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#aa97e3fe29a20b5ba4e4c974545df6a2c" title="lbann::reconstruction\l_layer::setup_dims" alt="" coords="585,11,727,53"/>
-</map>

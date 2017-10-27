@@ -1,0 +1,9 @@
+<map id="lbann::SoftmaxLayer::setup" name="lbann::SoftmaxLayer::setup">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a20442464265da1cb2aeb1cf82640702f" title="lbann::Layer::setup" alt="" coords="208,5,341,32"/>
+<area shape="rect" id="node3" href="$lbann__target__layer__unsupervised_8cpp.html#acf6a2677c9dc565b7f3379c1544d709e" title="m_weight_initialization" alt="" coords="198,56,351,83"/>
+<area shape="rect" id="node4" href="$namespacelbann.html#acd76b03f2b7ee00ad7c8ba83a20d1866" title="lbann::uniform_fill" alt="" coords="213,107,337,133"/>
+<area shape="rect" id="node7" href="$namespacelbann.html#a057b6c1efb3f6fcbe8ebe08f8506fee1" title="lbann::gaussian_fill" alt="" coords="208,161,341,188"/>
+<area shape="rect" id="node5" href="$namespacelbann.html#a5cd1cf097449bfd5bed0246819cddd13" title="lbann::uniform_fill\l_procdet" alt="" coords="405,95,529,137"/>
+<area shape="rect" id="node6" href="$namespacelbann.html#a4fea7ba21017b49d1e34394b4c20c764" title="lbann::get_generator" alt="" coords="582,136,722,163"/>
+<area shape="rect" id="node8" href="$namespacelbann.html#a4fab058e5091cf12e918d879c340f125" title="lbann::gaussian_fill\l_procdet" alt="" coords="400,161,533,202"/>
+</map>

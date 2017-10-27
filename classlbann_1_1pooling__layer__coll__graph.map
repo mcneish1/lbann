@@ -1,10 +1,10 @@
-<map id="lbann::pooling_layer&lt; T_layout &gt;" name="lbann::pooling_layer&lt; T_layout &gt;">
-<area shape="rect" id="node2" href="$classlbann_1_1transform.html" title="lbann::transform" alt="" coords="142,419,257,445"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="153,340,247,367"/>
-<area shape="rect" id="node4" href="$classcudnn_1_1cudnn__manager.html" title="cudnn::cudnn_manager" alt="" coords="5,248,163,275"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="211,13,345,40"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="285,248,381,275"/>
-<area shape="rect" id="node7" href="$classlbann_1_1optimizer__factory.html" title="Optimizer factory base class. " alt="" coords="362,149,523,176"/>
-<area shape="rect" id="node8" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="548,142,721,183"/>
-<area shape="rect" id="node9" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="548,6,721,47"/>
+<map id="lbann::pooling_layer" name="lbann::pooling_layer">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="204,347,297,373"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="5,149,139,176"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="137,248,233,275"/>
+<area shape="rect" id="node5" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="164,142,337,183"/>
+<area shape="rect" id="node6" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="164,6,337,47"/>
+<area shape="rect" id="node7" href="$classlbann_1_1Optimizer.html" title="lbann::Optimizer" alt="" coords="275,248,391,275"/>
+<area shape="rect" id="node8" href="$classlbann_1_1Activation.html" title="lbann::Activation" alt="" coords="415,248,533,275"/>
+<area shape="rect" id="node9" href="$classcudnn_1_1cudnn__pooling__layer.html" title="cudnn::cudnn_pooling\l_layer" alt="" coords="322,339,469,381"/>
 </map>

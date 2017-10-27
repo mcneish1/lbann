@@ -1,8 +1,7 @@
 <map id="lbann::greedy_layerwise_autoencoder::save_to_checkpoint_shared" name="lbann::greedy_layerwise_autoencoder::save_to_checkpoint_shared">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a7b3241dbf03d52f663c73088ae4ee78c" title="lbann::persist::get_rank" alt="" coords="662,5,821,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#a742334568de0aca958dbaf7bbabd3cba" title="lbann::persist::write\l_uint32" alt="" coords="673,122,809,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1sequential__model.html#abd91f8469ac7a5d73df540d12936cf4a" title="lbann::sequential_model\l::save_to_checkpoint_shared" alt="" coords="216,57,408,98"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="869,97,997,124"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a41098c2b2b23e49cdbe8746ef7cac5c8" title="lbann::model::save\l_to_checkpoint_shared" alt="" coords="457,57,613,98"/>
-<area shape="rect" id="node7" href="$classlbann_1_1persist.html#aced95e3bc711276b072af97b65ef9fc1" title="lbann::persist::write\l_uint64" alt="" coords="673,57,809,98"/>
+<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a742334568de0aca958dbaf7bbabd3cba" title="lbann::persist::write\l_uint32" alt="" coords="661,30,797,71"/>
+<area shape="rect" id="node4" href="$classlbann_1_1sequential__model.html#abd91f8469ac7a5d73df540d12936cf4a" title="lbann::sequential_model\l::save_to_checkpoint_shared" alt="" coords="216,42,408,83"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="845,71,973,97"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a41098c2b2b23e49cdbe8746ef7cac5c8" title="lbann::model::save\l_to_checkpoint_shared" alt="" coords="457,93,613,134"/>
+<area shape="rect" id="node6" href="$classlbann_1_1persist.html#aced95e3bc711276b072af97b65ef9fc1" title="lbann::persist::write\l_uint64" alt="" coords="661,95,797,137"/>
 </map>

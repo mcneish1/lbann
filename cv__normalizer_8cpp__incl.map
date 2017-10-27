@@ -1,9 +1,0 @@
-<map id="/home/travis/build/LLNL/lbann/src/data_readers/cv_normalizer.cpp" name="/home/travis/build/LLNL/lbann/src/data_readers/cv_normalizer.cpp">
-<area shape="rect" id="node2" href="$cv__normalizer_8hpp.html" title="lbann/data_readers\l/cv_normalizer.hpp" alt="" coords="326,110,457,151"/>
-<area shape="rect" id="node9" href="$mild__exception_8hpp.html" title="lbann/utils/mild_exception.hpp" alt="" coords="472,208,669,235"/>
-<area shape="rect" id="node3" href="$cv__transform_8hpp.html" title="cv_transform.hpp" alt="" coords="5,208,128,235"/>
-<area shape="rect" id="node5" href="$patchworks__opencv_8hpp.html" title="patchworks/patchworks\l_opencv.hpp" alt="" coords="152,201,311,242"/>
-<area shape="rect" id="node6" href="$base_8hpp.html" title="lbann/base.hpp" alt="" coords="337,208,447,235"/>
-<area shape="rect" id="node4" href="$opencv_8hpp.html" title="opencv.hpp" alt="" coords="22,291,111,317"/>
-<area shape="rect" id="node8" href="$Elemental__extensions_8hpp.html" title="lbann/Elemental_extensions.hpp" alt="" coords="293,291,503,317"/>
-</map>

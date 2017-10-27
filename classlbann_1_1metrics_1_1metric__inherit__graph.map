@@ -1,5 +1,4 @@
 <map id="lbann::metrics::metric" name="lbann::metrics::metric">
-<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1categorical__accuracy.html" title="lbann::metrics::categorical\l_accuracy\&lt; T_layout \&gt;" alt="" coords="207,5,382,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1mean__squared__error.html" title="lbann::metrics::mean\l_squared_error\&lt; T_layout \&gt;" alt="" coords="203,70,386,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1metrics_1_1top__k__categorical__accuracy.html" title="lbann::metrics::top\l_k_categorical_accuracy\l\&lt; T_layout \&gt;" alt="" coords="211,135,378,191"/>
+<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1categorical__accuracy.html" title="lbann::metrics::categorical\l_accuracy" alt="" coords="5,81,179,122"/>
+<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1mean__squared__error.html" title="lbann::metrics::mean\l_squared_error" alt="" coords="204,81,348,122"/>
 </map>

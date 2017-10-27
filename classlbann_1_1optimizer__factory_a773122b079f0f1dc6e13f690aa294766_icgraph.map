@@ -1,5 +1,0 @@
-<map id="lbann::optimizer_factory::create_optimizer" name="lbann::optimizer_factory::create_optimizer">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#afa7829863a71eb47a3d023413dbe464d" title="lbann::model::create\l_optimizer" alt="" coords="217,34,357,75"/>
-<area shape="rect" id="node3" href="$classlbann_1_1batch__normalization.html#ab515e25ae0e7e4e3349d82d0ad1d9b88" title="lbann::batch_normalization\l::setup_data" alt="" coords="406,5,583,46"/>
-<area shape="rect" id="node4" href="$proto__common_8hpp.html#ae2a457f2c139d20adceaaac13cf3bb9b" title="add_layers" alt="" coords="452,71,537,97"/>
-</map>

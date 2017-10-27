@@ -1,0 +1,5 @@
+<map id="lbann_data::Layer::mutable_input_distributed_minibatch_parallel_io" name="lbann_data::Layer::mutable_input_distributed_minibatch_parallel_io">
+<area shape="rect" id="node2" href="$classlbann__data_1_1Layer.html#a1216002caeb0c883ed1c85fdb521f837" title="lbann_data::Layer::\lMergePartialFromCodedStream" alt="" coords="224,5,429,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1Layer.html#a6ac36a494f0deb0c667512a0e628c9cd" title="lbann_data::Layer::\lMergeFrom" alt="" coords="260,70,393,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__proto.html#a7ae18ce6ef179db572e9bb8f39367d88" title="lbann::lbann_proto\l::add_layer" alt="" coords="263,135,391,177"/>
+</map>

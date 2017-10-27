@@ -1,0 +1,11 @@
+<map id="lbann_data::FullyConnected::MergePartialFromCodedStream" name="lbann_data::FullyConnected::MergePartialFromCodedStream">
+<area shape="rect" id="node2" href="$classlbann__data_1_1FullyConnected.html#a7107cc57c356bf08b1b62cbbc451b361" title="lbann_data::FullyConnected\l::mutable_activation_type" alt="" coords="273,5,457,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1FullyConnected.html#a6729fd5f70778a1d0caf3a54edb62008" title="lbann_data::FullyConnected\l::activation_type" alt="" coords="273,70,457,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1FullyConnected.html#aa92fd7e696fa8aa79993fddb6a7dee67" title="lbann_data::FullyConnected\l::mutable_weight_initialization" alt="" coords="267,135,463,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1FullyConnected.html#a8b3a5311a795250491105f390c3f1fdf" title="lbann_data::FullyConnected\l::weight_initialization" alt="" coords="273,201,457,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1FullyConnected.html#aa6c4a18dcf5f1e32541f114192e0e0ea" title="lbann_data::FullyConnected\l::mutable_optimizer" alt="" coords="273,266,457,307"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1FullyConnected.html#aa994d745843cbcc0c7542685ff104125" title="lbann_data::FullyConnected\l::optimizer" alt="" coords="273,331,457,373"/>
+<area shape="rect" id="node8" href="$classlbann__data_1_1FullyConnected.html#a5cc828e34a5acb1232afd5f07f10dbbe" title="lbann_data::FullyConnected\l::add_regularizer" alt="" coords="273,397,457,438"/>
+<area shape="rect" id="node9" href="$classlbann__data_1_1FullyConnected.html#ad4c62a0e82d96cb9c22962c62b5b9e44" title="lbann_data::FullyConnected\l::regularizer" alt="" coords="273,462,457,503"/>
+<area shape="rect" id="node10" href="$classlbann__data_1_1FullyConnected.html#ac5c53652fcb587aae1d25ad4f65cbb7c" title="lbann_data::FullyConnected\l::regularizer_size" alt="" coords="273,527,457,569"/>
+</map>

@@ -1,4 +1,0 @@
-<map id="lbann::lbann_callback_save_images::save_image" name="lbann::lbann_callback_save_images::save_image">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__save__images.html#a47fe7b99267d5d6f6f32ecd74d7b5a25" title="lbann::lbann_callback\l_save_images::on_epoch_end" alt="" coords="238,5,437,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__save__images.html#a53218aeb5da183b483311b1c37cf3e1a" title="lbann::lbann_callback\l_save_images::on_phase_end" alt="" coords="238,70,437,111"/>
-</map>

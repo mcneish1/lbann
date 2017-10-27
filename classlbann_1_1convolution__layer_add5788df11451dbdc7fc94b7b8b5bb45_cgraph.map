@@ -1,8 +1,0 @@
-<map id="lbann::convolution_layer::bp_compute_im2col" name="lbann::convolution_layer::bp_compute_im2col">
-<area shape="rect" id="node2" href="$namespacelbann_1_1cublas.html#a3f2c0cc2635ddf07072a5b90e858c619" title="lbann::cublas::Gemm" alt="" coords="251,5,397,32"/>
-<area shape="rect" id="node3" href="$namespacelbann.html#a0e1225f72580ffb5166181392b68b651" title="Rearrange matrix columns into image blocks. " alt="" coords="275,56,373,83"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#aa3636a1979e40da2af91f30a12b90db9" title="Rearrange image blocks into matrix columns. " alt="" coords="275,107,373,133"/>
-<area shape="rect" id="node7" href="$classlbann_1_1model.html#adc2be91222e59b976a40f614dbcfb644" title="lbann::model::get_effective\l_mini_batch_size" alt="" coords="235,158,413,199"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#a1953674a43b284f0abb5c5e4db94b2b9" title="Rearrange matrix columns into 2D image blocks. " alt="" coords="461,56,581,83"/>
-<area shape="rect" id="node6" href="$namespacelbann.html#adc05d10657be77ccd9a74b1621c416c3" title="Rearrange 2D image blocks into matrix columns. " alt="" coords="461,107,581,133"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="lbann::generic_data_distribution::is_current_root" name="lbann::generic_data_distribution::is_current_root">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#a7efee9601a8571d8c0d644baaedd19b9" title="lbann::input_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="240,5,392,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch.html#a6932c43b5996b9f90e4ebbc08b0ed316" title="lbann::target_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="240,85,392,141"/>
-</map>

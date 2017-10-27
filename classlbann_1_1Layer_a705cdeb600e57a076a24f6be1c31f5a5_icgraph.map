@@ -1,9 +1,0 @@
-<map id="lbann::Layer::setup_views" name="lbann::Layer::setup_views">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#ac1591d929ac399c82e95bb7cdf406389" title="lbann::convolution\l_layer::setup_views" alt="" coords="193,70,332,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1fully__connected__layer.html#a9df470c0cd47e4f35b8bc6f831f92fd7" title="lbann::fully_connected\l_layer::setup_views" alt="" coords="187,135,339,177"/>
-<area shape="rect" id="node8" href="$classlbann_1_1Layer.html#af455f02e7d3111a3610bc3fb705f3292" title="lbann::Layer::setup" alt="" coords="196,201,329,228"/>
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#aaa407129cf1df628908abbc5fdb6cbfc" title="lbann::convolution\l_layer::convolution_layer" alt="" coords="399,5,566,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1convolution__layer.html#ae92c4059e1c6ac6cf5064769d7d21c61" title="lbann::convolution\l_layer::operator=" alt="" coords="419,70,546,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1fully__connected__layer.html#a377e44ab7eccb1aec467be5667bef6fe" title="lbann::fully_connected\l_layer::fully_connected_layer" alt="" coords="387,135,578,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1fully__connected__layer.html#ab06d01021d4e89cd2f4f64c330e7cc31" title="lbann::fully_connected\l_layer::operator=" alt="" coords="407,201,559,242"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="lbann::greedy_layerwise_autoencoder::insert_mirror" name="lbann::greedy_layerwise_autoencoder::insert_mirror">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a5dfb66e81fc085997402a5e2241316bd" title="lbann::Layer::get_data\l_layout" alt="" coords="241,5,391,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1sequential__model.html#ae992c83737819d406e1311ebe24e07f0" title="Insert layer in sequential model. " alt="" coords="235,70,397,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a0d278ffa94dd6749e017c2af5c78178d" title="lbann::model::setup" alt="" coords="248,136,384,163"/>
-</map>

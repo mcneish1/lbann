@@ -1,7 +1,0 @@
-<map id="lbann::generic_data_reader::is_master" name="lbann::generic_data_reader::is_master">
-<area shape="rect" id="node2" href="$classlbann_1_1imagenet__readerSingle.html#a0317ee366ce89c791f720036b0003c0d" title="lbann::imagenet_readerSingle\l::load" alt="" coords="433,5,626,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1imagenet__readerSingle.html#a1884b113ccdeca408577ca2e0f8806d4" title="lbann::imagenet_readerSingle\l::open_data_stream" alt="" coords="190,69,383,110"/>
-<area shape="rect" id="node6" href="$classlbann_1_1mnist__reader.html#a329b3461569ddee700e681a34192a230" title="lbann::mnist_reader\l::load" alt="" coords="219,134,355,175"/>
-<area shape="rect" id="node4" href="$classlbann_1_1imagenet__readerSingle.html#a1802da7043c37feb4a9205e96f4d68ab" title="lbann::imagenet_readerSingle\l::imagenet_readerSingle" alt="" coords="433,70,626,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1imagenet__readerSingle.html#ad47e8ae53b86b0bac7cf3a06aff792a5" title="lbann::imagenet_readerSingle\l::operator=" alt="" coords="433,135,626,177"/>
-</map>

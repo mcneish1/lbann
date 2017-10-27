@@ -1,8 +1,0 @@
-<map id="lbann::lbann_callback_adaptive_learning_rate::schedule" name="lbann::lbann_callback_adaptive_learning_rate::schedule">
-<area shape="rect" id="node2" href="$classlbann_1_1learning.html#a28323efe8e2c019056fffa3b93cc3165" title="lbann::learning::get\l_optimizer" alt="" coords="250,5,382,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a3c7b27ab74e32965cbe812906729386b" title="Get learning rate. " alt="" coords="246,70,386,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1objective__functions_1_1objective__fn.html#a42e838b20ca5f1c6550ec2c8fe04500f" title="lbann::objective_functions\l::objective_fn::report_aggregate\l_avg_obj_fn" alt="" coords="213,135,419,191"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__learning__rate.html#ae7a704c0b5d1d09c35981cfe96dd64e2" title="lbann::lbann_callback\l_learning_rate::is_last_layer" alt="" coords="224,214,408,255"/>
-<area shape="rect" id="node5" href="$classlbann_1_1objective__functions_1_1objective__fn.html#a72da9f08ac5f3426d3c5ef15fd1c5a24" title="lbann::objective_functions\l::objective_fn::get_statistics" alt="" coords="467,142,653,183"/>
-<area shape="rect" id="node7" href="$classlbann_1_1Layer.html#aa0da8a58bab0e1de8e410c70b81a3427" title="lbann::Layer::get_index" alt="" coords="481,221,639,248"/>
-</map>

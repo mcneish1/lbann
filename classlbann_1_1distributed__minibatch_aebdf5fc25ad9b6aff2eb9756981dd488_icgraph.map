@@ -1,4 +1,0 @@
-<map id="lbann::distributed_minibatch::calculate_num_iterations_per_epoch" name="lbann::distributed_minibatch::calculate_num_iterations_per_epoch">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#af883c005161129cada9e9fe61fe81505" title="lbann::input_layer\l_distributed_minibatch\l::setup_data" alt="" coords="235,5,387,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch.html#ab241e32c6b99419ca8ca4f934cee8b41" title="lbann::target_layer\l_distributed_minibatch\l::setup_data" alt="" coords="235,85,387,141"/>
-</map>

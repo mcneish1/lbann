@@ -1,4 +1,4 @@
 <map id="lbann::lbann_quantizer::col_reconstruction" name="lbann::lbann_quantizer::col_reconstruction">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#a7e4dfca5770dfd88ae6255b0407d8f80" title="lbann::lbann_quantizer\l::adaptive_quantize" alt="" coords="221,5,373,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#a25ed3869c6bc615ae51198803ea4e33d" title="lbann::lbann_quantizer\l::adaptive_quantize_replace" alt="" coords="205,70,389,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#af1d5338e2e1682156e4f654b110be70d" title="lbann::lbann_quantizer\l::adaptive_threshold_quantize" alt="" coords="205,5,400,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#ad1fe245c411c515540f9d0ac289f2203" title="lbann::lbann_quantizer\l::adaptive_threshold_quantize\l_replace" alt="" coords="205,69,400,125"/>
 </map>

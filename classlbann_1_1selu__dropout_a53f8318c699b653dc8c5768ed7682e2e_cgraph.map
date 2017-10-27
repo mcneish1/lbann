@@ -1,4 +1,0 @@
-<map id="lbann::selu_dropout::copy" name="lbann::selu_dropout::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1selu__dropout.html#ad4dce1105031606f60b8d7dd6a00685d" title="lbann::selu_dropout\l::selu_dropout" alt="" coords="190,11,325,53"/>
-<area shape="rect" id="node3" href="$classlbann_1_1selu__dropout.html#a7bb921542ddb9c2ce717fe1f18d008d6" title="lbann::selu_dropout\l::initialize_distributed\l_matrices" alt="" coords="373,4,517,60"/>
-</map>

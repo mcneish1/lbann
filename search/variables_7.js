@@ -1,7 +1,8 @@
 var searchData=
 [
-  ['have_5fmirror',['have_mirror',['../structlbann_1_1lbann__model__greedy__layerwise__autoencoder__header.html#ade4b4beee16eba3ce52cfd982dd9b8ae',1,'lbann::lbann_model_greedy_layerwise_autoencoder_header']]],
-  ['header_5ffactor',['HEADER_FACTOR',['../classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37',1,'lbann::lbann_quantizer']]],
-  ['height',['height',['../structlayer__header.html#ad986e4b92e5b455e066fd349725c6bd9',1,'layer_header']]],
-  ['hostname',['HostName',['../classlbann_1_1SystemParams.html#a4aa517715ee0a454ee7ca2cc23fe30ee',1,'lbann::SystemParams']]]
+  ['generator',['generator',['../namespaceanonymous__namespace_02lbann__random_8cpp_03.html#a6381148d83b28d7418e6736b1b8c0280',1,'anonymous_namespace{lbann_random.cpp}']]],
+  ['gr_5fk',['GR_K',['../classlbann_1_1lbann__quantizer.html#a5f645c840854c584c9224af063fee23b',1,'lbann::lbann_quantizer']]],
+  ['gr_5fm',['GR_M',['../classlbann_1_1lbann__quantizer.html#ad98118c77f676fa3d3fb4ba27b814070',1,'lbann::lbann_quantizer']]],
+  ['gradhistories',['gradhistories',['../classlbann_1_1lbann__callback__imcomm.html#ab10f1484a37c6e6085329796dc7ef7c4',1,'lbann::lbann_callback_imcomm']]],
+  ['grid',['grid',['../classlbann_1_1lbann__comm.html#a29fb31be115db3225b145f250a7778d9',1,'lbann::lbann_comm']]]
 ];

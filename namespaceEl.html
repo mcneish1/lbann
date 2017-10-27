@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">f660449-ci254663199</span>
+   &#160;<span id="projectnumber">7c2bc9b-ci293905082</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -97,21 +97,312 @@ $(document).ready(function(){initNavTree('namespaceEl.html','');});
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a09d5c471681b2b48fbe4c5e6bfd0b3d3"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
-<tr class="memitem:a09d5c471681b2b48fbe4c5e6bfd0b3d3"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#a09d5c471681b2b48fbe4c5e6bfd0b3d3">ColumnSum</a> (const Matrix&lt; F &gt; &amp;X, Matrix&lt; F &gt; &amp;sums)</td></tr>
-<tr class="separator:a09d5c471681b2b48fbe4c5e6bfd0b3d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad446b5d330cc5ae121cc2eef632c4118"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
-<tr class="memitem:ad446b5d330cc5ae121cc2eef632c4118"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#ad446b5d330cc5ae121cc2eef632c4118">ColumnSum</a> (const AbstractDistMatrix&lt; F &gt; &amp;A, AbstractDistMatrix&lt; F &gt; &amp;sums)</td></tr>
-<tr class="separator:ad446b5d330cc5ae121cc2eef632c4118"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a584f088a3325a8222d4d6ac37be04b04"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
-<tr class="memitem:a584f088a3325a8222d4d6ac37be04b04"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#a584f088a3325a8222d4d6ac37be04b04">RowSum</a> (const Matrix&lt; F &gt; &amp;X, Matrix&lt; F &gt; &amp;sums)</td></tr>
-<tr class="separator:a584f088a3325a8222d4d6ac37be04b04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3982e90cd0f7cbfdc0f19741ce254c1a"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
-<tr class="memitem:a3982e90cd0f7cbfdc0f19741ce254c1a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#a3982e90cd0f7cbfdc0f19741ce254c1a">RowSum</a> (const AbstractDistMatrix&lt; F &gt; &amp;A, AbstractDistMatrix&lt; F &gt; &amp;sums)</td></tr>
-<tr class="separator:a3982e90cd0f7cbfdc0f19741ce254c1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1141970b2df060a5007db1f143814887"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
+<tr class="memitem:a1141970b2df060a5007db1f143814887"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#a1141970b2df060a5007db1f143814887">ColumnSum</a> (const Matrix&lt; F &gt; &amp;X, Matrix&lt; Base&lt; F &gt;&gt; &amp;sums)</td></tr>
+<tr class="separator:a1141970b2df060a5007db1f143814887"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac65fa1eaee9b3ccf97a3836e2e71f92a"><td class="memTemplParams" colspan="2">template&lt;typename F , Dist U, Dist V&gt; </td></tr>
+<tr class="memitem:ac65fa1eaee9b3ccf97a3836e2e71f92a"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#ac65fa1eaee9b3ccf97a3836e2e71f92a">ColumnSum</a> (const DistMatrix&lt; F, U, V &gt; &amp;A, DistMatrix&lt; Base&lt; F &gt;, V, STAR &gt; &amp;sums)</td></tr>
+<tr class="separator:ac65fa1eaee9b3ccf97a3836e2e71f92a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8ea8f79baf4462c053311768e96cf6e"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
+<tr class="memitem:ad8ea8f79baf4462c053311768e96cf6e"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#ad8ea8f79baf4462c053311768e96cf6e">ColumnMax</a> (const Matrix&lt; F &gt; &amp;X, Matrix&lt; Base&lt; F &gt;&gt; &amp;norms)</td></tr>
+<tr class="separator:ad8ea8f79baf4462c053311768e96cf6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9da93459038ed87b5052f60ccb62174"><td class="memTemplParams" colspan="2">template&lt;typename F , Dist U, Dist V&gt; </td></tr>
+<tr class="memitem:ae9da93459038ed87b5052f60ccb62174"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#ae9da93459038ed87b5052f60ccb62174">ColumnMax</a> (const DistMatrix&lt; F, U, V &gt; &amp;A, DistMatrix&lt; Base&lt; F &gt;, V, STAR &gt; &amp;norms)</td></tr>
+<tr class="separator:ae9da93459038ed87b5052f60ccb62174"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2b32a1078ba6e74da75416b736730d1"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
+<tr class="memitem:aa2b32a1078ba6e74da75416b736730d1"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#aa2b32a1078ba6e74da75416b736730d1">ColumnMax</a> (const DistMultiVec&lt; F &gt; &amp;X, Matrix&lt; Base&lt; F &gt;&gt; &amp;norms)</td></tr>
+<tr class="separator:aa2b32a1078ba6e74da75416b736730d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1486e3d3566f9ac7a49a793ce85fcee6"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
+<tr class="memitem:a1486e3d3566f9ac7a49a793ce85fcee6"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#a1486e3d3566f9ac7a49a793ce85fcee6">ColumnMax</a> (const SparseMatrix&lt; F &gt; &amp;A, Matrix&lt; Base&lt; F &gt;&gt; &amp;norms)</td></tr>
+<tr class="separator:a1486e3d3566f9ac7a49a793ce85fcee6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a865357e34f93312ee256aa3cfb042b25"><td class="memTemplParams" colspan="2">template&lt;typename F &gt; </td></tr>
+<tr class="memitem:a865357e34f93312ee256aa3cfb042b25"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceEl.html#a865357e34f93312ee256aa3cfb042b25">ColumnMax</a> (const DistSparseMatrix&lt; F &gt; &amp;A, DistMultiVec&lt; Base&lt; F &gt;&gt; &amp;norms)</td></tr>
+<tr class="separator:a865357e34f93312ee256aa3cfb042b25"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a class="anchor" id="a09d5c471681b2b48fbe4c5e6bfd0b3d3"></a>
+<a class="anchor" id="ad8ea8f79baf4462c053311768e96cf6e"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename F &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void El::ColumnMax </td>
+          <td>(</td>
+          <td class="paramtype">const Matrix&lt; F &gt; &amp;&#160;</td>
+          <td class="paramname"><em>X</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Matrix&lt; Base&lt; F &gt;&gt; &amp;&#160;</td>
+          <td class="paramname"><em>norms</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="lbann__Elemental__extensions_8cpp_source.html#l00093">93</a> of file <a class="el" href="lbann__Elemental__extensions_8cpp_source.html">lbann_Elemental_extensions.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;{</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;  <span class="comment">//    DEBUG_ONLY(CSE cse(&quot;ColumnMax&quot;))</span></div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    <span class="keyword">typedef</span> Base&lt;F&gt; Real;</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    <span class="keyword">const</span> Int m = X.Height();</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    <span class="keyword">const</span> Int n = X.Width();</div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    <span class="keyword">const</span> F* XBuf = X.LockedBuffer();</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;    <span class="keyword">const</span> Int XLDim = X.LDim();</div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;</div>
+<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;    norms.Resize( n, 1 );</div>
+<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;    Base&lt;F&gt;* normBuf = norms.Buffer();</div>
+<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;    <span class="keywordflow">for</span>( Int j=0; j&lt;n; ++j )</div>
+<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;    {</div>
+<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;        Real colMax = 0;</div>
+<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;        <span class="keywordflow">for</span>( Int i=0; i&lt;m; ++i )</div>
+<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;            colMax = Max(colMax,XBuf[i+j*XLDim]);</div>
+<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;        normBuf[j] = colMax;</div>
+<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;    }</div>
+<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;}</div>
+</div><!-- fragment -->
+<p><div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceEl_ad8ea8f79baf4462c053311768e96cf6e_icgraph.png" border="0" usemap="#namespaceEl_ad8ea8f79baf4462c053311768e96cf6e_icgraph" alt=""/></div>
+<map name="namespaceEl_ad8ea8f79baf4462c053311768e96cf6e_icgraph" id="namespaceEl_ad8ea8f79baf4462c053311768e96cf6e_icgraph">
+<area shape="rect" id="node2" href="classlbann_1_1SoftmaxLayer.html#a024eedef18ff10e82a88ede326a6bad6" title="lbann::SoftmaxLayer\l::fp_linearity" alt="" coords="186,5,329,46"/><area shape="rect" id="node3" href="namespaceEl.html#ae9da93459038ed87b5052f60ccb62174" title="El::ColumnMax" alt="" coords="201,71,313,97"/><area shape="rect" id="node4" href="classlbann_1_1metrics_1_1categorical__accuracy.html#a846a59e6cce13a8d45f7fec33522990e" title="lbann::metrics::categorical\l_accuracy::compute_metric" alt="" coords="166,122,349,163"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="ae9da93459038ed87b5052f60ccb62174"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename F , Dist U, Dist V&gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void El::ColumnMax </td>
+          <td>(</td>
+          <td class="paramtype">const DistMatrix&lt; F, U, V &gt; &amp;&#160;</td>
+          <td class="paramname"><em>A</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DistMatrix&lt; Base&lt; F &gt;, V, STAR &gt; &amp;&#160;</td>
+          <td class="paramname"><em>norms</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="lbann__Elemental__extensions_8cpp_source.html#l00115">115</a> of file <a class="el" href="lbann__Elemental__extensions_8cpp_source.html">lbann_Elemental_extensions.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;{</div>
+<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;  <span class="comment">//    DEBUG_ONLY(CSE cse(&quot;ColumnMax&quot;))</span></div>
+<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;    <span class="keyword">const</span> Int n = A.Width();</div>
+<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;    norms.AlignWith( A );</div>
+<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;    norms.Resize( n, 1 );</div>
+<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;    <a class="code" href="namespaceEl.html#a865357e34f93312ee256aa3cfb042b25">ColumnMax</a>( A.LockedMatrix(), norms.Matrix() );</div>
+<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;    AllReduce( norms.Matrix(), A.ColComm(), mpi::MAX );</div>
+<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;}</div>
+<div class="ttc" id="namespaceEl_html_a865357e34f93312ee256aa3cfb042b25"><div class="ttname"><a href="namespaceEl.html#a865357e34f93312ee256aa3cfb042b25">El::ColumnMax</a></div><div class="ttdeci">void ColumnMax(const DistSparseMatrix&lt; F &gt; &amp;A, DistMultiVec&lt; Base&lt; F &gt;&gt; &amp;norms)</div><div class="ttdef"><b>Definition:</b> <a href="lbann__Elemental__extensions_8cpp_source.html#l00160">lbann_Elemental_extensions.cpp:160</a></div></div>
+</div><!-- fragment -->
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceEl_ae9da93459038ed87b5052f60ccb62174_cgraph.png" border="0" usemap="#namespaceEl_ae9da93459038ed87b5052f60ccb62174_cgraph" alt=""/></div>
+<map name="namespaceEl_ae9da93459038ed87b5052f60ccb62174_cgraph" id="namespaceEl_ae9da93459038ed87b5052f60ccb62174_cgraph">
+<area shape="rect" id="node2" href="namespaceEl.html#ad8ea8f79baf4462c053311768e96cf6e" title="El::ColumnMax" alt="" coords="165,5,277,32"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="aa2b32a1078ba6e74da75416b736730d1"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename F &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void El::ColumnMax </td>
+          <td>(</td>
+          <td class="paramtype">const DistMultiVec&lt; F &gt; &amp;&#160;</td>
+          <td class="paramname"><em>X</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Matrix&lt; Base&lt; F &gt;&gt; &amp;&#160;</td>
+          <td class="paramname"><em>norms</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="lbann__Elemental__extensions_8cpp_source.html#l00126">126</a> of file <a class="el" href="lbann__Elemental__extensions_8cpp_source.html">lbann_Elemental_extensions.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;{</div>
+<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;  <span class="comment">//    DEBUG_ONLY(CSE cse(&quot;ColumnMax&quot;))</span></div>
+<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;    <a class="code" href="namespaceEl.html#a865357e34f93312ee256aa3cfb042b25">ColumnMax</a>( X.LockedMatrix(), norms );</div>
+<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;    AllReduce( norms, X.Comm(), mpi::MAX );</div>
+<div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;}</div>
+<div class="ttc" id="namespaceEl_html_a865357e34f93312ee256aa3cfb042b25"><div class="ttname"><a href="namespaceEl.html#a865357e34f93312ee256aa3cfb042b25">El::ColumnMax</a></div><div class="ttdeci">void ColumnMax(const DistSparseMatrix&lt; F &gt; &amp;A, DistMultiVec&lt; Base&lt; F &gt;&gt; &amp;norms)</div><div class="ttdef"><b>Definition:</b> <a href="lbann__Elemental__extensions_8cpp_source.html#l00160">lbann_Elemental_extensions.cpp:160</a></div></div>
+</div><!-- fragment -->
+<p><div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceEl_aa2b32a1078ba6e74da75416b736730d1_cgraph.png" border="0" usemap="#namespaceEl_aa2b32a1078ba6e74da75416b736730d1_cgraph" alt=""/></div>
+<map name="namespaceEl_aa2b32a1078ba6e74da75416b736730d1_cgraph" id="namespaceEl_aa2b32a1078ba6e74da75416b736730d1_cgraph">
+<area shape="rect" id="node2" href="namespaceEl.html#ad8ea8f79baf4462c053311768e96cf6e" title="El::ColumnMax" alt="" coords="165,5,277,32"/></map>
+</div>
+</p>
+
+</div>
+</div>
+<a class="anchor" id="a1486e3d3566f9ac7a49a793ce85fcee6"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename F &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void El::ColumnMax </td>
+          <td>(</td>
+          <td class="paramtype">const SparseMatrix&lt; F &gt; &amp;&#160;</td>
+          <td class="paramname"><em>A</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">Matrix&lt; Base&lt; F &gt;&gt; &amp;&#160;</td>
+          <td class="paramname"><em>norms</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="lbann__Elemental__extensions_8cpp_source.html#l00134">134</a> of file <a class="el" href="lbann__Elemental__extensions_8cpp_source.html">lbann_Elemental_extensions.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00135"></a><span class="lineno">  135</span>&#160;{</div>
+<div class="line"><a name="l00136"></a><span class="lineno">  136</span>&#160;  <span class="comment">//    DEBUG_ONLY(CSE cse(&quot;ColumnMax&quot;))</span></div>
+<div class="line"><a name="l00137"></a><span class="lineno">  137</span>&#160;    <span class="comment">// Explicitly forming the transpose is overkill...</span></div>
+<div class="line"><a name="l00138"></a><span class="lineno">  138</span>&#160;    <span class="comment">// The following would be correct but is best avoided.</span></div>
+<div class="line"><a name="l00139"></a><span class="lineno">  139</span>&#160;    <span class="comment">/*</span></div>
+<div class="line"><a name="l00140"></a><span class="lineno">  140</span>&#160;<span class="comment">    SparseMatrix&lt;F&gt; ATrans;</span></div>
+<div class="line"><a name="l00141"></a><span class="lineno">  141</span>&#160;<span class="comment">    Transpose( A, ATrans );</span></div>
+<div class="line"><a name="l00142"></a><span class="lineno">  142</span>&#160;<span class="comment">    RowMaxNorms( ATrans, norms );</span></div>
+<div class="line"><a name="l00143"></a><span class="lineno">  143</span>&#160;<span class="comment">    */</span></div>
+<div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160;</div>
+<div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;    <span class="comment">// Form the maxima</span></div>
+<div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;    <span class="comment">// ---------------</span></div>
+<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;    <span class="keyword">typedef</span> Base&lt;F&gt; Real;</div>
+<div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;    Zeros( norms, A.Width(), 1 );</div>
+<div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;</div>
+<div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;    <span class="keyword">const</span> Int numEntries = A.NumEntries();</div>
+<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;    <span class="keyword">const</span> Int* colBuf = A.LockedTargetBuffer();</div>
+<div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;    <span class="keyword">const</span> F* values = A.LockedValueBuffer();</div>
+<div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;    Real* normBuf = norms.Buffer(); </div>
+<div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160;    <span class="keywordflow">for</span>( Int e=0; e&lt;numEntries; ++e )</div>
+<div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;        normBuf[colBuf[e]] = Max(normBuf[colBuf[e]],values[e]);</div>
+<div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a865357e34f93312ee256aa3cfb042b25"></a>
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename F &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void El::ColumnMax </td>
+          <td>(</td>
+          <td class="paramtype">const DistSparseMatrix&lt; F &gt; &amp;&#160;</td>
+          <td class="paramname"><em>A</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">DistMultiVec&lt; Base&lt; F &gt;&gt; &amp;&#160;</td>
+          <td class="paramname"><em>norms</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="lbann__Elemental__extensions_8cpp_source.html#l00160">160</a> of file <a class="el" href="lbann__Elemental__extensions_8cpp_source.html">lbann_Elemental_extensions.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;{</div>
+<div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160;  <span class="comment">//DEBUG_ONLY(CSE cse(&quot;ColumnMax&quot;))</span></div>
+<div class="line"><a name="l00163"></a><span class="lineno">  163</span>&#160;    <span class="keyword">typedef</span> Base&lt;F&gt; Real;</div>
+<div class="line"><a name="l00164"></a><span class="lineno">  164</span>&#160;    <span class="comment">// Explicitly forming the transpose is overkill...</span></div>
+<div class="line"><a name="l00165"></a><span class="lineno">  165</span>&#160;    <span class="comment">// The following would be correct but is best avoided.</span></div>
+<div class="line"><a name="l00166"></a><span class="lineno">  166</span>&#160;    <span class="comment">/*</span></div>
+<div class="line"><a name="l00167"></a><span class="lineno">  167</span>&#160;<span class="comment">    DistSparseMatrix&lt;F&gt; ATrans(A.Comm());</span></div>
+<div class="line"><a name="l00168"></a><span class="lineno">  168</span>&#160;<span class="comment">    Transpose( A, ATrans );</span></div>
+<div class="line"><a name="l00169"></a><span class="lineno">  169</span>&#160;<span class="comment">    RowMaxNorms( ATrans, norms );</span></div>
+<div class="line"><a name="l00170"></a><span class="lineno">  170</span>&#160;<span class="comment">    */</span></div>
+<div class="line"><a name="l00171"></a><span class="lineno">  171</span>&#160;</div>
+<div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160;    <span class="comment">// Modify the communication pattern from an adjoint Multiply</span></div>
+<div class="line"><a name="l00173"></a><span class="lineno">  173</span>&#160;    <span class="comment">// =========================================================</span></div>
+<div class="line"><a name="l00174"></a><span class="lineno">  174</span>&#160;    Zeros( norms, A.Width(), 1 );</div>
+<div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;    <span class="comment">// TODO: (Moon 9/12/16) I replaced the commented code since</span></div>
+<div class="line"><a name="l00176"></a><span class="lineno">  176</span>&#160;    <span class="comment">// Elemental no longer has a DistSparseMultMeta class. I do not</span></div>
+<div class="line"><a name="l00177"></a><span class="lineno">  177</span>&#160;    <span class="comment">// know if the code is correct.</span></div>
+<div class="line"><a name="l00178"></a><span class="lineno">  178</span>&#160;    <span class="comment">// A.InitializeMultMeta();</span></div>
+<div class="line"><a name="l00179"></a><span class="lineno">  179</span>&#160;    <span class="comment">// const auto&amp; meta = A.multMeta;</span></div>
+<div class="line"><a name="l00180"></a><span class="lineno">  180</span>&#160;    <span class="keyword">const</span> <span class="keyword">auto</span>&amp; meta = A.InitializeMultMeta();</div>
+<div class="line"><a name="l00181"></a><span class="lineno">  181</span>&#160;</div>
+<div class="line"><a name="l00182"></a><span class="lineno">  182</span>&#160;    <span class="comment">// Pack the send values </span></div>
+<div class="line"><a name="l00183"></a><span class="lineno">  183</span>&#160;    <span class="comment">// --------------------</span></div>
+<div class="line"><a name="l00184"></a><span class="lineno">  184</span>&#160;    vector&lt;Real&gt; sendVals( meta.numRecvInds, 0 );</div>
+<div class="line"><a name="l00185"></a><span class="lineno">  185</span>&#160;    <span class="keyword">const</span> Int numEntries = A.NumLocalEntries();</div>
+<div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;    <span class="keyword">const</span> F* values = A.LockedValueBuffer();</div>
+<div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;    <span class="keywordflow">for</span>( Int e=0; e&lt;numEntries; ++e )</div>
+<div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;        sendVals[meta.colOffs[e]] = </div>
+<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;          Max(sendVals[meta.colOffs[e]],values[e]);</div>
+<div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;</div>
+<div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;    <span class="comment">// Inject the updates into the network</span></div>
+<div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;    <span class="comment">// -----------------------------------</span></div>
+<div class="line"><a name="l00193"></a><span class="lineno">  193</span>&#160;    <span class="keyword">const</span> Int numRecvInds = meta.sendInds.size();</div>
+<div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;    vector&lt;Real&gt; recvVals( numRecvInds );</div>
+<div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;    mpi::AllToAll</div>
+<div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;    ( sendVals.data(), meta.recvSizes.data(), meta.recvOffs.data(),</div>
+<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;      recvVals.data(), meta.sendSizes.data(), meta.sendOffs.data(),</div>
+<div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;      A.Comm() );</div>
+<div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;</div>
+<div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;    <span class="comment">// Form the maxima over all the values received</span></div>
+<div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;    <span class="comment">// --------------------------------------------</span></div>
+<div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;    <span class="keyword">const</span> Int firstLocalRow = norms.FirstLocalRow();</div>
+<div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160;    Real* normBuf = norms.Matrix().Buffer();</div>
+<div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;    <span class="keywordflow">for</span>( Int s=0; s&lt;numRecvInds; ++s )</div>
+<div class="line"><a name="l00205"></a><span class="lineno">  205</span>&#160;    {</div>
+<div class="line"><a name="l00206"></a><span class="lineno">  206</span>&#160;        <span class="keyword">const</span> Int i = meta.sendInds[s];</div>
+<div class="line"><a name="l00207"></a><span class="lineno">  207</span>&#160;        <span class="keyword">const</span> Int iLoc = i - firstLocalRow;</div>
+<div class="line"><a name="l00208"></a><span class="lineno">  208</span>&#160;        normBuf[iLoc] = Max(normBuf[iLoc],recvVals[s]);</div>
+<div class="line"><a name="l00209"></a><span class="lineno">  209</span>&#160;    }</div>
+<div class="line"><a name="l00210"></a><span class="lineno">  210</span>&#160;}</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a class="anchor" id="a1141970b2df060a5007db1f143814887"></a>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
@@ -126,7 +417,7 @@ template&lt;typename F &gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">Matrix&lt; F &gt; &amp;&#160;</td>
+          <td class="paramtype">Matrix&lt; Base&lt; F &gt;&gt; &amp;&#160;</td>
           <td class="paramname"><em>sums</em>&#160;</td>
         </tr>
         <tr>
@@ -137,60 +428,51 @@ template&lt;typename F &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="Elemental__extensions_8cpp_source.html#l00036">36</a> of file <a class="el" href="Elemental__extensions_8cpp_source.html">Elemental_extensions.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;                                                      {</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<span class="comment">//    DEBUG_ONLY(CSE cse(&quot;ColumnSum&quot;))</span></div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;    <span class="comment">// Input matrix parameters</span></div>
+<p>Definition at line <a class="el" href="lbann__Elemental__extensions_8cpp_source.html#l00036">36</a> of file <a class="el" href="lbann__Elemental__extensions_8cpp_source.html">lbann_Elemental_extensions.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;{</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;  <span class="comment">//    DEBUG_ONLY(CSE cse(&quot;ColumnSum&quot;))</span></div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;  <span class="comment">//typedef Base&lt;F&gt; Real;</span></div>
 <div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    <span class="keyword">const</span> Int m = X.Height();</div>
 <div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    <span class="keyword">const</span> Int n = X.Width();</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <span class="keyword">const</span> F *XBuf = X.LockedBuffer();</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <span class="keyword">const</span> F* XBuf = X.LockedBuffer();</div>
 <div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    <span class="keyword">const</span> Int XLDim = X.LDim();</div>
 <div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    <span class="comment">// Initialize output</span></div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    Zeros( sums, 1, n );</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    F *sumsBuf = sums.Buffer();</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    <span class="keyword">const</span> Int sumsLDim = sums.LDim();</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;</div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    <span class="comment">// Compute sum over each column</span></div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    EL_PARALLEL_FOR</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    <span class="keywordflow">for</span>( Int j=0; j&lt;n; ++j )</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    {</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;        <span class="keywordflow">for</span>( Int i=0; i&lt;m; ++i )</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;        {</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;            sumsBuf[j*sumsLDim] += XBuf[i+j*XLDim];</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;        }</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    }</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;}</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    sums.Resize( n, 1 );</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    Base&lt;F&gt;* sumsBuf = sums.Buffer();</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    <span class="keywordflow">for</span>( Int j=0; j&lt;n; ++j )</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;    {</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;      <span class="keywordflow">for</span>( Int i=0; i&lt;m; ++i )</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;        sumsBuf[j] += XBuf[i+j*XLDim];</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    }</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;}</div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="namespaceEl_a09d5c471681b2b48fbe4c5e6bfd0b3d3_icgraph.png" border="0" usemap="#namespaceEl_a09d5c471681b2b48fbe4c5e6bfd0b3d3_icgraph" alt=""/></div>
-<map name="namespaceEl_a09d5c471681b2b48fbe4c5e6bfd0b3d3_icgraph" id="namespaceEl_a09d5c471681b2b48fbe4c5e6bfd0b3d3_icgraph">
-<area shape="rect" id="node2" href="namespaceEl.html#ad446b5d330cc5ae121cc2eef632c4118" title="El::ColumnSum" alt="" coords="168,5,283,32"/></map>
+<div class="center"><img src="namespaceEl_a1141970b2df060a5007db1f143814887_icgraph.png" border="0" usemap="#namespaceEl_a1141970b2df060a5007db1f143814887_icgraph" alt=""/></div>
+<map name="namespaceEl_a1141970b2df060a5007db1f143814887_icgraph" id="namespaceEl_a1141970b2df060a5007db1f143814887_icgraph">
+<area shape="rect" id="node2" href="classlbann_1_1SoftmaxLayer.html#a024eedef18ff10e82a88ede326a6bad6" title="lbann::SoftmaxLayer\l::fp_linearity" alt="" coords="169,5,311,46"/><area shape="rect" id="node3" href="namespaceEl.html#ac65fa1eaee9b3ccf97a3836e2e71f92a" title="El::ColumnSum" alt="" coords="183,71,297,97"/></map>
 </div>
 </p>
 
 </div>
 </div>
-<a class="anchor" id="ad446b5d330cc5ae121cc2eef632c4118"></a>
+<a class="anchor" id="ac65fa1eaee9b3ccf97a3836e2e71f92a"></a>
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename F &gt; </div>
+template&lt;typename F , Dist U, Dist V&gt; </div>
       <table class="memname">
         <tr>
           <td class="memname">void El::ColumnSum </td>
           <td>(</td>
-          <td class="paramtype">const AbstractDistMatrix&lt; F &gt; &amp;&#160;</td>
+          <td class="paramtype">const DistMatrix&lt; F, U, V &gt; &amp;&#160;</td>
           <td class="paramname"><em>A</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">AbstractDistMatrix&lt; F &gt; &amp;&#160;</td>
+          <td class="paramtype">DistMatrix&lt; Base&lt; F &gt;, V, STAR &gt; &amp;&#160;</td>
           <td class="paramname"><em>sums</em>&#160;</td>
         </tr>
         <tr>
@@ -201,159 +483,23 @@ template&lt;typename F &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="Elemental__extensions_8cpp_source.html#l00064">64</a> of file <a class="el" href="Elemental__extensions_8cpp_source.html">Elemental_extensions.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;                                                                {</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;<span class="comment">//    DEBUG_ONLY(CSE cse(&quot;ColumnSum&quot;))</span></div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    <span class="comment">// Check that distributed matrix formats are valid</span></div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <span class="keywordflow">if</span>( A.DistData().rowDist != sums.DistData().rowDist</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;        || sums.DistData().colDist != STAR </div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;        || A.DistData().blockHeight != sums.DistData().blockHeight</div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;        || A.DistData().blockWidth != sums.DistData().blockWidth)</div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    {</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;        LogicError(<span class="stringliteral">&quot;Matrices do not have compatible data distributions&quot;</span>);</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    }</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    <span class="comment">// Compute column-wise sums</span></div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;    sums.AlignWith( A );</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    sums.Resize( 1, A.Width() );</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;    <a class="code" href="namespaceEl.html#ad446b5d330cc5ae121cc2eef632c4118">ColumnSum</a>( A.LockedMatrix(), sums.Matrix() );</div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;    AllReduce( sums.Matrix(), sums.RedundantComm(), mpi::SUM );</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;}</div>
-<div class="ttc" id="namespaceEl_html_ad446b5d330cc5ae121cc2eef632c4118"><div class="ttname"><a href="namespaceEl.html#ad446b5d330cc5ae121cc2eef632c4118">El::ColumnSum</a></div><div class="ttdeci">void ColumnSum(const AbstractDistMatrix&lt; F &gt; &amp;A, AbstractDistMatrix&lt; F &gt; &amp;sums)</div><div class="ttdef"><b>Definition:</b> <a href="Elemental__extensions_8cpp_source.html#l00064">Elemental_extensions.cpp:64</a></div></div>
+<p>Definition at line <a class="el" href="lbann__Elemental__extensions_8cpp_source.html#l00082">82</a> of file <a class="el" href="lbann__Elemental__extensions_8cpp_source.html">lbann_Elemental_extensions.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;{</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;  <span class="comment">//    DEBUG_ONLY(CSE cse(&quot;ColumnSum&quot;))</span></div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    <span class="keyword">const</span> Int n = A.Width();</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;    sums.AlignWith( A );</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    sums.Resize( n, 1 );</div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <a class="code" href="namespaceEl.html#ac65fa1eaee9b3ccf97a3836e2e71f92a">ColumnSum</a>( A.LockedMatrix(), sums.Matrix() );</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    AllReduce( sums.Matrix(), A.ColComm(), mpi::SUM );</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;}</div>
+<div class="ttc" id="namespaceEl_html_ac65fa1eaee9b3ccf97a3836e2e71f92a"><div class="ttname"><a href="namespaceEl.html#ac65fa1eaee9b3ccf97a3836e2e71f92a">El::ColumnSum</a></div><div class="ttdeci">void ColumnSum(const DistMatrix&lt; F, U, V &gt; &amp;A, DistMatrix&lt; Base&lt; F &gt;, V, STAR &gt; &amp;sums)</div><div class="ttdef"><b>Definition:</b> <a href="lbann__Elemental__extensions_8cpp_source.html#l00082">lbann_Elemental_extensions.cpp:82</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="namespaceEl_ad446b5d330cc5ae121cc2eef632c4118_cgraph.png" border="0" usemap="#namespaceEl_ad446b5d330cc5ae121cc2eef632c4118_cgraph" alt=""/></div>
-<map name="namespaceEl_ad446b5d330cc5ae121cc2eef632c4118_cgraph" id="namespaceEl_ad446b5d330cc5ae121cc2eef632c4118_cgraph">
-<area shape="rect" id="node2" href="namespaceEl.html#a09d5c471681b2b48fbe4c5e6bfd0b3d3" title="El::ColumnSum" alt="" coords="168,5,283,32"/></map>
-</div>
-</p>
-
-</div>
-</div>
-<a class="anchor" id="a584f088a3325a8222d4d6ac37be04b04"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename F &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void El::RowSum </td>
-          <td>(</td>
-          <td class="paramtype">const Matrix&lt; F &gt; &amp;&#160;</td>
-          <td class="paramname"><em>X</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Matrix&lt; F &gt; &amp;&#160;</td>
-          <td class="paramname"><em>sums</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Definition at line <a class="el" href="Elemental__extensions_8cpp_source.html#l00085">85</a> of file <a class="el" href="Elemental__extensions_8cpp_source.html">Elemental_extensions.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;                                                 {</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <span class="comment">// Input matrix parameters</span></div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <span class="keyword">const</span> Int m = X.Height();</div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <span class="keyword">const</span> Int n = X.Width();</div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    <span class="keyword">const</span> F *XBuf = X.LockedBuffer();</div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;    <span class="keyword">const</span> Int XLDim = X.LDim();</div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;</div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;    <span class="comment">// Initialize output</span></div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;    Zeros( sums, m, 1 );</div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    F *sumsBuf = sums.Buffer();</div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;</div>
-<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    <span class="comment">// Iterate through row blocks</span></div>
-<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;    <span class="keyword">const</span> Int bsize = Max( 64 / <span class="keyword">sizeof</span>(F), 1 );</div>
-<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    EL_PARALLEL_FOR</div>
-<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;    <span class="keywordflow">for</span>( Int i=0; i&lt;m; i+=bsize )</div>
-<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;    {</div>
-<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;        <span class="keyword">const</span> Int mb = Min( bsize, m - i );</div>
-<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;        <span class="keywordflow">for</span>( Int j=0; j&lt;n; ++j )</div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;        {</div>
-<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;            <span class="keywordflow">for</span>( Int ib=0; ib&lt;mb; ++ib )</div>
-<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;            {</div>
-<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;                sumsBuf[i+ib] += XBuf[(i+ib)+j*XLDim];</div>
-<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;            }</div>
-<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;        }</div>
-<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;    }</div>
-<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;</div>
-<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;}</div>
-</div><!-- fragment -->
-<p><div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespaceEl_a584f088a3325a8222d4d6ac37be04b04_icgraph.png" border="0" usemap="#namespaceEl_a584f088a3325a8222d4d6ac37be04b04_icgraph" alt=""/></div>
-<map name="namespaceEl_a584f088a3325a8222d4d6ac37be04b04_icgraph" id="namespaceEl_a584f088a3325a8222d4d6ac37be04b04_icgraph">
-<area shape="rect" id="node2" href="classlbann_1_1fully__connected__layer.html#aece7db8bde8cb3dfc88726d2c0aae852" title="lbann::fully_connected\l_layer::bp_compute" alt="" coords="149,5,301,46"/><area shape="rect" id="node3" href="namespaceEl.html#a3982e90cd0f7cbfdc0f19741ce254c1a" title="El::RowSum" alt="" coords="177,71,273,97"/></map>
-</div>
-</p>
-
-</div>
-</div>
-<a class="anchor" id="a3982e90cd0f7cbfdc0f19741ce254c1a"></a>
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename F &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void El::RowSum </td>
-          <td>(</td>
-          <td class="paramtype">const AbstractDistMatrix&lt; F &gt; &amp;&#160;</td>
-          <td class="paramname"><em>A</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">AbstractDistMatrix&lt; F &gt; &amp;&#160;</td>
-          <td class="paramname"><em>sums</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Definition at line <a class="el" href="Elemental__extensions_8cpp_source.html#l00115">115</a> of file <a class="el" href="Elemental__extensions_8cpp_source.html">Elemental_extensions.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;                                                                         {</div>
-<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;  </div>
-<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;  <span class="comment">// Check that distributed matrix formats are valid</span></div>
-<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;  <span class="keywordflow">if</span>( A.DistData().colDist != sums.DistData().colDist</div>
-<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;      || sums.DistData().rowDist != STAR </div>
-<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;      || A.DistData().blockHeight != sums.DistData().blockHeight</div>
-<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;      || A.DistData().blockWidth != sums.DistData().blockWidth)</div>
-<div class="line"><a name="l00122"></a><span class="lineno">  122</span>&#160;  {</div>
-<div class="line"><a name="l00123"></a><span class="lineno">  123</span>&#160;      LogicError(<span class="stringliteral">&quot;Matrices do not have compatible data distributions&quot;</span>);</div>
-<div class="line"><a name="l00124"></a><span class="lineno">  124</span>&#160;  }</div>
-<div class="line"><a name="l00125"></a><span class="lineno">  125</span>&#160;</div>
-<div class="line"><a name="l00126"></a><span class="lineno">  126</span>&#160;  <span class="comment">// Compute row-wise sums</span></div>
-<div class="line"><a name="l00127"></a><span class="lineno">  127</span>&#160;  sums.AlignWith( A );</div>
-<div class="line"><a name="l00128"></a><span class="lineno">  128</span>&#160;  sums.Resize( A.Height(), 1 );</div>
-<div class="line"><a name="l00129"></a><span class="lineno">  129</span>&#160;  <a class="code" href="namespaceEl.html#a3982e90cd0f7cbfdc0f19741ce254c1a">RowSum</a>( A.LockedMatrix(), sums.Matrix() );</div>
-<div class="line"><a name="l00130"></a><span class="lineno">  130</span>&#160;  AllReduce( sums.Matrix(), sums.RedundantComm(), mpi::SUM );</div>
-<div class="line"><a name="l00131"></a><span class="lineno">  131</span>&#160;</div>
-<div class="line"><a name="l00132"></a><span class="lineno">  132</span>&#160;}</div>
-<div class="ttc" id="namespaceEl_html_a3982e90cd0f7cbfdc0f19741ce254c1a"><div class="ttname"><a href="namespaceEl.html#a3982e90cd0f7cbfdc0f19741ce254c1a">El::RowSum</a></div><div class="ttdeci">void RowSum(const AbstractDistMatrix&lt; F &gt; &amp;A, AbstractDistMatrix&lt; F &gt; &amp;sums)</div><div class="ttdef"><b>Definition:</b> <a href="Elemental__extensions_8cpp_source.html#l00115">Elemental_extensions.cpp:115</a></div></div>
-</div><!-- fragment -->
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespaceEl_a3982e90cd0f7cbfdc0f19741ce254c1a_cgraph.png" border="0" usemap="#namespaceEl_a3982e90cd0f7cbfdc0f19741ce254c1a_cgraph" alt=""/></div>
-<map name="namespaceEl_a3982e90cd0f7cbfdc0f19741ce254c1a_cgraph" id="namespaceEl_a3982e90cd0f7cbfdc0f19741ce254c1a_cgraph">
-<area shape="rect" id="node2" href="namespaceEl.html#a584f088a3325a8222d4d6ac37be04b04" title="El::RowSum" alt="" coords="149,5,245,32"/></map>
+<div class="center"><img src="namespaceEl_ac65fa1eaee9b3ccf97a3836e2e71f92a_cgraph.png" border="0" usemap="#namespaceEl_ac65fa1eaee9b3ccf97a3836e2e71f92a_cgraph" alt=""/></div>
+<map name="namespaceEl_ac65fa1eaee9b3ccf97a3836e2e71f92a_cgraph" id="namespaceEl_ac65fa1eaee9b3ccf97a3836e2e71f92a_cgraph">
+<area shape="rect" id="node2" href="namespaceEl.html#a1141970b2df060a5007db1f143814887" title="El::ColumnSum" alt="" coords="168,5,283,32"/></map>
 </div>
 </p>
 
@@ -365,7 +511,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceEl.html">El</a></li>
-    <li class="footer">Generated on Tue Jul 18 2017 02:45:38 for LBANN by
+    <li class="footer">Generated on Fri Oct 27 2017 22:21:29 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.6 </li>
   </ul>

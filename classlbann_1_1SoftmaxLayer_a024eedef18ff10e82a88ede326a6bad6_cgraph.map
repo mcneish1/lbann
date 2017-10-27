@@ -1,0 +1,4 @@
+<map id="lbann::SoftmaxLayer::fp_linearity" name="lbann::SoftmaxLayer::fp_linearity">
+<area shape="rect" id="node2" href="$namespaceEl.html#ad8ea8f79baf4462c053311768e96cf6e" title="El::ColumnMax" alt="" coords="199,5,311,32"/>
+<area shape="rect" id="node3" href="$namespaceEl.html#a1141970b2df060a5007db1f143814887" title="El::ColumnSum" alt="" coords="197,56,312,83"/>
+</map>

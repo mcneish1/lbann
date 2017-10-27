@@ -1,0 +1,10 @@
+<map id="lbann_data::DataReaderMnist::MergePartialFromCodedStream" name="lbann_data::DataReaderMnist::MergePartialFromCodedStream">
+<area shape="rect" id="node2" href="$classlbann__data_1_1DataReaderMnist.html#af20dba84b0c2ff8d923cc53d726ebd08" title="lbann_data::DataReaderMnist\l::mutable_role" alt="" coords="267,5,461,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1DataReaderMnist.html#a64a404a7fb107158bec6a971d889bda9" title="lbann_data::DataReaderMnist\l::role" alt="" coords="267,70,461,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1DataReaderMnist.html#a4898a1e5b699b9fc39b7535520646c41" title="lbann_data::DataReaderMnist\l::mutable_file_dir" alt="" coords="267,135,461,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1DataReaderMnist.html#a112094282301cba850d036d3e4a59046" title="lbann_data::DataReaderMnist\l::file_dir" alt="" coords="267,201,461,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1DataReaderMnist.html#a7b80489ac64aa8228985c0d95f928c07" title="lbann_data::DataReaderMnist\l::mutable_image_file" alt="" coords="267,266,461,307"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1DataReaderMnist.html#ac75c4ecbb16592f16fa67c7b33858a33" title="lbann_data::DataReaderMnist\l::image_file" alt="" coords="267,331,461,373"/>
+<area shape="rect" id="node8" href="$classlbann__data_1_1DataReaderMnist.html#aa09be7171a01e387306ef5cd47beeab6" title="lbann_data::DataReaderMnist\l::mutable_label_file" alt="" coords="267,397,461,438"/>
+<area shape="rect" id="node9" href="$classlbann__data_1_1DataReaderMnist.html#a6040133ae7566a8f67f187f7454e9d2d" title="lbann_data::DataReaderMnist\l::label_file" alt="" coords="267,462,461,503"/>
+</map>

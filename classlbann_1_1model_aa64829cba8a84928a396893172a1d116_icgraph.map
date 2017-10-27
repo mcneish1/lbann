@@ -1,9 +1,0 @@
-<map id="lbann::model::set_effective_mini_batch_size" name="lbann::model::set_effective_mini_batch_size">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#a1cc160d368f1dd5bd30f1504c0df8003" title="lbann::lbann_callback\l_imcomm::setup" alt="" coords="232,38,379,79"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a935881e25a98b4ffad1985dc04c19572" title="lbann::Layer::fp_set\l_std_matrix_view" alt="" coords="237,103,374,145"/>
-<area shape="rect" id="node4" href="$classlbann_1_1softmax__layer.html#a2f966102d6d3e1231beccfb61967263f" title="lbann::softmax_layer\l::fp_set_std_matrix_view" alt="" coords="431,5,599,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1target__layer.html#a0de2e0aaa3763c82f67f24cc26e32711" title="lbann::target_layer\l::fp_set_std_matrix_view" alt="" coords="431,70,599,111"/>
-<area shape="rect" id="node7" href="$classlbann_1_1learning.html#a8620f7370a6f13dbf3978b6328e319fb" title="lbann::learning::fp\l_set_std_matrix_view" alt="" coords="440,135,589,177"/>
-<area shape="rect" id="node8" href="$classlbann_1_1Layer.html#a2483ccd8a4406a6891f6176f1001b4e5" title="lbann::Layer::forward_prop" alt="" coords="427,201,603,228"/>
-<area shape="rect" id="node6" href="$classlbann_1_1reconstruction__layer.html#a70059f3bbc6453bf37518e7081e18a57" title="lbann::reconstruction\l_layer::fp_set_std_matrix_view" alt="" coords="651,70,853,111"/>
-</map>

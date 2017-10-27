@@ -1,5 +1,0 @@
-<map id="lbann::learning" name="lbann::learning">
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html" title="Convolution layer. " alt="" coords="5,155,135,197"/>
-<area shape="rect" id="node4" href="$classlbann_1_1fully__connected__layer.html" title="lbann::fully_connected\l_layer\&lt; T_layout \&gt;" alt="" coords="160,155,312,197"/>
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="107,5,200,32"/>
-</map>

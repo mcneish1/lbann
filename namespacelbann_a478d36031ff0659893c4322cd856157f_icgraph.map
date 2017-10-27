@@ -1,19 +1,14 @@
 <map id="lbann::get_time" name="lbann::get_time">
-<area shape="rect" id="node2" href="$classlbann_1_1reconstruction__layer.html#a7a1f42117e06d67d545b8fe30a8059a3" title="lbann::reconstruction\l_layer::update_compute" alt="" coords="198,5,359,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#ace11211398e94728880476981f25fdc2" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="197,69,361,125"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__timer.html#a64dbb8d51137ddd1e60a21bdd8849f5c" title="lbann::lbann_callback\l_timer::on_epoch_begin" alt="" coords="199,149,359,190"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__timer.html#ac37653fa834c01c98ebb05cd03e08e3b" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="203,214,354,255"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__timer.html#acca590eabe9c9b15394ef29c5aae2060" title="lbann::lbann_callback\l_timer::on_batch_begin" alt="" coords="200,279,357,321"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__timer.html#a3d31c98e48bd085209aeec7f6f53bf36" title="lbann::lbann_callback\l_timer::on_batch_end" alt="" coords="205,345,352,386"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a1cdea4beed41ce5c49ff6fb7828fda36" title="lbann::lbann_comm::\lrecursive_doubling_allreduce_pow2" alt="" coords="165,410,392,451"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__comm.html#ab348cd0f3948e6b349bc3efa22da55cc" title="lbann::lbann_comm::\lpe_ring_allreduce" alt="" coords="207,475,350,517"/>
-<area shape="rect" id="node11" href="$classlbann_1_1lbann__comm.html#a6faf6ca606f7da224d523236b6e28dd9" title="lbann::lbann_comm::\lring_allreduce" alt="" coords="207,541,350,582"/>
-<area shape="rect" id="node12" href="$classlbann_1_1lbann__comm.html#a2787c78c2cfb2f90c156732e81301cac" title="lbann::lbann_comm::\lrabenseifner_allreduce" alt="" coords="203,606,355,647"/>
-<area shape="rect" id="node13" href="$classlbann_1_1Layer.html#a2483ccd8a4406a6891f6176f1001b4e5" title="lbann::Layer::forward_prop" alt="" coords="191,672,367,699"/>
-<area shape="rect" id="node14" href="$classlbann_1_1Layer.html#a0a502d9218d7dbbfd10ebebb6f917033" title="lbann::Layer::back_prop" alt="" coords="198,723,359,749"/>
-<area shape="rect" id="node15" href="$classlbann_1_1Layer.html#ae4a050e51e3a9bec431cf8b7a5660f2c" title="lbann::Layer::update" alt="" coords="209,773,349,800"/>
-<area shape="rect" id="node16" href="$classlbann_1_1lbann__quantizer.html#aa5aabc1cb4163e95aee993d9b37b9b32" title="lbann::lbann_quantizer\l::proportion_threshold" alt="" coords="203,825,355,866"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#a34d5414f1ac4749e6f0937b638bb5cc6" title="lbann::lbann_comm::\lintermodel_allreduce" alt="" coords="461,509,603,550"/>
-<area shape="rect" id="node17" href="$classlbann_1_1lbann__quantizer.html#a7e4dfca5770dfd88ae6255b0407d8f80" title="lbann::lbann_quantizer\l::adaptive_quantize" alt="" coords="456,791,608,833"/>
-<area shape="rect" id="node18" href="$classlbann_1_1lbann__quantizer.html#a25ed3869c6bc615ae51198803ea4e33d" title="lbann::lbann_quantizer\l::adaptive_quantize_replace" alt="" coords="440,857,624,898"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#adea3a61b63e75b577a7e28ff45f2b20a" title="lbann::lbann_quantizer\l::intermodel_ring_reduce\l_scatter" alt="" coords="171,5,335,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#acdfe2509be7c3761f4b98dfce03b18a6" title="lbann::lbann_quantizer\l::intermodel_ring_allgather" alt="" coords="166,85,341,126"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__imcomm.html#ace11211398e94728880476981f25fdc2" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="171,149,335,205"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__timer.html#a64dbb8d51137ddd1e60a21bdd8849f5c" title="lbann::lbann_callback\l_timer::on_epoch_begin" alt="" coords="173,229,333,270"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__timer.html#ac37653fa834c01c98ebb05cd03e08e3b" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="178,294,329,335"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__timer.html#acca590eabe9c9b15394ef29c5aae2060" title="lbann::lbann_callback\l_timer::on_batch_begin" alt="" coords="175,359,332,401"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__timer.html#a3d31c98e48bd085209aeec7f6f53bf36" title="lbann::lbann_callback\l_timer::on_batch_end" alt="" coords="180,425,327,466"/>
+<area shape="rect" id="node9" href="$classlbann_1_1Layer.html#adfcdbf9d382ca3018107fb39c176ea5a" title="lbann::Layer::forwardProp" alt="" coords="168,491,339,517"/>
+<area shape="rect" id="node10" href="$classlbann_1_1Layer.html#a07f230d516c76f22ff42addb542424af" title="lbann::Layer::backProp" alt="" coords="175,541,331,568"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__quantizer.html#aa5aabc1cb4163e95aee993d9b37b9b32" title="lbann::lbann_quantizer\l::proportion_threshold" alt="" coords="177,593,329,634"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__quantizer.html#af1d5338e2e1682156e4f654b110be70d" title="lbann::lbann_quantizer\l::adaptive_threshold_quantize" alt="" coords="389,557,584,598"/>
+<area shape="rect" id="node13" href="$classlbann_1_1lbann__quantizer.html#ad1fe245c411c515540f9d0ac289f2203" title="lbann::lbann_quantizer\l::adaptive_threshold_quantize\l_replace" alt="" coords="389,621,584,677"/>
 </map>

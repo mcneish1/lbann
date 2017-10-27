@@ -1,6 +1,6 @@
 <map id="lbann::lbann_callback_learning_rate::setup" name="lbann::lbann_callback_learning_rate::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#ab6f53860dab77f0ce1d941d07360ef5a" title="lbann::model::get_layers" alt="" coords="201,5,365,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#aa0da8a58bab0e1de8e410c70b81a3427" title="lbann::Layer::get_index" alt="" coords="204,56,361,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1learning.html#a28323efe8e2c019056fffa3b93cc3165" title="lbann::learning::get\l_optimizer" alt="" coords="217,107,349,149"/>
-<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#a3c7b27ab74e32965cbe812906729386b" title="Get learning rate. " alt="" coords="213,173,353,214"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="207,5,371,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#ab178f73070d2764151a7e6be2614acda" title="lbann::Layer::get_index" alt="" coords="211,56,368,83"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a2f196ef8b7a8ed9562aca11eae8cf749" title="lbann::Layer::get_optimizer" alt="" coords="200,107,379,133"/>
+<area shape="rect" id="node5" href="$classlbann_1_1Optimizer.html#a23d29c72e5d46b6d89830ec6d77b1f5e" title="lbann::Optimizer::get\l_learning_rate" alt="" coords="218,158,361,199"/>
 </map>

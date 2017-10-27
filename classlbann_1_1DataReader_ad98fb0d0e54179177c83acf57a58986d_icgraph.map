@@ -1,0 +1,6 @@
+<map id="lbann::DataReader::update" name="lbann::DataReader::update">
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#a089d3b4debe9bce1e862d979a9ba9f3c" title="lbann::input_layer\l_distributed_minibatch\l::update" alt="" coords="200,5,352,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1input__layer__distributed__minibatch__parallel__io.html#adc092363f45b022429bf094ce1633f56" title="lbann::input_layer\l_distributed_minibatch\l_parallel_io::update_data\l_reader" alt="" coords="193,86,359,157"/>
+<area shape="rect" id="node4" href="$classlbann_1_1target__layer__distributed__minibatch.html#a9e6fb3d242f50ca174110f238d75a2f8" title="lbann::target_layer\l_distributed_minibatch\l::update" alt="" coords="200,181,352,237"/>
+<area shape="rect" id="node5" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#a06800a7f630fef832057bd232911efb2" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io::update_data\l_reader" alt="" coords="193,262,359,333"/>
+</map>

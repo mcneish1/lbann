@@ -1,8 +1,7 @@
 <map id="lbann::metrics::metric" name="lbann::metrics::metric">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="5,13,139,40"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="49,248,145,275"/>
-<area shape="rect" id="node5" href="$classlbann_1_1optimizer__factory.html" title="Optimizer factory base class. " alt="" coords="155,149,316,176"/>
-<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="184,248,348,275"/>
-<area shape="rect" id="node6" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="341,142,515,183"/>
-<area shape="rect" id="node7" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="341,6,515,47"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="5,149,139,176"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="137,248,233,275"/>
+<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="263,248,427,275"/>
+<area shape="rect" id="node5" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="164,142,337,183"/>
+<area shape="rect" id="node6" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="164,6,337,47"/>
 </map>

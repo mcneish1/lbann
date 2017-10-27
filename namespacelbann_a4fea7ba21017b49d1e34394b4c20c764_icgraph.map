@@ -1,22 +1,24 @@
 <map id="lbann::get_generator" name="lbann::get_generator">
-<area shape="rect" id="node2" href="$classlbann_1_1rng.html#a1c8a2640dd522c6fc63bf2de09ff3e84" title="lbann::rng::gen" alt="" coords="222,71,330,97"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__image__preprocessor.html#a27cb5182c4f764cbfa4edecbb78ef29d" title="lbann::lbann_image\l_preprocessor::augment" alt="" coords="195,187,357,229"/>
-<area shape="rect" id="node10" href="$namespacelbann.html#acef152f20e422b3aea1a3c1691a533ac" title="lbann::init_random" alt="" coords="212,311,340,337"/>
-<area shape="rect" id="node12" href="$namespacelbann.html#a4fab058e5091cf12e918d879c340f125" title="lbann::gaussian_fill\l_procdet" alt="" coords="209,362,343,403"/>
-<area shape="rect" id="node17" href="$namespacelbann.html#a6add4d3337110d567e7b398a262fd010" title="lbann::bernoulli_fill\l_procdet" alt="" coords="211,427,341,469"/>
-<area shape="rect" id="node20" href="$namespacelbann.html#a5cd1cf097449bfd5bed0246819cddd13" title="lbann::uniform_fill\l_procdet" alt="" coords="214,511,338,553"/>
-<area shape="rect" id="node3" href="$namespacelbann.html#a481f0c268c74d3ec8b81861472559870" title="lbann::rng_bernoulli" alt="" coords="435,5,570,32"/>
-<area shape="rect" id="node5" href="$classlbann_1_1cifar10__reader.html#ae7019b4b1794062756db402c3c3d3d1e" title="lbann::cifar10_reader\l::fetch_datum" alt="" coords="431,57,574,98"/>
-<area shape="rect" id="node6" href="$classlbann_1_1imagenet__reader.html#a0409dfaba79a665626fe8d498302f69a" title="lbann::imagenet_reader\l::fetch_datum" alt="" coords="424,122,581,163"/>
-<area shape="rect" id="node8" href="$classlbann_1_1imagenet__readerSingle.html#ab53b123c4600dbc6235b23635c8f9346" title="lbann::imagenet_readerSingle\l::fetch_datum" alt="" coords="406,187,599,229"/>
-<area shape="rect" id="node9" href="$classlbann_1_1mnist__reader.html#a1e70bc8462e7a6f9e684a9bbbd5a6948" title="lbann::mnist_reader\l::fetch_datum" alt="" coords="435,253,571,294"/>
-<area shape="rect" id="node7" href="$classlbann_1_1imagenet__reader.html#a878511ef3b73367f0261336033877dbe" title="to feed multiple layer stacks per sample " alt="" coords="648,122,805,163"/>
-<area shape="rect" id="node11" href="$namespacelbann.html#a3d91b615e42bf5744deeed770879bc8c" title="lbann::initialize" alt="" coords="449,319,557,345"/>
-<area shape="rect" id="node13" href="$namespacelbann.html#a057b6c1efb3f6fcbe8ebe08f8506fee1" title="lbann::gaussian_fill" alt="" coords="436,369,569,396"/>
-<area shape="rect" id="node14" href="$namespacelbann.html#af014ac60b7c65609cc2347eb586bbee4" title="lbann::initialize_matrix" alt="" coords="651,453,802,480"/>
-<area shape="rect" id="node15" href="$classlbann_1_1convolution__layer.html#acca43020e655454470244b57f11156fa" title="lbann::convolution\l_layer::setup_data" alt="" coords="865,413,994,454"/>
-<area shape="rect" id="node16" href="$classlbann_1_1fully__connected__layer.html#ae059dab403ac5de006b408669fc2ca24" title="lbann::fully_connected\l_layer::setup_data" alt="" coords="853,478,1005,519"/>
-<area shape="rect" id="node18" href="$classlbann_1_1dropout.html#ab7fa84c3915f5ceac8eed28a183e4ff1" title="lbann::dropout::fp\l_compute" alt="" coords="441,421,564,462"/>
-<area shape="rect" id="node19" href="$namespacelbann.html#a1a7ffde5dcab1f39986adff100020262" title="lbann::bernoulli_fill" alt="" coords="438,487,567,513"/>
-<area shape="rect" id="node21" href="$namespacelbann.html#acd76b03f2b7ee00ad7c8ba83a20d1866" title="lbann::uniform_fill" alt="" coords="441,537,565,564"/>
+<area shape="rect" id="node2" href="$classlbann_1_1rng.html#a1c8a2640dd522c6fc63bf2de09ff3e84" title="lbann::rng::gen" alt="" coords="222,24,330,51"/>
+<area shape="rect" id="node4" href="$classlbann_1_1DataReader.html#a85a3d25b8c7510565dec4e3346e676f6" title="lbann::DataReader::\lsetup" alt="" coords="207,94,345,135"/>
+<area shape="rect" id="node5" href="$classlbann_1_1DataReader.html#ad98fb0d0e54179177c83acf57a58986d" title="lbann::DataReader::\lupdate" alt="" coords="207,159,345,201"/>
+<area shape="rect" id="node10" href="$classlbann_1_1DataReader.html#a4c0af35054f8ec755187eab77b34803a" title="lbann::DataReader::\lselect_subset_of_data" alt="" coords="199,225,353,266"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__image__preprocessor.html#a27cb5182c4f764cbfa4edecbb78ef29d" title="lbann::lbann_image\l_preprocessor::augment" alt="" coords="195,290,357,331"/>
+<area shape="rect" id="node12" href="$namespacelbann.html#acef152f20e422b3aea1a3c1691a533ac" title="lbann::init_random" alt="" coords="212,356,340,383"/>
+<area shape="rect" id="node13" href="$namespacelbann.html#a4fab058e5091cf12e918d879c340f125" title="lbann::gaussian_fill\l_procdet" alt="" coords="209,473,343,514"/>
+<area shape="rect" id="node19" href="$namespacelbann.html#a6add4d3337110d567e7b398a262fd010" title="lbann::bernoulli_fill\l_procdet" alt="" coords="211,538,341,579"/>
+<area shape="rect" id="node22" href="$namespacelbann.html#a5cd1cf097449bfd5bed0246819cddd13" title="lbann::uniform_fill\l_procdet" alt="" coords="214,407,338,449"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#a481f0c268c74d3ec8b81861472559870" title="lbann::rng_bernoulli" alt="" coords="422,5,557,32"/>
+<area shape="rect" id="node6" href="$classlbann_1_1input__layer__distributed__minibatch.html#a089d3b4debe9bce1e862d979a9ba9f3c" title="lbann::input_layer\l_distributed_minibatch\l::update" alt="" coords="413,328,565,384"/>
+<area shape="rect" id="node7" href="$classlbann_1_1input__layer__distributed__minibatch__parallel__io.html#adc092363f45b022429bf094ce1633f56" title="lbann::input_layer\l_distributed_minibatch\l_parallel_io::update_data\l_reader" alt="" coords="406,57,573,127"/>
+<area shape="rect" id="node8" href="$classlbann_1_1target__layer__distributed__minibatch.html#a9e6fb3d242f50ca174110f238d75a2f8" title="lbann::target_layer\l_distributed_minibatch\l::update" alt="" coords="413,152,565,208"/>
+<area shape="rect" id="node9" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#a06800a7f630fef832057bd232911efb2" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io::update_data\l_reader" alt="" coords="406,233,573,303"/>
+<area shape="rect" id="node14" href="$namespacelbann.html#a057b6c1efb3f6fcbe8ebe08f8506fee1" title="lbann::gaussian_fill" alt="" coords="423,480,556,507"/>
+<area shape="rect" id="node15" href="$classlbann_1_1convolutional__layer.html#ac0bbc981f0b6afaad37d80901d34b2e0" title="lbann::convolutional\l_layer::setup" alt="" coords="645,473,782,514"/>
+<area shape="rect" id="node16" href="$classlbann_1_1FullyConnectedLayer.html#a814e23d0abe277389426d3a6270d2db1" title="lbann::FullyConnectedLayer\l::setup" alt="" coords="621,538,805,579"/>
+<area shape="rect" id="node17" href="$classlbann_1_1SoftmaxLayer.html#ae9e5733f6d95b0d682c9d0763119deec" title="lbann::SoftmaxLayer\l::setup" alt="" coords="642,342,785,383"/>
+<area shape="rect" id="node18" href="$classlbann_1_1target__layer__unsupervised.html#a2c42556340f1f7a695ad39c85b9a0c10" title="lbann::target_layer\l_unsupervised::setup" alt="" coords="640,407,787,449"/>
+<area shape="rect" id="node20" href="$classlbann_1_1dropout.html#a7c33aee6cc1323496120bb545cd27148" title="lbann::dropout::fp\l_activations" alt="" coords="428,589,551,630"/>
+<area shape="rect" id="node21" href="$namespacelbann.html#a1a7ffde5dcab1f39986adff100020262" title="lbann::bernoulli_fill" alt="" coords="425,537,554,564"/>
+<area shape="rect" id="node23" href="$namespacelbann.html#acd76b03f2b7ee00ad7c8ba83a20d1866" title="lbann::uniform_fill" alt="" coords="427,415,551,441"/>
 </map>

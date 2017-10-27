@@ -1,4 +1,0 @@
-<map id="lbann::local_response_normalization_layer::bp_compute" name="lbann::local_response_normalization_layer::bp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1local__response__normalization__layer.html#a78b0d081956abf4f09874d59b4bf4fc8" title="GPU implementation of backward propagation. " alt="" coords="203,5,351,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1local__response__normalization__layer.html#a1aac4bf5e2500749bc8bafcd254f5699" title="CPU implementation of backward propagation. " alt="" coords="203,85,351,141"/>
-</map>

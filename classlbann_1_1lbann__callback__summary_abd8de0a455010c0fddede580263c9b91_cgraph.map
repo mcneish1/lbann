@@ -1,14 +1,13 @@
 <map id="lbann::lbann_callback_summary::on_batch_end" name="lbann::lbann_callback_summary::on_batch_end">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#aa50608dcd3faaff4577123a9ca85a0f7" title="lbann::model::summarize\l_stats" alt="" coords="237,5,405,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="232,71,411,97"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a2b5b3b7aa0250975f1c8c86d00dc10b7" title="lbann::model::summarize\l_matrices" alt="" coords="237,122,405,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="239,188,404,215"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a8644cbef030e9e6e66e50753ef76a884" title="lbann::lbann_comm::\lget_bytes_sent" alt="" coords="250,239,393,281"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a9b89b6f22a0566ec9ece14bde5ee6a66" title="lbann::lbann_comm::\lget_bytes_received" alt="" coords="250,305,393,346"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#ad2ece549c49a0569ac8fd9b56632fdd2" title="lbann::lbann_comm::\lget_num_model_barriers" alt="" coords="239,370,403,411"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#a16c5b4574e98f5718ab9bff9a9c3c2bb" title="lbann::lbann_comm::\lget_num_intermodel_barriers" alt="" coords="227,435,416,477"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__comm.html#a4180e1e69474af10d5fb672404f3d845" title="lbann::lbann_comm::\lget_num_global_barriers" alt="" coords="240,501,403,542"/>
-<area shape="rect" id="node11" href="$classlbann_1_1lbann__comm.html#adb9afab1b8af03276e6e6347f8021ef5" title="lbann::lbann_comm::\lreset_stats_counters" alt="" coords="249,566,393,607"/>
-<area shape="rect" id="node12" href="$classlbann_1_1lbann__summary.html#a61dadb797450bca910d3673e03be95e0" title="lbann::lbann_summary\l::sum_reduce_scalar" alt="" coords="245,631,398,673"/>
-<area shape="rect" id="node13" href="$classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="245,697,398,738"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#ac272c2206d588b299058347ea0be26ba" title="lbann::model::summarize" alt="" coords="237,5,405,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="239,56,404,83"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a8644cbef030e9e6e66e50753ef76a884" title="lbann::lbann_comm::\lget_bytes_sent" alt="" coords="250,107,393,149"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a9b89b6f22a0566ec9ece14bde5ee6a66" title="lbann::lbann_comm::\lget_bytes_received" alt="" coords="250,173,393,214"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#ad2ece549c49a0569ac8fd9b56632fdd2" title="lbann::lbann_comm::\lget_num_model_barriers" alt="" coords="239,238,403,279"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a16c5b4574e98f5718ab9bff9a9c3c2bb" title="lbann::lbann_comm::\lget_num_intermodel_barriers" alt="" coords="227,303,416,345"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a4180e1e69474af10d5fb672404f3d845" title="lbann::lbann_comm::\lget_num_global_barriers" alt="" coords="240,369,403,410"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#adb9afab1b8af03276e6e6347f8021ef5" title="lbann::lbann_comm::\lreset_stats_counters" alt="" coords="249,434,393,475"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__summary.html#ae2bc76a919429754581368422163f5ac" title="lbann::lbann_summary\l::sum_reduce_scalar" alt="" coords="245,499,398,541"/>
+<area shape="rect" id="node11" href="$classlbann_1_1model.html#a6fb1e6b55fe9f7ecb70759a9c50a20c5" title="lbann::model::get_cur_step" alt="" coords="232,565,411,592"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__summary.html#aacd54e77d45bd1bd56df3a4d71c01ce8" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="245,617,398,658"/>
 </map>

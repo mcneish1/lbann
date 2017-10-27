@@ -1,7 +1,0 @@
-<map id="/home/travis/build/LLNL/lbann/include/lbann/metrics/metric_top_k_categorical_accuracy.hpp" name="/home/travis/build/LLNL/lbann/include/lbann/metrics/metric_top_k_categorical_accuracy.hpp">
-<area shape="rect" id="node2" href="$metric_8hpp.html" title="lbann/metrics/metric.hpp" alt="" coords="79,125,243,152"/>
-<area shape="rect" id="node3" href="$base_8hpp.html" title="lbann/base.hpp" alt="" coords="5,349,115,376"/>
-<area shape="rect" id="node6" href="$comm_8hpp.html" title="lbann/comm.hpp" alt="" coords="298,275,416,301"/>
-<area shape="rect" id="node9" href="$exception_8hpp.html" title="lbann/utils/exception.hpp" alt="" coords="78,200,244,227"/>
-<area shape="rect" id="node5" href="$Elemental__extensions_8hpp.html" title="lbann/Elemental_extensions.hpp" alt="" coords="27,424,236,451"/>
-</map>

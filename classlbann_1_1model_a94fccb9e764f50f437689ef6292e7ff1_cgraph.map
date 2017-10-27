@@ -1,6 +1,0 @@
-<map id="lbann::model::need_checkpoint" name="lbann::model::need_checkpoint">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a606cc1d218b1f609b5a02b07e7f4bcee" title="lbann::model::at_epoch\l_start" alt="" coords="187,5,344,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="194,70,337,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="393,37,535,78"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="393,102,535,143"/>
-</map>

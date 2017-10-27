@@ -1,9 +1,0 @@
-<map id="lbann::learning::summarize_matrices" name="lbann::learning::summarize_matrices">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#af7e50932bb60d4cab3b21ab3fb0707ea" title="lbann::Layer::summarize\l_matrices" alt="" coords="236,111,401,153"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html#ae057705ddd840068bd5a1182a34a4ae7" title="lbann::lbann_summary\l::reduce_mean" alt="" coords="454,5,607,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__summary.html#aa466d6b290afd2ae819fa1aa7d592673" title="lbann::lbann_summary\l::reduce_min" alt="" coords="454,71,607,113"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__summary.html#aa458036662d4b32d71aaeb8f825ed084" title="lbann::lbann_summary\l::reduce_max" alt="" coords="454,139,607,181"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__summary.html#a4896f87c5c9542b11b24afbb7e951485" title="lbann::lbann_summary\l::reduce_stdev" alt="" coords="454,210,607,251"/>
-<area shape="rect" id="node7" href="$classlbann_1_1learning.html#a4081d1cf0da2905c4243d793aebb85df" title="lbann::learning::get\l_weights_biases" alt="" coords="253,279,385,321"/>
-<area shape="rect" id="node8" href="$classlbann_1_1learning.html#a4790878da2dfa939f844ea83073183d7" title="lbann::learning::get\l_weights_biases_gradient" alt="" coords="233,345,405,386"/>
-</map>

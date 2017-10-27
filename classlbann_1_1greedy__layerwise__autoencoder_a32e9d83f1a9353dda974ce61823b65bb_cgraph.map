@@ -1,7 +1,0 @@
-<map id="lbann::greedy_layerwise_autoencoder::evaluate" name="lbann::greedy_layerwise_autoencoder::evaluate">
-<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a67182a4d151a780452c14ff487e52089" title="Evaluate (validation) per phase. " alt="" coords="217,17,415,58"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="245,85,387,126"/>
-<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a74f80fe1f5473ea853bf55dfebd12416" title="Evaluation step on one mini&#45;batch. " alt="" coords="464,5,627,61"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="474,85,617,126"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="474,150,617,191"/>
-</map>

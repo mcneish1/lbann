@@ -1,4 +1,0 @@
-<map id="lbann::objective_functions::mean_squared_error::compute_mean_squared_error" name="lbann::objective_functions::mean_squared_error::compute_mean_squared_error">
-<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1mean__squared__error.html#aa6e21862438833bfa3b67f5d63651d37" title="lbann::metrics::mean\l_squared_error::compute\l_metric" alt="" coords="302,5,469,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1objective__functions_1_1mean__squared__error.html#ac77ad92b905cb6cacbcf3c9c4e074e56" title="Compute the average mean squared error over the mini&#45;batch. " alt="" coords="261,85,509,126"/>
-</map>

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['persist_5ftype',['persist_type',['../namespacelbann.html#adee41f31f15f3906cbdcce4a1417eb56',1,'lbann']]],
-  ['pool_5fmode',['pool_mode',['../base_8hpp.html#ac47a6ee5278a53898222a48639a2bf39',1,'base.hpp']]]
+  ['obj_5ffn_5ftype',['obj_fn_type',['../namespacelbann_1_1objective__functions.html#a84a6b5226a98ba2d0c65c3a2a9afb43c',1,'lbann::objective_functions']]]
 ];

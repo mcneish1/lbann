@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['execution_5fmode',['execution_mode',['../base_8hpp.html#a2781a159088df64ed7d47cc91c4dc0a8',1,'base.hpp']]]
+  ['layer_5ftype',['layer_type',['../namespacelbann.html#a33be342c4bdc4c00e9f91ff3a2f20743',1,'lbann']]]
 ];

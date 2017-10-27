@@ -1,5 +1,0 @@
-<map id="lbann::imagenet_readerSingle::open_data_stream" name="lbann::imagenet_readerSingle::open_data_stream">
-<area shape="rect" id="node2" href="$classlbann_1_1imagenet__readerSingle.html#a1802da7043c37feb4a9205e96f4d68ab" title="lbann::imagenet_readerSingle\l::imagenet_readerSingle" alt="" coords="249,5,442,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1imagenet__readerSingle.html#a0317ee366ce89c791f720036b0003c0d" title="lbann::imagenet_readerSingle\l::load" alt="" coords="249,70,442,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1imagenet__readerSingle.html#ad47e8ae53b86b0bac7cf3a06aff792a5" title="lbann::imagenet_readerSingle\l::operator=" alt="" coords="249,135,442,177"/>
-</map>

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['glorot_5fnormal',['glorot_normal',['../base_8hpp.html#a7ab6aada4b2438de8ca3dd783775c2f5ab507cf76b5f5f5bf34a68f6376bf0238',1,'base.hpp']]],
-  ['glorot_5funiform',['glorot_uniform',['../base_8hpp.html#a7ab6aada4b2438de8ca3dd783775c2f5a4b78361151cbfcca33e1d560fbaedd59',1,'base.hpp']]]
+  ['elu',['ELU',['../namespacelbann.html#ab00e153fabca7ab166e4d79d47c05c76a5b44c930bf0ddeef48b50ef11e5ddd58',1,'lbann']]]
 ];

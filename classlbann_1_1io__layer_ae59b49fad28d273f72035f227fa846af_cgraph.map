@@ -1,5 +1,4 @@
 <map id="lbann::io_layer::saveToCheckpointShared" name="lbann::io_layer::saveToCheckpointShared">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a7b3241dbf03d52f663c73088ae4ee78c" title="lbann::persist::get_rank" alt="" coords="278,5,437,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#aced95e3bc711276b072af97b65ef9fc1" title="lbann::persist::write\l_uint64" alt="" coords="289,57,425,98"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="485,64,613,91"/>
+<area shape="rect" id="node2" href="$classlbann_1_1persist.html#aced95e3bc711276b072af97b65ef9fc1" title="lbann::persist::write\l_uint64" alt="" coords="277,5,413,46"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="461,12,589,39"/>
 </map>

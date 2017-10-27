@@ -1,7 +1,4 @@
 <map id="lbann::write_uint32" name="lbann::write_uint32">
-<area shape="rect" id="node2" href="$namespacelbann.html#a35a39e949cfd1d7f8c15f94e4d44ecff" title="Writes a &quot;latest&quot; file which records epoch number and sample offset for the most recent checkpoint..." alt="" coords="184,45,312,72"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a731757adee63f97593e7ddbfa3c97ce1" title="lbann::model::checkpoint\lShared" alt="" coords="361,38,527,79"/>
-<area shape="rect" id="node4" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="599,5,729,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9ccd3dbaef125a5cd993307be7d11ba4" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="577,70,751,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aa600aaacda4275602021b612e1a36e9f" title="Train neural network. " alt="" coords="800,70,963,111"/>
+<area shape="rect" id="node2" href="$lbann__model_8cpp.html#afd4a8737c86299d582f89707eec8869a" title="Writes a &quot;latest&quot; file which records epoch number and sample offset for the most recent checkpoint..." alt="" coords="185,12,274,39"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a731757adee63f97593e7ddbfa3c97ce1" title="lbann::model::checkpoint\lShared" alt="" coords="323,5,490,46"/>
 </map>

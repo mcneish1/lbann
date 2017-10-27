@@ -1,9 +1,0 @@
-<map id="lbann::Layer::setup_dims" name="lbann::Layer::setup_dims">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a5507a2d6b7e8e2f1c187fe64e739c465" title="lbann::input_layer\l::setup_dims" alt="" coords="235,5,359,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#adf6ad69a74e097cfbd02d0a75ee1d5c1" title="lbann::target_layer\l::setup_dims" alt="" coords="233,70,362,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1convolution__layer.html#a156721b2cbf972932d317d3c6e0d62d3" title="lbann::convolution\l_layer::setup_dims" alt="" coords="231,135,363,177"/>
-<area shape="rect" id="node6" href="$classlbann_1_1fully__connected__layer.html#a062963f46e639ff415d62fd39e798c78" title="lbann::fully_connected\l_layer::setup_dims" alt="" coords="221,201,373,242"/>
-<area shape="rect" id="node7" href="$classlbann_1_1pooling__layer.html#a461175c93cb90882125bb494ba1c5271" title="lbann::pooling_layer\l::setup_dims" alt="" coords="229,266,366,307"/>
-<area shape="rect" id="node8" href="$classlbann_1_1Layer.html#af455f02e7d3111a3610bc3fb705f3292" title="lbann::Layer::setup" alt="" coords="231,332,364,359"/>
-<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#aa97e3fe29a20b5ba4e4c974545df6a2c" title="lbann::reconstruction\l_layer::setup_dims" alt="" coords="422,70,565,111"/>
-</map>

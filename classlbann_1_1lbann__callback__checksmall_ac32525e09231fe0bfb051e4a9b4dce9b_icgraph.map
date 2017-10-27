@@ -1,5 +1,0 @@
-<map id="lbann::lbann_callback_checksmall::is_good" name="lbann::lbann_callback_checksmall::is_good">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__checksmall.html#aea760389b97c3bb25f093dec5bcdbf90" title="lbann::lbann_callback\l_checksmall::on_forward\l_prop_end" alt="" coords="211,5,378,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__checksmall.html#a28ccebaabaec140b9402ad057690640e" title="lbann::lbann_callback\l_checksmall::on_backward\l_prop_end" alt="" coords="205,85,385,141"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checksmall.html#ab1d2f6b04ee08aa099e1b9b279fc9206" title="lbann::lbann_callback\l_checksmall::on_batch_end" alt="" coords="203,165,387,206"/>
-</map>

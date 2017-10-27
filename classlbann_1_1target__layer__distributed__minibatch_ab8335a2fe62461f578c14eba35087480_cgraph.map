@@ -1,8 +1,0 @@
-<map id="lbann::target_layer_distributed_minibatch::fetch_from_data_reader" name="lbann::target_layer_distributed_minibatch::fetch_from_data_reader">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#a32ee376093a2e4293bd9e56783cb2790" title="lbann::io_layer::select\l_data_reader" alt="" coords="232,5,381,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1io__layer.html#a8aa477e63440c75d19bf441b80ec4ae1" title="lbann::io_layer::is\l_for_regression" alt="" coords="245,70,369,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#aeaa97d3683add33d1c6d69a769dd6a20" title="lbann::generic_data\l_reader::fetch_responses" alt="" coords="222,135,391,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1generic__data__reader.html#a7e624f92e38b0ee4224a6afaaf2acbdb" title="lbann::generic_data\l_reader::fetch_labels" alt="" coords="235,201,378,242"/>
-<area shape="rect" id="node3" href="$classlbann_1_1io__layer.html#ad930dd2683533f2154f48d608abe2a21" title="lbann::io_layer::select\l_dataset" alt="" coords="440,5,589,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#abc5bd78a2e2933155d85327e0844402d" title="lbann::io_layer::get\l_dataset" alt="" coords="638,5,770,46"/>
-</map>

@@ -1,0 +1,11 @@
+<map id="lbann_data::FullyConnected::MergeFrom" name="lbann_data::FullyConnected::MergeFrom">
+<area shape="rect" id="node2" href="$classlbann__data_1_1FullyConnected.html#a3b5750e4871dcc65a7cf6e674952441c" title="lbann_data::FullyConnected\l::num_prev_neurons" alt="" coords="237,5,421,46"/>
+<area shape="rect" id="node3" href="$classlbann__data_1_1FullyConnected.html#a7a9f5b7ad33749c3bb8c62f27d9fa1b8" title="lbann_data::FullyConnected\l::set_num_prev_neurons" alt="" coords="237,70,421,111"/>
+<area shape="rect" id="node4" href="$classlbann__data_1_1FullyConnected.html#a38e8bfc15543c4e5b8e9a007329a60e4" title="lbann_data::FullyConnected\l::num_neurons" alt="" coords="237,135,421,177"/>
+<area shape="rect" id="node5" href="$classlbann__data_1_1FullyConnected.html#aa776ae8e5b08a570e49ec7c5d9669c3b" title="lbann_data::FullyConnected\l::set_num_neurons" alt="" coords="237,201,421,242"/>
+<area shape="rect" id="node6" href="$classlbann__data_1_1FullyConnected.html#afc3cf544c63f0c6d7bce1fa3a051c209" title="lbann_data::FullyConnected\l::mini_batch_size" alt="" coords="237,266,421,307"/>
+<area shape="rect" id="node7" href="$classlbann__data_1_1FullyConnected.html#afea9f043e33b19eb25c979dee76c5626" title="lbann_data::FullyConnected\l::set_mini_batch_size" alt="" coords="237,331,421,373"/>
+<area shape="rect" id="node8" href="$classlbann__data_1_1FullyConnected.html#a6729fd5f70778a1d0caf3a54edb62008" title="lbann_data::FullyConnected\l::activation_type" alt="" coords="237,397,421,438"/>
+<area shape="rect" id="node9" href="$classlbann__data_1_1FullyConnected.html#a8b3a5311a795250491105f390c3f1fdf" title="lbann_data::FullyConnected\l::weight_initialization" alt="" coords="237,462,421,503"/>
+<area shape="rect" id="node10" href="$classlbann__data_1_1FullyConnected.html#aa994d745843cbcc0c7542685ff104125" title="lbann_data::FullyConnected\l::optimizer" alt="" coords="237,527,421,569"/>
+</map>

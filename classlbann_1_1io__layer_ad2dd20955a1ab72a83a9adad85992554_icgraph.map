@@ -1,6 +1,0 @@
-<map id="lbann::io_layer::setup_data_readers_for_training" name="lbann::io_layer::setup_data_readers_for_training">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#af883c005161129cada9e9fe61fe81505" title="lbann::input_layer\l_distributed_minibatch\l::setup_data" alt="" coords="229,5,381,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a8ddb5abe2b6fa88233fe43170944d8a5" title="lbann::input_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="229,85,381,141"/>
-<area shape="rect" id="node4" href="$classlbann_1_1target__layer__distributed__minibatch.html#ab241e32c6b99419ca8ca4f934cee8b41" title="lbann::target_layer\l_distributed_minibatch\l::setup_data" alt="" coords="229,165,381,221"/>
-<area shape="rect" id="node5" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a765ddabb22477da9810aa9eb3c374319" title="lbann::target_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="229,245,381,301"/>
-</map>

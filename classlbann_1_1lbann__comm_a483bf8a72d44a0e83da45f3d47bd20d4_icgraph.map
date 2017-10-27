@@ -1,12 +1,6 @@
 <map id="lbann::lbann_comm::get_model_grid" name="lbann::lbann_comm::get_model_grid">
-<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#af870eeff405bdb252a7c02415b2cd26e" title="lbann::convolution\l_layer::convolution_layer" alt="" coords="425,23,591,64"/>
-<area shape="rect" id="node4" href="$classlbann_1_1convolution__layer.html#a60eaabd89fc3900bbf0bb840482b8f20" title="lbann::convolution\l_layer::initialize_distributed\l_matrices" alt="" coords="197,48,376,104"/>
-<area shape="rect" id="node5" href="$classlbann_1_1distributed__minibatch.html#a56db381a14daa503b90473866071a789" title="lbann::distributed\l_minibatch::distributed\l_minibatch" alt="" coords="210,128,363,184"/>
-<area shape="rect" id="node6" href="$classlbann_1_1partitioned__minibatch.html#af83b4e536088e9ca89f392c1e55c6b52" title="lbann::partitioned\l_minibatch::partitioned\l_minibatch" alt="" coords="210,208,363,264"/>
-<area shape="rect" id="node7" href="$classlbann_1_1adagrad.html#a90644f13d0a46e0f52122037f363aaa0" title="Set parameters to optimize and initialize optimizer. " alt="" coords="213,288,360,314"/>
-<area shape="rect" id="node8" href="$classlbann_1_1adam.html#a2a87df826b6108f5e77fce45ae73c55f" title="Set parameters to optimize and initialize optimizer. " alt="" coords="220,338,353,365"/>
-<area shape="rect" id="node9" href="$classlbann_1_1hypergradient__adam.html#a3848f988d511382aee1ef1d6bce9ebe7" title="Set parameters to optimize and initialize optimizer. " alt="" coords="217,390,356,431"/>
-<area shape="rect" id="node10" href="$classlbann_1_1rmsprop.html#a0a62ec54e0d435ffb4d77f2ac9b70322" title="Set parameters to optimize and initialize optimizer. " alt="" coords="213,456,361,482"/>
-<area shape="rect" id="node11" href="$classlbann_1_1sgd.html#ae8f4798cfd459109ea9ecbc1f000bb65" title="Set parameters to optimize and initialize optimizer. " alt="" coords="225,506,348,533"/>
-<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#a3dbb18c3721ba6ac044707b5631fc6e0" title="lbann::convolution\l_layer::copy" alt="" coords="641,23,767,64"/>
+<area shape="rect" id="node2" href="$classlbann_1_1distributed__minibatch__parallel__io.html#aa35307f86d664e0fd3cc98a645f1589d" title="lbann::distributed\l_minibatch_parallel\l_io::distributed_minibatch\l_parallel_io" alt="" coords="200,5,371,75"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a58d1184ec0daa0dee378f7206ff6b4f1" title="lbann::Layer::Layer" alt="" coords="219,100,352,127"/>
+<area shape="rect" id="node4" href="$classlbann_1_1convolutional__layer.html#aa8360fc8e7ea6459a127a14bb535a586" title="Constructor. " alt="" coords="197,151,373,193"/>
+<area shape="rect" id="node5" href="$classlbann_1_1pooling__layer.html#a088bea483ffb0ddce8aec231f3e5fef6" title="Constructor. " alt="" coords="217,217,354,258"/>
 </map>

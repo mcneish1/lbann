@@ -1,5 +1,0 @@
-<map id="lbann::objective_functions::objective_fn::compute_obj_fn_derivative" name="lbann::objective_functions::objective_fn::compute_obj_fn_derivative">
-<area shape="rect" id="node2" href="$classlbann_1_1reconstruction__layer.html#ae3cb406251469426ea08276e69f559ec" title="lbann::reconstruction\l_layer::bp_compute" alt="" coords="231,5,374,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch.html#a704693b1c76dd7405497d3face8db2be" title="lbann::target_layer\l_distributed_minibatch\l::bp_compute" alt="" coords="227,69,379,125"/>
-<area shape="rect" id="node4" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a34c9c5cc3c6f4be2c6d684a51708abd9" title="lbann::target_layer\l_partitioned_minibatch\l::bp_compute" alt="" coords="227,149,379,205"/>
-</map>

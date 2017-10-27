@@ -1,9 +1,0 @@
-<map id="lbann::batch_normalization::setup_data" name="lbann::batch_normalization::setup_data">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a50a89f8a68762c677d48efe384676e81" title="lbann::Layer::setup_data" alt="" coords="232,12,397,39"/>
-<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a3c592a6fb8b3e0951344a3802f39d92a" title="lbann::Layer::get_num\l_neurons" alt="" coords="239,63,390,105"/>
-<area shape="rect" id="node5" href="$classlbann_1_1Layer.html#a52b76376a530210e37665afb7d55540c" title="lbann::Layer::get_neural\l_network_model" alt="" coords="234,129,395,170"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#afa7829863a71eb47a3d023413dbe464d" title="lbann::model::create\l_optimizer" alt="" coords="245,194,385,235"/>
-<area shape="rect" id="node8" href="$classlbann_1_1optimizer.html#a6eb6169ed46ad602339c7b0bc2633c37" title="Set parameters to optimize and initialize optimizer. " alt="" coords="237,260,392,287"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="449,5,604,46"/>
-<area shape="rect" id="node7" href="$classlbann_1_1optimizer__factory.html#a773122b079f0f1dc6e13f690aa294766" title="Create optimizer. " alt="" coords="446,194,607,235"/>
-</map>

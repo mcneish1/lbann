@@ -1,6 +1,0 @@
-<map id="lbann::deep_neural_network::evaluate_mini_batch" name="lbann::deep_neural_network::evaluate_mini_batch">
-<area shape="rect" id="node2" href="$classlbann_1_1deep__neural__network.html#a6a7fe9037bf2d01d0c3c43c4f79ff265" title="Evaluate neural network. " alt="" coords="257,38,389,79"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__ltfb.html#a46ff44f1620a6d92b40c69c81f3cc442" title="lbann::lbann_callback\l_ltfb::evaluate" alt="" coords="437,5,584,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1deep__neural__network.html#a34b3396b7645276c067ecdd118a5a00c" title="Train neural network. " alt="" coords="445,70,576,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__ltfb.html#a9988fd86e8e03811d1c79b30d4771d8d" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="632,5,779,46"/>
-</map>

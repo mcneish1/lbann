@@ -1,7 +1,0 @@
-<map id="lbann::sum_layer::sum_layer" name="lbann::sum_layer::sum_layer">
-<area shape="rect" id="node2" href="$classlbann_1_1sum__layer.html#a9e5a5807d8aaea52340c7c79ebd65b96" title="lbann::sum_layer::initialize\l_distributed_matrices" alt="" coords="208,5,384,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1sum__layer.html#af39d3911290728c908e1f9e7a909f427" title="lbann::sum_layer::add\l_parent" alt="" coords="221,70,371,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="433,70,575,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="625,37,767,78"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="625,102,767,143"/>
-</map>

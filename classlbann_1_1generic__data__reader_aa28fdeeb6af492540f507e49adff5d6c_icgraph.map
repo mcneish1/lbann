@@ -1,9 +1,0 @@
-<map id="lbann::generic_data_reader::select_subset_of_data" name="lbann::generic_data_reader::select_subset_of_data">
-<area shape="rect" id="node2" href="$classlbann_1_1cifar10__reader.html#a7eecd862aafe627079e5beadbdcb00a1" title="lbann::cifar10_reader\l::load" alt="" coords="234,5,377,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1cnpy__reader.html#a0942d6f6601216d5ba4d881b500b40d8" title="lbann::cnpy_reader\l::load" alt="" coords="239,70,371,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1imagenet__reader.html#a14031f6653ffba49a22e4773ee02fcad" title="lbann::imagenet_reader\l::load" alt="" coords="227,135,384,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1imagenet__readerSingle.html#a0317ee366ce89c791f720036b0003c0d" title="lbann::imagenet_readerSingle\l::load" alt="" coords="209,201,402,242"/>
-<area shape="rect" id="node6" href="$classlbann_1_1mnist__reader.html#a329b3461569ddee700e681a34192a230" title="lbann::mnist_reader\l::load" alt="" coords="237,266,373,307"/>
-<area shape="rect" id="node7" href="$classlbann_1_1data__reader__nci.html#aef57f36eb0db7bbccb4e9676d9d62b6c" title="lbann::data_reader\l_nci::load" alt="" coords="241,331,370,373"/>
-<area shape="rect" id="node8" href="$classlbann_1_1data__reader__synthetic.html#a833a30b4b809bb2f8efa1af41590e02d" title="lbann::data_reader\l_synthetic::load" alt="" coords="241,397,370,438"/>
-</map>
