@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$struct__FLOAT3.html" title="_FLOAT3" alt="" coords="6,5,85,32"/>
+<area shape="rect" id="node1" href="$classlbann_1_1objective__function__term.html" title="lbann::objective_function_term" alt="" coords="6,31,205,57"/>
+<area shape="rect" id="node2" href="$classlbann_1_1l2__weight__regularization.html" title="lbann::l2_weight_regularization" alt="" coords="253,5,453,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1loss__function.html" title="lbann::loss_function" alt="" coords="284,56,423,83"/>
+<area shape="rect" id="node4" href="$classlbann_1_1cross__entropy.html" title="lbann::cross_entropy" alt="" coords="503,27,646,53"/>
+<area shape="rect" id="node5" href="$classlbann_1_1mean__squared__error.html" title="lbann::mean_squared\l_error" alt="" coords="501,78,648,119"/>
 </map>

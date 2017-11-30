@@ -1,4 +1,0 @@
-<map id="lbann::write_uint32" name="lbann::write_uint32">
-<area shape="rect" id="node2" href="$lbann__model_8cpp.html#afd4a8737c86299d582f89707eec8869a" title="Writes a &quot;latest&quot; file which records epoch number and sample offset for the most recent checkpoint..." alt="" coords="185,12,274,39"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a731757adee63f97593e7ddbfa3c97ce1" title="lbann::model::checkpoint\lShared" alt="" coords="323,5,490,46"/>
-</map>

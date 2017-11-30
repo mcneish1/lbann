@@ -1,0 +1,6 @@
+<map id="lbann::unpooling_layer::bp_compute" name="lbann::unpooling_layer::bp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1unpooling__layer.html#ad4607102ff59de2f233a87f13967cc04" title="Unpooling backward propagation with im2col. " alt="" coords="206,23,357,65"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#aa3636a1979e40da2af91f30a12b90db9" title="Rearrange image blocks into matrix columns. " alt="" coords="405,31,504,57"/>
+<area shape="rect" id="node4" href="$namespacelbann.html#a3d099edd7d1b09889e0d2133bb83d5bf" title="Rearrange 1x1 image blocks into matrix columns. " alt="" coords="553,5,679,32"/>
+<area shape="rect" id="node5" href="$namespacelbann.html#adc05d10657be77ccd9a74b1621c416c3" title="Rearrange 2D image blocks into matrix columns. " alt="" coords="556,56,676,83"/>
+</map>

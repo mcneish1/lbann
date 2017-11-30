@@ -1,0 +1,5 @@
+<map id="lbann::print_affinity_subset" name="lbann::print_affinity_subset">
+<area shape="rect" id="node2" href="$namespacelbann.html#a4fd83a86cf27ca7bc1e01576a5ee36e0" title="lbann::print_affinity" alt="" coords="187,12,319,39"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#abee17f56525b3894b0d3621a307faebd" title="lbann::get_num_pus" alt="" coords="541,12,680,39"/>
+<area shape="rect" id="node4" href="$namespacelbann.html#a4b08fd1410911d1303176bafa031fcb4" title="lbann::get_affinity" alt="" coords="368,37,493,64"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lbann::Layer::summarize_stats" name="lbann::Layer::summarize_stats">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="227,5,381,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a0a0f8e32e2b17953f87652f855ccfbf9" title="lbann::Layer::reset\l_counters" alt="" coords="239,70,369,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a1c9f005cd1129afc93f9104b74414508" title="lbann::Layer::get_weights" alt="" coords="219,136,389,163"/>
+<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#a193fcd4b1a959263e308a1ba56ab789f" title="lbann::optimizer::get\l_step_time" alt="" coords="234,187,374,229"/>
+<area shape="rect" id="node6" href="$classlbann_1_1optimizer.html#a067709debd4d2e7bfe1a35b5f6ced668" title="lbann::optimizer::reset\l_counters" alt="" coords="229,253,379,294"/>
+</map>

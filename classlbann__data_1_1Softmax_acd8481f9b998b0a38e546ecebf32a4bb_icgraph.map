@@ -1,4 +1,0 @@
-<map id="lbann_data::Softmax::set_num_neurons" name="lbann_data::Softmax::set_num_neurons">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Softmax.html#a65ee4ef97e0449f09bdb38b57d98d6fc" title="lbann_data::Softmax\l::MergeFrom" alt="" coords="198,5,341,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__proto.html#a7ae18ce6ef179db572e9bb8f39367d88" title="lbann::lbann_proto\l::add_layer" alt="" coords="205,70,333,111"/>
-</map>

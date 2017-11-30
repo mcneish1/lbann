@@ -1,0 +1,28 @@
+<map id="lbann::lbann_callback_ltfb::evaluate" name="lbann::lbann_callback_ltfb::evaluate">
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a4191097fdbcd1686525e9cd150f958ef" title="lbann::model::evaluate" alt="" coords="210,195,363,221"/>
+<area shape="rect" id="node7" href="$classlbann_1_1model.html#a375372b5b864ffbc4eaa0963f6939f65" title="lbann::model::set_execution_mode" alt="" coords="421,5,645,32"/>
+<area shape="rect" id="node27" href="$classlbann_1_1model.html#a1f27034e3877c7e32c57bcdd673f781d" title="lbann::model::get_metrics" alt="" coords="201,245,373,272"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#af06204d9b446dbaea418335a024ef333" title="lbann::model::is_execution\l_mode_valid" alt="" coords="445,57,622,98"/>
+<area shape="rect" id="node9" href="$classlbann_1_1objective__function.html#a9947e5ae220bcec97a4bcf693710a39e" title="lbann::objective_function\l::clear_history" alt="" coords="450,187,617,229"/>
+<area shape="rect" id="node10" href="$classlbann_1_1model.html#a49f85b10f117ac69e3b88fafc422fd61" title="lbann::model::do_validation\l_begin_cbs" alt="" coords="443,253,623,294"/>
+<area shape="rect" id="node11" href="$classlbann_1_1model.html#aad5597a3b4ed02b0ffb283fbd565419f" title="lbann::model::do_test\l_begin_cbs" alt="" coords="460,318,607,359"/>
+<area shape="rect" id="node12" href="$classlbann_1_1model.html#a86392f46d84513b82761f749a31093db" title="lbann::model::evaluate\l_mini_batch" alt="" coords="457,383,610,425"/>
+<area shape="rect" id="node25" href="$classlbann_1_1model.html#a9ac1b2c3e53a51e31458d81482f2bd14" title="lbann::model::do_validation\l_end_cbs" alt="" coords="443,449,623,490"/>
+<area shape="rect" id="node26" href="$classlbann_1_1model.html#aeb2d57a2d2f081f182cf8a3fd8fad9e1" title="lbann::model::do_test\l_end_cbs" alt="" coords="460,122,607,163"/>
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html#ae6671819dec3b865579f57ad5152382a" title="lbann::input_layer\l::is_execution_mode_valid" alt="" coords="693,57,869,98"/>
+<area shape="rect" id="node5" href="$classlbann_1_1input__layer.html#aecb64889e2135f0d84b475f31bb4c17f" title="lbann::input_layer\l::get_dataset" alt="" coords="945,25,1069,66"/>
+<area shape="rect" id="node6" href="$classlbann_1_1dataset.html#a212c09d4d448e2176b2da39354a619fa" title="lbann::dataset::get\l_total_samples" alt="" coords="941,90,1072,131"/>
+<area shape="rect" id="node8" href="$classlbann_1_1model.html#a999f86970eaf27f0169af3c2a904727e" title="lbann::model::get_layers" alt="" coords="699,5,863,32"/>
+<area shape="rect" id="node13" href="$classlbann_1_1model.html#a29250ca6e08353e282a378b73f6b3688" title="Evaluation phases (validation / testing) " alt="" coords="703,350,860,391"/>
+<area shape="rect" id="node15" href="$classlbann_1_1model.html#aae806c19b46b8903baebf991065b28b8" title="lbann::model::reset\l_layers" alt="" coords="715,415,848,457"/>
+<area shape="rect" id="node16" href="$classlbann_1_1model.html#a3fe1f923a3e3aeded1216e7eac265d5c" title="lbann::model::forward\l_prop_to_evaluate" alt="" coords="708,481,855,522"/>
+<area shape="rect" id="node21" href="$classlbann_1_1objective__function.html#ab9036db18ca94f7a39592d0ec09d5397" title="lbann::objective_function\l::compute_value" alt="" coords="698,601,865,642"/>
+<area shape="rect" id="node23" href="$classlbann_1_1model.html#a7518775e0fd29ed682319193e2d264cc" title="lbann::model::update\l_layers" alt="" coords="710,219,853,261"/>
+<area shape="rect" id="node24" href="$classlbann_1_1model.html#a0074ca9fde53941efda2f7aefdbb7ee2" title="lbann::model::do_batch\l_evaluate_end_cbs" alt="" coords="703,285,860,326"/>
+<area shape="rect" id="node14" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="917,292,1096,319"/>
+<area shape="rect" id="node17" href="$classlbann_1_1model.html#a833784f603c1ab71291d9ef7578129cf" title="lbann::model::do_model\l_evaluate_forward_prop\l_begin_cbs" alt="" coords="927,343,1087,399"/>
+<area shape="rect" id="node18" href="$classlbann_1_1model.html#a35d8cb0c081f1941399af9efd6f38c83" title="lbann::model::do_layer\l_evaluate_forward_prop\l_begin_cbs" alt="" coords="927,423,1087,479"/>
+<area shape="rect" id="node19" href="$classlbann_1_1model.html#afd75d646fd01292430aab26d05658865" title="lbann::model::do_layer\l_evaluate_forward_prop\l_end_cbs" alt="" coords="927,503,1087,559"/>
+<area shape="rect" id="node20" href="$classlbann_1_1model.html#a5fe57d079f5fd31d8d6df35cecaa1924" title="lbann::model::do_model\l_evaluate_forward_prop\l_end_cbs" alt="" coords="927,583,1087,639"/>
+<area shape="rect" id="node22" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="951,663,1062,689"/>
+</map>

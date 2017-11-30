@@ -1,0 +1,8 @@
+<map id="lbann::update_data_reader_functor::operator()" name="lbann::update_data_reader_functor::operator()">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#a1d10dec5713fbe60e61b4dc400227ade" title="lbann::generic_data\l_reader::update" alt="" coords="259,103,394,145"/>
+<area shape="rect" id="node7" href="$classlbann_1_1generic__data__reader.html#a8640edf9c71e3b7bee8a8e947c4690fa" title="lbann::generic_data\l_reader::is_data_reader_done" alt="" coords="230,169,423,210"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#ae4499dccaa2618109d614924e9a06a21" title="Get the next position in the data reader. " alt="" coords="473,5,647,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#ad45d83176d89f6e7e1ecac07f1b7bb6b" title="Allow the reader to know where it is in the model hierarchy. " alt="" coords="493,70,627,111"/>
+<area shape="rect" id="node5" href="$namespacelbann.html#aba9d11cb3a739cd84e7234ceeb32d098" title="lbann::get_data_seq\l_generator" alt="" coords="491,135,629,177"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#ac6d4a5ba1d4e1134620cddcac343bf59" title="Set the current position based on the base and model offsets. " alt="" coords="493,201,627,257"/>
+</map>

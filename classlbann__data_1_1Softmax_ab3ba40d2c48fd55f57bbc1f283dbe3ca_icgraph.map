@@ -1,8 +1,0 @@
-<map id="lbann_data::Softmax::weight_initialization" name="lbann_data::Softmax::weight_initialization">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Softmax.html#a5ff2acf32c1ee4d5344d2c987afb6c8c" title="lbann_data::Softmax\l::MergePartialFromCodedStream" alt="" coords="197,5,411,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Softmax.html#a02758c6e7eb5758242f7efb7fbd42026" title="lbann_data::Softmax\l::SerializeWithCachedSizes" alt="" coords="211,70,397,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1Softmax.html#aa310252acd3f42aba344839f3e71996f" title="lbann_data::Softmax\l::InternalSerializeWithCached\lSizesToArray" alt="" coords="207,135,401,191"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1Softmax.html#a15ab77bf91675c3fb0f28d3fd50ef695" title="lbann_data::Softmax\l::ByteSize" alt="" coords="233,214,375,255"/>
-<area shape="rect" id="node7" href="$classlbann__data_1_1Softmax.html#a65ee4ef97e0449f09bdb38b57d98d6fc" title="lbann_data::Softmax\l::MergeFrom" alt="" coords="233,279,375,321"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1Softmax.html#a20f9272a488b417733e825ff0093f942" title="lbann_data::Softmax\l::SerializeWithCachedSizes\lToArray" alt="" coords="459,135,645,191"/>
-</map>

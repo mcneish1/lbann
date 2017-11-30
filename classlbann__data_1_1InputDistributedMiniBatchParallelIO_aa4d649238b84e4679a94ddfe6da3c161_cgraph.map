@@ -1,5 +1,0 @@
-<map id="lbann_data::InputDistributedMiniBatchParallelIO::operator=" name="lbann_data::InputDistributedMiniBatchParallelIO::operator=">
-<area shape="rect" id="node2" href="$classlbann__data_1_1InputDistributedMiniBatchParallelIO.html#aa3e77d1db22653f853a07349423f722e" title="lbann_data::InputDistributed\lMiniBatchParallelIO::CopyFrom" alt="" coords="254,38,461,79"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1InputDistributedMiniBatchParallelIO.html#a676c7749b6aac9dc7dcf7a8be34144ea" title="lbann_data::InputDistributed\lMiniBatchParallelIO::Clear" alt="" coords="522,5,707,46"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1InputDistributedMiniBatchParallelIO.html#a1006969a416e0daf1c0dbcbeca624542" title="lbann_data::InputDistributed\lMiniBatchParallelIO::MergeFrom" alt="" coords="509,70,720,111"/>
-</map>

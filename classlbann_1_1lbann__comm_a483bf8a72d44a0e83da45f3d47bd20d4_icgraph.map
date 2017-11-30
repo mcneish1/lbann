@@ -1,6 +1,8 @@
 <map id="lbann::lbann_comm::get_model_grid" name="lbann::lbann_comm::get_model_grid">
-<area shape="rect" id="node2" href="$classlbann_1_1distributed__minibatch__parallel__io.html#aa35307f86d664e0fd3cc98a645f1589d" title="lbann::distributed\l_minibatch_parallel\l_io::distributed_minibatch\l_parallel_io" alt="" coords="200,5,371,75"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a58d1184ec0daa0dee378f7206ff6b4f1" title="lbann::Layer::Layer" alt="" coords="219,100,352,127"/>
-<area shape="rect" id="node4" href="$classlbann_1_1convolutional__layer.html#aa8360fc8e7ea6459a127a14bb535a586" title="Constructor. " alt="" coords="197,151,373,193"/>
-<area shape="rect" id="node5" href="$classlbann_1_1pooling__layer.html#a088bea483ffb0ddce8aec231f3e5fef6" title="Constructor. " alt="" coords="217,217,354,258"/>
+<area shape="rect" id="node2" href="$classlbann_1_1base__convolution__layer.html#ade8954a87bb9110f013b4ea231c515fa" title="lbann::base_convolution\l_layer::initialize_distributed\l_matrices" alt="" coords="197,5,376,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1batch__normalization.html#af8a8bef1eaf98000d644911a3f1e4c9b" title="lbann::batch_normalization\l::initialize_distributed\l_matrices" alt="" coords="198,85,375,141"/>
+<area shape="rect" id="node6" href="$classlbann_1_1weights__initializer.html#a04d4343afb56d4e9396525372f3442b3" title="lbann::weights_initializer\l::construct_matrix" alt="" coords="205,166,369,207"/>
+<area shape="rect" id="node4" href="$classlbann_1_1batch__normalization.html#af656b0d68444165664ec22ec8034efce" title="lbann::batch_normalization\l::batch_normalization" alt="" coords="425,93,602,134"/>
+<area shape="rect" id="node5" href="$classlbann_1_1batch__normalization.html#af149d82996f351a5897a16a78ced113d" title="lbann::batch_normalization\l::copy" alt="" coords="651,93,829,134"/>
+<area shape="rect" id="node7" href="$classlbann_1_1weights.html#aa50748c9b3ffa62841e0150a8da29a82" title="lbann::weights::setup" alt="" coords="440,173,587,200"/>
 </map>

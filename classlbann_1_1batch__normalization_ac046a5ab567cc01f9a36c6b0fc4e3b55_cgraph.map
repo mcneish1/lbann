@@ -1,0 +1,7 @@
+<map id="lbann::batch_normalization::setup_data" name="lbann::batch_normalization::setup_data">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a50a89f8a68762c677d48efe384676e81" title="lbann::Layer::setup_data" alt="" coords="239,12,404,39"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a077e4cd5b4bedc6bc63a46cdbd5ab543" title="lbann::model::create\l_optimizer" alt="" coords="251,63,391,105"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#af35fca77e75eb6dd570e4727aa3d5b6b" title="lbann::model::add_weights" alt="" coords="233,129,410,156"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="459,5,613,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#adf19a1d19d832ebfe70072cc202cdf39" title="lbann::optimizer::copy" alt="" coords="461,71,611,97"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="lbann::lbann_comm::nb_recv" name="lbann::lbann_comm::nb_recv">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#a676b64be1b9429b85e8dac09728ba490" title="lbann::lbann_comm::\lget_world_rank" alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="198,70,341,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="lbann::softmax_layer::get_description" name="lbann::softmax_layer::get_description">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a2f302cabbc39769b1a029dfe2af0825c" title="lbann::Layer::get_data\l_layout_string" alt="" coords="198,5,349,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1softmax__layer.html#af45bc0942bf38d6de7c28032d9bb0e73" title="lbann::softmax_layer\l::get_data_layout" alt="" coords="202,70,345,111"/>
+</map>

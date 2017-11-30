@@ -1,6 +1,0 @@
-<map id="lbann::Optimizer" name="lbann::Optimizer">
-<area shape="rect" id="node2" href="$classlbann_1_1Adagrad.html" title="lbann::Adagrad\&lt; _DistMat \&gt;" alt="" coords="175,5,361,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Adam.html" title="lbann::Adam\&lt; _DistMat \&gt;" alt="" coords="182,56,354,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1RMSprop.html" title="lbann::RMSprop\&lt; _DistMat \&gt;" alt="" coords="171,107,365,133"/>
-<area shape="rect" id="node5" href="$classlbann_1_1SGD.html" title="lbann::SGD\&lt; _DistMat \&gt;" alt="" coords="185,157,351,184"/>
-</map>

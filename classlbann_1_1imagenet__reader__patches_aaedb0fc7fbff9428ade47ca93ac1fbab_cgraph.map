@@ -1,0 +1,9 @@
+<map id="lbann::imagenet_reader_patches::fetch_data" name="lbann::imagenet_reader_patches::fetch_data">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#ada0192f94415b67c1ef5843f5a2ba9b3" title="True if the data reader&#39;s current position is valid. " alt="" coords="213,5,365,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#ad613f95666b973d8da77773fb34c9b66" title="lbann::generic_data\l_reader::preprocess\l_data_source" alt="" coords="221,71,358,127"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a0a268f78bd37a2637c298abbe176a611" title="Get the current mini&#45;batch size. " alt="" coords="220,151,359,207"/>
+<area shape="rect" id="node5" href="$classlbann_1_1imagenet__reader__patches.html#a8a9e4a1339f2e9676a0e653853ebff3c" title="lbann::imagenet_reader\l_patches::fetch_datum" alt="" coords="211,231,368,273"/>
+<area shape="rect" id="node6" href="$namespacelbann.html#a06fd1f9a7d05d355fa9936c46347a77f" title="lbann::lbann_report\l_exception" alt="" coords="223,297,355,338"/>
+<area shape="rect" id="node8" href="$classlbann_1_1generic__data__reader.html#a7bbf74725a96235dc1cd20ff440a69bd" title="lbann::generic_data\l_reader::postprocess\l_data_source" alt="" coords="217,363,361,419"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__exception.html#ad283dd82e137da5ff49da2e3b1f26d78" title="lbann::lbann_exception\l::what" alt="" coords="416,297,571,338"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lbann::fully_connected_layer::bp_compute" name="lbann::fully_connected_layer::bp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1fully__connected__layer.html#a521aa4a5b88ef00f554fe21a850f6596" title="lbann::fully_connected\l_layer::bp_compute_cuda" alt="" coords="205,34,376,75"/>
+<area shape="rect" id="node5" href="$classlbann_1_1fully__connected__layer.html#affbaa1ecb08e45ff6f9ab195227d0084" title="lbann::fully_connected\l_layer::bp_compute_cpu" alt="" coords="209,99,373,141"/>
+<area shape="rect" id="node3" href="$namespacelbann_1_1fully__connected__cuda.html#a45c34e7de58545d7d2e382babba0489e" title="reduction of rows with the result copied back to CPU " alt="" coords="437,5,589,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#adc2be91222e59b976a40f614dbcfb644" title="lbann::model::get_effective\l_mini_batch_size" alt="" coords="424,70,603,111"/>
+<area shape="rect" id="node6" href="$namespaceEl.html#a584f088a3325a8222d4d6ac37be04b04" title="El::RowSum" alt="" coords="465,136,561,163"/>
+</map>

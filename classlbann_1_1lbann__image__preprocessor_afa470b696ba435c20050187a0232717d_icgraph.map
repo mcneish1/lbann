@@ -1,0 +1,5 @@
+<map id="lbann::lbann_image_preprocessor::subtract_mean" name="lbann::lbann_image_preprocessor::subtract_mean">
+<area shape="rect" id="node2" href="$init__image__data__readers_8hpp.html#ac021d06bfe6825ec586927661254a546" title="init_generic_preprocessor" alt="" coords="253,41,424,68"/>
+<area shape="rect" id="node3" href="$init__image__data__readers_8hpp.html#a7cbc558e3233f04f7bbd6e96d199e387" title="init_org_image_data\l_reader" alt="" coords="472,5,611,46"/>
+<area shape="rect" id="node4" href="$proto__common_8hpp.html#a74f60f765908334042f5b5ec5054646e" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="659,41,781,68"/>
+</map>

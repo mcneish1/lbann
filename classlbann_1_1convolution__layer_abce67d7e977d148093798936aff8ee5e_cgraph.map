@@ -1,0 +1,5 @@
+<map id="lbann::convolution_layer::get_description" name="lbann::convolution_layer::get_description">
+<area shape="rect" id="node2" href="$classlbann_1_1convolution__layer.html#a5af5bb8b7fb68ed4e5085be676788eed" title="lbann::convolution\l_layer::get_topo_description" alt="" coords="209,5,394,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a2f302cabbc39769b1a029dfe2af0825c" title="lbann::Layer::get_data\l_layout_string" alt="" coords="226,70,377,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1convolution__layer.html#a496e4bc7465269961603aba305700b84" title="lbann::convolution\l_layer::get_data_layout" alt="" coords="223,135,380,177"/>
+</map>

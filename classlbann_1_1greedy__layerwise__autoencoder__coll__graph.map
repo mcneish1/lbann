@@ -1,10 +1,10 @@
 <map id="lbann::greedy_layerwise_autoencoder" name="lbann::greedy_layerwise_autoencoder">
-<area shape="rect" id="node2" href="$classlbann_1_1sequential__model.html" title="lbann::sequential_model" alt="" coords="896,96,1059,123"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="635,45,731,72"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="355,5,490,32"/>
-<area shape="rect" id="node5" href="$classlbann_1_1objective__functions_1_1objective__fn.html" title="lbann::objective_functions\l::objective_fn" alt="" coords="336,57,509,98"/>
-<area shape="rect" id="node6" href="$classlbann_1_1objective__functions_1_1statistics.html" title="lbann::objective_functions\l::statistics" alt="" coords="5,57,179,98"/>
-<area shape="rect" id="node7" href="$classlbann_1_1Optimizer__factory.html" title="lbann::Optimizer_factory" alt="" coords="601,96,765,123"/>
-<area shape="rect" id="node8" href="$classlbann_1_1layer__factory.html" title="lbann::layer_factory" alt="" coords="615,147,751,173"/>
-<area shape="rect" id="node9" href="$classlbann_1_1base__factory.html" title="lbann::base_factory\l\&lt; Layer \&gt;" alt="" coords="355,139,491,181"/>
+<area shape="rect" id="node2" href="$classlbann_1_1sequential__model.html" title="lbann::sequential_model" alt="" coords="429,277,592,304"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="507,187,603,213"/>
+<area shape="rect" id="node9" href="$classlbann_1_1objective__function.html" title="lbann::objective_function" alt="" coords="623,277,789,304"/>
+<area shape="rect" id="node4" href="$classlbann_1_1optimizer.html" title="lbann::optimizer" alt="" coords="268,96,383,123"/>
+<area shape="rect" id="node7" href="$classlbann_1_1weights.html" title="lbann::weights" alt="" coords="173,187,280,213"/>
+<area shape="rect" id="node5" href="$classcudnn_1_1cudnn__manager.html" title="cudnn::cudnn_manager" alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="378,5,512,32"/>
+<area shape="rect" id="node8" href="$classlbann_1_1weights__initializer.html" title="lbann::weights_initializer" alt="" coords="437,96,600,123"/>
 </map>

@@ -1,6 +1,0 @@
-<map id="lbann::Optimizer_factory" name="lbann::Optimizer_factory">
-<area shape="rect" id="node2" href="$classlbann_1_1Adagrad__factory.html" title="lbann::Adagrad_factory" alt="" coords="222,5,378,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Adam__factory.html" title="lbann::Adam_factory" alt="" coords="229,56,371,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1RMSprop__factory.html" title="lbann::RMSprop_factory" alt="" coords="219,107,381,133"/>
-<area shape="rect" id="node5" href="$classlbann_1_1SGD__factory.html" title="lbann::SGD_factory" alt="" coords="231,157,369,184"/>
-</map>

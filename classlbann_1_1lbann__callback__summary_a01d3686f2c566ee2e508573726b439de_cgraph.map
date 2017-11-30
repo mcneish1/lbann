@@ -1,8 +1,0 @@
-<map id="lbann::lbann_callback_summary::on_test_end" name="lbann::lbann_callback_summary::on_test_end">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="223,5,388,32"/>
-<area shape="rect" id="node3" href="$lbann__base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="266,56,345,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__summary.html#aacd54e77d45bd1bd56df3a4d71c01ce8" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="229,107,382,149"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a6fb1e6b55fe9f7ecb70759a9c50a20c5" title="lbann::model::get_cur_step" alt="" coords="216,173,395,200"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#adb9afab1b8af03276e6e6347f8021ef5" title="lbann::lbann_comm::\lreset_stats_counters" alt="" coords="233,225,377,266"/>
-<area shape="rect" id="node7" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="223,291,387,317"/>
-</map>

@@ -1,0 +1,5 @@
+<map id="lbann::softmax_layer::bp_compute" name="lbann::softmax_layer::bp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#a78f92f5399188e2f1dd412b55a4fe652" title="lbann::softmax_layer\l::bp_compute_cuda" alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1softmax__layer.html#ac9ba1f8425f6d59ed7f12b8b7fb5b7c0" title="lbann::softmax_layer\l::bp_compute_cpu" alt="" coords="198,70,341,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef" title="lbann::lbann_comm::\lallreduce" alt="" coords="390,70,533,111"/>
+</map>

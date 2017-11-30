@@ -1,6 +1,0 @@
-<map id="lbann::lbann_callback_save_images::on_phase_end" name="lbann::lbann_callback_save_images::on_phase_end">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="263,5,427,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#aaac76906df59991f6adcf354b4b1b570" title="lbann::model::get_current\l_phase" alt="" coords="261,57,430,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__save__images.html#a9739e7fd2b9b28397d9849066790a338" title="lbann::lbann_callback\l_save_images::save_image" alt="" coords="253,122,437,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1DataReader.html#ace9dcc14b29fad80a394bd952f122a72" title="lbann::DataReader::\lsave_image" alt="" coords="485,122,624,163"/>
-</map>

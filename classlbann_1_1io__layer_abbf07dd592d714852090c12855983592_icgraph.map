@@ -1,4 +1,0 @@
-<map id="lbann::io_layer::update_num_samples_processed" name="lbann::io_layer::update_num_samples_processed">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch__parallel__io.html#a2ca3d853397e62184101325cd2b87f4d" title="lbann::input_layer\l_distributed_minibatch\l_parallel_io::fp_linearity" alt="" coords="233,5,391,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#afca413b0943350f2bd64164a5f268e0d" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io::fp_linearity" alt="" coords="233,85,391,141"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="/home/travis/build/LLNL/lbann/include/lbann/optimizers/lbann_optimizer_sgd.hpp" name="/home/travis/build/LLNL/lbann/include/lbann/optimizers/lbann_optimizer_sgd.hpp">
-<area shape="rect" id="node2" href="$lbann__optimizer_8hpp.html" title="lbann/optimizers/lbann\l_optimizer.hpp" alt="" coords="256,126,408,167"/>
-<area shape="rect" id="node3" href="$lbann__base_8hpp.html" title="lbann/lbann_base.hpp" alt="" coords="130,291,277,317"/>
-<area shape="rect" id="node7" href="$lbann__comm_8hpp.html" title="lbann/lbann_comm.hpp" alt="" coords="254,216,409,243"/>
-<area shape="rect" id="node9" href="$lbann__persist_8hpp.html" title="lbann/io/lbann_persist.hpp" alt="" coords="5,216,179,243"/>
-<area shape="rect" id="node4" href="$datatype_8hpp.html" title="datatype.hpp" alt="" coords="155,365,252,392"/>
-</map>

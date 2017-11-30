@@ -1,0 +1,4 @@
+<map id="get_data_layout" name="get_data_layout">
+<area shape="rect" id="node2" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="168,5,253,32"/>
+<area shape="rect" id="node3" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="170,56,251,83"/>
+</map>

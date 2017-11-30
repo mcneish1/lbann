@@ -1,0 +1,7 @@
+<map id="lbann::generic_data_reader::select_subset_of_data" name="lbann::generic_data_reader::select_subset_of_data">
+<area shape="rect" id="node2" href="$namespacelbann.html#aba9d11cb3a739cd84e7234ceeb32d098" title="lbann::get_data_seq\l_generator" alt="" coords="224,5,363,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a063afdcd1e4c06fa3295e78cb10609c3" title="lbann::generic_data\l_reader::get_absolute\l_sample_count" alt="" coords="220,71,367,127"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#ac9cc7be0cea189043aaf243e2b2df8aa" title="lbann::generic_data\l_reader::get_use_percent" alt="" coords="209,151,378,193"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__data__reader.html#a053e509faf9b6fac7543d0c447fa7366" title="Get the number of samples in this dataset. " alt="" coords="216,217,371,258"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#a5fc1d7315f6044d4896c303f10c2c2e4" title="lbann::generic_data\l_reader::get_validation\l_percent" alt="" coords="217,283,370,339"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="lbann_data::NetworkParams::MergeFrom" name="lbann_data::NetworkParams::MergeFrom">
-<area shape="rect" id="node2" href="$classlbann__data_1_1NetworkParams.html#a39e474f6adaafae16b0e13ece9665683" title="lbann_data::NetworkParams\l::NetworkParams" alt="" coords="240,5,427,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1NetworkParams.html#abfe72d2d54397b25bcad562f0568d4d0" title="lbann_data::NetworkParams\l::CopyFrom" alt="" coords="240,70,427,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1NetworkParams.html#a0ac3245620d8dc5df1a21345cd65c122" title="lbann_data::NetworkParams\l::operator=" alt="" coords="475,70,661,111"/>
-</map>

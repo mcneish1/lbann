@@ -1,0 +1,19 @@
+<map id="lbann::generic_data_reader" name="lbann::generic_data_reader">
+<area shape="rect" id="node3" href="$classlbann_1_1ascii__reader.html" title="lbann::ascii_reader" alt="" coords="393,5,524,32"/>
+<area shape="rect" id="node4" href="$classlbann_1_1csv__reader.html" title="lbann::csv_reader" alt="" coords="396,56,521,83"/>
+<area shape="rect" id="node6" href="$classlbann_1_1data__reader__synthetic.html" title="lbann::data_reader\l_synthetic" alt="" coords="394,107,523,149"/>
+<area shape="rect" id="node7" href="$classlbann_1_1generic__compound__data__reader.html" title="lbann::generic_compound\l_data_reader" alt="" coords="373,173,544,214"/>
+<area shape="rect" id="node10" href="$classlbann_1_1image__data__reader.html" title="lbann::image_data_reader" alt="" coords="373,264,544,291"/>
+<area shape="rect" id="node17" href="$classlbann_1_1numpy__reader.html" title="lbann::numpy_reader" alt="" coords="387,315,530,341"/>
+<area shape="rect" id="node18" href="$classlbann_1_1pilot2__molecular__reader.html" title="lbann::pilot2_molecular\l_reader" alt="" coords="381,366,536,407"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html" title="lbann::lbann_image\l_preprocessor" alt="" coords="6,173,141,214"/>
+<area shape="rect" id="node5" href="$classlbann_1_1data__reader__nci.html" title="lbann::data_reader_nci" alt="" coords="607,43,761,69"/>
+<area shape="rect" id="node8" href="$classlbann_1_1data__reader__merge__features.html" title="lbann::data_reader\l_merge_features" alt="" coords="619,94,749,135"/>
+<area shape="rect" id="node9" href="$classlbann_1_1data__reader__merge__samples.html" title="lbann::data_reader\l_merge_samples" alt="" coords="619,159,749,201"/>
+<area shape="rect" id="node11" href="$classlbann_1_1cifar10__reader.html" title="lbann::cifar10_reader" alt="" coords="613,225,755,252"/>
+<area shape="rect" id="node12" href="$classlbann_1_1imagenet__reader.html" title="lbann::imagenet_reader" alt="" coords="605,276,763,303"/>
+<area shape="rect" id="node14" href="$classlbann_1_1imagenet__reader__org.html" title="lbann::imagenet_reader_org" alt="" coords="593,327,775,353"/>
+<area shape="rect" id="node15" href="$classlbann_1_1imagenet__reader__patches.html" title="lbann::imagenet_reader\l_patches" alt="" coords="605,378,763,419"/>
+<area shape="rect" id="node16" href="$classlbann_1_1mnist__reader.html" title="lbann::mnist_reader" alt="" coords="616,444,752,471"/>
+<area shape="rect" id="node13" href="$classlbann_1_1imagenet__reader__single.html" title="lbann::imagenet_reader\l_single" alt="" coords="824,269,981,310"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="lbann::lbann_proto::add_system_params" name="lbann::lbann_proto::add_system_params">
-<area shape="rect" id="node2" href="$classlbann__data_1_1SystemParams.html#a78ecce7d60c6f483fdc5b38aa8dc97cf" title="lbann_data::SystemParams\l::set_host_name" alt="" coords="206,5,389,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1SystemParams.html#a50d36d0c660b9797dcded42f7776039c" title="lbann_data::SystemParams\l::set_num_nodes" alt="" coords="206,70,389,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1SystemParams.html#a7a7b4fe06f51ff0ab1483bc395c1341e" title="lbann_data::SystemParams\l::set_num_cores" alt="" coords="206,135,389,177"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1SystemParams.html#a0c10ce9d58eda05d2e0b8b88816927eb" title="lbann_data::SystemParams\l::set_tasks_per_node" alt="" coords="206,201,389,242"/>
-</map>

@@ -1,0 +1,11 @@
+<map id="lbann::lbann_callback_save_images::on_phase_end" name="lbann::lbann_callback_save_images::on_phase_end">
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a999f86970eaf27f0169af3c2a904727e" title="lbann::model::get_layers" alt="" coords="263,5,427,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a8aedadfbdd6b946cfa3cb9e8bbd16d03" title="lbann::model::get_current\l_phase" alt="" coords="261,57,430,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__save__images.html#ab84c4d511a4614ca90644d12dc77edee" title="lbann::lbann_callback\l_save_images::save_image" alt="" coords="253,122,437,163"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="485,71,651,97"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="497,122,639,163"/>
+<area shape="rect" id="node10" href="$classlbann_1_1generic__data__reader.html#a8cf298061c73f55e2fe717acd2a9f178" title="lbann::generic_data\l_reader::save_image" alt="" coords="497,187,639,229"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="699,89,842,130"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="699,154,842,195"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="891,89,1034,130"/>
+</map>

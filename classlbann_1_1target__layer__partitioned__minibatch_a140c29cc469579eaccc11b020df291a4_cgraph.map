@@ -1,0 +1,5 @@
+<map id="lbann::target_layer_partitioned_minibatch::copy" name="lbann::target_layer_partitioned_minibatch::copy">
+<area shape="rect" id="node2" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a2ae60aa53e41eacf5e42f72d5566a79f" title="lbann::target_layer\l_partitioned_minibatch\l::target_layer_partitioned\l_minibatch" alt="" coords="243,45,408,115"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a33229e91ef484ca4e373a8479ef18034" title="lbann::target_layer\l_partitioned_minibatch\l::initialize_distributed\l_matrices" alt="" coords="456,5,608,75"/>
+<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#a8aa477e63440c75d19bf441b80ec4ae1" title="lbann::io_layer::is\l_for_regression" alt="" coords="470,99,594,141"/>
+</map>

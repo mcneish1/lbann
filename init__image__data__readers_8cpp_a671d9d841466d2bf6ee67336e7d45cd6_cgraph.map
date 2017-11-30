@@ -1,0 +1,15 @@
+<map id="init_org_image_data_reader" name="init_org_image_data_reader">
+<area shape="rect" id="node2" href="$init__image__data__readers_8cpp.html#a0e66a70e8fd1805c0a7433d359f73b85" title="init_generic_preprocessor" alt="" coords="192,319,363,345"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__image__preprocessor.html#a4ba2de0a781dfa0a2652ad4d777a241f" title="lbann::lbann_image\l_preprocessor::horizontal_flip" alt="" coords="663,5,855,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__image__preprocessor.html#aeb7d75e4d3361ae2836afabc14510d74" title="lbann::lbann_image\l_preprocessor::vertical_flip" alt="" coords="669,70,848,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__image__preprocessor.html#a1a293733368dd9eceba3e99cf9e5ae24" title="lbann::lbann_image\l_preprocessor::rotation" alt="" coords="681,135,836,177"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__image__preprocessor.html#ae62596b4af5d1940aa0499cde2bdd005" title="lbann::lbann_image\l_preprocessor::horizontal_shift" alt="" coords="659,201,859,242"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__image__preprocessor.html#a50ac63e1f6b1b9806cbf6c06f53f4aca" title="lbann::lbann_image\l_preprocessor::vertical_shift" alt="" coords="665,267,852,309"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__image__preprocessor.html#aef1e2375fd518e69df800b0dcbcb37d0" title="lbann::lbann_image\l_preprocessor::shear_range" alt="" coords="667,334,850,375"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__image__preprocessor.html#a871cb543ee6c132a76e16045a1a2a9f3" title="lbann::lbann_image\l_preprocessor::disable\l_augmentation" alt="" coords="434,163,587,219"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__image__preprocessor.html#afa470b696ba435c20050187a0232717d" title="lbann::lbann_image\l_preprocessor::subtract_mean" alt="" coords="411,395,610,437"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__image__preprocessor.html#a05c4cb5cb842df5d46eebe15c6ea9de3" title="lbann::lbann_image\l_preprocessor::unit\l_variance" alt="" coords="443,461,578,517"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__image__preprocessor.html#a977b2fdd417acb1eb37dbea0cfdd4b60" title="lbann::lbann_image\l_preprocessor::scale" alt="" coords="439,542,582,583"/>
+<area shape="rect" id="node13" href="$classlbann_1_1lbann__image__preprocessor.html#a02cfd4d8c26a317540b587eb52cef0d5" title="lbann::lbann_image\l_preprocessor::z_score" alt="" coords="431,607,590,649"/>
+<area shape="rect" id="node14" href="$classlbann_1_1lbann__image__preprocessor.html#a1726baf71e931108dc9192539e90c583" title="lbann::lbann_image\l_preprocessor::add_noise" alt="" coords="425,673,596,714"/>
+</map>

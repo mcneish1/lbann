@@ -1,8 +1,0 @@
-<map id="lbann_data::FullyConnected::weight_initialization" name="lbann_data::FullyConnected::weight_initialization">
-<area shape="rect" id="node2" href="$classlbann__data_1_1FullyConnected.html#a2c0dd8cd92d30c61d5d825473e5e6007" title="lbann_data::FullyConnected\l::MergePartialFromCodedStream" alt="" coords="245,5,459,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1FullyConnected.html#a2364ab64960da6787d749d975ed1a836" title="lbann_data::FullyConnected\l::SerializeWithCachedSizes" alt="" coords="259,70,445,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1FullyConnected.html#a514554a3e2655dbf5a7f15edf06f43bb" title="lbann_data::FullyConnected\l::InternalSerializeWithCachedSizes\lToArray" alt="" coords="238,135,466,191"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1FullyConnected.html#acb024204124c2c35ac6b9b4d40b09f39" title="lbann_data::FullyConnected\l::ByteSize" alt="" coords="260,214,444,255"/>
-<area shape="rect" id="node7" href="$classlbann__data_1_1FullyConnected.html#a992b020e24642c868ce47064533b8156" title="lbann_data::FullyConnected\l::MergeFrom" alt="" coords="260,279,444,321"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1FullyConnected.html#a0b888371a4679edcef0763d7846c2715" title="lbann_data::FullyConnected\l::SerializeWithCachedSizesToArray" alt="" coords="515,142,746,183"/>
-</map>

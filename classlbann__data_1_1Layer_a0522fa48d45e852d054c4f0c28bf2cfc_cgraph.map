@@ -1,6 +1,0 @@
-<map id="lbann_data::Layer::operator=" name="lbann_data::Layer::operator=">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Layer.html#aba6985b14723647bc5b7420a55d25336" title="lbann_data::Layer::\lCopyFrom" alt="" coords="187,38,320,79"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Layer.html#a138485cd5d118229e6ea6b0f059c604b" title="lbann_data::Layer::\lClear" alt="" coords="368,5,501,46"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1Layer.html#a105f93bb09e96c90ab07c2de433de157" title="lbann_data::Layer::\lMergeFrom" alt="" coords="368,70,501,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1Layer.html#ac2f2052125efcd8bd89c8fedc234ab7e" title="lbann_data::Layer::\lGetArenaNoVirtual" alt="" coords="549,5,683,46"/>
-</map>

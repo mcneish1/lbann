@@ -1,8 +1,0 @@
-<map id="lbann::DataReader::name" name="lbann::DataReader::name">
-<area shape="rect" id="node2" href="$classlbann_1_1DataReader.html#a02ed4feeff87581c60d0a23073cc7e2f" title="Sets this class&#39;s name. " alt="" coords="224,135,363,177"/>
-<area shape="rect" id="node3" href="$classlbann_1_1DataReader__CIFAR10.html#ae86c5cc4b076c79b0f4227ecc1883053" title="lbann::DataReader_CIFAR10\l::DataReader_CIFAR10" alt="" coords="411,5,605,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1DataReader__ImageNet.html#a751b286be8115a62518cf238e62a10c9" title="lbann::DataReader_ImageNet\l::DataReader_ImageNet" alt="" coords="411,70,605,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1DataReader__MNIST.html#af0ebcd544c96f9e3d52447537b6ea3e3" title="lbann::DataReader_MNIST\l::DataReader_MNIST" alt="" coords="418,135,598,177"/>
-<area shape="rect" id="node6" href="$classlbann_1_1data__reader__nci.html#a630b728e6b639561f6581c4036ef2da0" title="lbann::data_reader\l_nci::data_reader_nci" alt="" coords="435,201,581,242"/>
-<area shape="rect" id="node7" href="$classlbann_1_1data__reader__nci__regression.html#a91a920c8e1fca3c4fefe246a64623f20" title="lbann::data_reader\l_nci_regression::data\l_reader_nci_regression" alt="" coords="430,265,586,321"/>
-</map>

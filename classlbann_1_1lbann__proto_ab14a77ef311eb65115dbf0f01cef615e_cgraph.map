@@ -1,4 +1,0 @@
-<map id="lbann::lbann_proto::add_performance_params" name="lbann::lbann_proto::add_performance_params">
-<area shape="rect" id="node2" href="$classlbann__data_1_1PerformanceParams.html#af6c8bc36a0a9552c59763d921eee9ae7" title="lbann_data::PerformanceParams\l::set_block_size" alt="" coords="235,5,447,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1PerformanceParams.html#a964e87be20c2d45dfc1db3fa26b9a971" title="lbann_data::PerformanceParams\l::set_max_par_io_size" alt="" coords="235,70,447,111"/>
-</map>

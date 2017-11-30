@@ -1,0 +1,21 @@
+<map id="lbann::lbann_callback_print::on_epoch_begin" name="lbann::lbann_callback_print::on_epoch_begin">
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="224,5,389,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="235,57,378,98"/>
+<area shape="rect" id="node7" href="$classlbann_1_1model.html#a999f86970eaf27f0169af3c2a904727e" title="lbann::model::get_layers" alt="" coords="225,123,389,149"/>
+<area shape="rect" id="node8" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="233,174,380,215"/>
+<area shape="rect" id="node9" href="$classlbann_1_1input__layer.html#a607fad89f9655bf8d0d2c6a104d4a74b" title="lbann::input_layer\l::get_num_iterations\l_per_epoch" alt="" coords="237,305,377,361"/>
+<area shape="rect" id="node13" href="$classlbann_1_1input__layer.html#af8598b6bce859316dbd1074945af8bcc" title="lbann::input_layer\l::get_global_mini_batch_size" alt="" coords="211,239,402,281"/>
+<area shape="rect" id="node15" href="$classlbann_1_1input__layer.html#afbe157b5447824a71c0373858263a3d8" title="lbann::input_layer\l::get_global_last_mini\l_batch_size" alt="" coords="233,385,381,441"/>
+<area shape="rect" id="node17" href="$classlbann_1_1input__layer.html#a6e00b2ebf313178c8fb7c47baa513746" title="lbann::input_layer\l::get_mini_batch_size" alt="" coords="232,466,381,507"/>
+<area shape="rect" id="node19" href="$classlbann_1_1input__layer.html#abf6f3aadaa4d628a420fa18e0b901b34" title="lbann::input_layer\l::get_last_mini_batch_size" alt="" coords="218,531,395,573"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="475,17,618,58"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="475,82,618,123"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="695,17,838,58"/>
+<area shape="rect" id="node10" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="485,334,609,375"/>
+<area shape="rect" id="node12" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="Get the number of iterations in each epoch. " alt="" coords="455,253,638,309"/>
+<area shape="rect" id="node11" href="$classlbann_1_1input__layer.html#a7f76e9590f8aaca012904a955eb37a49" title="lbann::input_layer\l::get_execution_mode" alt="" coords="691,334,842,375"/>
+<area shape="rect" id="node14" href="$classlbann_1_1generic__data__reader.html#a6d1ff5f8157e92e27c99fdd7b843f946" title="Return the mini_batch_size across all models (global) " alt="" coords="479,173,614,229"/>
+<area shape="rect" id="node16" href="$classlbann_1_1generic__data__reader.html#afe9c91178894c621f907bcfe4222d3c9" title="Return the last mini batch size across all models (global) " alt="" coords="471,400,622,456"/>
+<area shape="rect" id="node18" href="$classlbann_1_1generic__data__reader.html#a839e820be1d0e6bcebd370b5a11e397c" title="Get the mini batch size. " alt="" coords="451,481,643,522"/>
+<area shape="rect" id="node20" href="$classlbann_1_1generic__data__reader.html#a0517da9de5ce2278dd984c4df64cd6dd" title="Return the last mini batch size. " alt="" coords="471,547,622,603"/>
+</map>

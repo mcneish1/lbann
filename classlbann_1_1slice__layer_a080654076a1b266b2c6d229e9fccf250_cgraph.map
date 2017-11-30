@@ -1,0 +1,6 @@
+<map id="lbann::slice_layer::bp_compute" name="lbann::slice_layer::bp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1slice__layer.html#a798c10e5c19f58e38da9d2d50c49ca3e" title="lbann::slice_layer\l::bp_compute_gpu" alt="" coords="177,27,306,69"/>
+<area shape="rect" id="node5" href="$classlbann_1_1slice__layer.html#af5d6887cac9a0c3afab8f361cdf81034" title="lbann::slice_layer\l::bp_compute_cpu" alt="" coords="177,93,306,134"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#acee56be91337bbd78bc4371a8159b760" title="lbann::Layer::using_gpus" alt="" coords="355,5,522,32"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#abb826654d76064e06199e7deb4d06009" title="lbann::Layer::get_bp\l_output" alt="" coords="369,57,509,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="lbann::target_layer_distributed_minibatch::fp_set_std_matrix_view" name="lbann::target_layer_distributed_minibatch::fp_set_std_matrix_view">
+<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#a244d14e401fc2707bc140bc54274903c" title="lbann::target_layer\l::fp_set_std_matrix_view" alt="" coords="221,52,389,93"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="659,26,829,68"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a935881e25a98b4ffad1985dc04c19572" title="lbann::Layer::fp_set\l_std_matrix_view" alt="" coords="455,26,593,68"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a1f27034e3877c7e32c57bcdd673f781d" title="lbann::model::get_metrics" alt="" coords="438,92,610,119"/>
+</map>

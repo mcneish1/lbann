@@ -1,7 +1,0 @@
-<map id="lbann_data::FullyConnected::num_neurons" name="lbann_data::FullyConnected::num_neurons">
-<area shape="rect" id="node2" href="$classlbann__data_1_1FullyConnected.html#a2364ab64960da6787d749d975ed1a836" title="lbann_data::FullyConnected\l::SerializeWithCachedSizes" alt="" coords="259,5,445,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1FullyConnected.html#a514554a3e2655dbf5a7f15edf06f43bb" title="lbann_data::FullyConnected\l::InternalSerializeWithCachedSizes\lToArray" alt="" coords="238,69,466,125"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1FullyConnected.html#acb024204124c2c35ac6b9b4d40b09f39" title="lbann_data::FullyConnected\l::ByteSize" alt="" coords="260,149,444,190"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1FullyConnected.html#a992b020e24642c868ce47064533b8156" title="lbann_data::FullyConnected\l::MergeFrom" alt="" coords="260,214,444,255"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1FullyConnected.html#a0b888371a4679edcef0763d7846c2715" title="lbann_data::FullyConnected\l::SerializeWithCachedSizesToArray" alt="" coords="515,77,746,118"/>
-</map>

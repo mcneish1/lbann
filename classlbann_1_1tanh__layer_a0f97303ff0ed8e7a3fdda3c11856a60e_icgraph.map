@@ -1,0 +1,4 @@
+<map id="lbann::tanh_layer::initialize_distributed_matrices" name="lbann::tanh_layer::initialize_distributed_matrices">
+<area shape="rect" id="node2" href="$classlbann_1_1tanh__layer.html#a24f9a6d92637571583267c5ad7bc9e84" title="lbann::tanh_layer::\ltanh_layer" alt="" coords="190,13,319,54"/>
+<area shape="rect" id="node3" href="$classlbann_1_1tanh__layer.html#ad42d3814131e6d8588c1cb4bfba8ebb6" title="lbann::tanh_layer::copy" alt="" coords="368,20,525,47"/>
+</map>

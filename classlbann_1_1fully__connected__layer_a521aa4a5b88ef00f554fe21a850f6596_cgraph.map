@@ -1,0 +1,4 @@
+<map id="lbann::fully_connected_layer::bp_compute_cuda" name="lbann::fully_connected_layer::bp_compute_cuda">
+<area shape="rect" id="node2" href="$namespacelbann_1_1fully__connected__cuda.html#a45c34e7de58545d7d2e382babba0489e" title="reduction of rows with the result copied back to CPU " alt="" coords="237,5,389,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#adc2be91222e59b976a40f614dbcfb644" title="lbann::model::get_effective\l_mini_batch_size" alt="" coords="224,70,403,111"/>
+</map>

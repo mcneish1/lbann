@@ -1,4 +1,0 @@
-<map id="create_types" name="create_types">
-<area shape="rect" id="node2" href="$lbann__persist_8cpp.html#aaedba0aa0df9b047cdaaf1ce45072394" title="Write the given a distributed matrix to the specified file using MPI I/O. " alt="" coords="153,5,237,32"/>
-<area shape="rect" id="node3" href="$lbann__persist_8cpp.html#a8cc0d3da909c360b2a72ee0c611055cf" title="Read the specified file and initialize a distributed matrix using MPI I/O. " alt="" coords="153,56,237,83"/>
-</map>

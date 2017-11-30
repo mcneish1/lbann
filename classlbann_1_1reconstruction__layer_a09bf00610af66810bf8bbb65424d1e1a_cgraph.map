@@ -1,0 +1,10 @@
+<map id="lbann::reconstruction_layer::summarize_stats" name="lbann::reconstruction_layer::summarize_stats">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="457,5,610,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#acf17279d9186337f4170f4edd4d5205b" title="lbann::model::get_objective\l_function" alt="" coords="219,45,400,86"/>
+<area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#a74f5d56f81156b2971ba11d5c03f535d" title="lbann::objective_function\l::get_history_mean_value" alt="" coords="224,110,395,151"/>
+<area shape="rect" id="node5" href="$classlbann_1_1Layer.html#a7f3f26e2ae0497f9a00fd6bc56b50543" title="lbann::Layer::summarize\l_stats" alt="" coords="227,175,392,217"/>
+<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a0a0f8e32e2b17953f87652f855ccfbf9" title="lbann::Layer::reset\l_counters" alt="" coords="468,87,599,129"/>
+<area shape="rect" id="node7" href="$classlbann_1_1Layer.html#a1c9f005cd1129afc93f9104b74414508" title="lbann::Layer::get_weights" alt="" coords="448,153,619,180"/>
+<area shape="rect" id="node8" href="$classlbann_1_1optimizer.html#a193fcd4b1a959263e308a1ba56ab789f" title="lbann::optimizer::get\l_step_time" alt="" coords="463,205,603,246"/>
+<area shape="rect" id="node9" href="$classlbann_1_1optimizer.html#a067709debd4d2e7bfe1a35b5f6ced668" title="lbann::optimizer::reset\l_counters" alt="" coords="458,270,609,311"/>
+</map>

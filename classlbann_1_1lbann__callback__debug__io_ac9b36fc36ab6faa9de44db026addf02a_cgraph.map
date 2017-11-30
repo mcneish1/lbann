@@ -1,0 +1,9 @@
+<map id="lbann::lbann_callback_debug_io::on_evaluate_forward_prop_begin" name="lbann::lbann_callback_debug_io::on_evaluate_forward_prop_begin">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__distribution.html#ab67a8129f65153c82057552581ae8ef4" title="Return the rank of the current root node for the Elemental Distribution. " alt="" coords="255,5,395,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="243,85,408,112"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="254,137,397,178"/>
+<area shape="rect" id="node5" href="$classlbann_1_1input__layer.html#a55b7424ab83ee66b3d5867f5c86c4eed" title="lbann::input_layer\l::get_data_reader" alt="" coords="263,202,387,243"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#a2a3dfe8df7934de80214c3aa59a8c2a9" title="Return the number of parallel readers per model. " alt="" coords="240,268,411,324"/>
+<area shape="rect" id="node7" href="$classlbann_1_1generic__data__distribution.html#a1d74612ff6bc5cd16454c1efb2d3e15c" title="Is the local reader done. " alt="" coords="253,348,397,404"/>
+<area shape="rect" id="node8" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="213,428,437,455"/>
+</map>

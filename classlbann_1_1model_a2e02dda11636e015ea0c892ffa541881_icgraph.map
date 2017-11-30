@@ -1,4 +1,0 @@
-<map id="lbann::model::load_from_checkpoint_shared" name="lbann::model::load_from_checkpoint_shared">
-<area shape="rect" id="node2" href="$classlbann_1_1sequential__model.html#afacd6b4f8ae045e6bc9ed2b8a2e1afa6" title="lbann::sequential_model\l::load_from_checkpoint\l_shared" alt="" coords="224,4,387,60"/>
-<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a05dce313fe4e587c6ca9088f78c6b84f" title="Restore model from shared checkpoint. " alt="" coords="435,4,600,60"/>
-</map>

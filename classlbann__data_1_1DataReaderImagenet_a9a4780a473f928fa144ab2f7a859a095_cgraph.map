@@ -1,5 +1,0 @@
-<map id="lbann_data::DataReaderImagenet::operator=" name="lbann_data::DataReaderImagenet::operator=">
-<area shape="rect" id="node2" href="$classlbann__data_1_1DataReaderImagenet.html#a0077a9c6cf30f2ed36029a82aa1ccd8f" title="lbann_data::DataReaderImagenet\l::CopyFrom" alt="" coords="273,38,490,79"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1DataReaderImagenet.html#aeb01a6dd35b708f7c42756e68d348807" title="lbann_data::DataReaderImagenet\l::Clear" alt="" coords="539,5,757,46"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1DataReaderImagenet.html#a0f7c127e5245c27dfcff33e95139d708" title="lbann_data::DataReaderImagenet\l::MergeFrom" alt="" coords="539,70,757,111"/>
-</map>

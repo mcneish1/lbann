@@ -1,0 +1,5 @@
+<map id="lbann::loss_function::compute_value" name="lbann::loss_function::compute_value">
+<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#a2212547a52248b958ee96377ddf271f9" title="lbann::target_layer\l::get_prediction" alt="" coords="197,5,326,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a1694852b9a37f8afc01d9eba03dae9a4" title="lbann::target_layer\l::get_ground_truth" alt="" coords="197,70,326,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1loss__function.html#a537d0e2d80c8f4d9ad5a32cff254958e" title="lbann::loss_function\l::evaluate" alt="" coords="192,135,331,177"/>
+</map>

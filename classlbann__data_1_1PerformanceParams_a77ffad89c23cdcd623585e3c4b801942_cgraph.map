@@ -1,5 +1,0 @@
-<map id="lbann_data::PerformanceParams::SerializeWithCachedSizesToArray" name="lbann_data::PerformanceParams::SerializeWithCachedSizesToArray">
-<area shape="rect" id="node2" href="$classlbann__data_1_1PerformanceParams.html#af674e81b6011f915a46f3aea22de3505" title="lbann_data::PerformanceParams\l::InternalSerializeWithCachedSizes\lToArray" alt="" coords="286,31,514,87"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1PerformanceParams.html#a5261dc32ee90c3740c95af5be8759ffc" title="lbann_data::PerformanceParams\l::block_size" alt="" coords="563,5,775,46"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1PerformanceParams.html#a38251a0a4c3904efdb8c7c53e4141f36" title="lbann_data::PerformanceParams\l::max_par_io_size" alt="" coords="563,70,775,111"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="lbann::DataReader::getNumData" name="lbann::DataReader::getNumData">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#a813f3e5f412caf7897a33df236685b73" title="lbann::io_layer::io\l_layer" alt="" coords="214,5,338,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1io__layer.html#a2f041f30ef460bd2064be4c9988b6ffe" title="lbann::io_layer::set\l_training_data_reader" alt="" coords="203,70,349,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1io__layer.html#a147126a1a4372a36a9a52e9632dd2bfc" title="lbann::io_layer::set\l_validation_data_reader" alt="" coords="197,135,355,177"/>
-<area shape="rect" id="node6" href="$classlbann_1_1io__layer.html#a73ebdd84af9e419d2f21013cf60da207" title="lbann::io_layer::set\l_testing_data_reader" alt="" coords="205,201,347,242"/>
-<area shape="rect" id="node8" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#a06800a7f630fef832057bd232911efb2" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io::update_data\l_reader" alt="" coords="193,266,359,337"/>
-<area shape="rect" id="node4" href="$classlbann_1_1target__layer.html#ac89369f405bde43949b46ec19bfd9201" title="lbann::target_layer\l::set_training_data\l_reader" alt="" coords="429,63,558,119"/>
-<area shape="rect" id="node7" href="$classlbann_1_1target__layer.html#a96accfb72fb8244d3741361b1de5e6ff" title="lbann::target_layer\l::set_testing_data_reader" alt="" coords="409,201,578,242"/>
-</map>

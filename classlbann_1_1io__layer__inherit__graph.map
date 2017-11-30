@@ -1,10 +1,10 @@
 <map id="lbann::io_layer" name="lbann::io_layer">
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html" title="lbann::input_layer" alt="" coords="305,84,429,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1target__layer.html" title="lbann::target_layer" alt="" coords="302,192,431,219"/>
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="5,120,99,147"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer__distributed__minibatch.html" title="lbann::input_layer\l_distributed_minibatch" alt="" coords="480,5,632,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1input__layer__distributed__minibatch__parallel__io.html" title="lbann::input_layer\l_distributed_minibatch\l_parallel_io" alt="" coords="480,69,632,125"/>
-<area shape="rect" id="node7" href="$classlbann_1_1target__layer__distributed__minibatch.html" title="lbann::target_layer\l_distributed_minibatch" alt="" coords="480,149,632,190"/>
-<area shape="rect" id="node8" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io" alt="" coords="480,213,632,269"/>
-<area shape="rect" id="node9" href="$classlbann_1_1target__layer__unsupervised.html" title="lbann::target_layer\l_unsupervised" alt="" coords="491,293,621,334"/>
+<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html" title="lbann::input_layer" alt="" coords="305,100,429,127"/>
+<area shape="rect" id="node6" href="$classlbann_1_1target__layer.html" title="lbann::target_layer" alt="" coords="302,211,431,237"/>
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="5,137,99,164"/>
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer__distributed__minibatch.html" title="lbann::input_layer\l_distributed_minibatch\l\&lt; T_layout \&gt;" alt="" coords="480,5,632,61"/>
+<area shape="rect" id="node5" href="$classlbann_1_1input__layer__partitioned__minibatch.html" title="lbann::input_layer\l_partitioned_minibatch\l\&lt; T_layout \&gt;" alt="" coords="480,85,632,141"/>
+<area shape="rect" id="node7" href="$classlbann_1_1reconstruction__layer.html" title="lbann::reconstruction\l_layer\&lt; T_layout \&gt;" alt="" coords="485,166,627,207"/>
+<area shape="rect" id="node8" href="$classlbann_1_1target__layer__distributed__minibatch.html" title="lbann::target_layer\l_distributed_minibatch\l\&lt; T_layout \&gt;" alt="" coords="480,232,632,288"/>
+<area shape="rect" id="node9" href="$classlbann_1_1target__layer__partitioned__minibatch.html" title="lbann::target_layer\l_partitioned_minibatch\l\&lt; T_layout \&gt;" alt="" coords="480,312,632,368"/>
 </map>

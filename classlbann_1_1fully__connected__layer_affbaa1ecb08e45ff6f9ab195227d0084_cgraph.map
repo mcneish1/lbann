@@ -1,0 +1,4 @@
+<map id="lbann::fully_connected_layer::bp_compute_cpu" name="lbann::fully_connected_layer::bp_compute_cpu">
+<area shape="rect" id="node2" href="$namespaceEl.html#a584f088a3325a8222d4d6ac37be04b04" title="El::RowSum" alt="" coords="260,5,356,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#adc2be91222e59b976a40f614dbcfb644" title="lbann::model::get_effective\l_mini_batch_size" alt="" coords="219,57,397,98"/>
+</map>

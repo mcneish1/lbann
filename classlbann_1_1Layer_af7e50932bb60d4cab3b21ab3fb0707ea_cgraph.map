@@ -1,0 +1,7 @@
+<map id="lbann::Layer::summarize_matrices" name="lbann::Layer::summarize_matrices">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__summary.html#a8f63a3f2566d5d13e5ae24e727523c44" title="lbann::lbann_summary\l::reduce_mean" alt="" coords="219,5,373,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html#afbf2df538879fcc4ea90a2bc6a6c2974" title="lbann::lbann_summary\l::reduce_min" alt="" coords="219,70,373,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__summary.html#abebb44b0ea225aba2b98b24ccc8eb427" title="lbann::lbann_summary\l::reduce_max" alt="" coords="219,135,373,177"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__summary.html#a65475f9a72f042b6ba09a2d33fda9293" title="lbann::lbann_summary\l::reduce_stdev" alt="" coords="219,201,373,242"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__summary.html#a336143c9540d779381658beb4e841b73" title="lbann::lbann_summary\l::reduce_2norm" alt="" coords="219,266,373,307"/>
+</map>

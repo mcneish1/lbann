@@ -1,0 +1,7 @@
+<map id="lbann::model::print_layer_description" name="lbann::model::print_layer_description">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a7eae259f041e79b4a23f439f3dbe800d" title="lbann::Layer::get_name" alt="" coords="185,5,343,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a0fa0ea9160b490c151c0a17fde4f7239" title="lbann::Layer::get_type" alt="" coords="189,56,339,83"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a34d337afce3ff00bd9bb63e6b25ba885" title="lbann::Layer::get_num\l_prev_neurons" alt="" coords="189,107,339,149"/>
+<area shape="rect" id="node5" href="$classlbann_1_1Layer.html#a3c592a6fb8b3e0951344a3802f39d92a" title="lbann::Layer::get_num\l_neurons" alt="" coords="189,173,339,214"/>
+<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#ad1f2439bff7ae072b50dbd405a76ec95" title="lbann::Layer::get_topo\l_description" alt="" coords="189,238,339,279"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="lbann::batch_normalization::setup_gpu" name="lbann::batch_normalization::setup_gpu">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a36aa22ef90ce4de65abe729d38490863" title="lbann::Layer::setup_gpu" alt="" coords="233,77,394,104"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a5dfb66e81fc085997402a5e2241316bd" title="lbann::Layer::get_data\l_layout" alt="" coords="445,5,595,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#ad67668baa49b8713f3c74816d1aeb175" title="lbann::lbann_comm::\lget_procs_per_model" alt="" coords="447,70,593,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="443,135,597,177"/>
+</map>

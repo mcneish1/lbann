@@ -1,5 +1,0 @@
-<map id="lbann_data::Convolution::MergeFrom" name="lbann_data::Convolution::MergeFrom">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Convolution.html#a3609990c9761250cbc5535a1f3a4c3ff" title="lbann_data::Convolution\l::Convolution" alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Convolution.html#a621c25a415a7484b3bcf791795de9274" title="lbann_data::Convolution\l::CopyFrom" alt="" coords="216,70,379,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1Convolution.html#abf1da2e783455170ca3f2db6601fa2ae" title="lbann_data::Convolution\l::operator=" alt="" coords="427,70,589,111"/>
-</map>

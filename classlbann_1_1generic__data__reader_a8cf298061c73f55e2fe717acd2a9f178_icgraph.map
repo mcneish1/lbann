@@ -1,0 +1,6 @@
+<map id="lbann::generic_data_reader::save_image" name="lbann::generic_data_reader::save_image">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__save__images.html#ab84c4d511a4614ca90644d12dc77edee" title="lbann::lbann_callback\l_save_images::save_image" alt="" coords="197,70,381,111"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__save__images.html#aa540916eef9b95db68889a8a7426779c" title="lbann::lbann_callback\l_save_images::on_epoch_end" alt="" coords="430,5,629,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__save__images.html#a4591438de0b52467988e2bd34b55c0dd" title="lbann::lbann_callback\l_save_images::on_phase_end" alt="" coords="430,70,629,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__save__images.html#a44d0f0113133d6fd8944d8b7702ea786" title="lbann::lbann_callback\l_save_images::on_test_end" alt="" coords="437,135,622,177"/>
+</map>

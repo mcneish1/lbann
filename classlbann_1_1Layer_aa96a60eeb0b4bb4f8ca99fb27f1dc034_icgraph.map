@@ -1,0 +1,4 @@
+<map id="lbann::Layer::saveToCheckpoint" name="lbann::Layer::saveToCheckpoint">
+<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#a45194162b071bfc3a5eb1a488b207e27" title="lbann::softmax_layer\l::saveToCheckpoint" alt="" coords="265,5,407,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#aefae59ece36348717af202d8d7840648" title="lbann::target_layer\l::saveToCheckpoint" alt="" coords="267,70,405,111"/>
+</map>

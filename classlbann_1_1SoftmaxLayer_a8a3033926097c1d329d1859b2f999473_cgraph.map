@@ -1,5 +1,0 @@
-<map id="lbann::SoftmaxLayer::loadFromCheckpointShared" name="lbann::SoftmaxLayer::loadFromCheckpointShared">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#acd2524835a05a2d88c92e546e15a80a9" title="lbann::Layer::loadFromCheckpoint\lShared" alt="" coords="245,5,467,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#aa98be93f33b510e5b506b61de6bd79bd" title="lbann::persist::read\l_distmat" alt="" coords="515,5,648,46"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#aefae2a9fc9d742ece0fa8ca7ed9ee137" title="lbann::exists" alt="" coords="696,12,792,39"/>
-</map>

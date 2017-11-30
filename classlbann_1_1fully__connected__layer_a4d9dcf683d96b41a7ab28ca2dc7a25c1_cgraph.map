@@ -1,0 +1,4 @@
+<map id="lbann::fully_connected_layer::bp_compute_weights" name="lbann::fully_connected_layer::bp_compute_weights">
+<area shape="rect" id="node2" href="$classlbann_1_1optimizer.html#aba753df2dc9b36c5c1bdd8b2dbfbbd79" title="lbann::optimizer::allreduce\l_and_add_to_gradient" alt="" coords="243,5,418,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a10517deafb049ddd740f72e7c3ff2cc3" title="lbann::optimizer::is\l_initialized" alt="" coords="467,5,599,46"/>
+</map>

@@ -1,3 +1,4 @@
-<map id="lbann::dropout" name="lbann::dropout">
-<area shape="rect" id="node2" href="$classlbann_1_1regularizer.html" title="lbann::regularizer" alt="" coords="5,5,125,32"/>
+<map id="lbann::dropout&lt; T_layout &gt;" name="lbann::dropout&lt; T_layout &gt;">
+<area shape="rect" id="node2" href="$classlbann_1_1regularizer__layer.html" title="lbann::regularizer\l_layer" alt="" coords="34,81,155,122"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="48,5,141,32"/>
 </map>

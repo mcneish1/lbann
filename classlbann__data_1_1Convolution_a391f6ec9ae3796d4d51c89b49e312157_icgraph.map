@@ -1,8 +1,0 @@
-<map id="lbann_data::Convolution::weight_initialization" name="lbann_data::Convolution::weight_initialization">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Convolution.html#a3f9c85613308abba53d7b07159a5ab03" title="lbann_data::Convolution\l::MergePartialFromCodedStream" alt="" coords="216,5,429,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Convolution.html#a961b5fdff806794c7f4018b346bd332b" title="lbann_data::Convolution\l::SerializeWithCachedSizes" alt="" coords="230,70,415,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1Convolution.html#aa1804ad5427b7887f0811488737ccbbc" title="lbann_data::Convolution\l::InternalSerializeWithCached\lSizesToArray" alt="" coords="225,135,420,191"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1Convolution.html#a2e9d87d2d104208c9a284e6c9c086c3a" title="lbann_data::Convolution\l::ByteSize" alt="" coords="241,214,404,255"/>
-<area shape="rect" id="node7" href="$classlbann__data_1_1Convolution.html#a2be441fdf24a151d25eedd1041ffae4d" title="lbann_data::Convolution\l::MergeFrom" alt="" coords="241,279,404,321"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1Convolution.html#a2d4ec8c16d7da19d0d0a2314d762be3d" title="lbann_data::Convolution\l::SerializeWithCachedSizesToArray" alt="" coords="478,142,709,183"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="lbann::local_response_normalization_layer::copy" name="lbann::local_response_normalization_layer::copy">
+<area shape="rect" id="node2" href="$classlbann_1_1local__response__normalization__layer.html#a5fa2f3175590cc85aa984c42cc9acd95" title="lbann::local_response\l_normalization_layer\l::local_response_normalization_layer" alt="" coords="233,12,469,68"/>
+<area shape="rect" id="node3" href="$classlbann_1_1local__response__normalization__layer.html#abe44181be22a8802494b3f27dddd8b54" title="lbann::local_response\l_normalization_layer\l::initialize_distributed\l_matrices" alt="" coords="518,5,666,75"/>
+</map>

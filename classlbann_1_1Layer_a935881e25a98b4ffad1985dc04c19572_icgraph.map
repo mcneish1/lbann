@@ -1,4 +1,8 @@
 <map id="lbann::Layer::fp_set_std_matrix_view" name="lbann::Layer::fp_set_std_matrix_view">
-<area shape="rect" id="node2" href="$classlbann_1_1FullyConnectedLayer.html#a6203dc19e38727d42947102637daaa12" title="lbann::FullyConnectedLayer\l::fp_set_std_matrix_view" alt="" coords="192,5,376,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a0de2e0aaa3763c82f67f24cc26e32711" title="lbann::target_layer\l::fp_set_std_matrix_view" alt="" coords="200,70,368,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#a5f0ac4c212360fa8a72a2a5e7277443e" title="lbann::softmax_layer\l::fp_set_std_matrix_view" alt="" coords="197,5,365,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a244d14e401fc2707bc140bc54274903c" title="lbann::target_layer\l::fp_set_std_matrix_view" alt="" coords="197,70,365,111"/>
+<area shape="rect" id="node6" href="$classlbann_1_1batch__normalization.html#a88acd11136c7b07a2c9b4ee38fdefe25" title="lbann::batch_normalization\l::fp_set_std_matrix_view" alt="" coords="193,135,370,177"/>
+<area shape="rect" id="node7" href="$classlbann_1_1Layer.html#a2483ccd8a4406a6891f6176f1001b4e5" title="lbann::Layer::forward_prop" alt="" coords="193,201,369,228"/>
+<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#a609cf6822b8181bb8ebc344874acb091" title="lbann::reconstruction\l_layer::fp_set_std_matrix_view" alt="" coords="419,34,621,75"/>
+<area shape="rect" id="node5" href="$classlbann_1_1target__layer__distributed__minibatch.html#af31610e5ec2ebd3352282d4931adf361" title="lbann::target_layer\l_distributed_minibatch\l::fp_set_std_matrix_view" alt="" coords="436,100,604,156"/>
 </map>

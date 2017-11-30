@@ -1,9 +1,0 @@
-<map id="lbann_data::DataReaderMnist::ByteSize" name="lbann_data::DataReaderMnist::ByteSize">
-<area shape="rect" id="node2" href="$classlbann__data_1_1DataReaderMnist.html#a64a404a7fb107158bec6a971d889bda9" title="lbann_data::DataReaderMnist\l::role" alt="" coords="248,5,443,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1DataReaderMnist.html#ad4315887f2e451d523e0c9e1243d66fc" title="lbann_data::DataReaderMnist\l::batch_size" alt="" coords="248,70,443,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1DataReaderMnist.html#ae88f0b041940c999ab0c78489064906d" title="lbann_data::DataReaderMnist\l::shuffle" alt="" coords="248,135,443,177"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1DataReaderMnist.html#a112094282301cba850d036d3e4a59046" title="lbann_data::DataReaderMnist\l::file_dir" alt="" coords="248,201,443,242"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1DataReaderMnist.html#ac75c4ecbb16592f16fa67c7b33858a33" title="lbann_data::DataReaderMnist\l::image_file" alt="" coords="248,266,443,307"/>
-<area shape="rect" id="node7" href="$classlbann__data_1_1DataReaderMnist.html#a6040133ae7566a8f67f187f7454e9d2d" title="lbann_data::DataReaderMnist\l::label_file" alt="" coords="248,331,443,373"/>
-<area shape="rect" id="node8" href="$classlbann__data_1_1DataReaderMnist.html#a01543cad66ee8f457000abe3eec33a88" title="lbann_data::DataReaderMnist\l::percent_samples" alt="" coords="248,397,443,438"/>
-</map>

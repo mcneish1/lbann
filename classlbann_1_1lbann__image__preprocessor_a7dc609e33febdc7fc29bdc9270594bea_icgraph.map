@@ -1,6 +1,8 @@
 <map id="lbann::lbann_image_preprocessor::cv_pixels" name="lbann::lbann_image_preprocessor::cv_pixels">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#a27cb5182c4f764cbfa4edecbb78ef29d" title="lbann::lbann_image\l_preprocessor::augment" alt="" coords="221,5,384,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__image__preprocessor.html#ad1d71de3b2f635eb9b2a9a0e41da6e8c" title="lbann::lbann_image\l_preprocessor::internal\l_save_image" alt="" coords="225,69,380,125"/>
-<area shape="rect" id="node4" href="$classlbann_1_1DataReader__ImageNet.html#ade29f36b9d6a5185573de3046f139913" title="lbann::DataReader_ImageNet\l::save_image" alt="" coords="432,43,627,85"/>
-<area shape="rect" id="node5" href="$classlbann_1_1DataReader__MNIST.html#aa392da58cc506eed6e848ef0dc51c325" title="lbann::DataReader_MNIST\l::save_image" alt="" coords="439,109,619,150"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#a27cb5182c4f764cbfa4edecbb78ef29d" title="lbann::lbann_image\l_preprocessor::augment" alt="" coords="221,85,384,126"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__image__preprocessor.html#a3c4f4cc5c90233696566a35a62a1708c" title="lbann::lbann_image\l_preprocessor::internal\l_save_image" alt="" coords="225,165,380,221"/>
+<area shape="rect" id="node3" href="$classlbann_1_1cifar10__reader.html#a590c672731bbdcb6e7fd8fd300d004d5" title="lbann::cifar10_reader\l::fetch_datum" alt="" coords="446,5,589,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1imagenet__reader__org.html#ad4c47413e16c1c53000b7d7be757ff6e" title="lbann::imagenet_reader\l_org::fetch_datum" alt="" coords="439,70,596,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1mnist__reader.html#af257b58b61ae9f3f623f1cb5d18c4841" title="lbann::mnist_reader\l::fetch_datum" alt="" coords="449,135,585,177"/>
+<area shape="rect" id="node7" href="$classlbann_1_1image__data__reader.html#a71e4fa1eb8212cce88a2ed408ceeac51" title="lbann::image_data_reader\l::save_image" alt="" coords="432,201,603,242"/>
 </map>

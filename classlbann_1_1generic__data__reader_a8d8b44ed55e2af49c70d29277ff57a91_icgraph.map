@@ -1,0 +1,4 @@
+<map id="lbann::generic_data_reader::get_indices_fetched_per_mb" name="lbann::generic_data_reader::get_indices_fetched_per_mb">
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a73c84b8bfb4c395a70d1a9aab296a8cb" title="lbann::input_layer\l::get_sample_indices\l_per_mb" alt="" coords="193,5,338,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#ab7a9ab169376d444f22e5c02e2f6134f" title="lbann::target_layer\l::get_sample_indices\l_per_mb" alt="" coords="387,5,533,61"/>
+</map>

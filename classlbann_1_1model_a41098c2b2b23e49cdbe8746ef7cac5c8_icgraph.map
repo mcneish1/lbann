@@ -1,4 +1,0 @@
-<map id="lbann::model::save_to_checkpoint_shared" name="lbann::model::save_to_checkpoint_shared">
-<area shape="rect" id="node2" href="$classlbann_1_1sequential__model.html#abd91f8469ac7a5d73df540d12936cf4a" title="lbann::sequential_model\l::save_to_checkpoint_shared" alt="" coords="211,11,403,53"/>
-<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ae0ec210d3ecf58caa0d8d80e6768ba1b" title="Save model to shared checkpoint. " alt="" coords="451,4,613,60"/>
-</map>

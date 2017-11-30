@@ -1,0 +1,4 @@
+<map id="lbann::softmax_layer::copy" name="lbann::softmax_layer::copy">
+<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#aeac8e8c98c838929afc9ab6c82af24d2" title="lbann::softmax_layer\l::softmax_layer" alt="" coords="198,13,341,54"/>
+<area shape="rect" id="node3" href="$classlbann_1_1softmax__layer.html#a013afcff515c559de25b2218a1929ab6" title="lbann::softmax_layer\l::initialize_distributed\l_matrices" alt="" coords="389,5,533,61"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="lbann::Optimizer::set_name" name="lbann::Optimizer::set_name">
-<area shape="rect" id="node2" href="$classlbann_1_1Adagrad.html#a5cf6582fca9b7c09fa5c66f7e307fc50" title="Constructor. " alt="" coords="244,5,409,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Adam.html#a212d41fb042389e6b4495bb16e7925a9" title="lbann::Adam::Adam" alt="" coords="258,56,395,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1RMSprop.html#a6b9c3cac0287cfc2c949cf89b9e4f53a" title="lbann::RMSprop::RMSprop" alt="" coords="237,107,416,133"/>
-<area shape="rect" id="node5" href="$classlbann_1_1SGD.html#ad5ec556d983b1018cf0f9f31af38086c" title="lbann::SGD::SGD" alt="" coords="263,157,390,184"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="lbann::Layer::summarize" name="lbann::Layer::summarize">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__summary.html#a92a483db3f0232bf31c851a172c0964d" title="lbann::lbann_summary\l::reduce_mean" alt="" coords="219,5,373,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html#ac12b58821be8d438d2715b3f80bfe566" title="lbann::lbann_summary\l::reduce_min" alt="" coords="219,70,373,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__summary.html#a1f15efb9235faddb685265503c903782" title="lbann::lbann_summary\l::reduce_max" alt="" coords="219,135,373,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__summary.html#ac388826d8854491b3df706a91cb4a689" title="lbann::lbann_summary\l::reduce_stdev" alt="" coords="219,201,373,242"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__summary.html#aacd54e77d45bd1bd56df3a4d71c01ce8" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="219,266,373,307"/>
-</map>

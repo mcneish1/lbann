@@ -1,4 +1,3 @@
 <map id="lbann::lbann_quantizer::lbann_quantizer" name="lbann::lbann_quantizer::lbann_quantizer">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#afa32b747b7ac0dbea8df3b47593d54b7" title="lbann::lbann_quantizer\l::reset_bytes_counters" alt="" coords="205,5,360,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#abdba3762c51a2820f70adba32169f57b" title="lbann::lbann_quantizer\l::reset_time_counters" alt="" coords="207,70,359,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#aee1ea46e3191ad25fd310938eaf5a2e0" title="lbann::lbann_quantizer\l::reset_counters" alt="" coords="205,5,357,46"/>
 </map>

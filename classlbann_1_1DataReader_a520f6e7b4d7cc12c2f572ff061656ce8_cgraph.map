@@ -1,5 +1,0 @@
-<map id="lbann::DataReader::saveToCheckpointShared" name="lbann::DataReader::saveToCheckpointShared">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#aced95e3bc711276b072af97b65ef9fc1" title="lbann::persist::write\l_uint64" alt="" coords="227,5,363,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1persist.html#ab934c4952a2d99a3aeb3b8ee3648296e" title="lbann::persist::write\l_int32_contig" alt="" coords="227,70,363,111"/>
-<area shape="rect" id="node3" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="411,45,539,72"/>
-</map>

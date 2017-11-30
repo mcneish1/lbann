@@ -1,0 +1,4 @@
+<map id="lbann::unpooling_layer::copy" name="lbann::unpooling_layer::copy">
+<area shape="rect" id="node2" href="$classlbann_1_1unpooling__layer.html#a3b539f2a46552328edc0fdaec18d9c3c" title="Constructor. " alt="" coords="206,13,357,54"/>
+<area shape="rect" id="node3" href="$classlbann_1_1unpooling__layer.html#a152355d5d79778b48dc548fe64c5018a" title="lbann::unpooling_layer\l::initialize_distributed\l_matrices" alt="" coords="406,5,557,61"/>
+</map>

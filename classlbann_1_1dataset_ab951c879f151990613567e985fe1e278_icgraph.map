@@ -1,0 +1,4 @@
+<map id="lbann::dataset::total_samples" name="lbann::dataset::total_samples">
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#aa62574483bebb08e9d91a0123c6eba63" title="lbann::input_layer\l::input_layer" alt="" coords="226,5,350,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#a08da7a777b72e0da8d1792ae335810b1" title="lbann::input_layer\l::loadFromCheckpointShared" alt="" coords="193,70,383,111"/>
+</map>

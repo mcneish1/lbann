@@ -1,4 +1,0 @@
-<map id="lbann::lbann_quantizer::intermodel_sum" name="lbann::lbann_quantizer::intermodel_sum">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#ace11211398e94728880476981f25fdc2" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="206,5,370,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#aa711b0b2de0ccd9265f66304dee26606" title="lbann::lbann_quantizer\l::intermodel_sum" alt="" coords="212,85,364,126"/>
-</map>

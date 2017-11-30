@@ -1,0 +1,9 @@
+<map id="lbann::Layer::bp_set_std_matrix_view" name="lbann::Layer::bp_set_std_matrix_view">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a29a707364f22d1836299c8852d659127" title="lbann::Layer::add_to\l_error_signal" alt="" coords="214,5,354,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1batch__normalization.html#a5e1951d8f3763d598604a33d4ce858c0" title="lbann::batch_normalization\l::bp_set_std_matrix_view" alt="" coords="195,70,373,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1Layer.html#a0a502d9218d7dbbfd10ebebb6f917033" title="lbann::Layer::back_prop" alt="" coords="203,136,365,163"/>
+<area shape="rect" id="node3" href="$classlbann_1_1loss__function.html#af8e4bdc08ceef381e46067eab7e18c03" title="lbann::loss_function\l::compute_gradient" alt="" coords="448,5,587,46"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#a2ce4444efaab4dd1236c837d6847e438" title="lbann::model::backward_prop" alt="" coords="421,136,613,163"/>
+<area shape="rect" id="node7" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="662,129,791,170"/>
+<area shape="rect" id="node8" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="841,136,970,163"/>
+</map>

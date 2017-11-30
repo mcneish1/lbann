@@ -1,4 +1,0 @@
-<map id="lbann::Adagrad::update_weight_bias_matrix" name="lbann::Adagrad::update_weight_bias_matrix">
-<area shape="rect" id="node2" href="$classlbann_1_1Adagrad.html#afa4ef22515781d67e91def28edc5f22f" title="lbann::Adagrad::_sq" alt="" coords="215,5,353,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Adagrad.html#a96be06f24e47865c3cb9c89c6ba2b065" title="lbann::Adagrad::_sqrt" alt="" coords="211,56,357,83"/>
-</map>

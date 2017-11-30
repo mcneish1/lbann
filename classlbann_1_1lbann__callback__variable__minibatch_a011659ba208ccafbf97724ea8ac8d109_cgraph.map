@@ -1,0 +1,4 @@
+<map id="lbann::lbann_callback_variable_minibatch::change_learning_rate" name="lbann::lbann_callback_variable_minibatch::change_learning_rate">
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a3a48f1f87528a090da84e8f7ef7df35e" title="lbann::model::get_weights" alt="" coords="201,5,375,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a147cac09beaa17df4e0fc1fc1be3abce" title="lbann::optimizer::set\l_learning_rate" alt="" coords="218,57,358,98"/>
+</map>

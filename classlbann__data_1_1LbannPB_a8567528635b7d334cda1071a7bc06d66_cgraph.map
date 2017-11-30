@@ -1,8 +1,0 @@
-<map id="lbann_data::LbannPB::InitAsDefaultInstance" name="lbann_data::LbannPB::InitAsDefaultInstance">
-<area shape="rect" id="node2" href="$classlbann__data_1_1DataReader.html#a9afd302cdbb832dbcab834d45904adc5" title="lbann_data::DataReader\l::default_instance" alt="" coords="236,5,399,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Model.html#a7b81afb94f20af18cbe60061d987060a" title="lbann_data::Model::\ldefault_instance" alt="" coords="249,70,385,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1PerformanceParams.html#a34688ae50b1030c7fcdf2dc49f1845ed" title="lbann_data::PerformanceParams\l::default_instance" alt="" coords="211,135,423,177"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1SystemParams.html#a9dcab4a04621530ea9277a0d932d3d21" title="lbann_data::SystemParams\l::default_instance" alt="" coords="226,201,409,242"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1NetworkParams.html#a922c356ed0c5c5299f0449edf01cc872" title="lbann_data::NetworkParams\l::default_instance" alt="" coords="224,266,411,307"/>
-<area shape="rect" id="node7" href="$classlbann__data_1_1TrainingParams.html#a4caf6b5848e2bc286d2639febd9efc55" title="lbann_data::TrainingParams\l::default_instance" alt="" coords="225,331,409,373"/>
-</map>

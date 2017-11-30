@@ -1,0 +1,6 @@
+<map id="lbann::get_affinity" name="lbann::get_affinity">
+<area shape="rect" id="node2" href="$namespacelbann.html#a31acedf53bb67180043939832c0220d3" title="lbann::th_print_affinity" alt="" coords="361,5,511,32"/>
+<area shape="rect" id="node4" href="$namespacelbann.html#a4fd83a86cf27ca7bc1e01576a5ee36e0" title="lbann::print_affinity" alt="" coords="179,64,311,91"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#a26debfaa06e8490c7f258ed7923870c7" title="lbann::display_omp\l_setup" alt="" coords="561,57,695,98"/>
+<area shape="rect" id="node5" href="$namespacelbann.html#acbd15ead7411cf84db559cc39a82f445" title="lbann::print_affinity\l_subset" alt="" coords="370,57,502,98"/>
+</map>

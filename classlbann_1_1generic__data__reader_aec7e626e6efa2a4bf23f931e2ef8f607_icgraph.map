@@ -1,0 +1,12 @@
+<map id="lbann::generic_data_reader::operator=" name="lbann::generic_data_reader::operator=">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__compound__data__reader.html#a7ece97b6fd2bc62da4d98f29cfb50155" title="lbann::generic_compound\l_data_reader::operator=" alt="" coords="189,37,360,78"/>
+<area shape="rect" id="node5" href="$classlbann_1_1csv__reader.html#aaede525f7ac80484691822f27ef79cfc" title="lbann::csv_reader::\loperator=" alt="" coords="208,102,341,143"/>
+<area shape="rect" id="node6" href="$classlbann_1_1image__data__reader.html#a76a0b52eafb9ad133fb45fec7cf44700" title="lbann::image_data_reader\l::operator=" alt="" coords="189,167,360,209"/>
+<area shape="rect" id="node10" href="$classlbann_1_1numpy__reader.html#acaa3bec8f120bd5a905219378f663cda" title="lbann::numpy_reader\l::operator=" alt="" coords="203,233,346,274"/>
+<area shape="rect" id="node11" href="$classlbann_1_1pilot2__molecular__reader.html#a9c5498fd52f46e64e8d035b4cef4a605" title="lbann::pilot2_molecular\l_reader::operator=" alt="" coords="197,298,352,339"/>
+<area shape="rect" id="node3" href="$classlbann_1_1data__reader__merge__features.html#a2df9360e463c2ceaf4ba42e287f673b9" title="lbann::data_reader\l_merge_features::operator=" alt="" coords="409,5,591,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1data__reader__merge__samples.html#a781fcc341e120886a3359e8ab41121d7" title="lbann::data_reader\l_merge_samples::operator=" alt="" coords="408,70,592,111"/>
+<area shape="rect" id="node7" href="$classlbann_1_1imagenet__reader.html#a5ea15cc16aa679a2cb549b44eb77f323" title="lbann::imagenet_reader\l::operator=" alt="" coords="421,135,579,177"/>
+<area shape="rect" id="node9" href="$classlbann_1_1imagenet__reader__patches.html#a02e20aa26fb3b024486b8d5c71d37aa7" title="lbann::imagenet_reader\l_patches::operator=" alt="" coords="421,201,579,242"/>
+<area shape="rect" id="node8" href="$classlbann_1_1imagenet__reader__single.html#af38327f44f1de2dd191cd2d1dc193900" title="lbann::imagenet_reader\l_single::operator=" alt="" coords="640,135,797,177"/>
+</map>

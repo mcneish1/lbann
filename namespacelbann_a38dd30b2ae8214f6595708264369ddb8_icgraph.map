@@ -1,5 +1,3 @@
 <map id="lbann::closeread" name="lbann::closeread">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a0edeadcf97c65980931511ca61e03465" title="lbann::persist::close\l_restart" alt="" coords="171,5,309,46"/>
-<area shape="rect" id="node4" href="$lbann__model_8cpp.html#aa7e119633e5c00265844774013ffc4f0" title="Reads the &quot;latest&quot; file and returns the epoch number and sample offset for most recent checkpoint..." alt="" coords="197,71,283,97"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a61534dec88b64ec5fc672376e50ee00c" title="lbann::model::restartShared" alt="" coords="358,41,541,68"/>
+<area shape="rect" id="node2" href="$classlbann_1_1persist.html#afeef05548e1d17bd09d3805607edd621" title="lbann::persist::close\l_restart" alt="" coords="171,5,309,46"/>
 </map>

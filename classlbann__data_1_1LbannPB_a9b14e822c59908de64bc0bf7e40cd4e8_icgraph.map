@@ -1,8 +1,0 @@
-<map id="lbann_data::LbannPB::optimizer" name="lbann_data::LbannPB::optimizer">
-<area shape="rect" id="node2" href="$classlbann__data_1_1LbannPB.html#a7539cfa4d1fd64b47a7cb09e9e4b9271" title="lbann_data::LbannPB\l::MergePartialFromCodedStream" alt="" coords="200,5,413,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1LbannPB.html#aa81adbd72ac61331304b9442bb1f41c0" title="lbann_data::LbannPB\l::SerializeWithCachedSizes" alt="" coords="214,70,399,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1LbannPB.html#a0cee4801a997d239d3ae6798fbb74e36" title="lbann_data::LbannPB\l::InternalSerializeWithCached\lSizesToArray" alt="" coords="209,135,404,191"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1LbannPB.html#ae1b78d5aa9fb89d7fb65f0f26f2ddebf" title="lbann_data::LbannPB\l::ByteSize" alt="" coords="233,214,380,255"/>
-<area shape="rect" id="node7" href="$classlbann__data_1_1LbannPB.html#aa40fbbe5a93f59fbb9ccbd597ea8aca6" title="lbann_data::LbannPB\l::MergeFrom" alt="" coords="233,279,380,321"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1LbannPB.html#a5bfbf24788c5e930153666653fbea401" title="lbann_data::LbannPB\l::SerializeWithCachedSizes\lToArray" alt="" coords="462,135,647,191"/>
-</map>

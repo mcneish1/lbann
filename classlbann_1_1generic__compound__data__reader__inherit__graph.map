@@ -1,0 +1,6 @@
+<map id="lbann::generic_compound_data_reader" name="lbann::generic_compound_data_reader">
+<area shape="rect" id="node4" href="$classlbann_1_1data__reader__merge__features.html" title="lbann::data_reader\l_merge_features" alt="" coords="5,278,133,319"/>
+<area shape="rect" id="node5" href="$classlbann_1_1data__reader__merge__samples.html" title="lbann::data_reader\l_merge_samples" alt="" coords="158,278,287,319"/>
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html" title="lbann::generic_data\l_reader" alt="" coords="78,97,212,138"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__image__preprocessor.html" title="lbann::lbann_image\l_preprocessor" alt="" coords="78,6,212,47"/>
+</map>

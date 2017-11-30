@@ -1,4 +1,7 @@
 <map id="lbann::metrics::metric" name="lbann::metrics::metric">
-<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1categorical__accuracy.html" title="lbann::metrics::categorical\l_accuracy" alt="" coords="5,81,179,122"/>
-<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1mean__squared__error.html" title="lbann::metrics::mean\l_squared_error" alt="" coords="204,81,348,122"/>
+<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1categorical__accuracy.html" title="lbann::metrics::categorical\l_accuracy\&lt; T_layout \&gt;" alt="" coords="207,5,382,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1mean__absolute__deviation.html" title="lbann::metrics::mean\l_absolute_deviation\&lt;\l T_layout \&gt;" alt="" coords="222,71,367,127"/>
+<area shape="rect" id="node4" href="$classlbann_1_1metrics_1_1mean__squared__error.html" title="lbann::metrics::mean\l_squared_error\&lt; T_layout \&gt;" alt="" coords="203,151,386,193"/>
+<area shape="rect" id="node5" href="$classlbann_1_1metrics_1_1pearson__correlation.html" title="lbann::metrics::pearson\l_correlation\&lt; T_layout \&gt;" alt="" coords="213,217,376,258"/>
+<area shape="rect" id="node6" href="$classlbann_1_1metrics_1_1top__k__categorical__accuracy.html" title="lbann::metrics::top\l_k_categorical_accuracy\l\&lt; T_layout \&gt;" alt="" coords="211,283,378,339"/>
 </map>

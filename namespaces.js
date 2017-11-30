@@ -1,8 +1,9 @@
 var namespaces =
 [
-    [ "anonymous_namespace{lbann_random.cpp}", "namespaceanonymous__namespace_02lbann__random_8cpp_03.html", null ],
+    [ "anonymous_namespace{image_preprocessor.cpp}", "namespaceanonymous__namespace_02image__preprocessor_8cpp_03.html", null ],
+    [ "anonymous_namespace{profiler.cpp}", "namespaceanonymous__namespace_02profiler_8cpp_03.html", null ],
+    [ "anonymous_namespace{random.cpp}", "namespaceanonymous__namespace_02random_8cpp_03.html", null ],
     [ "cudnn", "namespacecudnn.html", null ],
     [ "El", "namespaceEl.html", null ],
-    [ "lbann", "namespacelbann.html", "namespacelbann" ],
-    [ "lbann_data", "namespacelbann__data.html", "namespacelbann__data" ]
+    [ "lbann", "namespacelbann.html", "namespacelbann" ]
 ];

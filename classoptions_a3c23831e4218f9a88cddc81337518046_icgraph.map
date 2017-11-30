@@ -1,0 +1,5 @@
+<map id="options::set_option" name="options::set_option">
+<area shape="rect" id="node2" href="$classoptions.html#a9ce5a1af62eeb42a88a1b47f5891e247" title="options::get_bool" alt="" coords="194,5,315,32"/>
+<area shape="rect" id="node3" href="$classoptions.html#a0a17d018f4b64f85091f3ec21de029f0" title="options::get_int" alt="" coords="199,56,310,83"/>
+<area shape="rect" id="node4" href="$classoptions.html#aa78e7d95dc59a2d25987546cdbab7872" title="options::get_double" alt="" coords="187,107,322,133"/>
+</map>

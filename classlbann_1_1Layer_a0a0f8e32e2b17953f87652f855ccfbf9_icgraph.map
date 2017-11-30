@@ -1,0 +1,5 @@
+<map id="lbann::Layer::reset_counters" name="lbann::Layer::reset_counters">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a24e9c82354a0a2af1b70cbca2211e7d4" title="lbann::Layer::Layer" alt="" coords="200,5,333,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a7f3f26e2ae0497f9a00fd6bc56b50543" title="lbann::Layer::summarize\l_stats" alt="" coords="184,57,349,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#a09bf00610af66810bf8bbb65424d1e1a" title="lbann::reconstruction\l_layer::summarize_stats" alt="" coords="397,57,563,98"/>
+</map>

@@ -1,7 +1,87 @@
 var NAVTREE =
 [
   [ "LBANN", "index.html", [
-    [ "LBANN Documentation", "index.html", "index" ],
+    [ "Overview", "index.html", [
+      [ "LBANN Development Team", "index.html#team", null ],
+      [ "License", "index.html#license", null ]
+    ] ],
+    [ "Getting Started", "getting_started.html", [
+      [ "Download", "getting_started.html#getting_started_download", null ],
+      [ "Building LBANN", "getting_started.html#getting_started_building", [
+        [ "Livermore Computing Build", "getting_started.html#lc", null ],
+        [ "Spack Build", "getting_started.html#spack", null ],
+        [ "OSX Build", "getting_started.html#osx", null ],
+        [ "Dependency List", "getting_started.html#dependencies", null ]
+      ] ],
+      [ "Basic Usage", "getting_started.html#getting_started_basicusage", [
+        [ "Verification", "getting_started.html#verification", null ]
+      ] ]
+    ] ],
+    [ "Callbacks", "callbacks.html", [
+      [ "Check Initialization", "callbacks.html#checkinit", null ],
+      [ "Check Reconstruction", "callbacks.html#checkreconstruction", null ],
+      [ "Check NAN", "callbacks.html#checknan", null ],
+      [ "Check Small", "callbacks.html#checksmall", null ],
+      [ "Dump Activations", "callbacks.html#dump_acts", null ],
+      [ "Dump Gradients", "callbacks.html#dump_grads", null ],
+      [ "Dump Minibatch Sample Indices", "callbacks.html#dump_mb_sample_indices", null ],
+      [ "Dump Weights", "callbacks.html#dump_wei", null ],
+      [ "Inter-model Communication", "callbacks.html#im_comm", null ],
+      [ "IO", "callbacks.html#io", null ],
+      [ "Learning Rate", "callbacks.html#learningrate", null ],
+      [ "Manage LTFB", "callbacks.html#LTFB", null ],
+      [ "Print Accuracy", "callbacks.html#print_acc", null ],
+      [ "Save Images", "callbacks.html#save_images", [
+        [ "Sum", "callbacks.html#sum", null ]
+      ] ],
+      [ "Timer", "callbacks.html#timer", null ],
+      [ "Debug", "callbacks.html#dbg", null ]
+    ] ],
+    [ "Layers", "layers.html", [
+      [ "Learning", "layers.html#learning", null ],
+      [ "Regularizer", "layers.html#regularizer", [
+        [ "Batch Normalization", "layers.html#batchNorm", null ],
+        [ "Dropout", "layers.html#dropout", null ],
+        [ "Selu Dropout", "layers.html#selu_dropout", null ],
+        [ "Local Response Norm Layer", "layers.html#local_response_norm_layer", null ]
+      ] ],
+      [ "Transform", "layers.html#transform", [
+        [ "Concatenation", "layers.html#concatenation", null ],
+        [ "Pooling", "layers.html#pooling", null ],
+        [ "Slice", "layers.html#slice", null ],
+        [ "Split", "layers.html#split", null ],
+        [ "Sum", "layers.html#sum", null ]
+      ] ],
+      [ "Activation", "layers.html#activation", [
+        [ "Identity", "layers.html#idlayer", null ],
+        [ "Rectified Linear Unit", "layers.html#reluLayer", null ],
+        [ "Leaky Relu", "layers.html#leakyrelu", null ],
+        [ "Smooth Relu", "layers.html#smoothrelu", null ],
+        [ "Exponential Linear Unit", "layers.html#expLinUn", null ],
+        [ "Scaled Elu", "layers.html#seluLayer", null ],
+        [ "Sigmoid", "layers.html#sigLayer", null ],
+        [ "Softplus", "layers.html#softplus", null ],
+        [ "Softmax", "layers.html#softmax", null ],
+        [ "Tanh", "layers.html#tanh", null ]
+      ] ],
+      [ "IO", "layers.html#io", null ]
+    ] ],
+    [ "Metrics", "metrics.html", [
+      [ "Categorical Accuracy", "metrics.html#cate_accuracy", null ],
+      [ "Mean Squared Error", "metrics.html#mse", null ],
+      [ "Top K Categorical Accuracy", "metrics.html#top_k", null ]
+    ] ],
+    [ "Objective Functions", "obj_fn.html", [
+      [ "Categorical Cross Entropy", "obj_fn.html#cate_cross_entropy", null ],
+      [ "Objective Mean Squared Error", "obj_fn.html#Omse", null ]
+    ] ],
+    [ "Optimizers", "optimizers.html", [
+      [ "Adagrad", "optimizers.html#Adagrad", null ],
+      [ "Adam", "optimizers.html#Adam", null ],
+      [ "Hypergradient Adam", "optimizers.html#hadam", null ],
+      [ "RMSprop", "optimizers.html#rmsp", null ],
+      [ "SGD", "optimizers.html#SGD", null ]
+    ] ],
     [ "Todo List", "todo.html", null ],
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ],
@@ -31,7 +111,7 @@ var NAVTREE =
     [ "Files", null, [
       [ "File List", "files.html", "files" ],
       [ "File Members", "globals.html", [
-        [ "All", "globals.html", "globals_dup" ],
+        [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
         [ "Variables", "globals_vars.html", null ],
         [ "Typedefs", "globals_type.html", null ],
@@ -45,24 +125,22 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"classlbann_1_1Layer.html#a9d4a379d5c9e1102e63b48c53dd8ed44",
-"classlbann_1_1dataset.html",
-"classlbann_1_1lbann__callback__imcomm.html#aef048c5bdeb5b36d7b5e0fdfddfb6a7a",
-"classlbann_1_1lbann__quantizer.html#a5b9d72b9133517e0212f73908a576c7e",
-"classlbann_1_1persist.html#a1adc7102c1b4bc91534ca156decbd965",
-"classlbann__data_1_1Convolution.html#a8eba784bc0b63aa14482b8b9a7f84280",
-"classlbann__data_1_1DataReaderMnist.html#a7b2212b3d957737b9814f981e700d392",
-"classlbann__data_1_1Input.html#ab5995cd5026d087fcb764a736c5520ac",
-"classlbann__data_1_1LbannPB.html#a33568bc990e990f1701fe046071cc90e",
-"classlbann__data_1_1NetworkParams.html#af5a1525b977fc039c40fb4394dd7a7d1",
-"classlbann__data_1_1Softmax.html#a55528cb91aa111b11e0277e1101a1a61",
-"classlbann__data_1_1TargetParallel.html#a7569113a65be00508ecb33e09602f44d",
-"classlbann__data_1_1TrainingParams.html#ad99765c56977344287133c289e6fa54b",
-"functions_vars_a.html",
-"lbann__callback_8hpp.html",
-"lbann__objective__fn_8hpp.html#a84a6b5226a98ba2d0c65c3a2a9afb43c",
-"struct__BOX3__USHORT.html#a05678808cf5a5c0aa1549d793423d967"
+"Elemental__extensions_8cpp.html",
+"classlbann_1_1Layer.html#a247cc68c730284f10a2cb42985fe5f3a",
+"classlbann_1_1batch__normalization.html#ac7a4a1b85b97c3e0db9d926a410331dd",
+"classlbann_1_1elu__layer.html#a37a371015add326278f7a537ade73e30",
+"classlbann_1_1greedy__layerwise__autoencoder.html#a345718b457e9afc62137a1a15172f191",
+"classlbann_1_1io__layer.html#ab061ec74d131699c7fd59b992bbe7036",
+"classlbann_1_1lbann__callback__imcomm.html#acf7e894b3381e7f9b71020dc73594d6aa5f19efb5bef79cea24be992a2137962e",
+"classlbann_1_1lbann__comm.html#a4f01e2f2d8220dc34cf39eb4a255cd7d",
+"classlbann_1_1local__response__normalization__layer.html#a85c25a68888e2e9d163a820326fc09ff",
+"classlbann_1_1noise__layer.html#a004e44d3229c02aa44b58bb266e01a96",
+"classlbann_1_1pooling__layer.html#a58f9e6223649bb79ad10a2411602d71d",
+"classlbann_1_1split__layer.html#af3ac078a4aec07033d22083a557dfd59",
+"cv__colorizer_8cpp_source.html",
+"functions_vars_0x61.html",
+"omp__diagnostics_8cpp.html#a17d55032bad5bb02903f9b1d933836a4",
+"statistics_8hpp.html#a085b697db535c10a6fd6689cc4445bd4"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
@@ -175,7 +253,7 @@ function createIndent(o,domNode,node,level)
     span.style.display = 'inline-block';
     span.style.width   = 16*(level+1)+'px';
     span.style.height  = '22px';
-    span.innerHTML = '&#160;';
+    span.innerHTML = '&nbsp;';
     domNode.appendChild(span);
   } 
 }

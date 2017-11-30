@@ -1,5 +1,0 @@
-<map id="lbann_data::TargetDistributedMinibatchParallelIO::MergeFrom" name="lbann_data::TargetDistributedMinibatchParallelIO::MergeFrom">
-<area shape="rect" id="node2" href="$classlbann__data_1_1TargetDistributedMinibatchParallelIO.html#afc31f05123e2235b394e15238b8b2d1c" title="lbann_data::TargetDistributed\lMinibatchParallelIO::TargetDistributed\lMinibatchParallelIO" alt="" coords="264,5,507,61"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1TargetDistributedMinibatchParallelIO.html#a54ec7b2ddf72b5d6a594865021188e35" title="lbann_data::TargetDistributed\lMinibatchParallelIO::CopyFrom" alt="" coords="283,85,487,126"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1TargetDistributedMinibatchParallelIO.html#aede8d12ee99f8b32be2970b17c0098cc" title="lbann_data::TargetDistributed\lMinibatchParallelIO::operator=" alt="" coords="555,85,754,126"/>
-</map>

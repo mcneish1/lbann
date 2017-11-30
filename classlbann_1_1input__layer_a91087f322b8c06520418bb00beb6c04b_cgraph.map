@@ -1,7 +1,0 @@
-<map id="lbann::input_layer::loadFromCheckpointShared" name="lbann::input_layer::loadFromCheckpointShared">
-<area shape="rect" id="node2" href="$classlbann_1_1DataReader.html#aec4f59b4876a698ba3fb76e596b4232c" title="Given directory to store checkpoint files, read state from file and add to number of bytes read..." alt="" coords="246,70,429,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1io__layer.html#a2c62c0b4e30f80c3edaf39e6530ccb49" title="lbann::io_layer::loadFrom\lCheckpointShared" alt="" coords="253,5,421,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#aa6d996db3714a7ae055adac0d8e8ac63" title="lbann::persist::read\l_uint64" alt="" coords="477,5,611,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1persist.html#a2944c32f6634223c0902b38a697a0957" title="lbann::persist::read\l_int32_contig" alt="" coords="477,70,611,111"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#a85385e2a9e058b6720300b4cbdd2b1d0" title="lbann::read_bytes" alt="" coords="659,45,784,72"/>
-</map>

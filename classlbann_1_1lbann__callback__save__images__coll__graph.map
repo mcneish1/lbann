@@ -1,5 +1,6 @@
 <map id="lbann::lbann_callback_save_images" name="lbann::lbann_callback_save_images">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback.html" title="lbann::lbann_callback" alt="" coords="8,96,155,123"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html" title="lbann::lbann_summary" alt="" coords="5,5,157,32"/>
-<area shape="rect" id="node4" href="$classlbann_1_1DataReader.html" title="lbann::DataReader" alt="" coords="179,96,308,123"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback.html" title="lbann::lbann_callback" alt="" coords="9,120,156,147"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html" title="lbann::lbann_summary" alt="" coords="5,13,157,40"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html" title="lbann::generic_data\l_reader" alt="" coords="182,113,316,154"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__image__preprocessor.html" title="lbann::lbann_image\l_preprocessor" alt="" coords="182,6,316,47"/>
 </map>

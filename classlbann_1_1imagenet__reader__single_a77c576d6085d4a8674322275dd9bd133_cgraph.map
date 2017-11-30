@@ -1,0 +1,6 @@
+<map id="lbann::imagenet_reader_single::fetch_datum" name="lbann::imagenet_reader_single::fetch_datum">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#ad45d83176d89f6e7e1ecac07f1b7bb6b" title="Allow the reader to know where it is in the model hierarchy. " alt="" coords="222,5,357,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a3936554bdefc2a2069a815554a072bc0" title="lbann::generic_data\l_reader::get_role" alt="" coords="222,70,357,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1imagenet__reader.html#a2a7df26a42356d2feb980c45cc9c1375" title="lbann::imagenet_reader\l::create_datum_view" alt="" coords="211,135,368,177"/>
+<area shape="rect" id="node5" href="$classlbann_1_1image__utils.html#af4b1658b13cff3af68139d903fc85735" title="Import an image from a file buffer (inbuf) and put it into an LBANN Mat data block. " alt="" coords="226,201,353,242"/>
+</map>

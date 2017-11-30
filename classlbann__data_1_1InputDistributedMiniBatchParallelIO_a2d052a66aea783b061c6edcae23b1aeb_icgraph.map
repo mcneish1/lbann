@@ -1,4 +1,0 @@
-<map id="lbann_data::InputDistributedMiniBatchParallelIO::set_num_parallel_readers" name="lbann_data::InputDistributedMiniBatchParallelIO::set_num_parallel_readers">
-<area shape="rect" id="node2" href="$classlbann__data_1_1InputDistributedMiniBatchParallelIO.html#a190a17949ed01d6c408ecae908908f58" title="lbann_data::InputDistributed\lMiniBatchParallelIO::MergeFrom" alt="" coords="240,5,451,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__proto.html#a7ae18ce6ef179db572e9bb8f39367d88" title="lbann::lbann_proto\l::add_layer" alt="" coords="281,70,409,111"/>
-</map>

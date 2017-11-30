@@ -1,0 +1,4 @@
+<map id="lbann::pilot2_molecular_reader::fetch_datum" name="lbann::pilot2_molecular_reader::fetch_datum">
+<area shape="rect" id="node2" href="$classlbann_1_1pilot2__molecular__reader.html#a553e05494c010e34a78e39d169326b3f" title="Return the frame data_id is in. " alt="" coords="419,5,573,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1pilot2__molecular__reader.html#ae45c583f72e11aeb5d955e2657a9a3e8" title="Fetch molecule data_id into X at molecule offset idx. " alt="" coords="209,34,370,75"/>
+</map>

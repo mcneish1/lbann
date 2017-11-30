@@ -1,5 +1,0 @@
-<map id="lbann::Adagrad::Adagrad" name="lbann::Adagrad::Adagrad">
-<area shape="rect" id="node2" href="$classlbann_1_1Optimizer.html#ab8394c815d5289584829cc47b49827f2" title="lbann::Optimizer::set_name" alt="" coords="219,5,402,32"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a06a31f9df1860358ef0ef68d9e165cac" title="lbann::lbann_comm::\lam_model_master" alt="" coords="239,57,382,98"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Optimizer.html#a6984da040ad703476b8f4d807c6439f1" title="lbann::Optimizer::name" alt="" coords="451,5,608,32"/>
-</map>

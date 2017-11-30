@@ -1,0 +1,18 @@
+<map id="lbann::generic_data_reader::get_num_data" name="lbann::generic_data_reader::get_num_data">
+<area shape="rect" id="node2" href="$classlbann_1_1distributed__minibatch.html#a6c04054c09e4404841b553381f28c43a" title="lbann::distributed\l_minibatch::calculate\l_num_iterations_per_epoch" alt="" coords="208,40,389,96"/>
+<area shape="rect" id="node3" href="$classlbann_1_1partitioned__minibatch.html#a020aead16579b172f3d7444e9527326d" title="lbann::partitioned\l_minibatch::calculate\l_num_iterations_per_epoch\l_spanning_models" alt="" coords="208,121,389,191"/>
+<area shape="rect" id="node4" href="$classlbann_1_1partitioned__minibatch.html#a2381cd2512ee6071752429558e6e92ee" title="lbann::partitioned\l_minibatch::calculate\l_num_iterations_per_epoch\l_single_model" alt="" coords="208,215,389,286"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__data__reader.html#aa28fdeeb6af492540f507e49adff5d6c" title="lbann::generic_data\l_reader::select_subset\l_of_data" alt="" coords="221,311,376,367"/>
+<area shape="rect" id="node17" href="$proto__common_8hpp.html#a74f60f765908334042f5b5ec5054646e" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="238,391,359,417"/>
+<area shape="rect" id="node6" href="$classlbann_1_1ascii__reader.html#a678254a9d1c90459a1502d63e36a2b61" title="lbann::ascii_reader\l::load" alt="" coords="457,5,588,46"/>
+<area shape="rect" id="node7" href="$classlbann_1_1cifar10__reader.html#aee797d547e651e1b0fd5dedc95edd0e0" title="lbann::cifar10_reader\l::load" alt="" coords="451,70,594,111"/>
+<area shape="rect" id="node8" href="$classlbann_1_1csv__reader.html#a7b76b23422db407e8fb039cc11a08bc6" title="lbann::csv_reader::load" alt="" coords="444,136,601,163"/>
+<area shape="rect" id="node9" href="$classlbann_1_1image__data__reader.html#a99cb80242d7d20bc1e8baeaff25ff790" title="lbann::image_data_reader\l::load" alt="" coords="437,187,608,229"/>
+<area shape="rect" id="node10" href="$classlbann_1_1imagenet__reader__single.html#a7ea768d9784b7a9532551d7402ee4f8e" title="lbann::imagenet_reader\l_single::load" alt="" coords="444,253,601,294"/>
+<area shape="rect" id="node11" href="$classlbann_1_1data__reader__merge__features.html#a8a618de9a92cb148746a83b0381ba781" title="Call load on the subsidiary data readers. " alt="" coords="447,318,598,359"/>
+<area shape="rect" id="node12" href="$classlbann_1_1data__reader__merge__samples.html#ab3554341417f5eba95b9c1098af40410" title="Load subsidiary data readers. " alt="" coords="446,383,599,425"/>
+<area shape="rect" id="node13" href="$classlbann_1_1mnist__reader.html#aacbd6c4dec95b9849083d96e0005b392" title="lbann::mnist_reader\l::load" alt="" coords="455,449,591,490"/>
+<area shape="rect" id="node14" href="$classlbann_1_1numpy__reader.html#aafc34d19b30845d54175911d143349de" title="lbann::numpy_reader\l::load" alt="" coords="451,514,594,555"/>
+<area shape="rect" id="node15" href="$classlbann_1_1pilot2__molecular__reader.html#a1b5160021a532f5f19897bd2250e3a46" title="lbann::pilot2_molecular\l_reader::load" alt="" coords="445,579,600,621"/>
+<area shape="rect" id="node16" href="$classlbann_1_1data__reader__synthetic.html#a0c57b7ff8fcb0c700fd412a9ee29dc28" title="lbann::data_reader\l_synthetic::load" alt="" coords="458,645,587,686"/>
+</map>

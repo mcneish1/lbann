@@ -1,0 +1,15 @@
+<map id="lbann::reconstruction_layer::setup_dims" name="lbann::reconstruction_layer::setup_dims">
+<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#a7f665044543a236293b937b7b834d327" title="lbann::target_layer\l::setup_dims" alt="" coords="233,78,362,119"/>
+<area shape="rect" id="node12" href="$classlbann_1_1Layer.html#a26db6bb902f60c213cb006a2fafc0667" title="lbann::Layer::get_neuron_dims" alt="" coords="197,144,397,171"/>
+<area shape="rect" id="node13" href="$classlbann_1_1Layer.html#ae09dec06726bdb73c3524c4896aaf5b4" title="lbann::Layer::get_num\l_neuron_dims" alt="" coords="222,195,373,237"/>
+<area shape="rect" id="node14" href="$classlbann_1_1Layer.html#a3c592a6fb8b3e0951344a3802f39d92a" title="lbann::Layer::get_num\l_neurons" alt="" coords="222,261,373,302"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a90fce1b06c1f2abb480e18cfe08a9746" title="lbann::Layer::setup_dims" alt="" coords="449,5,617,32"/>
+<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#a8aa477e63440c75d19bf441b80ec4ae1" title="lbann::io_layer::is\l_for_regression" alt="" coords="911,63,1035,105"/>
+<area shape="rect" id="node5" href="$classlbann_1_1target__layer.html#abaa4244e10a871cdc7576cb2b797f647" title="lbann::target_layer\l::get_data_dims" alt="" coords="469,173,598,214"/>
+<area shape="rect" id="node10" href="$classlbann_1_1target__layer.html#a3af89286a4737e87ca017ff1ffde5244" title="lbann::target_layer\l::get_linearized_label_size" alt="" coords="446,107,621,149"/>
+<area shape="rect" id="node6" href="$classlbann_1_1input__layer.html#acd502193755ac3460a76db9738055733" title="lbann::input_layer\l::get_data_dims" alt="" coords="695,173,819,214"/>
+<area shape="rect" id="node7" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="911,158,1035,199"/>
+<area shape="rect" id="node9" href="$classlbann_1_1generic__data__reader.html#a67a39151ff0aeddb94725613ef17504f" title="Get the dimensions of the data. " alt="" coords="894,223,1053,265"/>
+<area shape="rect" id="node8" href="$classlbann_1_1input__layer.html#a7f76e9590f8aaca012904a955eb37a49" title="lbann::input_layer\l::get_execution_mode" alt="" coords="1102,158,1253,199"/>
+<area shape="rect" id="node11" href="$classlbann_1_1input__layer.html#af05b3ee76894f64388dac8d5955230b4" title="lbann::input_layer\l::get_linearized_label_size" alt="" coords="670,107,845,149"/>
+</map>

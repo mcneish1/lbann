@@ -1,8 +1,4 @@
 <map id="lbann::persist::read_uint64" name="lbann::persist::read_uint64">
-<area shape="rect" id="node2" href="$classlbann_1_1DataReader.html#aec4f59b4876a698ba3fb76e596b4232c" title="Given directory to store checkpoint files, read state from file and add to number of bytes read..." alt="" coords="187,5,370,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#a2c62c0b4e30f80c3edaf39e6530ccb49" title="lbann::io_layer::loadFrom\lCheckpointShared" alt="" coords="195,70,363,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a2e02dda11636e015ea0c892ffa541881" title="lbann::model::load\l_from_checkpoint_shared" alt="" coords="193,135,364,177"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#a91087f322b8c06520418bb00beb6c04b" title="lbann::input_layer\l::loadFromCheckpointShared" alt="" coords="419,34,610,75"/>
-<area shape="rect" id="node6" href="$classlbann_1_1sequential__model.html#afacd6b4f8ae045e6bc9ed2b8a2e1afa6" title="lbann::sequential_model\l::load_from_checkpoint\l_shared" alt="" coords="433,128,596,184"/>
-<area shape="rect" id="node7" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a05dce313fe4e587c6ca9088f78c6b84f" title="Restore model from shared checkpoint. " alt="" coords="659,128,824,184"/>
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a08da7a777b72e0da8d1792ae335810b1" title="lbann::input_layer\l::loadFromCheckpointShared" alt="" coords="189,5,379,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a4b128336a2cfae4c08ef4fb596957c7e" title="Given directory to store checkpoint files, read state from file and add to number of bytes read..." alt="" coords="187,71,381,127"/>
 </map>

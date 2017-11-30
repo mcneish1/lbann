@@ -1,0 +1,12 @@
+<map id="lbann::input_layer::is_execution_mode_valid" name="lbann::input_layer::is_execution_mode_valid">
+<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#a1a550f2a05e265f4168930ee24d0a11a" title="lbann::target_layer\l::is_execution_mode_valid" alt="" coords="231,58,407,99"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#af06204d9b446dbaea418335a024ef333" title="lbann::model::is_execution\l_mode_valid" alt="" coords="230,123,407,165"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a4191097fdbcd1686525e9cd150f958ef" title="lbann::model::evaluate" alt="" coords="479,71,633,97"/>
+<area shape="rect" id="node8" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a67182a4d151a780452c14ff487e52089" title="Evaluate (validation) per phase. " alt="" coords="457,123,655,165"/>
+<area shape="rect" id="node11" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aba7eba729e2d84e42b7305da1309d649" title="Global evaluation (testing), provide overall cost relative to original input. " alt="" coords="711,187,873,229"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__ltfb.html#af447a14b1598f93f87af7ff006a124ba" title="lbann::lbann_callback\l_ltfb::evaluate" alt="" coords="719,5,865,46"/>
+<area shape="rect" id="node7" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="727,71,857,97"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="936,5,1083,46"/>
+<area shape="rect" id="node9" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="705,122,879,163"/>
+<area shape="rect" id="node10" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="928,154,1091,195"/>
+</map>

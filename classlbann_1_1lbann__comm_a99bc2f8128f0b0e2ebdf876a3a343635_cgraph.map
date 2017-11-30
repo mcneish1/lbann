@@ -1,0 +1,7 @@
+<map id="lbann::lbann_comm::recursive_doubling_allreduce_pow2" name="lbann::lbann_comm::recursive_doubling_allreduce_pow2">
+<area shape="rect" id="node2" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="297,5,407,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#ae925ac5eaf2895717c709b252961b3bf" title="lbann::lbann_comm::\lget_collective_buffer" alt="" coords="281,57,423,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a4b03909ef1eda8ea30b24d6c9734f81f" title="lbann::lbann_comm::\lis_rank_node_local" alt="" coords="281,122,423,163"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="481,89,623,130"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#aed7962a6affe4e72ffba35d9b0613fd9" title="lbann::lbann_comm::\lis_world_rank_on_node" alt="" coords="473,154,631,195"/>
+</map>

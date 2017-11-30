@@ -1,0 +1,10 @@
+<map id="lbann::entrywise_mean_and_stdev" name="lbann::entrywise_mean_and_stdev">
+<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1pearson__correlation.html#a4d381f6a4f3eb4612796ba8a58f69a56" title="corr(X1,X2) = covariance(X1,X2)/(stdev(X1)*stdev(X2)) " alt="" coords="211,5,370,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__image__preprocessor.html#ab499dd9f11d98998b5902d639f70fa8e" title="lbann::lbann_image\l_preprocessor::mean\l_subtraction" alt="" coords="219,85,363,141"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__image__preprocessor.html#af9fcb483843230008a53d60c12975f61" title="lbann::lbann_image\l_preprocessor::unit\l_variance" alt="" coords="223,165,358,221"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__image__preprocessor.html#aec67fb0dc7a1f5d718d5bb2e226f9b7a" title="lbann::lbann_image\l_preprocessor::z_score" alt="" coords="211,246,370,287"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__image__preprocessor.html#ae370cdc9f776ce8cce94a45cacf47425" title="lbann::lbann_image\l_preprocessor::normalize" alt="" coords="419,93,587,134"/>
+<area shape="rect" id="node5" href="$classlbann_1_1cifar10__reader.html#a590c672731bbdcb6e7fd8fd300d004d5" title="lbann::cifar10_reader\l::fetch_datum" alt="" coords="642,27,785,69"/>
+<area shape="rect" id="node6" href="$classlbann_1_1imagenet__reader__org.html#ad4c47413e16c1c53000b7d7be757ff6e" title="lbann::imagenet_reader\l_org::fetch_datum" alt="" coords="635,93,792,134"/>
+<area shape="rect" id="node7" href="$classlbann_1_1mnist__reader.html#af257b58b61ae9f3f623f1cb5d18c4841" title="lbann::mnist_reader\l::fetch_datum" alt="" coords="645,158,781,199"/>
+</map>

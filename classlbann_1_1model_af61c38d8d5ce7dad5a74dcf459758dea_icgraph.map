@@ -1,0 +1,8 @@
+<map id="lbann::model::setup_callbacks" name="lbann::model::setup_callbacks">
+<area shape="rect" id="node2" href="$classlbann_1_1dag__model.html#a42182cd35edf4a0e597aadc2591b9b7c" title="lbann::dag_model::setup" alt="" coords="190,5,354,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1sequential__model.html#ae894aa390468c3b7646d8fc0c4389795" title="lbann::sequential_model\l::setup_subset" alt="" coords="191,57,353,98"/>
+<area shape="rect" id="node7" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="196,122,348,163"/>
+<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9531d27227598e0f28a6fc04ef672ebf" title="Inserts a mirror layer for specified layer index. " alt="" coords="403,23,583,65"/>
+<area shape="rect" id="node5" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="412,89,575,130"/>
+<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a90afd0c31448bb8f9f6e1e9f39f416a3" title="Removes mirror for specified layer index. " alt="" coords="633,89,823,130"/>
+</map>

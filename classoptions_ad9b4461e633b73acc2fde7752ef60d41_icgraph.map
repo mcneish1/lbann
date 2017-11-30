@@ -1,0 +1,7 @@
+<map id="options::m_test_int" name="options::m_test_int">
+<area shape="rect" id="node2" href="$classoptions.html#a9ce5a1af62eeb42a88a1b47f5891e247" title="options::get_bool" alt="" coords="189,5,310,32"/>
+<area shape="rect" id="node3" href="$classoptions.html#a0a17d018f4b64f85091f3ec21de029f0" title="options::get_int" alt="" coords="194,56,305,83"/>
+<area shape="rect" id="node4" href="$classoptions.html#a01020aa5bd82bcff1b1c950b20578883" title="options::has_int" alt="" coords="192,107,307,133"/>
+<area shape="rect" id="node6" href="$classoptions.html#aafb1d2a7ccde0b1bf786230ba4080ecd" title="options::has_bool" alt="" coords="187,157,311,184"/>
+<area shape="rect" id="node5" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="360,132,512,159"/>
+</map>

@@ -1,5 +1,0 @@
-<map id="lbann_data::DataReader::operator=" name="lbann_data::DataReader::operator=">
-<area shape="rect" id="node2" href="$classlbann__data_1_1DataReader.html#a929b9764623af1ee5a32ec4678ad19c3" title="lbann_data::DataReader\l::CopyFrom" alt="" coords="216,38,379,79"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1DataReader.html#a10e2560e47689587123ff99f1529c343" title="lbann_data::DataReader\l::Clear" alt="" coords="427,5,589,46"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1DataReader.html#a99eb186f624048740d443f8f73a2d701" title="lbann_data::DataReader\l::MergeFrom" alt="" coords="427,70,589,111"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="lbann::selu_layer::initialize_distributed_matrices" name="lbann::selu_layer::initialize_distributed_matrices">
+<area shape="rect" id="node2" href="$classlbann_1_1selu__layer.html#ad71a99f25ddf2c07bc082a8e08f12cc2" title="lbann::selu_layer::\lselu_layer" alt="" coords="189,13,317,54"/>
+<area shape="rect" id="node3" href="$classlbann_1_1selu__layer.html#a93b696880571fad03f9aa142153117fa" title="lbann::selu_layer::copy" alt="" coords="366,20,522,47"/>
+</map>

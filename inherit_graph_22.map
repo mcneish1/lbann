@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$struct__DOUBLE3.html" title="_DOUBLE3" alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node1" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="5,35,101,61"/>
+<area shape="rect" id="node2" href="$classlbann_1_1dag__model.html" title="lbann::dag_model" alt="" coords="169,8,293,35"/>
+<area shape="rect" id="node4" href="$classlbann_1_1sequential__model.html" title="lbann::sequential_model" alt="" coords="149,60,312,87"/>
+<area shape="rect" id="node3" href="$classlbann_1_1siamese__model.html" title="lbann::siamese_model" alt="" coords="365,5,517,32"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html" title="lbann::greedy_layerwise\l_autoencoder" alt="" coords="360,57,523,98"/>
 </map>

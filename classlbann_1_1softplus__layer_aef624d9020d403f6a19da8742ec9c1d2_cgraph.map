@@ -1,0 +1,4 @@
+<map id="lbann::softplus_layer::copy" name="lbann::softplus_layer::copy">
+<area shape="rect" id="node2" href="$classlbann_1_1softplus__layer.html#a5c80b19945ae94541bf5edb53b664c69" title="lbann::softplus_layer\l::softplus_layer" alt="" coords="198,13,341,54"/>
+<area shape="rect" id="node3" href="$classlbann_1_1softplus__layer.html#a09a1b90dccf2d0e0b4668cdb4f24a8fd" title="lbann::softplus_layer\l::initialize_distributed\l_matrices" alt="" coords="389,5,533,61"/>
+</map>

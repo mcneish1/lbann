@@ -1,0 +1,4 @@
+<map id="lbann::target_layer::get_prediction" name="lbann::target_layer::get_prediction">
+<area shape="rect" id="node2" href="$classlbann_1_1loss__function.html#ae6c7f4d90401feb37502ce361cd65413" title="lbann::loss_function\l::compute_value" alt="" coords="184,5,323,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1loss__function.html#af8e4bdc08ceef381e46067eab7e18c03" title="lbann::loss_function\l::compute_gradient" alt="" coords="184,70,323,111"/>
+</map>

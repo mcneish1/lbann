@@ -1,0 +1,4 @@
+<map id="lbann::local_response_normalization_layer::fp_compute" name="lbann::local_response_normalization_layer::fp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1local__response__normalization__layer.html#a715b08cfc4bfed730a066f6d9cedef86" title="GPU implementation of forward propagation. " alt="" coords="203,5,351,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1local__response__normalization__layer.html#a79c72491b5b74b64d2b10ac2636cddce" title="CPU implementation of forward propagation. " alt="" coords="203,85,351,141"/>
+</map>

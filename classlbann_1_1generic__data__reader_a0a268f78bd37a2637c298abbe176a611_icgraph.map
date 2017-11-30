@@ -1,0 +1,5 @@
+<map id="lbann::generic_data_reader::get_current_mini_batch_size" name="lbann::generic_data_reader::get_current_mini_batch_size">
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#af2506e5c13458b00bb06586cdd15d801" title="lbann::input_layer\l::get_current_mini_batch_size" alt="" coords="193,5,389,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1imagenet__reader__patches.html#aaedb0fc7fbff9428ade47ca93ac1fbab" title="lbann::imagenet_reader\l_patches::fetch_data" alt="" coords="212,70,369,111"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__debug__io.html#aa7ef1c147f01e166e7a3fa51aaf47516" title="lbann::lbann_callback\l_debug_io::print_fp_start" alt="" coords="437,5,603,46"/>
+</map>

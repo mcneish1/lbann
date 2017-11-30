@@ -1,9 +1,0 @@
-<map id="lbann::lbann_callback_timer::on_epoch_end" name="lbann::lbann_callback_timer::on_epoch_end">
-<area shape="rect" id="node2" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="233,5,343,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="205,56,371,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a06a31f9df1860358ef0ef68d9e165cac" title="lbann::lbann_comm::\lam_model_master" alt="" coords="217,107,359,149"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="217,173,359,214"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="217,238,359,279"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a7e52b099a9c814e7e10c6ec528ae1354" title="lbann::lbann_comm::\lintermodel_gather" alt="" coords="217,303,359,345"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#aae7d094141d0da3bcacd542605f3e42d" title="lbann::lbann_comm::\lget_intermodel_master" alt="" coords="211,369,365,410"/>
-</map>

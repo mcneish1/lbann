@@ -1,4 +1,0 @@
-<map id="lbann::DataReader::fetch_label" name="lbann::DataReader::fetch_label">
-<area shape="rect" id="node2" href="$classlbann_1_1target__layer__distributed__minibatch.html#af58b920d63418c232cf2c26579675492" title="lbann::target_layer\l_distributed_minibatch\l::fp_linearity" alt="" coords="195,5,347,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html#ac848395e55b96cf53462d67efc42efb9" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io::fetch_from\l_data_reader" alt="" coords="192,86,349,157"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="lbann::distributed_minibatch_parallel_io" name="lbann::distributed_minibatch_parallel_io">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch__parallel__io.html" title="lbann::input_layer\l_distributed_minibatch\l_parallel_io" alt="" coords="205,5,357,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io" alt="" coords="205,85,357,141"/>
-</map>

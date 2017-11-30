@@ -1,0 +1,6 @@
+<map id="lbann::convolution_layer::operator=" name="lbann::convolution_layer::operator=">
+<area shape="rect" id="node2" href="$classlbann_1_1base__convolution__layer.html#ad31a2eac6843bd8643538530f1017c32" title="lbann::base_convolution\l_layer::operator=" alt="" coords="181,27,344,69"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a00d8acde68fda2f38c4a39ef8c89234a" title="lbann::Layer::operator=" alt="" coords="395,5,551,32"/>
+<area shape="rect" id="node4" href="$classlbann_1_1base__convolution__layer.html#adb4a2fc3fbac0f6c235c983cd0328abe" title="lbann::base_convolution\l_layer::setup_views" alt="" coords="392,57,555,98"/>
+<area shape="rect" id="node5" href="$classlbann_1_1Layer.html#a705cdeb600e57a076a24f6be1c31f5a5" title="lbann::Layer::setup\l_views" alt="" coords="603,57,736,98"/>
+</map>

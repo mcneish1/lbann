@@ -1,14 +1,45 @@
 <map id="lbann::Layer" name="lbann::Layer">
-<area shape="rect" id="node2" href="$classlbann_1_1convolutional__layer.html" title="Convolutional layer. " alt="" coords="170,39,307,81"/>
-<area shape="rect" id="node3" href="$classlbann_1_1FullyConnectedLayer.html" title="lbann::FullyConnectedLayer" alt="" coords="147,105,331,132"/>
-<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html" title="lbann::io_layer" alt="" coords="185,156,292,183"/>
-<area shape="rect" id="node12" href="$classlbann_1_1pooling__layer.html" title="Pooling layer. " alt="" coords="170,207,307,233"/>
-<area shape="rect" id="node13" href="$classlbann_1_1SoftmaxLayer.html" title="lbann::SoftmaxLayer" alt="" coords="167,257,310,284"/>
-<area shape="rect" id="node5" href="$classlbann_1_1input__layer.html" title="lbann::input_layer" alt="" coords="382,84,506,111"/>
-<area shape="rect" id="node8" href="$classlbann_1_1target__layer.html" title="lbann::target_layer" alt="" coords="379,192,509,219"/>
-<area shape="rect" id="node6" href="$classlbann_1_1input__layer__distributed__minibatch.html" title="lbann::input_layer\l_distributed_minibatch" alt="" coords="557,5,709,46"/>
-<area shape="rect" id="node7" href="$classlbann_1_1input__layer__distributed__minibatch__parallel__io.html" title="lbann::input_layer\l_distributed_minibatch\l_parallel_io" alt="" coords="557,69,709,125"/>
-<area shape="rect" id="node9" href="$classlbann_1_1target__layer__distributed__minibatch.html" title="lbann::target_layer\l_distributed_minibatch" alt="" coords="557,149,709,190"/>
-<area shape="rect" id="node10" href="$classlbann_1_1target__layer__distributed__minibatch__parallel__io.html" title="lbann::target_layer\l_distributed_minibatch\l_parallel_io" alt="" coords="557,213,709,269"/>
-<area shape="rect" id="node11" href="$classlbann_1_1target__layer__unsupervised.html" title="lbann::target_layer\l_unsupervised" alt="" coords="569,293,698,334"/>
+<area shape="rect" id="node2" href="$classlbann_1_1activation__layer.html" title="lbann::activation_layer" alt="" coords="147,713,299,740"/>
+<area shape="rect" id="node18" href="$classlbann_1_1io__layer.html" title="lbann::io_layer" alt="" coords="169,1096,276,1123"/>
+<area shape="rect" id="node26" href="$classlbann_1_1learning.html" title="lbann::learning" alt="" coords="169,1235,276,1261"/>
+<area shape="rect" id="node31" href="$classlbann_1_1regularizer__layer.html" title="lbann::regularizer\l_layer" alt="" coords="162,1383,283,1425"/>
+<area shape="rect" id="node36" href="$classlbann_1_1transform.html" title="lbann::transform" alt="" coords="165,1791,281,1817"/>
+<area shape="rect" id="node3" href="$classlbann_1_1entrywise__activation__layer.html" title="lbann::entrywise_activation\l_layer" alt="" coords="347,430,527,471"/>
+<area shape="rect" id="node17" href="$classlbann_1_1softmax__layer.html" title="lbann::softmax_layer\l\&lt; T_layout \&gt;" alt="" coords="366,706,509,747"/>
+<area shape="rect" id="node4" href="$classlbann_1_1atan__layer.html" title="lbann::atan_layer\&lt;\l T_layout \&gt;" alt="" coords="589,5,718,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1bent__identity__layer.html" title="lbann::bent_identity\l_layer\&lt; T_layout \&gt;" alt="" coords="586,70,721,111"/>
+<area shape="rect" id="node6" href="$classlbann_1_1elu__layer.html" title="lbann::elu_layer\&lt; T\l_layout \&gt;" alt="" coords="587,135,720,177"/>
+<area shape="rect" id="node7" href="$classlbann_1_1exponential__layer.html" title="lbann::exponential\l_layer\&lt; T_layout \&gt;" alt="" coords="588,201,719,242"/>
+<area shape="rect" id="node8" href="$classlbann_1_1id__layer.html" title="lbann::id_layer\&lt; T\l_layout \&gt;" alt="" coords="590,266,717,307"/>
+<area shape="rect" id="node9" href="$classlbann_1_1leaky__relu__layer.html" title="lbann::leaky_relu_layer\l\&lt; T_layout \&gt;" alt="" coords="576,331,731,373"/>
+<area shape="rect" id="node10" href="$classlbann_1_1relu__layer.html" title="lbann::relu_layer\&lt;\l T_layout \&gt;" alt="" coords="591,397,716,438"/>
+<area shape="rect" id="node11" href="$classlbann_1_1selu__layer.html" title="lbann::selu_layer\&lt;\l T_layout \&gt;" alt="" coords="589,462,717,503"/>
+<area shape="rect" id="node12" href="$classlbann_1_1sigmoid__layer.html" title="lbann::sigmoid_layer\l\&lt; T_layout \&gt;" alt="" coords="583,527,724,569"/>
+<area shape="rect" id="node13" href="$classlbann_1_1smooth__relu__layer.html" title="lbann::smooth_relu\l_layer\&lt; T_layout \&gt;" alt="" coords="587,593,719,634"/>
+<area shape="rect" id="node14" href="$classlbann_1_1softplus__layer.html" title="lbann::softplus_layer\l\&lt; T_layout \&gt;" alt="" coords="582,658,725,699"/>
+<area shape="rect" id="node15" href="$classlbann_1_1swish__layer.html" title="lbann::swish_layer\l\&lt; T_layout \&gt;" alt="" coords="588,723,719,765"/>
+<area shape="rect" id="node16" href="$classlbann_1_1tanh__layer.html" title="lbann::tanh_layer\&lt;\l T_layout \&gt;" alt="" coords="589,789,718,830"/>
+<area shape="rect" id="node19" href="$classlbann_1_1input__layer.html" title="lbann::input_layer" alt="" coords="375,949,499,976"/>
+<area shape="rect" id="node22" href="$classlbann_1_1target__layer.html" title="lbann::target_layer" alt="" coords="373,1096,502,1123"/>
+<area shape="rect" id="node20" href="$classlbann_1_1input__layer__distributed__minibatch.html" title="lbann::input_layer\l_distributed_minibatch\l\&lt; T_layout \&gt;" alt="" coords="577,855,729,911"/>
+<area shape="rect" id="node21" href="$classlbann_1_1input__layer__partitioned__minibatch.html" title="lbann::input_layer\l_partitioned_minibatch\l\&lt; T_layout \&gt;" alt="" coords="577,935,729,991"/>
+<area shape="rect" id="node23" href="$classlbann_1_1reconstruction__layer.html" title="lbann::reconstruction\l_layer\&lt; T_layout \&gt;" alt="" coords="582,1015,725,1057"/>
+<area shape="rect" id="node24" href="$classlbann_1_1target__layer__distributed__minibatch.html" title="lbann::target_layer\l_distributed_minibatch\l\&lt; T_layout \&gt;" alt="" coords="577,1081,729,1137"/>
+<area shape="rect" id="node25" href="$classlbann_1_1target__layer__partitioned__minibatch.html" title="lbann::target_layer\l_partitioned_minibatch\l\&lt; T_layout \&gt;" alt="" coords="577,1161,729,1217"/>
+<area shape="rect" id="node27" href="$classlbann_1_1base__convolution__layer.html" title="lbann::base_convolution\l_layer" alt="" coords="356,1194,519,1235"/>
+<area shape="rect" id="node30" href="$classlbann_1_1fully__connected__layer.html" title="lbann::fully_connected\l_layer\&lt; T_layout \&gt;" alt="" coords="361,1259,513,1301"/>
+<area shape="rect" id="node28" href="$classlbann_1_1convolution__layer.html" title="Convolution layer. " alt="" coords="588,1242,719,1283"/>
+<area shape="rect" id="node29" href="$classlbann_1_1deconvolution__layer.html" title="Convolution layer. " alt="" coords="583,1307,724,1349"/>
+<area shape="rect" id="node32" href="$classlbann_1_1batch__normalization.html" title="lbann::batch_normalization\l\&lt; T_layout \&gt;" alt="" coords="349,1325,526,1366"/>
+<area shape="rect" id="node33" href="$classlbann_1_1dropout.html" title="lbann::dropout\&lt; T_layout \&gt;" alt="" coords="348,1391,527,1417"/>
+<area shape="rect" id="node34" href="$classlbann_1_1local__response__normalization__layer.html" title="Local Response Normalization layer. " alt="" coords="363,1441,511,1497"/>
+<area shape="rect" id="node35" href="$classlbann_1_1selu__dropout.html" title="lbann::selu_dropout\l\&lt; T_layout \&gt;" alt="" coords="370,1522,505,1563"/>
+<area shape="rect" id="node37" href="$classlbann_1_1concatenation__layer.html" title="Concatenation layer. " alt="" coords="366,1587,509,1629"/>
+<area shape="rect" id="node38" href="$classlbann_1_1noise__layer.html" title="lbann::noise_layer\l\&lt; T_layout \&gt;" alt="" coords="374,1653,501,1694"/>
+<area shape="rect" id="node39" href="$classlbann_1_1pooling__layer.html" title="Pooling layer. " alt="" coords="369,1718,506,1759"/>
+<area shape="rect" id="node40" href="$classlbann_1_1reshape__layer.html" title="lbann::reshape_layer\l\&lt; T_layout \&gt;" alt="" coords="366,1783,509,1825"/>
+<area shape="rect" id="node41" href="$classlbann_1_1slice__layer.html" title="Slice layer. " alt="" coords="376,1849,499,1890"/>
+<area shape="rect" id="node42" href="$classlbann_1_1split__layer.html" title="Split layer. " alt="" coords="377,1914,497,1955"/>
+<area shape="rect" id="node43" href="$classlbann_1_1sum__layer.html" title="Sum layer. " alt="" coords="367,1979,508,2021"/>
+<area shape="rect" id="node44" href="$classlbann_1_1unpooling__layer.html" title="Unpooling layer. " alt="" coords="362,2045,513,2086"/>
 </map>

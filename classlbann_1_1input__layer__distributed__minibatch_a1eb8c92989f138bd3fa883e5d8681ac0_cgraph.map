@@ -1,0 +1,4 @@
+<map id="lbann::input_layer_distributed_minibatch::get_description" name="lbann::input_layer_distributed_minibatch::get_description">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a2f302cabbc39769b1a029dfe2af0825c" title="lbann::Layer::get_data\l_layout_string" alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1input__layer__distributed__minibatch.html#a287e8ccf2e69be7865569c5725e27709" title="lbann::input_layer\l_distributed_minibatch\l::get_data_layout" alt="" coords="205,71,357,127"/>
+</map>

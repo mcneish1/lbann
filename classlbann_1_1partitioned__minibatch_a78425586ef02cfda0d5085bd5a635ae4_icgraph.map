@@ -1,0 +1,4 @@
+<map id="lbann::partitioned_minibatch::fetch_to_local_matrix" name="lbann::partitioned_minibatch::fetch_to_local_matrix">
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a6ff224ef7b35b92d63edbdb86f3def77" title="lbann::input_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="195,5,347,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a6936c9aa68ed662f2c96e1e0d6d85f54" title="lbann::target_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="195,85,347,141"/>
+</map>

@@ -1,8 +1,9 @@
 var classlbann_1_1lbann__image__preprocessor =
 [
     [ "lbann_image_preprocessor", "classlbann_1_1lbann__image__preprocessor.html#a6a0f92194d42e87d73b57ba0929e2b2d", null ],
-    [ "lbann_image_preprocessor", "classlbann_1_1lbann__image__preprocessor.html#abba1ec3cf0b9041d9652ed68e941565b", null ],
+    [ "lbann_image_preprocessor", "classlbann_1_1lbann__image__preprocessor.html#aeeca5696dbfde9ccb1112cbd8524940b", null ],
     [ "~lbann_image_preprocessor", "classlbann_1_1lbann__image__preprocessor.html#aaabfad8d6923680cf4943f6f5290c682", null ],
+    [ "add_noise", "classlbann_1_1lbann__image__preprocessor.html#a1726baf71e931108dc9192539e90c583", null ],
     [ "affine_trans", "classlbann_1_1lbann__image__preprocessor.html#adb9e017aeac52a9b5d392f17188d1057", null ],
     [ "augment", "classlbann_1_1lbann__image__preprocessor.html#a27cb5182c4f764cbfa4edecbb78ef29d", null ],
     [ "col_pixels", "classlbann_1_1lbann__image__preprocessor.html#a3e99be32b95a415fd8d616cb85075df1", null ],
@@ -11,11 +12,13 @@ var classlbann_1_1lbann__image__preprocessor =
     [ "flip", "classlbann_1_1lbann__image__preprocessor.html#a12d9f7056a5e68185ea0e85e14c17bcf", null ],
     [ "horizontal_flip", "classlbann_1_1lbann__image__preprocessor.html#a4ba2de0a781dfa0a2652ad4d777a241f", null ],
     [ "horizontal_shift", "classlbann_1_1lbann__image__preprocessor.html#ae62596b4af5d1940aa0499cde2bdd005", null ],
-    [ "internal_save_image", "classlbann_1_1lbann__image__preprocessor.html#ad1d71de3b2f635eb9b2a9a0e41da6e8c", null ],
+    [ "internal_save_image", "classlbann_1_1lbann__image__preprocessor.html#a3c4f4cc5c90233696566a35a62a1708c", null ],
     [ "mean_subtraction", "classlbann_1_1lbann__image__preprocessor.html#ab499dd9f11d98998b5902d639f70fa8e", null ],
     [ "normalize", "classlbann_1_1lbann__image__preprocessor.html#ae370cdc9f776ce8cce94a45cacf47425", null ],
+    [ "operator=", "classlbann_1_1lbann__image__preprocessor.html#af652494123a62e653cd7dc2d7c340219", null ],
+    [ "pixel_noise", "classlbann_1_1lbann__image__preprocessor.html#aece5b572d0a2fe123cc66412d7a5c91e", null ],
     [ "rotation", "classlbann_1_1lbann__image__preprocessor.html#a1a293733368dd9eceba3e99cf9e5ae24", null ],
-    [ "save_image", "classlbann_1_1lbann__image__preprocessor.html#ab46384375c66b01d8e50142478e0cc73", null ],
+    [ "save_image", "classlbann_1_1lbann__image__preprocessor.html#a67b11150501a829125e9c6999781bc67", null ],
     [ "scale", "classlbann_1_1lbann__image__preprocessor.html#a977b2fdd417acb1eb37dbea0cfdd4b60", null ],
     [ "shear_range", "classlbann_1_1lbann__image__preprocessor.html#aef1e2375fd518e69df800b0dcbcb37d0", null ],
     [ "subtract_mean", "classlbann_1_1lbann__image__preprocessor.html#afa470b696ba435c20050187a0232717d", null ],
@@ -29,12 +32,12 @@ var classlbann_1_1lbann__image__preprocessor =
     [ "m_horizontal_flip", "classlbann_1_1lbann__image__preprocessor.html#a032397d6c642dccd43f4c38393f5d2c1", null ],
     [ "m_horizontal_shift", "classlbann_1_1lbann__image__preprocessor.html#a636f59ffe470f996677601df6179bc41", null ],
     [ "m_mean_subtraction", "classlbann_1_1lbann__image__preprocessor.html#a734002307d0ef95a31d75a295fa5c3d1", null ],
+    [ "m_noise_factor", "classlbann_1_1lbann__image__preprocessor.html#af860c1d78af06e4ae94ad68e3032fe92", null ],
     [ "m_rotation_range", "classlbann_1_1lbann__image__preprocessor.html#a7518ae40fe38862c831832fdaf948d45", null ],
     [ "m_scale", "classlbann_1_1lbann__image__preprocessor.html#ae00af83d438ab27d6a7b996775fba3b3", null ],
     [ "m_shear_range", "classlbann_1_1lbann__image__preprocessor.html#a237ead6488b2c04e982fd10510ae03b4", null ],
     [ "m_unit_variance", "classlbann_1_1lbann__image__preprocessor.html#ae365a9e20f060b44de7835aceceb491c", null ],
     [ "m_vertical_flip", "classlbann_1_1lbann__image__preprocessor.html#a7cfc687cce450403c7b46460f4d08d69", null ],
     [ "m_vertical_shift", "classlbann_1_1lbann__image__preprocessor.html#a06158637d634a4d123ee5501ddd0c7cb", null ],
-    [ "m_z_score", "classlbann_1_1lbann__image__preprocessor.html#a6abe54ada0cacf23e8ac8b6d113bd26b", null ],
-    [ "pi", "classlbann_1_1lbann__image__preprocessor.html#a5faf7259822ae5ae84ed9a6e0f24e3bb", null ]
+    [ "m_z_score", "classlbann_1_1lbann__image__preprocessor.html#a6abe54ada0cacf23e8ac8b6d113bd26b", null ]
 ];

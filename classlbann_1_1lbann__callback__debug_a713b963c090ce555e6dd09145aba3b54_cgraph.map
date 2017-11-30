@@ -1,9 +1,0 @@
-<map id="lbann::lbann_callback_debug::on_forward_prop_begin" name="lbann::lbann_callback_debug::on_forward_prop_begin">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="261,5,485,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="291,56,456,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="302,107,445,149"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="302,173,445,214"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a3f6f0384573e9ca4bea93ce0dbebfd28" title="lbann::model::get_cur\l_epoch" alt="" coords="300,238,447,279"/>
-<area shape="rect" id="node7" href="$classlbann_1_1model.html#a6fb1e6b55fe9f7ecb70759a9c50a20c5" title="lbann::model::get_cur_step" alt="" coords="284,304,463,331"/>
-<area shape="rect" id="node8" href="$lbann__base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="334,355,413,381"/>
-</map>

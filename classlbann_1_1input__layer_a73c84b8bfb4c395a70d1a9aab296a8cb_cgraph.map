@@ -1,0 +1,5 @@
+<map id="lbann::input_layer::get_sample_indices_per_mb" name="lbann::input_layer::get_sample_indices_per_mb">
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="207,5,331,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a8d8b44ed55e2af49c70d29277ff57a91" title="Get a pointer to the fetched indices matrix. " alt="" coords="200,71,339,127"/>
+<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#a7f76e9590f8aaca012904a955eb37a49" title="lbann::input_layer\l::get_execution_mode" alt="" coords="387,5,538,46"/>
+</map>

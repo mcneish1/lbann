@@ -1,5 +1,0 @@
-<map id="lbann_data::Optimizer::operator=" name="lbann_data::Optimizer::operator=">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Optimizer.html#a23b198a0707e2c1d6cf78cab60abe46c" title="lbann_data::Optimizer\l::CopyFrom" alt="" coords="203,38,352,79"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Optimizer.html#a16bd447638423beac54576d6333e5221" title="lbann_data::Optimizer\l::Clear" alt="" coords="400,5,549,46"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1Optimizer.html#ac994d6ec365649099b2b8c34672a3940" title="lbann_data::Optimizer\l::MergeFrom" alt="" coords="400,70,549,111"/>
-</map>

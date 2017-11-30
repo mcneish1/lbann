@@ -1,6 +1,0 @@
-<map id="lbann::persist::write_float" name="lbann::persist::write_float">
-<area shape="rect" id="node2" href="$classlbann_1_1Adagrad.html#a7b661d16d6413d00703facf6791cb564" title="lbann::Adagrad::saveToCheckpoint\lShared" alt="" coords="193,5,420,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Adam.html#a75137a15bba6e9e5ed1fff83b3b82a7b" title="lbann::Adam::saveToCheckpoint\lShared" alt="" coords="201,70,413,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1RMSprop.html#ab6a2889d4a45c4d237203d376ade32c4" title="lbann::RMSprop::saveToCheckpoint\lShared" alt="" coords="190,135,423,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1SGD.html#a005955b1c7f64e75838c7d0c445c4859" title="lbann::SGD::saveToCheckpoint\lShared" alt="" coords="203,201,410,242"/>
-</map>

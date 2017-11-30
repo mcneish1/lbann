@@ -1,0 +1,9 @@
+<map id="lbann::deconvolution_layer::fp_compute" name="lbann::deconvolution_layer::fp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1base__convolution__layer.html#a130907ca7a8e3b6676bdd4186c788ef4" title="lbann::base_convolution\l_layer::apply_transposed\l_convolution_cudnn" alt="" coords="197,5,363,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1base__convolution__layer.html#aa33e490222597c4c5203d94061ae9d88" title="lbann::base_convolution\l_layer::apply_bias_cudnn" alt="" coords="195,86,365,127"/>
+<area shape="rect" id="node4" href="$classlbann_1_1base__convolution__layer.html#a87fb2bf066a98052938e48a82dcd4fd2" title="lbann::base_convolution\l_layer::apply_transposed\l_convolution_im2col" alt="" coords="197,152,363,208"/>
+<area shape="rect" id="node8" href="$classlbann_1_1base__convolution__layer.html#a4f792e1c19d4591f305880b57f63cec3" title="lbann::base_convolution\l_layer::apply_bias_cpu" alt="" coords="199,233,361,274"/>
+<area shape="rect" id="node5" href="$namespacelbann.html#a0e1225f72580ffb5166181392b68b651" title="Rearrange matrix columns into image blocks. " alt="" coords="413,167,512,193"/>
+<area shape="rect" id="node6" href="$namespacelbann.html#ab4fccda3dc4c2c293d643815dfefe22a" title="Rearrange matrix columns into 1x1 image blocks. " alt="" coords="561,141,687,168"/>
+<area shape="rect" id="node7" href="$namespacelbann.html#a1953674a43b284f0abb5c5e4db94b2b9" title="Rearrange matrix columns into 2D image blocks. " alt="" coords="564,192,684,219"/>
+</map>

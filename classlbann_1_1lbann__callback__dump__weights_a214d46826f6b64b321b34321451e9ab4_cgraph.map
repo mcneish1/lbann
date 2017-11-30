@@ -1,6 +1,0 @@
-<map id="lbann::lbann_callback_dump_weights::on_epoch_end" name="lbann::lbann_callback_dump_weights::on_epoch_end">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="259,5,423,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="259,56,424,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="270,107,413,149"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a3f6f0384573e9ca4bea93ce0dbebfd28" title="lbann::model::get_cur\l_epoch" alt="" coords="268,173,415,214"/>
-</map>

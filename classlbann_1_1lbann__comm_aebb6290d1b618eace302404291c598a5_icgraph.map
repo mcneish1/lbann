@@ -1,0 +1,4 @@
+<map id="lbann::lbann_comm::model_allreduce" name="lbann::lbann_comm::model_allreduce">
+<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1categorical__accuracy.html#a03a54c9d792f222cd0658821336d8390" title="lbann::metrics::categorical\l_accuracy::compute_metric" alt="" coords="198,5,381,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1top__k__categorical__accuracy.html#aee087519cfc0be099e2e49b798e5d656" title="lbann::metrics::top\l_k_categorical_accuracy\l::compute_metric" alt="" coords="206,71,373,127"/>
+</map>

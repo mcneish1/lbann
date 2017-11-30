@@ -1,0 +1,5 @@
+<map id="lbann::input_layer::get_current_mini_batch_size" name="lbann::input_layer::get_current_mini_batch_size">
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a2f3e0754c1eac720554b64a22bd4a1e6" title="lbann::input_layer\l::fp_set_std_matrix_view" alt="" coords="251,13,419,54"/>
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a6ff224ef7b35b92d63edbdb86f3def77" title="lbann::input_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="259,79,411,135"/>
+<area shape="rect" id="node3" href="$classlbann_1_1input__layer__distributed__minibatch.html#adc101baafd24a9932d2fbe6af903bbb9" title="lbann::input_layer\l_distributed_minibatch\l::fp_set_std_matrix_view" alt="" coords="467,5,635,61"/>
+</map>

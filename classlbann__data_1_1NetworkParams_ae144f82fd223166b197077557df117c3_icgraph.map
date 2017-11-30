@@ -1,8 +1,0 @@
-<map id="lbann_data::NetworkParams::network_str" name="lbann_data::NetworkParams::network_str">
-<area shape="rect" id="node2" href="$classlbann__data_1_1NetworkParams.html#a01a41d7b7ebabb77b61cf6df40bb46c5" title="lbann_data::NetworkParams\l::MergePartialFromCodedStream" alt="" coords="248,5,461,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1NetworkParams.html#a9498c64b7a516ee56592f9588328397f" title="lbann_data::NetworkParams\l::SerializeWithCachedSizes" alt="" coords="261,70,448,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1NetworkParams.html#a0c115d540a065d3bcfd512cf5011636c" title="lbann_data::NetworkParams\l::InternalSerializeWithCachedSizes\lToArray" alt="" coords="241,135,469,191"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1NetworkParams.html#a7d973f90c444e3f1a9f889d3ac4ec4d9" title="lbann_data::NetworkParams\l::ByteSize" alt="" coords="261,214,448,255"/>
-<area shape="rect" id="node7" href="$classlbann__data_1_1NetworkParams.html#a7fad9e193fb8a0894de055474026118b" title="lbann_data::NetworkParams\l::MergeFrom" alt="" coords="261,279,448,321"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1NetworkParams.html#a5e448c8cd1ae5025ba2b08b9dd9f8696" title="lbann_data::NetworkParams\l::SerializeWithCachedSizesToArray" alt="" coords="518,142,749,183"/>
-</map>

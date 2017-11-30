@@ -1,4 +1,4 @@
 <map id="lbann::lbann_comm::recv" name="lbann::lbann_comm::recv">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#adea3a61b63e75b577a7e28ff45f2b20a" title="lbann::lbann_quantizer\l::intermodel_ring_reduce\l_scatter" alt="" coords="227,5,391,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#acdfe2509be7c3761f4b98dfce03b18a6" title="lbann::lbann_quantizer\l::intermodel_ring_allgather" alt="" coords="222,85,397,126"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#a7f2f06772bdee76b4d736c1d7ab84329" title="lbann::lbann_comm::recv" alt="" coords="228,5,396,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__check__init.html#a037f1371c56c1b528f487517a58ce3fb" title="lbann::lbann_callback\l_check_init::on_train_begin" alt="" coords="222,57,402,98"/>
 </map>

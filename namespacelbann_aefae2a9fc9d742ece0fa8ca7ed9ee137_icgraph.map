@@ -1,11 +1,5 @@
 <map id="lbann::exists" name="lbann::exists">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#aa98be93f33b510e5b506b61de6bd79bd" title="lbann::persist::read\l_distmat" alt="" coords="151,169,284,210"/>
-<area shape="rect" id="node9" href="$namespacelbann.html#a0306ed35d6d90cf4fbdce7a72ad62ca7" title="lbann::read_distmat" alt="" coords="149,267,285,293"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Adagrad.html#ab38a8c6e1bd1abc217b41c62bb5dd157" title="lbann::Adagrad::loadFrom\lCheckpointShared" alt="" coords="360,5,531,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1Adam.html#aa9f626f86842fb1d5392b2437adb1633" title="lbann::Adam::loadFromCheckpoint\lShared" alt="" coords="334,70,557,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1RMSprop.html#ab497268e38ae73fb3ea0c617d6938205" title="lbann::RMSprop::loadFrom\lCheckpointShared" alt="" coords="356,135,535,177"/>
-<area shape="rect" id="node6" href="$classlbann_1_1SGD.html#a64fc5ea12858d013bbda6d5d8722163c" title="lbann::SGD::loadFromCheckpoint\lShared" alt="" coords="336,201,555,242"/>
-<area shape="rect" id="node7" href="$classlbann_1_1Layer.html#acd2524835a05a2d88c92e546e15a80a9" title="lbann::Layer::loadFromCheckpoint\lShared" alt="" coords="335,266,556,307"/>
-<area shape="rect" id="node8" href="$classlbann_1_1SoftmaxLayer.html#a8a3033926097c1d329d1859b2f999473" title="lbann::SoftmaxLayer\l::loadFromCheckpointShared" alt="" coords="606,266,797,307"/>
-<area shape="rect" id="node10" href="$classlbann_1_1Layer.html#a29f7d292db0394489f1302b2aae81dc4" title="lbann::Layer::loadFromFile" alt="" coords="357,332,533,359"/>
+<area shape="rect" id="node2" href="$classlbann_1_1persist.html#aa98be93f33b510e5b506b61de6bd79bd" title="lbann::persist::read\l_distmat" alt="" coords="151,5,284,46"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#a0306ed35d6d90cf4fbdce7a72ad62ca7" title="lbann::read_distmat" alt="" coords="149,71,285,97"/>
+<area shape="rect" id="node4" href="$proto__common_8hpp.html#a4f1af470c45e9ed06039685e5f72ea4a" title="prints prototext file, cmd line, etc to file " alt="" coords="166,121,269,148"/>
 </map>

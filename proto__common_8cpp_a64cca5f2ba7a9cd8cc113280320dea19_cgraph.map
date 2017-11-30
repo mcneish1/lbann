@@ -1,0 +1,12 @@
+<map id="init_callbacks" name="init_callbacks">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="385,38,527,79"/>
+<area shape="rect" id="node6" href="$proto__common_8cpp.html#ada60fd1558bd89338f58bdd0a27c35e6" title="construct_summarizer" alt="" coords="170,45,321,72"/>
+<area shape="rect" id="node7" href="$classlbann_1_1model.html#a8f45cdca82dbc0cc1f519898474cc6ec" title="lbann::model::add_callback" alt="" coords="155,96,335,123"/>
+<area shape="rect" id="node8" href="$proto__common_8cpp.html#a579d7fb8865ac82f25a7ed4e0f12469c" title="layer_is_in_model" alt="" coords="182,147,309,173"/>
+<area shape="rect" id="node9" href="$proto__common_8cpp.html#a1d628fde9876b07dc32de6556da91ca1" title="choose_imcomm_callback\l_weights" alt="" coords="157,198,333,239"/>
+<area shape="rect" id="node10" href="$proto__common_8cpp.html#a26a1a014d8253df7e3545ed8b4a5b629" title="weights_are_in_model" alt="" coords="170,264,321,291"/>
+<area shape="rect" id="node11" href="$proto__common_8cpp.html#aa699a2c16f06c70f45830a6b16a7a8f8" title="get_comm_type" alt="" coords="188,315,303,341"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="577,5,719,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="577,70,719,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="769,5,911,46"/>
+</map>

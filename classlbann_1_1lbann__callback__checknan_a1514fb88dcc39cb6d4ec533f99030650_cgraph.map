@@ -1,9 +1,0 @@
-<map id="lbann::lbann_callback_checknan::on_backward_prop_end" name="lbann::lbann_callback_checknan::on_backward_prop_end">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#ab178f73070d2764151a7e6be2614acda" title="lbann::Layer::get_index" alt="" coords="235,5,392,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a45e75790d328ac2a85aac59faf35094a" title="lbann::model::get_layers" alt="" coords="231,56,395,83"/>
-<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a4b2b92aa11d932d62456c21ed929b263" title="lbann::Layer::get_weights\l_biases_gradient" alt="" coords="228,107,399,149"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__checknan.html#a198fba8645c2d61452182294f62b965e" title="lbann::lbann_callback\l_checknan::is_good" alt="" coords="240,173,387,214"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="231,239,396,265"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="242,290,385,331"/>
-<area shape="rect" id="node8" href="$classlbann_1_1model.html#a6fb1e6b55fe9f7ecb70759a9c50a20c5" title="lbann::model::get_cur_step" alt="" coords="224,356,403,383"/>
-</map>

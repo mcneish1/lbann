@@ -1,6 +1,8 @@
 <map id="lbann::lbann_callback_learning_rate" name="lbann::lbann_callback_learning_rate">
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__adaptive__learning__rate.html" title="lbann::lbann_callback\l_adaptive_learning_rate" alt="" coords="395,5,554,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__custom__learning__rate.html" title="lbann::lbann_callback\l_custom_learning_rate" alt="" coords="398,70,551,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__step__learning__rate.html" title="lbann::lbann_callback\l_step_learning_rate" alt="" coords="401,135,548,177"/>
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback.html" title="lbann::lbann_callback" alt="" coords="5,77,152,104"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__adaptive__learning__rate.html" title="lbann::lbann_callback\l_adaptive_learning_rate" alt="" coords="409,5,567,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__drop__fixed__learning__rate.html" title="lbann::lbann_callback\l_drop_fixed_learning_rate" alt="" coords="403,70,573,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__linear__growth__learning__rate.html" title="lbann::lbann_callback\l_linear_growth_learning_rate" alt="" coords="395,135,581,177"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html" title="lbann::lbann_callback\l_optimizerwise_adaptive\l_learning_rate" alt="" coords="405,201,571,257"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__step__learning__rate.html" title="lbann::lbann_callback\l_step_learning_rate" alt="" coords="415,282,561,323"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback.html" title="lbann::lbann_callback" alt="" coords="5,143,152,169"/>
 </map>

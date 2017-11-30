@@ -1,0 +1,3 @@
+<map id="lbann::persist::write_int32_contig" name="lbann::persist::write_int32_contig">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#adffed7f0ca403c2c365d1a95ff2e1704" title="Given directory to store checkpoint files, write state to file and add to number of bytes written..." alt="" coords="190,5,413,46"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="lbann::dataset::get_num_samples_processed" name="lbann::dataset::get_num_samples_processed">
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a14eaabc5c57543a966e0b274be5891d2" title="lbann::input_layer\l::update_num_samples\l_processed" alt="" coords="245,125,403,181"/>
+<area shape="rect" id="node8" href="$classlbann_1_1input__layer.html#aa6f8d3c000a19329159915d2d8bc4164" title="lbann::input_layer\l::get_num_samples_trained" alt="" coords="233,298,415,339"/>
+<area shape="rect" id="node11" href="$classlbann_1_1input__layer.html#a84c63a70fc9e25034459833bd97fa27d" title="lbann::input_layer\l::get_num_samples_tested" alt="" coords="235,363,413,405"/>
+<area shape="rect" id="node14" href="$classlbann_1_1input__layer.html#a71fc24d853999434f199e58de7984625" title="lbann::input_layer\l::saveToCheckpointShared" alt="" coords="234,429,414,470"/>
+<area shape="rect" id="node3" href="$classlbann_1_1input__layer__distributed__minibatch.html#ae5046a75c405c9884f7da8c87bf7e73d" title="lbann::input_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="480,5,632,61"/>
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a6ff224ef7b35b92d63edbdb86f3def77" title="lbann::input_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="480,85,632,141"/>
+<area shape="rect" id="node5" href="$classlbann_1_1target__layer.html#a3b2d9dd1fdab9239009c254127c48830" title="lbann::target_layer\l::update_num_samples\l_processed" alt="" coords="477,165,635,221"/>
+<area shape="rect" id="node6" href="$classlbann_1_1target__layer__distributed__minibatch.html#a8cccfcb074a156c43e068e0decb82ab2" title="lbann::target_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="696,100,848,156"/>
+<area shape="rect" id="node7" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a6936c9aa68ed662f2c96e1e0d6d85f54" title="lbann::target_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="696,180,848,236"/>
+<area shape="rect" id="node9" href="$classlbann_1_1target__layer.html#a85cd43afee8f58743f13526975714c6c" title="lbann::target_layer\l::get_num_samples_trained" alt="" coords="465,246,647,287"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__io.html#a118c5cb8a9c83661a67569df890676e2" title="lbann::lbann_callback\l_io::on_epoch_end" alt="" coords="699,290,845,331"/>
+<area shape="rect" id="node12" href="$classlbann_1_1target__layer.html#ab095e8d203b09de89d4bd879f0a44026" title="lbann::target_layer\l::get_num_samples_tested" alt="" coords="467,363,645,405"/>
+<area shape="rect" id="node13" href="$classlbann_1_1lbann__callback__io.html#a8abca84e4b0dc21b28e5d5e409446fdc" title="lbann::lbann_callback\l_io::on_test_end" alt="" coords="699,381,845,422"/>
+</map>

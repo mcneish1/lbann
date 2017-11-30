@@ -1,0 +1,7 @@
+<map id="lbann::pooling_layer::bp_compute" name="lbann::pooling_layer::bp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1pooling__layer.html#a457b52475f27ab55985f1e47515e7c3b" title="Pooling backward propagation with cuDNN. " alt="" coords="194,5,337,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1pooling__layer.html#a704aca0e1e5bba7d27b7755133e6d50b" title="Pooling forward propagation with im2col. " alt="" coords="192,70,339,111"/>
+<area shape="rect" id="node4" href="$namespacelbann.html#a0e1225f72580ffb5166181392b68b651" title="Rearrange matrix columns into image blocks. " alt="" coords="387,77,485,104"/>
+<area shape="rect" id="node5" href="$namespacelbann.html#ab4fccda3dc4c2c293d643815dfefe22a" title="Rearrange matrix columns into 1x1 image blocks. " alt="" coords="534,52,661,79"/>
+<area shape="rect" id="node6" href="$namespacelbann.html#a1953674a43b284f0abb5c5e4db94b2b9" title="Rearrange matrix columns into 2D image blocks. " alt="" coords="537,103,657,129"/>
+</map>

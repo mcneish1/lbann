@@ -1,6 +1,0 @@
-<map id="read_latest" name="read_latest">
-<area shape="rect" id="node2" href="$namespacelbann.html#a6084b9319eea1997f8446fa3e6879532" title="lbann::openread" alt="" coords="148,5,263,32"/>
-<area shape="rect" id="node3" href="$namespacelbann.html#aedcde4d93c4feb5090c927de1c45b90d" title="lbann::read_uint32" alt="" coords="141,56,269,83"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#a38dd30b2ae8214f6595708264369ddb8" title="lbann::closeread" alt="" coords="147,107,264,133"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#a85385e2a9e058b6720300b4cbdd2b1d0" title="lbann::read_bytes" alt="" coords="317,56,443,83"/>
-</map>

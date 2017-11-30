@@ -1,4 +1,0 @@
-<map id="lbann::dropout::fp_activations" name="lbann::dropout::fp_activations">
-<area shape="rect" id="node2" href="$namespacelbann.html#a6add4d3337110d567e7b398a262fd010" title="lbann::bernoulli_fill\l_procdet" alt="" coords="177,5,306,46"/>
-<area shape="rect" id="node3" href="$namespacelbann.html#a4fea7ba21017b49d1e34394b4c20c764" title="lbann::get_generator" alt="" coords="355,12,495,39"/>
-</map>

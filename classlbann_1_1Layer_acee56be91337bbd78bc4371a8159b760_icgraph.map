@@ -1,0 +1,14 @@
+<map id="lbann::Layer::using_gpus" name="lbann::Layer::using_gpus">
+<area shape="rect" id="node2" href="$classlbann_1_1concatenation__layer.html#a6d8d7513948fda9ef1ac725f36080ed3" title="lbann::concatenation\l_layer::setup_gpu" alt="" coords="245,5,387,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1concatenation__layer.html#afd6cb5cf50acf95c2e3ba2e365be3525" title="lbann::concatenation\l_layer::fp_compute_gpu" alt="" coords="235,70,397,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1slice__layer.html#a007c9b0ec2d874ad187735203fc1661f" title="lbann::slice_layer\l::setup_gpu" alt="" coords="255,135,377,177"/>
+<area shape="rect" id="node6" href="$classlbann_1_1slice__layer.html#a798c10e5c19f58e38da9d2d50c49ca3e" title="lbann::slice_layer\l::bp_compute_gpu" alt="" coords="251,201,381,242"/>
+<area shape="rect" id="node8" href="$classlbann_1_1split__layer.html#acc7c8d10d786c0352e1ee41cef972f67" title="lbann::split_layer\l::setup_gpu" alt="" coords="256,266,376,307"/>
+<area shape="rect" id="node9" href="$classlbann_1_1split__layer.html#ab66b5e41374133b2bff2d794c4fe8a92" title="lbann::split_layer\l::bp_compute_cudnn" alt="" coords="245,331,387,373"/>
+<area shape="rect" id="node11" href="$classlbann_1_1sum__layer.html#a4935bd96e7607075d0403e1495099998" title="lbann::sum_layer::setup_gpu" alt="" coords="221,397,411,424"/>
+<area shape="rect" id="node12" href="$classlbann_1_1sum__layer.html#a929c6c53d41692a2779f07c265320eb4" title="lbann::sum_layer::fp\l_compute_cudnn" alt="" coords="246,449,386,490"/>
+<area shape="rect" id="node4" href="$classlbann_1_1concatenation__layer.html#a27938ca2422fd120cfbdf823705af01a" title="lbann::concatenation\l_layer::fp_compute" alt="" coords="459,70,602,111"/>
+<area shape="rect" id="node7" href="$classlbann_1_1slice__layer.html#a080654076a1b266b2c6d229e9fccf250" title="lbann::slice_layer\l::bp_compute" alt="" coords="469,201,592,242"/>
+<area shape="rect" id="node10" href="$classlbann_1_1split__layer.html#ae7b54dc12b2560d27f506d5f34c4074f" title="lbann::split_layer\l::bp_compute" alt="" coords="471,331,591,373"/>
+<area shape="rect" id="node13" href="$classlbann_1_1sum__layer.html#a8d235d61507e76f42ee83a74d1098977" title="lbann::sum_layer::fp\l_compute" alt="" coords="461,449,601,490"/>
+</map>

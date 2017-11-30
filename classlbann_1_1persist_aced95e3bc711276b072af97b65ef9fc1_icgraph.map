@@ -1,8 +1,4 @@
 <map id="lbann::persist::write_uint64" name="lbann::persist::write_uint64">
-<area shape="rect" id="node2" href="$classlbann_1_1DataReader.html#a520f6e7b4d7cc12c2f572ff061656ce8" title="Given directory to store checkpoint files, write state to file and add to number of bytes written..." alt="" coords="215,5,387,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1io__layer.html#ae59b49fad28d273f72035f227fa846af" title="lbann::io_layer::saveToCheckpoint\lShared" alt="" coords="190,70,413,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a41098c2b2b23e49cdbe8746ef7cac5c8" title="lbann::model::save\l_to_checkpoint_shared" alt="" coords="223,135,379,177"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#ac224c4cc4be919f48ef39c61d65ca03f" title="lbann::input_layer\l::saveToCheckpointShared" alt="" coords="467,38,647,79"/>
-<area shape="rect" id="node6" href="$classlbann_1_1sequential__model.html#abd91f8469ac7a5d73df540d12936cf4a" title="lbann::sequential_model\l::save_to_checkpoint_shared" alt="" coords="461,135,653,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ae0ec210d3ecf58caa0d8d80e6768ba1b" title="Save model to shared checkpoint. " alt="" coords="701,128,864,184"/>
+<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a71fc24d853999434f199e58de7984625" title="lbann::input_layer\l::saveToCheckpointShared" alt="" coords="211,5,391,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#adffed7f0ca403c2c365d1a95ff2e1704" title="Given directory to store checkpoint files, write state to file and add to number of bytes written..." alt="" coords="190,70,413,111"/>
 </map>

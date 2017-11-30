@@ -1,0 +1,5 @@
+<map id="lbann::optimizer::clear_gradient" name="lbann::optimizer::clear_gradient">
+<area shape="rect" id="node2" href="$classlbann_1_1optimizer.html#a10517deafb049ddd740f72e7c3ff2cc3" title="lbann::optimizer::is\l_initialized" alt="" coords="206,5,338,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1weights.html#afae2319a2ebb3793cdff1c9d026f2066" title="lbann::weights::get\l_height" alt="" coords="206,70,338,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1weights.html#aa1f0426f3c14821f61ba63cc126e7a7a" title="lbann::weights::get\l_width" alt="" coords="206,135,338,177"/>
+</map>

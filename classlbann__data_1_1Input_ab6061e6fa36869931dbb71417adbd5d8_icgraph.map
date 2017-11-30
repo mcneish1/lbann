@@ -1,7 +1,0 @@
-<map id="lbann_data::Input::mini_batch_size" name="lbann_data::Input::mini_batch_size">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Input.html#acb8cadf9a2c295d9e3e698702de79be0" title="lbann_data::Input::\lSerializeWithCachedSizes" alt="" coords="189,5,366,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Input.html#aaf7291da80d82e5b62aebea02548f0d6" title="lbann_data::Input::\lInternalSerializeWithCached\lSizesToArray" alt="" coords="184,69,371,125"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1Input.html#a8a8543f140f157a80277fc779a43b120" title="lbann_data::Input::\lByteSize" alt="" coords="212,149,343,190"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1Input.html#a9569304083f809b29e38e99dee30ffc8" title="lbann_data::Input::\lMergeFrom" alt="" coords="212,214,343,255"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1Input.html#a84e0639c0596224c6fdae000129db7f6" title="lbann_data::Input::\lSerializeWithCachedSizesTo\lArray" alt="" coords="419,69,611,125"/>
-</map>

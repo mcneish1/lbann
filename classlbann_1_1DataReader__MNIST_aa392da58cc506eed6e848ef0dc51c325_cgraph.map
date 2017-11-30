@@ -1,5 +1,0 @@
-<map id="lbann::DataReader_MNIST::save_image" name="lbann::DataReader_MNIST::save_image">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#ad1d71de3b2f635eb9b2a9a0e41da6e8c" title="lbann::lbann_image\l_preprocessor::internal\l_save_image" alt="" coords="235,5,389,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__image__preprocessor.html#a977b2fdd417acb1eb37dbea0cfdd4b60" title="lbann::lbann_image\l_preprocessor::scale" alt="" coords="241,85,383,126"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__image__preprocessor.html#a7dc609e33febdc7fc29bdc9270594bea" title="lbann::lbann_image\l_preprocessor::cv_pixels" alt="" coords="438,13,605,54"/>
-</map>

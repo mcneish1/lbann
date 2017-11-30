@@ -1,8 +1,8 @@
 var classlbann_1_1TrainingParams =
 [
-    [ "TrainingParams", "classlbann_1_1TrainingParams.html#a0530f1ed33dd848017f392c4245b415a", null ],
+    [ "TrainingParams", "classlbann_1_1TrainingParams.html#a4ca5149e14ab1aed5f5a9c0e612ce62d", null ],
     [ "parse_params", "classlbann_1_1TrainingParams.html#a245c0674a2132cb15f1198b1f4dd2bf8", null ],
-    [ "ActivationType", "classlbann_1_1TrainingParams.html#a843d078db900a23792944c0b4842bfa8", null ],
+    [ "ActivationType", "classlbann_1_1TrainingParams.html#a2b190763ecc3e2bb9b9058bc0ff40845", null ],
     [ "CkptEpochs", "classlbann_1_1TrainingParams.html#ad113dc144a2c77609091fd36fc5816bf", null ],
     [ "CkptSecs", "classlbann_1_1TrainingParams.html#ac23d388e43cb227aa72196c8b8102b92", null ],
     [ "CkptSteps", "classlbann_1_1TrainingParams.html#a3b1ec8d02290b369572c99b39b7d8637", null ],
@@ -16,13 +16,13 @@ var classlbann_1_1TrainingParams =
     [ "EpochCount", "classlbann_1_1TrainingParams.html#a0cdfed8e8122f87b2795fb590b821441", null ],
     [ "EpochStart", "classlbann_1_1TrainingParams.html#a2a557658b2a1e66be26d97cfce789635", null ],
     [ "IntermodelCommMethod", "classlbann_1_1TrainingParams.html#aa30088e066d4d5cf2d2007667aef7a8a", null ],
-    [ "Lambda", "classlbann_1_1TrainingParams.html#a0302f435cc2a9b7e425881cb46caedd0", null ],
-    [ "LearnRate", "classlbann_1_1TrainingParams.html#a7f6c77122caa8317cecb625f607ded70", null ],
+    [ "Lambda", "classlbann_1_1TrainingParams.html#ae423ffd43d56baec23cd336611c2df51", null ],
+    [ "LearnRate", "classlbann_1_1TrainingParams.html#a54cca812e7d1e7581c55f221bc49187d", null ],
     [ "LearnRateMethod", "classlbann_1_1TrainingParams.html#a6f1d673460c793b88c773b97d99e89ee", null ],
     [ "LoadModel", "classlbann_1_1TrainingParams.html#a2b672817ae1523ad1e5f4d3c98f260e0", null ],
     [ "LrDecayCycles", "classlbann_1_1TrainingParams.html#a4b793a3cc84fbb1029ad140730f76378", null ],
-    [ "LrDecayRate", "classlbann_1_1TrainingParams.html#a4e12c18e940f2d14c380337fc2d96282", null ],
-    [ "LrMomentum", "classlbann_1_1TrainingParams.html#ae9c7d4d910f6fc399b176ebf2b213675", null ],
+    [ "LrDecayRate", "classlbann_1_1TrainingParams.html#a9be2d1959b1d8a4e04d627a259868dc2", null ],
+    [ "LrMomentum", "classlbann_1_1TrainingParams.html#a6d1337378066e4762a3052535c7edc0f", null ],
     [ "MBSize", "classlbann_1_1TrainingParams.html#aeeeaac2fc6b692fa8dbe2faa6c30d73e", null ],
     [ "ParameterDir", "classlbann_1_1TrainingParams.html#af2f1784c984713b57b637f2c674a5fb7", null ],
     [ "PercentageTestingSamples", "classlbann_1_1TrainingParams.html#acd5f8e76266a47f83518a694ff89e303", null ],
@@ -35,7 +35,8 @@ var classlbann_1_1TrainingParams =
     [ "ShuffleTrainingData", "classlbann_1_1TrainingParams.html#a4cde94bdbbd82aabdb69e616194f74b1", null ],
     [ "SummaryDir", "classlbann_1_1TrainingParams.html#ad01ff40b34ff8b7adf4c547aa60ee87f", null ],
     [ "TestFile", "classlbann_1_1TrainingParams.html#a99502fc87d50df2055a992266fdeee05", null ],
+    [ "TestingSamples", "classlbann_1_1TrainingParams.html#a7ae1711dab1dc6cce9238b578d198117", null ],
     [ "TestWithTrainData", "classlbann_1_1TrainingParams.html#a39a6893582111d1934c85f50c0111c1e", null ],
     [ "TrainFile", "classlbann_1_1TrainingParams.html#a4ac278410cb0a24c9dc1f6edf014d003", null ],
-    [ "WeightInitType", "classlbann_1_1TrainingParams.html#ae6c49c818856f2e21ae9628d1c9addd5", null ]
+    [ "TrainingSamples", "classlbann_1_1TrainingParams.html#adf012a044d64191b7d0de8b0278c7060", null ]
 ];

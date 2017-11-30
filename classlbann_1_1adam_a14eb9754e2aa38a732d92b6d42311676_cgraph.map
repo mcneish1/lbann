@@ -1,0 +1,5 @@
+<map id="lbann::adam::get_description" name="lbann::adam::get_description">
+<area shape="rect" id="node2" href="$classlbann_1_1optimizer.html#a3abf8d64c577d317893c64b7c8962caf" title="lbann::optimizer::get\l_description" alt="" coords="243,23,383,65"/>
+<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a7b7a6814e14eeee157e1cbb7f15dd4ff" title="lbann::optimizer::get_type" alt="" coords="433,5,605,32"/>
+<area shape="rect" id="node4" href="$classlbann_1_1weights.html#aad13dd6d181bd20723727424ab7b1499" title="lbann::weights::get_name" alt="" coords="433,56,604,83"/>
+</map>

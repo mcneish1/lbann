@@ -1,0 +1,4 @@
+<map id="lbann::noise_layer::fp_compute" name="lbann::noise_layer::fp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1noise__layer.html#aad711b5b3bff0da18b044046853e3eb6" title="lbann::noise_layer\l::fp_compute_cudnn" alt="" coords="182,5,322,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1noise__layer.html#a9032eed9c9da63e405ad06094564cd96" title="lbann::noise_layer\l::fp_compute_cpu" alt="" coords="189,70,315,111"/>
+</map>

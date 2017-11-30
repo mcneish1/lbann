@@ -1,0 +1,4 @@
+<map id="lbann::image_utils::load_image" name="lbann::image_utils::load_image">
+<area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader.html#a6659e90c0243da40f214a877f65eb8ac" title="lbann::imagenet_reader\l::fetch_datum" alt="" coords="181,5,339,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1imagenet__reader__patches.html#a1ac2dc069a35755ab70366a18c3207df" title="lbann::imagenet_reader\l_patches::fetch_datum" alt="" coords="181,70,339,111"/>
+</map>

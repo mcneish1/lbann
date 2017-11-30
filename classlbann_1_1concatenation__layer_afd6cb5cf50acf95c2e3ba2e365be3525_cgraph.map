@@ -1,0 +1,4 @@
+<map id="lbann::concatenation_layer::fp_compute_gpu" name="lbann::concatenation_layer::fp_compute_gpu">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#acee56be91337bbd78bc4371a8159b760" title="lbann::Layer::using_gpus" alt="" coords="217,5,383,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#abac507d5959895fc94a77a7d276acff8" title="lbann::Layer::get_fp\l_output" alt="" coords="231,57,369,98"/>
+</map>

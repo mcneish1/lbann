@@ -1,3 +1,4 @@
 <map id="lbann::lbann_quantizer::get_quantized_count" name="lbann::lbann_quantizer::get_quantized_count">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#ace11211398e94728880476981f25fdc2" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="206,4,370,60"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#a5b29c317be868056b1c69afa5e097771" title="lbann::lbann_callback\l_imcomm::do_summary" alt="" coords="205,13,368,54"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="417,5,581,61"/>
 </map>

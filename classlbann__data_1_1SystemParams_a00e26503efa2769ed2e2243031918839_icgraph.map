@@ -1,7 +1,0 @@
-<map id="lbann_data::SystemParams::tasks_per_node" name="lbann_data::SystemParams::tasks_per_node">
-<area shape="rect" id="node2" href="$classlbann__data_1_1SystemParams.html#a1b9b7f67eac5a47d66fc036b2691adbf" title="lbann_data::SystemParams\l::SerializeWithCachedSizes" alt="" coords="259,5,445,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1SystemParams.html#a4e9f17e62ac095cd1e1bdca79f60f46a" title="lbann_data::SystemParams\l::InternalSerializeWithCachedSizes\lToArray" alt="" coords="238,69,466,125"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1SystemParams.html#a6cf69e03c19b7957189ef051c6c6848e" title="lbann_data::SystemParams\l::ByteSize" alt="" coords="261,149,443,190"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1SystemParams.html#af01482d6131619359ed78bd934f8ca19" title="lbann_data::SystemParams\l::MergeFrom" alt="" coords="261,214,443,255"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1SystemParams.html#ad9e8dd7f408ff270d4b753214cf84e40" title="lbann_data::SystemParams\l::SerializeWithCachedSizesToArray" alt="" coords="515,77,746,118"/>
-</map>

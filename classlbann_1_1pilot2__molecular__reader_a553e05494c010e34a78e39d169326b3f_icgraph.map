@@ -1,0 +1,4 @@
+<map id="lbann::pilot2_molecular_reader::get_frame" name="lbann::pilot2_molecular_reader::get_frame">
+<area shape="rect" id="node2" href="$classlbann_1_1pilot2__molecular__reader.html#a9ad317abcd6f5de777d536f7796a3b12" title="Fetch a molecule and its neighbors. " alt="" coords="419,5,573,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1pilot2__molecular__reader.html#ae45c583f72e11aeb5d955e2657a9a3e8" title="Fetch molecule data_id into X at molecule offset idx. " alt="" coords="209,34,370,75"/>
+</map>

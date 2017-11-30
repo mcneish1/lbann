@@ -1,0 +1,12 @@
+<map id="lbann::model::get_effective_mini_batch_size" name="lbann::model::get_effective_mini_batch_size">
+<area shape="rect" id="node2" href="$classlbann_1_1base__convolution__layer.html#ae46e6a975c443792c606817878dc4446" title="lbann::base_convolution\l_layer::compute_gradients_cudnn" alt="" coords="233,5,450,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1base__convolution__layer.html#a8cb0b4fb33f058ce6c211ebaf6a17f63" title="lbann::base_convolution\l_layer::compute_gradients\l_im2col" alt="" coords="254,71,429,127"/>
+<area shape="rect" id="node6" href="$classlbann_1_1fully__connected__layer.html#affbaa1ecb08e45ff6f9ab195227d0084" title="lbann::fully_connected\l_layer::bp_compute_cpu" alt="" coords="259,151,423,193"/>
+<area shape="rect" id="node8" href="$classlbann_1_1fully__connected__layer.html#a521aa4a5b88ef00f554fe21a850f6596" title="lbann::fully_connected\l_layer::bp_compute_cuda" alt="" coords="256,217,427,258"/>
+<area shape="rect" id="node9" href="$classlbann_1_1batch__normalization.html#a7d48ad1531825fc9745c77f9ae5f68d6" title="lbann::batch_normalization\l::bp_compute_gpu" alt="" coords="253,282,430,323"/>
+<area shape="rect" id="node11" href="$classlbann_1_1batch__normalization.html#a83e40edd001a0b71c31fbc9a3acb2231" title="lbann::batch_normalization\l::bp_compute_cpu" alt="" coords="253,347,430,389"/>
+<area shape="rect" id="node3" href="$classlbann_1_1convolution__layer.html#a610f24f98b548434cd4d22419f47c7f0" title="lbann::convolution\l_layer::bp_compute" alt="" coords="520,7,656,49"/>
+<area shape="rect" id="node4" href="$classlbann_1_1deconvolution__layer.html#a70649662ff27ddacf0f5584829022b72" title="lbann::deconvolution\l_layer::bp_compute" alt="" coords="517,77,659,118"/>
+<area shape="rect" id="node7" href="$classlbann_1_1fully__connected__layer.html#a8cc9a10e336f61ef54d5e3f4a9ffdfb8" title="lbann::fully_connected\l_layer::bp_compute" alt="" coords="512,201,664,242"/>
+<area shape="rect" id="node10" href="$classlbann_1_1batch__normalization.html#ad9aedd689cd8923d8c8e9c4e57a4e8b7" title="lbann::batch_normalization\l::bp_compute" alt="" coords="499,298,677,339"/>
+</map>

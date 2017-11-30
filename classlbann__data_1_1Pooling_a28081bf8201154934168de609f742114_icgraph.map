@@ -1,6 +1,0 @@
-<map id="lbann_data::Pooling::pool_dims_size" name="lbann_data::Pooling::pool_dims_size">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Pooling.html#a6916d8fdb45e4a4c97c2f93ab211bd01" title="lbann_data::Pooling\l::SerializeWithCachedSizes" alt="" coords="194,5,379,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Pooling.html#a538c177ea45c0d40fad04dfce147ad05" title="lbann_data::Pooling\l::InternalSerializeWithCached\lSizesToArray" alt="" coords="189,69,384,125"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1Pooling.html#a897fd534d37b6758070f8b6883788daa" title="lbann_data::Pooling\l::ByteSize" alt="" coords="219,149,355,190"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1Pooling.html#a15fdae101a5148a383e5fd9b8d708caf" title="lbann_data::Pooling\l::SerializeWithCachedSizes\lToArray" alt="" coords="433,69,618,125"/>
-</map>

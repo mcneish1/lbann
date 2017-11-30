@@ -1,7 +1,0 @@
-<map id="lbann::lbann_proto::add_model" name="lbann::lbann_proto::add_model">
-<area shape="rect" id="node2" href="$classlbann__data_1_1Model.html#a1db3c1fa966906f8cc3b5d86bc5ab693" title="lbann_data::Model::\lset_name" alt="" coords="189,5,325,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1Model.html#a96daa92a71f1c1d2f38cd632177b6ef9" title="lbann_data::Model::\lset_objective_function" alt="" coords="181,70,333,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1Model.html#a95d763b2ce17193dffa9f33fbb5f16bf" title="lbann_data::Model::\lset_mini_batch_size" alt="" coords="187,135,328,177"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1Model.html#ad5973412dfd7a744b1b73e1a1664b67d" title="lbann_data::Model::\lset_num_epochs" alt="" coords="189,201,325,242"/>
-<area shape="rect" id="node6" href="$classlbann__data_1_1Model.html#ac5a65c5fc527329e598d4ad266767587" title="lbann_data::Model::\ladd_metric" alt="" coords="189,266,325,307"/>
-</map>

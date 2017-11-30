@@ -1,6 +1,0 @@
-<map id="lbann_data::PerformanceParams::MergeFrom" name="lbann_data::PerformanceParams::MergeFrom">
-<area shape="rect" id="node2" href="$classlbann__data_1_1PerformanceParams.html#a5261dc32ee90c3740c95af5be8759ffc" title="lbann_data::PerformanceParams\l::block_size" alt="" coords="267,5,479,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1PerformanceParams.html#af6c8bc36a0a9552c59763d921eee9ae7" title="lbann_data::PerformanceParams\l::set_block_size" alt="" coords="267,70,479,111"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1PerformanceParams.html#a38251a0a4c3904efdb8c7c53e4141f36" title="lbann_data::PerformanceParams\l::max_par_io_size" alt="" coords="267,135,479,177"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1PerformanceParams.html#a964e87be20c2d45dfc1db3fa26b9a971" title="lbann_data::PerformanceParams\l::set_max_par_io_size" alt="" coords="267,201,479,242"/>
-</map>

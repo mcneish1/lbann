@@ -1,0 +1,4 @@
+<map id="lbann::target_layer::update_num_samples_processed" name="lbann::target_layer::update_num_samples_processed">
+<area shape="rect" id="node2" href="$classlbann_1_1target__layer__distributed__minibatch.html#a8cccfcb074a156c43e068e0decb82ab2" title="lbann::target_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="211,5,363,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a6936c9aa68ed662f2c96e1e0d6d85f54" title="lbann::target_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="211,85,363,141"/>
+</map>

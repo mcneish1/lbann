@@ -1,6 +1,0 @@
-<map id="lbann_data::DataReader::nci" name="lbann_data::DataReader::nci">
-<area shape="rect" id="node2" href="$classlbann__data_1_1DataReader.html#afb9d596e7fda7938c7c13c645962f104" title="lbann_data::DataReader\l::SerializeWithCachedSizes" alt="" coords="247,5,433,46"/>
-<area shape="rect" id="node3" href="$classlbann__data_1_1DataReader.html#a2be59e769ce6cff2c886f8b57f1b220a" title="lbann_data::DataReader\l::InternalSerializeWithCached\lSizesToArray" alt="" coords="243,69,437,125"/>
-<area shape="rect" id="node5" href="$classlbann__data_1_1DataReader.html#af7d45772f5893ad723d5caf79582c23c" title="lbann_data::DataReader\l::ByteSize" alt="" coords="259,149,421,190"/>
-<area shape="rect" id="node4" href="$classlbann__data_1_1DataReader.html#a10fd9ea44086547b4f88bc312e86eff1" title="lbann_data::DataReader\l::SerializeWithCachedSizesToArray" alt="" coords="486,77,717,118"/>
-</map>

@@ -1,0 +1,4 @@
+<map id="lbann::slice_layer::bp_compute_gpu" name="lbann::slice_layer::bp_compute_gpu">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#acee56be91337bbd78bc4371a8159b760" title="lbann::Layer::using_gpus" alt="" coords="185,5,351,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#abb826654d76064e06199e7deb4d06009" title="lbann::Layer::get_bp\l_output" alt="" coords="198,57,338,98"/>
+</map>

@@ -1,8 +1,12 @@
 var classlbann_1_1lbann__callback__io =
 [
     [ "lbann_callback_io", "classlbann_1_1lbann__callback__io.html#a12c89d246c657ca588d3fb637ef79183", null ],
-    [ "lbann_callback_io", "classlbann_1_1lbann__callback__io.html#a3866b0e50b3b5f07253a0833ec497d3d", null ],
-    [ "on_epoch_end", "classlbann_1_1lbann__callback__io.html#ae6e0e8850a2c7fb1a49f955d08e1680f", null ],
-    [ "on_test_end", "classlbann_1_1lbann__callback__io.html#a94c8f73dcab680c4e30005bd8ec043cc", null ],
-    [ "layer_indices", "classlbann_1_1lbann__callback__io.html#abfcff8395bc74cccc8a5b36744a16821", null ]
+    [ "lbann_callback_io", "classlbann_1_1lbann__callback__io.html#adb2d632c4eeb5585d9b8c7535bd35227", null ],
+    [ "lbann_callback_io", "classlbann_1_1lbann__callback__io.html#a913b2a9677d6682f88fdf04d8f02159d", null ],
+    [ "copy", "classlbann_1_1lbann__callback__io.html#aec8c75427c424999d01a18a9fb8e0b0d", null ],
+    [ "name", "classlbann_1_1lbann__callback__io.html#ac0b1327364b2ae3c7b7e4987aef70e33", null ],
+    [ "on_epoch_end", "classlbann_1_1lbann__callback__io.html#a118c5cb8a9c83661a67569df890676e2", null ],
+    [ "on_test_end", "classlbann_1_1lbann__callback__io.html#a8abca84e4b0dc21b28e5d5e409446fdc", null ],
+    [ "operator=", "classlbann_1_1lbann__callback__io.html#aaf50b99e51a2ac42a987c7354e52c1e7", null ],
+    [ "m_layer_indices", "classlbann_1_1lbann__callback__io.html#ab2105f5ed94c9c053b2873ea3a87bc21", null ]
 ];

@@ -1,4 +1,0 @@
-<map id="lbann::target_layer_distributed_minibatch::fp_linearity" name="lbann::target_layer_distributed_minibatch::fp_linearity">
-<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html#ae400abb9ed5e3ad2c8df1efc0168bc0a" title="lbann::io_layer::select\l_data_reader" alt="" coords="205,5,355,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1DataReader.html#ab9f0bd6994c5f78b5ea89c9af00fefaf" title="lbann::DataReader::\lfetch_label" alt="" coords="211,70,349,111"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="lbann::RMSprop::saveToCheckpointShared" name="lbann::RMSprop::saveToCheckpointShared">
-<area shape="rect" id="node2" href="$classlbann_1_1Optimizer.html#a6984da040ad703476b8f4d807c6439f1" title="lbann::Optimizer::name" alt="" coords="288,5,445,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#ab5be1e98f9d962c41fc9c3f2ac918c6e" title="lbann::persist::write\l_float" alt="" coords="299,57,435,98"/>
-<area shape="rect" id="node5" href="$classlbann_1_1persist.html#a9170de652405d86d9ba9b3793f8781c6" title="lbann::persist::write\l_distmat" alt="" coords="299,122,435,163"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#af0c8fc38d05bfc6aaf4bc78d06e6710a" title="lbann::write_bytes" alt="" coords="493,64,621,91"/>
-</map>

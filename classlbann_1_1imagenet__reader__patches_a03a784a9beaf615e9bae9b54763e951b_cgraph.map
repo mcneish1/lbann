@@ -1,0 +1,4 @@
+<map id="lbann::imagenet_reader_patches::imagenet_reader_patches" name="lbann::imagenet_reader_patches::imagenet_reader_patches">
+<area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader__patches.html#a3458e4274b9ed894973a069cf884f04a" title="Set the default values for the width, the height, the number of channels, and the number of labels of..." alt="" coords="252,5,409,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1imagenet__reader__patches.html#a714247cc547161688a66a64737527de0" title="Replicate image processor for each OpenMP thread. " alt="" coords="233,70,429,111"/>
+</map>

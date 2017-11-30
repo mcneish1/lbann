@@ -1,6 +1,0 @@
-<map id="lbann::DataReader::calculate_multi_model_data_distribution" name="lbann::DataReader::calculate_multi_model_data_distribution">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="206,5,349,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="206,70,349,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="206,135,349,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="206,201,349,242"/>
-</map>

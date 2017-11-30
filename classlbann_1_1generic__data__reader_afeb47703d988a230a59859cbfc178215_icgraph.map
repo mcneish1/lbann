@@ -1,0 +1,4 @@
+<map id="lbann::generic_data_reader::load" name="lbann::generic_data_reader::load">
+<area shape="rect" id="node2" href="$classlbann_1_1data__reader__merge__features.html#a8a618de9a92cb148746a83b0381ba781" title="Call load on the subsidiary data readers. " alt="" coords="190,5,341,46"/>
+<area shape="rect" id="node3" href="$proto__common_8hpp.html#a74f60f765908334042f5b5ec5054646e" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="205,71,326,97"/>
+</map>

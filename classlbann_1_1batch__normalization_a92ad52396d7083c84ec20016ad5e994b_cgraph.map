@@ -1,0 +1,6 @@
+<map id="lbann::batch_normalization::fp_compute" name="lbann::batch_normalization::fp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1batch__normalization.html#aacff2c47a5455a4c28b9695f4fb37249" title="lbann::batch_normalization\l::fp_compute_gpu" alt="" coords="233,5,410,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1batch__normalization.html#ae4cad47f456752e4ea20add0f6f38819" title="lbann::batch_normalization\l::fp_compute_cpu" alt="" coords="233,70,410,111"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a7f8a6efd69263d6268ced61c8121f344" title="lbann::Layer::get_execution_mode" alt="" coords="459,16,680,43"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef" title="lbann::lbann_comm::\lallreduce" alt="" coords="498,70,641,111"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lbann::fetch_data_functor::operator()" name="lbann::fetch_data_functor::operator()">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#a46b658ba4f6b746632b683568ab76f77" title="Fetch this mini&#45;batch&#39;s samples into X. " alt="" coords="242,5,377,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__data__reader.html#aeaa97d3683add33d1c6d69a769dd6a20" title="Fetch this mini&#45;batch&#39;s responses into Y. " alt="" coords="225,70,394,111"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#a7e624f92e38b0ee4224a6afaaf2acbdb" title="Fetch this mini&#45;batch&#39;s labels into Y. " alt="" coords="238,135,381,177"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#a06fd1f9a7d05d355fa9936c46347a77f" title="lbann::lbann_report\l_exception" alt="" coords="443,70,575,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__exception.html#ad283dd82e137da5ff49da2e3b1f26d78" title="lbann::lbann_exception\l::what" alt="" coords="624,70,779,111"/>
+</map>

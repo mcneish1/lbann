@@ -1,7 +1,0 @@
-<map id="lbann::SGD::loadFromCheckpointShared" name="lbann::SGD::loadFromCheckpointShared">
-<area shape="rect" id="node2" href="$classlbann_1_1Optimizer.html#a6984da040ad703476b8f4d807c6439f1" title="lbann::Optimizer::name" alt="" coords="272,5,429,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#ac5e659a6612e5f2911e195fc1b6c045b" title="lbann::persist::read\l_float" alt="" coords="284,57,417,98"/>
-<area shape="rect" id="node5" href="$classlbann_1_1persist.html#aa98be93f33b510e5b506b61de6bd79bd" title="lbann::persist::read\l_distmat" alt="" coords="284,122,417,163"/>
-<area shape="rect" id="node4" href="$namespacelbann.html#a85385e2a9e058b6720300b4cbdd2b1d0" title="lbann::read_bytes" alt="" coords="477,64,603,91"/>
-<area shape="rect" id="node6" href="$namespacelbann.html#aefae2a9fc9d742ece0fa8ca7ed9ee137" title="lbann::exists" alt="" coords="492,129,588,156"/>
-</map>

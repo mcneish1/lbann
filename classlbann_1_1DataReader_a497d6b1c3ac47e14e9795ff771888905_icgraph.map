@@ -1,6 +1,0 @@
-<map id="lbann::DataReader::operator=" name="lbann::DataReader::operator=">
-<area shape="rect" id="node2" href="$classlbann_1_1DataReader__ImageNet.html#aa6da0a41aaa3bfd66bf50555e15adc18" title="lbann::DataReader_ImageNet\l::operator=" alt="" coords="192,5,387,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1DataReader__MNIST.html#a0d5f5f525021d59f727c1f2dfee5c9e7" title="lbann::DataReader_MNIST\l::operator=" alt="" coords="199,70,379,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1data__reader__nci.html#a4408a11dd0cfcca9fa086ce8eb3bc6d6" title="lbann::data_reader\l_nci::operator=" alt="" coords="225,135,354,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1data__reader__nci__regression.html#a4bfafbfa5c17663923f1d3aca69aa5dc" title="lbann::data_reader\l_nci_regression::operator=" alt="" coords="201,201,377,242"/>
-</map>

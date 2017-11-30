@@ -1,8 +1,0 @@
-<map id="lbann::lbann_quantizer::intermodel_sum_threshold_quantized" name="lbann::lbann_quantizer::intermodel_sum_threshold_quantized">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#a00106e69ea8a6dfe9e9a91c75b845bcd" title="lbann::lbann_quantizer\l::threshold_quantize" alt="" coords="257,5,409,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#ad8d07c3ffddff08800887dff354ffed2" title="lbann::lbann_quantizer\l::compress_thresholds" alt="" coords="256,70,411,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#afb58d63b174c3a937f3c3b21eb269b77" title="lbann::lbann_quantizer\l::uncompress_thresholds" alt="" coords="249,135,417,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__quantizer.html#a6336263dbcf910503df46e1ae36c7a9b" title="lbann::lbann_quantizer\l::threshold_unquantize_apply" alt="" coords="238,201,429,242"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__quantizer.html#a616ff1a37dcf931a5eb6bd36ec9c395e" title="lbann::lbann_quantizer\l::threshold_quantize_apply" alt="" coords="245,266,422,307"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__quantizer.html#a0f5f3b0149715ab59202b8884a87c7d5" title="lbann::lbann_quantizer\l::threshold_unquantize" alt="" coords="257,331,410,373"/>
-</map>

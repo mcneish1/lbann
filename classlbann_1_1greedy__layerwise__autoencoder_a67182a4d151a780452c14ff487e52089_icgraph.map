@@ -1,0 +1,5 @@
+<map id="lbann::greedy_layerwise_autoencoder::evaluate_phase" name="lbann::greedy_layerwise_autoencoder::evaluate_phase">
+<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="254,5,429,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aba7eba729e2d84e42b7305da1309d649" title="Global evaluation (testing), provide overall cost relative to original input. " alt="" coords="260,70,423,111"/>
+<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="477,38,640,79"/>
+</map>
