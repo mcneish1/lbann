@@ -1,6 +1,6 @@
 var classlbann_1_1slice__layer =
 [
-    [ "slice_layer", "classlbann_1_1slice__layer.html#ad91699dab7938435560b02c37963df15", null ],
+    [ "slice_layer", "classlbann_1_1slice__layer.html#a248cf99da690964ac0209684f8c13c1d", null ],
     [ "slice_layer", "classlbann_1_1slice__layer.html#a650cf86c43a81a644bff4b8e9375f87f", null ],
     [ "~slice_layer", "classlbann_1_1slice__layer.html#aa3bab16f57546c41fab486a352974018", null ],
     [ "bp_compute", "classlbann_1_1slice__layer.html#a080654076a1b266b2c6d229e9fccf250", null ],

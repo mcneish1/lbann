@@ -1,4 +1,8 @@
 <map id="get_data_layout" name="get_data_layout">
-<area shape="rect" id="node2" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="168,5,253,32"/>
-<area shape="rect" id="node3" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="170,56,251,83"/>
+<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a5f237f1f6285475c5493a7d15dc32096" title="lbann::greedy_layerwise\l_autoencoder::set_phase" alt="" coords="168,86,336,127"/>
+<area shape="rect" id="node6" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="209,152,295,179"/>
+<area shape="rect" id="node7" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="211,203,293,229"/>
+<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adf8750be08e34891701a24678f703acd" title="lbann::greedy_layerwise\l_autoencoder::greedy_layerwise\l_autoencoder" alt="" coords="385,5,594,61"/>
+<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ac5e2de693353966b7816ca10282068f5" title="lbann::greedy_layerwise\l_autoencoder::operator=" alt="" coords="408,86,571,127"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="408,151,571,193"/>
 </map>

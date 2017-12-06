@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$classlbann_1_1base__convolution__layer.html#ade8954a87bb9110f013b4ea231c515fa" title="lbann::base_convolution\l_layer::initialize_distributed\l_matrices" alt="" coords="197,5,376,61"/>
 <area shape="rect" id="node3" href="$classlbann_1_1batch__normalization.html#af8a8bef1eaf98000d644911a3f1e4c9b" title="lbann::batch_normalization\l::initialize_distributed\l_matrices" alt="" coords="198,85,375,141"/>
 <area shape="rect" id="node6" href="$classlbann_1_1weights__initializer.html#a04d4343afb56d4e9396525372f3442b3" title="lbann::weights_initializer\l::construct_matrix" alt="" coords="205,166,369,207"/>
-<area shape="rect" id="node4" href="$classlbann_1_1batch__normalization.html#af656b0d68444165664ec22ec8034efce" title="lbann::batch_normalization\l::batch_normalization" alt="" coords="425,93,602,134"/>
+<area shape="rect" id="node4" href="$classlbann_1_1batch__normalization.html#a04f092712566fd732e5fc5e48ee16f4d" title="lbann::batch_normalization\l::batch_normalization" alt="" coords="425,93,602,134"/>
 <area shape="rect" id="node5" href="$classlbann_1_1batch__normalization.html#af149d82996f351a5897a16a78ced113d" title="lbann::batch_normalization\l::copy" alt="" coords="651,93,829,134"/>
 <area shape="rect" id="node7" href="$classlbann_1_1weights.html#aa50748c9b3ffa62841e0150a8da29a82" title="lbann::weights::setup" alt="" coords="440,173,587,200"/>
 </map>

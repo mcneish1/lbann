@@ -1,6 +1,6 @@
 <map id="lbann::lbann_callback_save_images::on_phase_end" name="lbann::lbann_callback_save_images::on_phase_end">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a999f86970eaf27f0169af3c2a904727e" title="lbann::model::get_layers" alt="" coords="263,5,427,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a8aedadfbdd6b946cfa3cb9e8bbd16d03" title="lbann::model::get_current\l_phase" alt="" coords="261,57,430,98"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="263,5,427,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa378223966709275c6306af68d1d9813" title="lbann::model::get_current\l_phase" alt="" coords="261,57,430,98"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__save__images.html#ab84c4d511a4614ca90644d12dc77edee" title="lbann::lbann_callback\l_save_images::save_image" alt="" coords="253,122,437,163"/>
 <area shape="rect" id="node5" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="485,71,651,97"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="497,122,639,163"/>

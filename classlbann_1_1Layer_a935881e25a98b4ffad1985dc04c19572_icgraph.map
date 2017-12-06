@@ -1,8 +1,8 @@
 <map id="lbann::Layer::fp_set_std_matrix_view" name="lbann::Layer::fp_set_std_matrix_view">
-<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#a5f0ac4c212360fa8a72a2a5e7277443e" title="lbann::softmax_layer\l::fp_set_std_matrix_view" alt="" coords="197,5,365,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a244d14e401fc2707bc140bc54274903c" title="lbann::target_layer\l::fp_set_std_matrix_view" alt="" coords="197,70,365,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1batch__normalization.html#a88acd11136c7b07a2c9b4ee38fdefe25" title="lbann::batch_normalization\l::fp_set_std_matrix_view" alt="" coords="193,135,370,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1Layer.html#a2483ccd8a4406a6891f6176f1001b4e5" title="lbann::Layer::forward_prop" alt="" coords="193,201,369,228"/>
-<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#a609cf6822b8181bb8ebc344874acb091" title="lbann::reconstruction\l_layer::fp_set_std_matrix_view" alt="" coords="419,34,621,75"/>
-<area shape="rect" id="node5" href="$classlbann_1_1target__layer__distributed__minibatch.html#af31610e5ec2ebd3352282d4931adf361" title="lbann::target_layer\l_distributed_minibatch\l::fp_set_std_matrix_view" alt="" coords="436,100,604,156"/>
+<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#a5f0ac4c212360fa8a72a2a5e7277443e" title="lbann::softmax_layer\l::fp_set_std_matrix_view" alt="" coords="196,13,364,54"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a244d14e401fc2707bc140bc54274903c" title="lbann::target_layer\l::fp_set_std_matrix_view" alt="" coords="196,78,364,119"/>
+<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a2483ccd8a4406a6891f6176f1001b4e5" title="lbann::Layer::forward_prop" alt="" coords="192,151,368,177"/>
+<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#a609cf6822b8181bb8ebc344874acb091" title="lbann::reconstruction\l_layer::fp_set_std_matrix_view" alt="" coords="416,5,619,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1target__layer__distributed__minibatch.html#af31610e5ec2ebd3352282d4931adf361" title="lbann::target_layer\l_distributed_minibatch\l::fp_set_std_matrix_view" alt="" coords="433,71,601,127"/>
+<area shape="rect" id="node7" href="$classlbann_1_1greedy__layerwise__autoencoder.html#af16aa7d2336a3f64e27970241cb2cd3e" title="lbann::greedy_layerwise\l_autoencoder::forward_prop" alt="" coords="426,151,609,193"/>
 </map>

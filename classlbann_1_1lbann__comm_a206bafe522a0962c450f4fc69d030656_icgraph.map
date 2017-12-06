@@ -21,7 +21,8 @@
 <area shape="rect" id="node35" href="$classlbann_1_1lbann__callback__debug__io.html#ac9b36fc36ab6faa9de44db026addf02a" title="lbann::lbann_callback\l_debug_io::on_evaluate\l_forward_prop_begin" alt="" coords="231,1716,390,1772"/>
 <area shape="rect" id="node36" href="$classlbann_1_1lbann__callback__io.html#a118c5cb8a9c83661a67569df890676e2" title="lbann::lbann_callback\l_io::on_epoch_end" alt="" coords="237,1797,384,1838"/>
 <area shape="rect" id="node37" href="$classlbann_1_1lbann__callback__io.html#a8abca84e4b0dc21b28e5d5e409446fdc" title="lbann::lbann_callback\l_io::on_test_end" alt="" coords="237,1862,384,1903"/>
-<area shape="rect" id="node38" href="$namespacelbann.html#acef152f20e422b3aea1a3c1691a533ac" title="lbann::init_random" alt="" coords="247,1928,375,1955"/>
+<area shape="rect" id="node38" href="$classlbann_1_1lbann__callback__timeline.html#a7af247d7f016db358da0a57f8a4b76c6" title="lbann::lbann_callback\l_timeline::on_train_end" alt="" coords="233,1927,389,1969"/>
+<area shape="rect" id="node39" href="$namespacelbann.html#acef152f20e422b3aea1a3c1691a533ac" title="lbann::init_random" alt="" coords="247,1993,375,2020"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__check__reconstruction__error.html#a8a6a72b8016d3ba3ad11b5e7e2f3f5df" title="lbann::lbann_callback\l_check_reconstruction\l_error::on_epoch_end" alt="" coords="509,5,662,61"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__early__stopping.html#a32eb9c5e763c97ab1162cfebea7ad049" title="lbann::lbann_callback\l_early_stopping::on_validation_end" alt="" coords="473,86,698,127"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__learning__rate.html#ab8eb509bdbea501882d6b248a814bb28" title="lbann::lbann_callback\l_learning_rate::on_epoch_end" alt="" coords="488,151,683,193"/>
@@ -36,5 +37,5 @@
 <area shape="rect" id="node21" href="$classlbann_1_1lbann__callback__checknan.html#a40d9a9fcc5849746570b99321e1c5488" title="lbann::lbann_callback\l_checknan::on_backward\l_prop_end" alt="" coords="500,879,671,935"/>
 <area shape="rect" id="node22" href="$classlbann_1_1lbann__callback__checknan.html#a1d1b3b082aa49016e7b80e0f267575da" title="lbann::lbann_callback\l_checknan::on_batch_end" alt="" coords="498,959,673,1001"/>
 <area shape="rect" id="node34" href="$classlbann_1_1lbann__callback__debug__io.html#aa3d2a6fb4d7375c05ece0058224ea792" title="BVE FIXME. " alt="" coords="494,1650,677,1691"/>
-<area shape="rect" id="node39" href="$namespacelbann.html#a3d91b615e42bf5744deeed770879bc8c" title="lbann::initialize" alt="" coords="531,1928,639,1955"/>
+<area shape="rect" id="node40" href="$namespacelbann.html#a3d91b615e42bf5744deeed770879bc8c" title="lbann::initialize" alt="" coords="531,1993,639,2020"/>
 </map>

@@ -1,6 +1,6 @@
 var classlbann_1_1concatenation__layer =
 [
-    [ "concatenation_layer", "classlbann_1_1concatenation__layer.html#a41733b669754957d2b58ac675801e93c", null ],
+    [ "concatenation_layer", "classlbann_1_1concatenation__layer.html#ab826328d5224933dfc90e246d16de50e", null ],
     [ "concatenation_layer", "classlbann_1_1concatenation__layer.html#a0498925fcb0a42f1bc8fd1913b9090fc", null ],
     [ "~concatenation_layer", "classlbann_1_1concatenation__layer.html#a88ae05d8491e9ab03b00fc62a2a9792c", null ],
     [ "bp_compute", "classlbann_1_1concatenation__layer.html#abd2a2a3aa260646c98d842993fee6247", null ],

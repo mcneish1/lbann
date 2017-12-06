@@ -104,6 +104,7 @@ var hierarchy =
       [ "lbann::lbann_callback_profiler", "classlbann_1_1lbann__callback__profiler.html", null ],
       [ "lbann::lbann_callback_save_images", "classlbann_1_1lbann__callback__save__images.html", null ],
       [ "lbann::lbann_callback_summary", "classlbann_1_1lbann__callback__summary.html", null ],
+      [ "lbann::lbann_callback_timeline", "classlbann_1_1lbann__callback__timeline.html", null ],
       [ "lbann::lbann_callback_timer", "classlbann_1_1lbann__callback__timer.html", null ],
       [ "lbann::lbann_callback_variable_minibatch", "classlbann_1_1lbann__callback__variable__minibatch.html", [
         [ "lbann::lbann_callback_minibatch_schedule", "classlbann_1_1lbann__callback__minibatch__schedule.html", null ],
@@ -159,19 +160,18 @@ var hierarchy =
       ] ]
     ] ],
     [ "lbann::NetworkParams", "classlbann_1_1NetworkParams.html", null ],
-    [ "lbann::objective_function", "classlbann_1_1objective__function.html", [
-      [ "lbann::objective_functions::binary_cross_entropy", "classlbann_1_1objective__functions_1_1binary__cross__entropy.html", null ],
-      [ "lbann::objective_functions::cross_entropy_with_uncertainty", "classlbann_1_1objective__functions_1_1cross__entropy__with__uncertainty.html", null ],
-      [ "lbann::objective_functions::geom_negloglike", "classlbann_1_1objective__functions_1_1geom__negloglike.html", null ],
-      [ "lbann::objective_functions::mean_absolute_deviation", "classlbann_1_1objective__functions_1_1mean__absolute__deviation.html", null ],
-      [ "lbann::objective_functions::poisson_negloglike", "classlbann_1_1objective__functions_1_1poisson__negloglike.html", null ],
-      [ "lbann::objective_functions::polya_negloglike", "classlbann_1_1objective__functions_1_1polya__negloglike.html", null ]
-    ] ],
+    [ "lbann::objective_function", "classlbann_1_1objective__function.html", null ],
     [ "lbann::objective_function_term", "classlbann_1_1objective__function__term.html", [
       [ "lbann::l2_weight_regularization", "classlbann_1_1l2__weight__regularization.html", null ],
       [ "lbann::loss_function", "classlbann_1_1loss__function.html", [
+        [ "lbann::binary_cross_entropy", "classlbann_1_1binary__cross__entropy.html", null ],
         [ "lbann::cross_entropy", "classlbann_1_1cross__entropy.html", null ],
-        [ "lbann::mean_squared_error", "classlbann_1_1mean__squared__error.html", null ]
+        [ "lbann::cross_entropy_with_uncertainty", "classlbann_1_1cross__entropy__with__uncertainty.html", null ],
+        [ "lbann::geom_negloglike", "classlbann_1_1geom__negloglike.html", null ],
+        [ "lbann::mean_absolute_deviation", "classlbann_1_1mean__absolute__deviation.html", null ],
+        [ "lbann::mean_squared_error", "classlbann_1_1mean__squared__error.html", null ],
+        [ "lbann::poisson_negloglike", "classlbann_1_1poisson__negloglike.html", null ],
+        [ "lbann::polya_negloglike", "classlbann_1_1polya__negloglike.html", null ]
       ] ]
     ] ],
     [ "lbann::optimizer", "classlbann_1_1optimizer.html", [
@@ -183,6 +183,8 @@ var hierarchy =
     ] ],
     [ "lbann::PerformanceParams", "classlbann_1_1PerformanceParams.html", null ],
     [ "lbann::persist", "classlbann_1_1persist.html", null ],
+    [ "lbann::protobuf_utils", "classlbann_1_1protobuf__utils.html", null ],
+    [ "lbann::prototext_fn_triple", "structlbann_1_1prototext__fn__triple.html", null ],
     [ "lbann::rng< DistType, DType >", "classlbann_1_1rng.html", null ],
     [ "lbann::SystemParams", "classlbann_1_1SystemParams.html", null ],
     [ "lbann::TrainingParams", "classlbann_1_1TrainingParams.html", null ],

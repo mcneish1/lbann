@@ -12,9 +12,8 @@ var searchData=
   ['top_5fk_5fcategorical_5faccuracy',['top_k_categorical_accuracy',['../classlbann_1_1metrics_1_1top__k__categorical__accuracy.html#aa5ba28ea9f2a0daf442fde0a8196db24',1,'lbann::metrics::top_k_categorical_accuracy::top_k_categorical_accuracy(int top_k, lbann_comm *comm)'],['../classlbann_1_1metrics_1_1top__k__categorical__accuracy.html#a4e3da555ff9db3fb6c4d8ee6a5e4f462',1,'lbann::metrics::top_k_categorical_accuracy::top_k_categorical_accuracy(const top_k_categorical_accuracy&lt; T_layout &gt; &amp;other)=default']]],
   ['topologically_5fsort_5flayers',['topologically_sort_layers',['../classlbann_1_1dag__model.html#a0d7ed1460a64dc9d6dc48c2163aefce8',1,'lbann::dag_model']]],
   ['total_5fsamples',['total_samples',['../classlbann_1_1dataset.html#ab951c879f151990613567e985fe1e278',1,'lbann::dataset']]],
-  ['train',['train',['../classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc',1,'lbann::model::train()'],['../classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353',1,'lbann::greedy_layerwise_autoencoder::train()']]],
-  ['train_5fmini_5fbatch',['train_mini_batch',['../classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb',1,'lbann::model::train_mini_batch()'],['../classlbann_1_1greedy__layerwise__autoencoder.html#a2a36fa3e219c8facb254185b704105a4',1,'lbann::greedy_layerwise_autoencoder::train_mini_batch()']]],
-  ['train_5fphase',['train_phase',['../classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69',1,'lbann::greedy_layerwise_autoencoder']]],
+  ['train',['train',['../classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353',1,'lbann::greedy_layerwise_autoencoder::train()'],['../classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc',1,'lbann::model::train()']]],
+  ['train_5fmini_5fbatch',['train_mini_batch',['../classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb',1,'lbann::model']]],
   ['trainingparams',['TrainingParams',['../classlbann_1_1TrainingParams.html#a4ca5149e14ab1aed5f5a9c0e612ce62d',1,'lbann::TrainingParams']]],
   ['transform',['transform',['../classlbann_1_1transform.html#a0b529d5eeabd25ec3a920dd87baf0c3a',1,'lbann::transform::transform(lbann_comm *comm)'],['../classlbann_1_1transform.html#ac85eb14f3fb2238a484ca218a55c72ce',1,'lbann::transform::transform(const transform &amp;)=default']]]
 ];

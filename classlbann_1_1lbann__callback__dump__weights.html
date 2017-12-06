@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -177,6 +177,14 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af183624e63ba65e0003fa988f53dee0c inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#aba03b59c056ace8094095c08e39b9ac4">on_backward_prop_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1Layer.html">Layer</a> *l)</td></tr>
 <tr class="separator:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a1a9248b305f06419889c1b3b0f0893d8">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a497e750da160e0071ce8864ccc3a1344">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a235195d5fa4461835b861a03a5c0278f">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a4653e2903bfd3903709a81eaf7eabc1a">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a3462e54126adbd0082c22c98d8de5468">on_batch_evaluate_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
 <tr class="separator:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad10891b8ab3de74ee1a70e6255e7d58a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#ad10891b8ab3de74ee1a70e6255e7d58a">on_batch_evaluate_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
@@ -214,7 +222,7 @@ Additional Inherited Members</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Dump weight matrices to files. This will dump each hidden layer's weight/bias matrix after each epoch. The matrices are written to files using Elemental's simple ASCII format. This is not meant for checkpointing, but for exporting weight matrices for analysis that isn't easily done in LBANN. </p>
 
-<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00043">43</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
+<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00045">45</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a6ad86c6dec233324f013e9d83e574267"></a>
 <div class="memitem">
@@ -254,10 +262,10 @@ Additional Inherited Members</h2></td></tr>
   </dd>
 </dl>
 
-<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00048">48</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;                                                                          :</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    <a class="code" href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann_callback</a>(batch_interval), <a class="code" href="classlbann_1_1lbann__callback__dump__weights.html#a6c73416bd2edd414e7c4094a19ae2d79">m_basename</a>(basename) {}</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__weights_html_a6c73416bd2edd414e7c4094a19ae2d79"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__weights.html#a6c73416bd2edd414e7c4094a19ae2d79">lbann::lbann_callback_dump_weights::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__weights_8hpp_source.html#l00061">callback_dump_weights.hpp:61</a></div></div>
+<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00050">50</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                                                                          :</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    <a class="code" href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann_callback</a>(batch_interval), <a class="code" href="classlbann_1_1lbann__callback__dump__weights.html#a6c73416bd2edd414e7c4094a19ae2d79">m_basename</a>(std::move(basename)) {}</div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__weights_html_a6c73416bd2edd414e7c4094a19ae2d79"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__weights.html#a6c73416bd2edd414e7c4094a19ae2d79">lbann::lbann_callback_dump_weights::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__weights_8hpp_source.html#l00063">callback_dump_weights.hpp:63</a></div></div>
 <div class="ttc" id="classlbann_1_1lbann__callback_html_a679057298a41ddd47f08c157f756c584"><div class="ttname"><a href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann::lbann_callback::lbann_callback</a></div><div class="ttdeci">lbann_callback(int batch_interval=1, lbann_summary *summarizer=nullptr)</div><div class="ttdef"><b>Definition:</b> <a href="callback_8hpp_source.html#l00056">callback.hpp:56</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -319,11 +327,11 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classlbann_1_1lbann__callback.html#a9f545d1269a8c7af335625d049691f26">lbann::lbann_callback</a>.</p>
 
-<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00053">53</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;                                                     {</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__callback__dump__weights.html#a6ad86c6dec233324f013e9d83e574267">lbann_callback_dump_weights</a>(*<span class="keyword">this</span>);</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__weights_html_a6ad86c6dec233324f013e9d83e574267"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__weights.html#a6ad86c6dec233324f013e9d83e574267">lbann::lbann_callback_dump_weights::lbann_callback_dump_weights</a></div><div class="ttdeci">lbann_callback_dump_weights(std::string basename, int batch_interval=1)</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__weights_8hpp_source.html#l00048">callback_dump_weights.hpp:48</a></div></div>
+<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00055">55</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;                                                     {</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__callback__dump__weights.html#a6ad86c6dec233324f013e9d83e574267">lbann_callback_dump_weights</a>(*<span class="keyword">this</span>);</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;  }</div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__weights_html_a6ad86c6dec233324f013e9d83e574267"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__weights.html#a6ad86c6dec233324f013e9d83e574267">lbann::lbann_callback_dump_weights::lbann_callback_dump_weights</a></div><div class="ttdeci">lbann_callback_dump_weights(std::string basename, int batch_interval=1)</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__weights_8hpp_source.html#l00050">callback_dump_weights.hpp:50</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -372,14 +380,14 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;    El::Write(w-&gt;get_values(), file, El::ASCII);</div>
 <div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;  }</div>
 <div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;}</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__weights_html_a6c73416bd2edd414e7c4094a19ae2d79"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__weights.html#a6c73416bd2edd414e7c4094a19ae2d79">lbann::lbann_callback_dump_weights::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__weights_8hpp_source.html#l00061">callback_dump_weights.hpp:61</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__weights_html_a6c73416bd2edd414e7c4094a19ae2d79"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__weights.html#a6c73416bd2edd414e7c4094a19ae2d79">lbann::lbann_callback_dump_weights::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__weights_8hpp_source.html#l00063">callback_dump_weights.hpp:63</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classlbann_1_1lbann__callback__dump__weights_a59dc7007e35e4c5ba5d1708e440972fd_cgraph.png" border="0" usemap="#classlbann_1_1lbann__callback__dump__weights_a59dc7007e35e4c5ba5d1708e440972fd_cgraph" alt=""/></div>
 <map name="classlbann_1_1lbann__callback__dump__weights_a59dc7007e35e4c5ba5d1708e440972fd_cgraph" id="classlbann_1_1lbann__callback__dump__weights_a59dc7007e35e4c5ba5d1708e440972fd_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1model.html#a3a48f1f87528a090da84e8f7ef7df35e" title="lbann::model::get_weights" alt="" coords="259,5,434,32"/><area shape="rect" id="node3" href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="264,56,429,83"/><area shape="rect" id="node4" href="classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="275,107,418,149"/><area shape="rect" id="node5" href="classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="273,173,420,214"/></map>
+<area shape="rect" id="node2" href="classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="259,5,434,32"/><area shape="rect" id="node3" href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="264,56,429,83"/><area shape="rect" id="node4" href="classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="275,107,418,149"/><area shape="rect" id="node5" href="classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="273,173,420,214"/></map>
 </div>
 </p>
 
@@ -418,8 +426,8 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classlbann_1_1lbann__callback.html#a7522c7a14f1d6a1ea762cc2d7248eb3a">lbann::lbann_callback</a>.</p>
 
-<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00058">58</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;dump weights&quot;</span>; }</div>
+<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00060">60</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;dump weights&quot;</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -459,7 +467,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classlbann_1_1lbann__callback__dump__weights_aa73068d94b2408fc0124b2a05b4e2b8a_cgraph.png" border="0" usemap="#classlbann_1_1lbann__callback__dump__weights_aa73068d94b2408fc0124b2a05b4e2b8a_cgraph" alt=""/></div>
 <map name="classlbann_1_1lbann__callback__dump__weights_aa73068d94b2408fc0124b2a05b4e2b8a_cgraph" id="classlbann_1_1lbann__callback__dump__weights_aa73068d94b2408fc0124b2a05b4e2b8a_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1lbann__callback__dump__weights.html#a59dc7007e35e4c5ba5d1708e440972fd" title="Dump weights from learning layers. " alt="" coords="259,78,464,119"/><area shape="rect" id="node3" href="classlbann_1_1model.html#a3a48f1f87528a090da84e8f7ef7df35e" title="lbann::model::get_weights" alt="" coords="513,5,687,32"/><area shape="rect" id="node4" href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="517,56,683,83"/><area shape="rect" id="node5" href="classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="529,107,671,149"/><area shape="rect" id="node6" href="classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="527,173,673,214"/></map>
+<area shape="rect" id="node2" href="classlbann_1_1lbann__callback__dump__weights.html#a59dc7007e35e4c5ba5d1708e440972fd" title="Dump weights from learning layers. " alt="" coords="259,78,464,119"/><area shape="rect" id="node3" href="classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="513,5,687,32"/><area shape="rect" id="node4" href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="517,56,683,83"/><area shape="rect" id="node5" href="classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="529,107,671,149"/><area shape="rect" id="node6" href="classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="527,173,673,214"/></map>
 </div>
 </p>
 
@@ -501,7 +509,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classlbann_1_1lbann__callback__dump__weights_a46db01d535414a0965caae709a08a150_cgraph.png" border="0" usemap="#classlbann_1_1lbann__callback__dump__weights_a46db01d535414a0965caae709a08a150_cgraph" alt=""/></div>
 <map name="classlbann_1_1lbann__callback__dump__weights_a46db01d535414a0965caae709a08a150_cgraph" id="classlbann_1_1lbann__callback__dump__weights_a46db01d535414a0965caae709a08a150_cgraph">
-<area shape="rect" id="node2" href="classlbann_1_1lbann__callback__dump__weights.html#a59dc7007e35e4c5ba5d1708e440972fd" title="Dump weights from learning layers. " alt="" coords="259,78,464,119"/><area shape="rect" id="node3" href="classlbann_1_1model.html#a3a48f1f87528a090da84e8f7ef7df35e" title="lbann::model::get_weights" alt="" coords="513,5,687,32"/><area shape="rect" id="node4" href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="517,56,683,83"/><area shape="rect" id="node5" href="classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="529,107,671,149"/><area shape="rect" id="node6" href="classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="527,173,673,214"/></map>
+<area shape="rect" id="node2" href="classlbann_1_1lbann__callback__dump__weights.html#a59dc7007e35e4c5ba5d1708e440972fd" title="Dump weights from learning layers. " alt="" coords="259,78,464,119"/><area shape="rect" id="node3" href="classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="513,5,687,32"/><area shape="rect" id="node4" href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="517,56,683,83"/><area shape="rect" id="node5" href="classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="529,107,671,149"/><area shape="rect" id="node6" href="classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="527,173,673,214"/></map>
 </div>
 </p>
 
@@ -551,7 +559,7 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 <p>Basename for writing files. </p>
 
-<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00061">61</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
+<p>Definition at line <a class="el" href="callback__dump__weights_8hpp_source.html#l00063">63</a> of file <a class="el" href="callback__dump__weights_8hpp_source.html">callback_dump_weights.hpp</a>.</p>
 
 </div>
 </div>
@@ -565,7 +573,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1lbann__callback__dump__weights.html">lbann_callback_dump_weights</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:04 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:29 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

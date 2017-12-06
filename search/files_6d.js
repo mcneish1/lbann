@@ -18,8 +18,6 @@ var searchData=
   ['model_2ehpp',['model.hpp',['../model_8hpp.html',1,'']]],
   ['model_5fdag_2ecpp',['model_dag.cpp',['../model__dag_8cpp.html',1,'']]],
   ['model_5fdag_2ehpp',['model_dag.hpp',['../model__dag_8hpp.html',1,'']]],
-  ['model_5fgreedy_5flayerwise_5fautoencoder_2ecpp',['model_greedy_layerwise_autoencoder.cpp',['../model__greedy__layerwise__autoencoder_8cpp.html',1,'']]],
-  ['model_5fgreedy_5flayerwise_5fautoencoder_2ehpp',['model_greedy_layerwise_autoencoder.hpp',['../model__greedy__layerwise__autoencoder_8hpp.html',1,'']]],
   ['model_5fsequential_2ecpp',['model_sequential.cpp',['../model__sequential_8cpp.html',1,'']]],
   ['model_5fsequential_2ehpp',['model_sequential.hpp',['../model__sequential_8hpp.html',1,'']]]
 ];

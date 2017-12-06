@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -278,9 +278,9 @@ $(document).ready(function(){initNavTree('cv__normalizer_8hpp_source.html','');}
 <div class="line"><a name="l00271"></a><span class="lineno">  271</span>&#160;<span class="keyword">template</span>&lt;<span class="keyword">typename</span> Tsrc, <span class="keyword">typename</span> Tdst&gt;</div>
 <div class="line"><a name="l00272"></a><span class="lineno">  272</span>&#160;<span class="keyword">inline</span> <span class="keywordtype">bool</span> cv_normalizer::scale_with_known_type(<a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">cv::Mat</a>&amp; image,</div>
 <div class="line"><a name="l00273"></a><span class="lineno">  273</span>&#160;    <span class="keyword">const</span> std::vector&lt;channel_trans_t&gt;&amp; trans) {</div>
-<div class="line"><a name="l00274"></a><span class="lineno">  274</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> Width  = <span class="keyword">static_cast&lt;</span><span class="keywordtype">unsigned</span> <span class="keywordtype">int</span><span class="keyword">&gt;</span>(image.cols);</div>
-<div class="line"><a name="l00275"></a><span class="lineno">  275</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> Height = <span class="keyword">static_cast&lt;</span><span class="keywordtype">unsigned</span> <span class="keywordtype">int</span><span class="keyword">&gt;</span>(image.rows);</div>
-<div class="line"><a name="l00276"></a><span class="lineno">  276</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> NCh    = <span class="keyword">static_cast&lt;</span><span class="keywordtype">unsigned</span> <span class="keywordtype">int</span><span class="keyword">&gt;</span>(image.channels());</div>
+<div class="line"><a name="l00274"></a><span class="lineno">  274</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> Width  = <span class="keyword">static_cast&lt;</span><span class="keywordtype">unsigned</span> <span class="keywordtype">int</span><span class="keyword">&gt;</span>(image.cols);</div>
+<div class="line"><a name="l00275"></a><span class="lineno">  275</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> Height = <span class="keyword">static_cast&lt;</span><span class="keywordtype">unsigned</span> <span class="keywordtype">int</span><span class="keyword">&gt;</span>(image.rows);</div>
+<div class="line"><a name="l00276"></a><span class="lineno">  276</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> NCh    = <span class="keyword">static_cast&lt;</span><span class="keywordtype">unsigned</span> <span class="keywordtype">int</span><span class="keyword">&gt;</span>(image.channels());</div>
 <div class="line"><a name="l00277"></a><span class="lineno">  277</span>&#160;  <span class="keywordflow">if</span> ((trans.size() &gt; 0u) &amp;&amp; (trans.size() != NCh)) {</div>
 <div class="line"><a name="l00278"></a><span class="lineno">  278</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a name="l00279"></a><span class="lineno">  279</span>&#160;  }</div>
@@ -297,7 +297,7 @@ $(document).ready(function(){initNavTree('cv__normalizer_8hpp_source.html','');}
 <div class="line"><a name="l00290"></a><span class="lineno">  290</span>&#160;    } <span class="keywordflow">else</span> {</div>
 <div class="line"><a name="l00291"></a><span class="lineno">  291</span>&#160;      <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> stride = Height*NCh;</div>
 <div class="line"><a name="l00292"></a><span class="lineno">  292</span>&#160;      <span class="keywordflow">for</span> (<span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> i = 0u; i &lt; Height; ++i) {</div>
-<div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;        Tsrc *optr = <span class="keyword">reinterpret_cast&lt;</span>Tsrc *<span class="keyword">&gt;</span>(image.ptr&lt;Tsrc&gt;(i));</div>
+<div class="line"><a name="l00293"></a><span class="lineno">  293</span>&#160;        <span class="keyword">auto</span> *optr = <span class="keyword">reinterpret_cast&lt;</span>Tsrc *<span class="keyword">&gt;</span>(image.ptr&lt;Tsrc&gt;(i));</div>
 <div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160;        <span class="keyword">const</span> Tsrc *iptr = optr;</div>
 <div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160;        scale(iptr, iptr+stride, optr, trans);</div>
 <div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160;      }</div>
@@ -311,7 +311,7 @@ $(document).ready(function(){initNavTree('cv__normalizer_8hpp_source.html','');}
 <div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160;            reinterpret_cast&lt;Tdst *&gt;(image_out.data), trans);</div>
 <div class="line"><a name="l00305"></a><span class="lineno">  305</span>&#160;    } <span class="keywordflow">else</span> {</div>
 <div class="line"><a name="l00306"></a><span class="lineno">  306</span>&#160;      <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> stride = Height*NCh;</div>
-<div class="line"><a name="l00307"></a><span class="lineno">  307</span>&#160;      Tdst *ptr_out = <span class="keyword">reinterpret_cast&lt;</span>Tdst *<span class="keyword">&gt;</span>(image_out.data);</div>
+<div class="line"><a name="l00307"></a><span class="lineno">  307</span>&#160;      <span class="keyword">auto</span> *ptr_out = <span class="keyword">reinterpret_cast&lt;</span>Tdst *<span class="keyword">&gt;</span>(image_out.data);</div>
 <div class="line"><a name="l00308"></a><span class="lineno">  308</span>&#160;      <span class="keywordflow">for</span> (<span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> i = 0u; i &lt; Height; ++i, ptr_out += stride) {</div>
 <div class="line"><a name="l00309"></a><span class="lineno">  309</span>&#160;        <span class="keyword">const</span> Tsrc *ptr = <span class="keyword">reinterpret_cast&lt;</span>Tsrc *<span class="keyword">&gt;</span>(image.ptr&lt;Tsrc&gt;(i));</div>
 <div class="line"><a name="l00310"></a><span class="lineno">  310</span>&#160;        scale(ptr, ptr+stride, ptr_out, trans);</div>
@@ -341,7 +341,7 @@ $(document).ready(function(){initNavTree('cv__normalizer_8hpp_source.html','');}
 <div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">int</span> ch = 0; ch &lt; NCh; ++ch) {</div>
 <div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;    sum[ch] = 0.0;</div>
 <div class="line"><a name="l00340"></a><span class="lineno">  340</span>&#160;    sqsum[ch] = 0.0;</div>
-<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;    <span class="keyword">const</span> T *ptr = <span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>T *<span class="keyword">&gt;</span>(image.datastart);</div>
+<div class="line"><a name="l00341"></a><span class="lineno">  341</span>&#160;    <span class="keyword">const</span> <span class="keyword">auto</span> *ptr = <span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>T *<span class="keyword">&gt;</span>(image.datastart);</div>
 <div class="line"><a name="l00342"></a><span class="lineno">  342</span>&#160;    shift[ch] = <span class="keyword">static_cast&lt;</span>ComputeType<span class="keyword">&gt;</span>(*(ptr+ch));</div>
 <div class="line"><a name="l00343"></a><span class="lineno">  343</span>&#160;  }</div>
 <div class="line"><a name="l00344"></a><span class="lineno">  344</span>&#160;</div>
@@ -349,8 +349,8 @@ $(document).ready(function(){initNavTree('cv__normalizer_8hpp_source.html','');}
 <div class="line"><a name="l00346"></a><span class="lineno">  346</span>&#160;  stddev.resize(NCh);</div>
 <div class="line"><a name="l00347"></a><span class="lineno">  347</span>&#160;</div>
 <div class="line"><a name="l00348"></a><span class="lineno">  348</span>&#160;  <span class="keywordflow">if</span> (image.isContinuous()) {</div>
-<div class="line"><a name="l00349"></a><span class="lineno">  349</span>&#160;    <span class="keyword">const</span> T *ptr = <span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>T *<span class="keyword">&gt;</span>(image.datastart);</div>
-<div class="line"><a name="l00350"></a><span class="lineno">  350</span>&#160;    <span class="keyword">const</span> T *<span class="keyword">const</span> ptrend = <span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>T *<span class="keyword">&gt;</span>(image.dataend);</div>
+<div class="line"><a name="l00349"></a><span class="lineno">  349</span>&#160;    <span class="keyword">const</span> <span class="keyword">auto</span> *ptr = <span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>T *<span class="keyword">&gt;</span>(image.datastart);</div>
+<div class="line"><a name="l00350"></a><span class="lineno">  350</span>&#160;    <span class="keyword">const</span> <span class="keyword">auto</span> *<span class="keyword">const</span> ptrend = <span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>T *<span class="keyword">&gt;</span>(image.dataend);</div>
 <div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;</div>
 <div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160;    <span class="keywordtype">int</span> ch = 0;</div>
 <div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160;    <span class="keywordflow">do</span> {</div>
@@ -371,7 +371,7 @@ $(document).ready(function(){initNavTree('cv__normalizer_8hpp_source.html','');}
 <div class="line"><a name="l00368"></a><span class="lineno">  368</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">int</span> Height = image.rows;</div>
 <div class="line"><a name="l00369"></a><span class="lineno">  369</span>&#160;</div>
 <div class="line"><a name="l00370"></a><span class="lineno">  370</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; Height; ++i) {</div>
-<div class="line"><a name="l00371"></a><span class="lineno">  371</span>&#160;      <span class="keyword">const</span> T *ptr = <span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>T *<span class="keyword">&gt;</span>(image.ptr&lt;<span class="keyword">const</span> T&gt;(i));</div>
+<div class="line"><a name="l00371"></a><span class="lineno">  371</span>&#160;      <span class="keyword">const</span> <span class="keyword">auto</span> *ptr = <span class="keyword">reinterpret_cast&lt;</span><span class="keyword">const </span>T *<span class="keyword">&gt;</span>(image.ptr&lt;<span class="keyword">const</span> T&gt;(i));</div>
 <div class="line"><a name="l00372"></a><span class="lineno">  372</span>&#160;      <span class="keyword">const</span> T *<span class="keyword">const</span> ptrend = ptr + stride;</div>
 <div class="line"><a name="l00373"></a><span class="lineno">  373</span>&#160;</div>
 <div class="line"><a name="l00374"></a><span class="lineno">  374</span>&#160;      <span class="keywordtype">int</span> ch = 0;</div>
@@ -408,7 +408,7 @@ $(document).ready(function(){initNavTree('cv__normalizer_8hpp_source.html','');}
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_d166d048bb8382a532581a8bdef1f3cb.html">include</a></li><li class="navelem"><a class="el" href="dir_782d4f5c831b713e690bf8a67fa27f73.html">lbann</a></li><li class="navelem"><a class="el" href="dir_fbd98ad6835c554c600d006efc9d422a.html">data_readers</a></li><li class="navelem"><a class="el" href="cv__normalizer_8hpp.html">cv_normalizer.hpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:50 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:51 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

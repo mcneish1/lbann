@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -151,51 +151,52 @@ $(document).ready(function(){initNavTree('mean__squared__error_8cpp_source.html'
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    }</div>
 <div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;  }</div>
 <div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;  </div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;  <span class="comment">// Compute mean squared error</span></div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;  <span class="keywordtype">double</span> mse = sum / (height * width);</div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;  mse = <a class="code" href="classlbann_1_1objective__function__term.html#a7d1aa1fe22f03396d0ad7952e083ee1d">m_objective_function</a>-&gt;<a class="code" href="classlbann_1_1objective__function.html#ab08577bab3a883f324358abd0029bda1">get_model</a>()-&gt;<a class="code" href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca">get_comm</a>()-&gt;<a class="code" href="classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef">allreduce</a>(</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    mse, predictions.DistComm());</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;  <span class="keywordflow">return</span> mse;</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;}</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;</div>
-<div class="line"><a name="l00070"></a><span class="lineno"><a class="line" href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">   70</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">mean_squared_error::differentiate</a>(<span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; predictions,</div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;                                       <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; ground_truth,</div>
-<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;                                       <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; gradient) {</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  <span class="comment">// Local matrices</span></div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;  <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">Mat</a>&amp; predictions_local = predictions.LockedMatrix();</div>
-<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;  <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">Mat</a>&amp; ground_truth_local = ground_truth.LockedMatrix();</div>
-<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;  <a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">Mat</a>&amp; gradient_local = gradient.Matrix();</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;  <span class="comment">// Matrix parameters</span></div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">int</span> height = gradient.Height();</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;  <span class="keyword">const</span> El::Int local_height = gradient_local.Height();</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;  <span class="keyword">const</span> El::Int local_width = gradient_local.Width();</div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;  <span class="comment">// Compute gradient</span></div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;  <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> scale = <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>(2) / height;</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;<span class="preprocessor">  #pragma omp parallel for collapse(2)</span></div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;<span class="preprocessor"></span>  <span class="keywordflow">for</span> (El::Int col = 0; col &lt; local_width; ++col) {</div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <span class="keywordflow">for</span> (El::Int row = 0; row &lt; local_height; ++row) {</div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;      <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> true_val = ground_truth_local(row, col);</div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;      <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> pred_val = predictions_local(row, col);</div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;      gradient_local(row, col) = (pred_val - true_val) * scale;</div>
-<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    }</div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;  }</div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;</div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;}</div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;</div>
-<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;}  <span class="comment">// namespace lbann</span></div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;  <span class="comment">// Compute mean objective function value across mini-batch</span></div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;  <a class="code" href="classlbann_1_1lbann__comm.html">lbann_comm</a>* <a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a> = <a class="code" href="classlbann_1_1objective__function__term.html#a7d1aa1fe22f03396d0ad7952e083ee1d">m_objective_function</a>-&gt;<a class="code" href="classlbann_1_1objective__function.html#ab0a0491478c0d792d9b8d4a257f8b955">get_model</a>()-&gt;<a class="code" href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca">get_comm</a>();</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;  <span class="keywordflow">return</span> comm-&gt;<a class="code" href="classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef">allreduce</a>(sum / (height * width),</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;                         predictions.DistComm());</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;}</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;</div>
+<div class="line"><a name="l00069"></a><span class="lineno"><a class="line" href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">   69</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">mean_squared_error::differentiate</a>(<span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; predictions,</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;                                       <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; ground_truth,</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;                                       <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; gradient) {</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  <span class="comment">// Local matrices</span></div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">Mat</a>&amp; predictions_local = predictions.LockedMatrix();</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;  <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">Mat</a>&amp; ground_truth_local = ground_truth.LockedMatrix();</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;  <a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">Mat</a>&amp; gradient_local = gradient.Matrix();</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;  <span class="comment">// Matrix parameters</span></div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">int</span> height = gradient.Height();</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;  <span class="keyword">const</span> El::Int local_height = gradient_local.Height();</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;  <span class="keyword">const</span> El::Int local_width = gradient_local.Width();</div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;  <span class="comment">// Compute gradient</span></div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;  <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> scale = <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>(2) / height;</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;<span class="preprocessor">  #pragma omp parallel for collapse(2)</span></div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;<span class="preprocessor"></span>  <span class="keywordflow">for</span> (El::Int col = 0; col &lt; local_width; ++col) {</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <span class="keywordflow">for</span> (El::Int row = 0; row &lt; local_height; ++row) {</div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;      <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> true_val = ground_truth_local(row, col);</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;      <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> pred_val = predictions_local(row, col);</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;      gradient_local(row, col) = (pred_val - true_val) * scale;</div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;    }</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;  }</div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;</div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;}</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;}  <span class="comment">// namespace lbann</span></div>
 <div class="ttc" id="base_8hpp_html_a279b64f47fb2213ad73e59be937afcfa"><div class="ttname"><a href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a></div><div class="ttdeci">float DataType</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00042">base.hpp:42</a></div></div>
 <div class="ttc" id="base_8hpp_html_a059664ed36d5eedd5ff4f7838d9c7a5a"><div class="ttname"><a href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a></div><div class="ttdeci">El::AbstractDistMatrix&lt; DataType &gt; AbsDistMat</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00048">base.hpp:48</a></div></div>
+<div class="ttc" id="classlbann_1_1objective__function_html_ab0a0491478c0d792d9b8d4a257f8b955"><div class="ttname"><a href="classlbann_1_1objective__function.html#ab0a0491478c0d792d9b8d4a257f8b955">lbann::objective_function::get_model</a></div><div class="ttdeci">model * get_model() const </div><div class="ttdef"><b>Definition:</b> <a href="objective__function_8hpp_source.html#l00080">objective_function.hpp:80</a></div></div>
 <div class="ttc" id="classlbann_1_1mean__squared__error_html_a1b0a947bbc6ac0ef940f01b71db91e51"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#a1b0a947bbc6ac0ef940f01b71db91e51">lbann::mean_squared_error::evaluate</a></div><div class="ttdeci">DataType evaluate(const AbsDistMat &amp;prediction, const AbsDistMat &amp;ground_truth) override</div><div class="ttdef"><b>Definition:</b> <a href="mean__squared__error_8cpp_source.html#l00031">mean_squared_error.cpp:31</a></div></div>
-<div class="ttc" id="classlbann_1_1model_html_aa837a468e77991314053a93441d111ca"><div class="ttname"><a href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca">lbann::model::get_comm</a></div><div class="ttdeci">lbann_comm * get_comm() const </div><div class="ttdef"><b>Definition:</b> <a href="model_8hpp_source.html#l00115">model.hpp:115</a></div></div>
+<div class="ttc" id="classlbann_1_1model_html_aa837a468e77991314053a93441d111ca"><div class="ttname"><a href="classlbann_1_1model.html#aa837a468e77991314053a93441d111ca">lbann::model::get_comm</a></div><div class="ttdeci">lbann_comm * get_comm() const </div><div class="ttdef"><b>Definition:</b> <a href="model_8hpp_source.html#l00121">model.hpp:121</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__comm_html"><div class="ttname"><a href="classlbann_1_1lbann__comm.html">lbann::lbann_comm</a></div><div class="ttdef"><b>Definition:</b> <a href="comm_8hpp_source.html#l00047">comm.hpp:47</a></div></div>
 <div class="ttc" id="base_8hpp_html_a483ed30937584c6d3a4d76bff5215a34"><div class="ttname"><a href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">Mat</a></div><div class="ttdeci">El::Matrix&lt; DataType &gt; Mat</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00047">base.hpp:47</a></div></div>
 <div class="ttc" id="classlbann_1_1lbann__comm_html_af5631e5f0f54e4df4958eba9df2599ef"><div class="ttname"><a href="classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef">lbann::lbann_comm::allreduce</a></div><div class="ttdeci">T allreduce(T snd, const El::mpi::Comm c, El::mpi::Op op=El::mpi::SUM)</div><div class="ttdef"><b>Definition:</b> <a href="comm_8hpp_source.html#l00376">comm.hpp:376</a></div></div>
+<div class="ttc" id="file__io_8cpp_html_ab048c6f9fcbcfaa57ce68b00263dbebe"><div class="ttname"><a href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a></div><div class="ttdeci">static MPI_Comm comm</div><div class="ttdef"><b>Definition:</b> <a href="file__io_8cpp_source.html#l00044">file_io.cpp:44</a></div></div>
 <div class="ttc" id="mean__squared__error_8hpp_html"><div class="ttname"><a href="mean__squared__error_8hpp.html">mean_squared_error.hpp</a></div></div>
-<div class="ttc" id="classlbann_1_1objective__function_html_ab08577bab3a883f324358abd0029bda1"><div class="ttname"><a href="classlbann_1_1objective__function.html#ab08577bab3a883f324358abd0029bda1">lbann::objective_function::get_model</a></div><div class="ttdeci">model * get_model()</div><div class="ttdef"><b>Definition:</b> <a href="objective__function_8hpp_source.html#l00078">objective_function.hpp:78</a></div></div>
-<div class="ttc" id="classlbann_1_1mean__squared__error_html_af4a4fab7640019ba921812ad1280e418"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">lbann::mean_squared_error::differentiate</a></div><div class="ttdeci">void differentiate(const AbsDistMat &amp;prediction, const AbsDistMat &amp;ground_truth, AbsDistMat &amp;gradient) override</div><div class="ttdef"><b>Definition:</b> <a href="mean__squared__error_8cpp_source.html#l00070">mean_squared_error.cpp:70</a></div></div>
+<div class="ttc" id="classlbann_1_1mean__squared__error_html_af4a4fab7640019ba921812ad1280e418"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">lbann::mean_squared_error::differentiate</a></div><div class="ttdeci">void differentiate(const AbsDistMat &amp;prediction, const AbsDistMat &amp;ground_truth, AbsDistMat &amp;gradient) override</div><div class="ttdef"><b>Definition:</b> <a href="mean__squared__error_8cpp_source.html#l00069">mean_squared_error.cpp:69</a></div></div>
 <div class="ttc" id="classlbann_1_1objective__function__term_html_a7d1aa1fe22f03396d0ad7952e083ee1d"><div class="ttname"><a href="classlbann_1_1objective__function__term.html#a7d1aa1fe22f03396d0ad7952e083ee1d">lbann::objective_function_term::m_objective_function</a></div><div class="ttdeci">objective_function * m_objective_function</div><div class="ttdef"><b>Definition:</b> <a href="objective__function__term_8hpp_source.html#l00087">objective_function_term.hpp:87</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
@@ -203,7 +204,7 @@ $(document).ready(function(){initNavTree('mean__squared__error_8cpp_source.html'
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_923d22ad389741cf75d7d5ed6c33331c.html">src</a></li><li class="navelem"><a class="el" href="dir_486b38fddafb15fef223e64fe8a9f5e3.html">objective_functions</a></li><li class="navelem"><a class="el" href="dir_3a68b7b344f29e7827724fef112c5cc8.html">loss_functions</a></li><li class="navelem"><a class="el" href="mean__squared__error_8cpp.html">mean_squared_error.cpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:51 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:52 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

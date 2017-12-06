@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -138,7 +138,7 @@ $(document).ready(function(){initNavTree('base_8cpp_source.html','');});
 <div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;  El::Initialize(argc, argv);</div>
 <div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;  <span class="comment">// Create a new comm object.</span></div>
 <div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;  <span class="comment">// Initial creation with every process in one model.</span></div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;  <a class="code" href="classlbann_1_1lbann__comm.html">lbann_comm</a>* <a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a> = <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__comm.html">lbann_comm</a>(0);</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;  <span class="keyword">auto</span>* <a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a> = <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__comm.html">lbann_comm</a>(0);</div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;<span class="preprocessor">#if defined(LBANN_TOPO_AWARE)</span></div>
 <div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;<span class="preprocessor"></span>  <span class="comment">// Determine the number of NUMA nodes present.</span></div>
 <div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;  hwloc_topology_t topo;</div>
@@ -146,17 +146,17 @@ $(document).ready(function(){initNavTree('base_8cpp_source.html','');});
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;  hwloc_topology_load(topo);</div>
 <div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;  <span class="keywordtype">int</span> numa_depth = hwloc_get_type_depth(topo, HWLOC_OBJ_NUMANODE);</div>
 <div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;  <span class="keywordflow">if</span> (numa_depth == HWLOC_TYPE_DEPTH_UNKNOWN) {</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    std::cout &lt;&lt; comm-&gt;<a class="code" href="classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7">get_rank_in_world</a>() &lt;&lt;</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    std::cout &lt;&lt; <a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a>-&gt;get_rank_in_world() &lt;&lt;</div>
 <div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;              <span class="stringliteral">&quot;: cannot determine hwloc NUMA-node depth&quot;</span> &lt;&lt; std::endl;</div>
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;  }</div>
 <div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;  <span class="keywordtype">int</span> num_numa_nodes = hwloc_get_nbobjs_by_depth(topo, numa_depth);</div>
 <div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;  <span class="comment">// Warn if there are more NUMA nodes than processes per node.</span></div>
 <div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;  <span class="comment">// It&#39;s probably fine if there are more processes than NUMA nodes for now.</span></div>
 <div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;  <span class="comment">// We can adjust that later when we better understand the threaded perf.</span></div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;  <span class="keywordtype">int</span> ppn = comm-&gt;<a class="code" href="classlbann_1_1lbann__comm.html#a845c62c2a55ef3eb4416deb3e8c5cd1a">get_procs_per_node</a>();</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;  <span class="keywordtype">int</span> ppn = <a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a>-&gt;get_procs_per_node();</div>
 <div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;  <span class="keywordflow">if</span> (num_numa_nodes &gt; ppn) {</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    <span class="keywordflow">if</span> (comm-&gt;<a class="code" href="classlbann_1_1lbann__comm.html#a339bc17f07a2e40663df8b5d8cf80bf6">get_rank_in_node</a>() == 0) {</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;      std::cout &lt;&lt; comm-&gt;<a class="code" href="classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7">get_rank_in_world</a>() &lt;&lt;</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a>-&gt;get_rank_in_node() == 0) {</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;      std::cout &lt;&lt; <a class="code" href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a>-&gt;get_rank_in_world() &lt;&lt;</div>
 <div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;                <span class="stringliteral">&quot;: WARNING: node has &quot;</span> &lt;&lt; num_numa_nodes &lt;&lt;</div>
 <div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;                <span class="stringliteral">&quot; NUMA nodes but you have &quot;</span> &lt;&lt; ppn &lt;&lt; <span class="stringliteral">&quot; processes per node&quot;</span> &lt;&lt;</div>
 <div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;                std::endl;</div>
@@ -189,10 +189,8 @@ $(document).ready(function(){initNavTree('base_8cpp_source.html','');});
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;  <span class="keywordflow">return</span> <a class="code" href="base_8cpp.html#a4d929cc5b806bb7fb8b9dfef666e20f6">pool_mode_names</a>[(int)m];</div>
 <div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;}</div>
 <div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;</div>
-<div class="ttc" id="classlbann_1_1lbann__comm_html_a339bc17f07a2e40663df8b5d8cf80bf6"><div class="ttname"><a href="classlbann_1_1lbann__comm.html#a339bc17f07a2e40663df8b5d8cf80bf6">lbann::lbann_comm::get_rank_in_node</a></div><div class="ttdeci">int get_rank_in_node() const </div><div class="ttdef"><b>Definition:</b> <a href="comm_8hpp_source.html#l00125">comm.hpp:125</a></div></div>
 <div class="ttc" id="base_8cpp_html_a4d929cc5b806bb7fb8b9dfef666e20f6"><div class="ttname"><a href="base_8cpp.html#a4d929cc5b806bb7fb8b9dfef666e20f6">pool_mode_names</a></div><div class="ttdeci">static std::vector&lt; std::string &gt; pool_mode_names</div><div class="ttdef"><b>Definition:</b> <a href="base_8cpp_source.html#l00091">base.cpp:91</a></div></div>
 <div class="ttc" id="classlbann_1_1lbann__comm_html"><div class="ttname"><a href="classlbann_1_1lbann__comm.html">lbann::lbann_comm</a></div><div class="ttdef"><b>Definition:</b> <a href="comm_8hpp_source.html#l00047">comm.hpp:47</a></div></div>
-<div class="ttc" id="classlbann_1_1lbann__comm_html_a615265cd20ffb4863089bb94e4c82fe7"><div class="ttname"><a href="classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7">lbann::lbann_comm::get_rank_in_world</a></div><div class="ttdeci">int get_rank_in_world() const </div><div class="ttdef"><b>Definition:</b> <a href="comm_8hpp_source.html#l00077">comm.hpp:77</a></div></div>
 <div class="ttc" id="namespacelbann_html_a3d91b615e42bf5744deeed770879bc8c"><div class="ttname"><a href="namespacelbann.html#a3d91b615e42bf5744deeed770879bc8c">lbann::initialize</a></div><div class="ttdeci">lbann_comm * initialize(int &amp;argc, char **&amp;argv, int seed)</div><div class="ttdef"><b>Definition:</b> <a href="base_8cpp_source.html#l00044">base.cpp:44</a></div></div>
 <div class="ttc" id="namespacelbann_html_a99724ee5a6647a1d8bff6764b9aa5fac"><div class="ttname"><a href="namespacelbann.html#a99724ee5a6647a1d8bff6764b9aa5fac">lbann::finalize</a></div><div class="ttdeci">void finalize(lbann_comm *comm)</div><div class="ttdef"><b>Definition:</b> <a href="base_8cpp_source.html#l00081">base.cpp:81</a></div></div>
 <div class="ttc" id="file__io_8cpp_html_ab048c6f9fcbcfaa57ce68b00263dbebe"><div class="ttname"><a href="file__io_8cpp.html#ab048c6f9fcbcfaa57ce68b00263dbebe">comm</a></div><div class="ttdeci">static MPI_Comm comm</div><div class="ttdef"><b>Definition:</b> <a href="file__io_8cpp_source.html#l00044">file_io.cpp:44</a></div></div>
@@ -202,7 +200,6 @@ $(document).ready(function(){initNavTree('base_8cpp_source.html','');});
 <div class="ttc" id="random_8hpp_html"><div class="ttname"><a href="random_8hpp.html">random.hpp</a></div></div>
 <div class="ttc" id="comm_8hpp_html"><div class="ttname"><a href="comm_8hpp.html">comm.hpp</a></div></div>
 <div class="ttc" id="namespacelbann_html_acef152f20e422b3aea1a3c1691a533ac"><div class="ttname"><a href="namespacelbann.html#acef152f20e422b3aea1a3c1691a533ac">lbann::init_random</a></div><div class="ttdeci">void init_random(int seed, lbann_comm *comm)</div><div class="ttdef"><b>Definition:</b> <a href="random_8cpp_source.html#l00072">random.cpp:72</a></div></div>
-<div class="ttc" id="classlbann_1_1lbann__comm_html_a845c62c2a55ef3eb4416deb3e8c5cd1a"><div class="ttname"><a href="classlbann_1_1lbann__comm.html#a845c62c2a55ef3eb4416deb3e8c5cd1a">lbann::lbann_comm::get_procs_per_node</a></div><div class="ttdeci">int get_procs_per_node() const </div><div class="ttdef"><b>Definition:</b> <a href="comm_8hpp_source.html#l00117">comm.hpp:117</a></div></div>
 <div class="ttc" id="base_8hpp_html_ac47a6ee5278a53898222a48639a2bf39"><div class="ttname"><a href="base_8hpp.html#ac47a6ee5278a53898222a48639a2bf39">pool_mode</a></div><div class="ttdeci">pool_mode</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00101">base.hpp:101</a></div></div>
 <div class="ttc" id="base_8cpp_html_af3cdcb8265717e1115135deb3618e5dd"><div class="ttname"><a href="base_8cpp.html#af3cdcb8265717e1115135deb3618e5dd">get_pool_mode_name</a></div><div class="ttdeci">std::string get_pool_mode_name(pool_mode m)</div><div class="ttdef"><b>Definition:</b> <a href="base_8cpp_source.html#l00094">base.cpp:94</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
@@ -211,7 +208,7 @@ $(document).ready(function(){initNavTree('base_8cpp_source.html','');});
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_923d22ad389741cf75d7d5ed6c33331c.html">src</a></li><li class="navelem"><a class="el" href="base_8cpp.html">base.cpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:51 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:52 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

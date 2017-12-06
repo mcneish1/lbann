@@ -18,6 +18,7 @@ var classlbann_1_1lbann__callback__imcomm =
     [ "name", "classlbann_1_1lbann__callback__imcomm.html#af058602425005a1d198df40b7845e16e", null ],
     [ "on_backward_prop_end", "classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b", null ],
     [ "on_epoch_end", "classlbann_1_1lbann__callback__imcomm.html#a3160dbf536def4f930e0ea0aabdebc11", null ],
+    [ "on_train_begin", "classlbann_1_1lbann__callback__imcomm.html#a332ba4ceca91939c79fae2735fdc8ff3", null ],
     [ "operator=", "classlbann_1_1lbann__callback__imcomm.html#a01ee7aaa808987e1f7fcca0e85cc1f73", null ],
     [ "reshape_mat", "classlbann_1_1lbann__callback__imcomm.html#a13fe710b841f72e28daf8de029f6c2f9", null ],
     [ "set_weights_adaptive", "classlbann_1_1lbann__callback__imcomm.html#a5e0f7d9f85da8d2e579dbe4092bc3100", null ],

@@ -1,3 +1,4 @@
 <map id="lbann::objective_function::add_term" name="lbann::objective_function::add_term">
-<area shape="rect" id="node2" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="222,12,303,39"/>
+<area shape="rect" id="node2" href="$proto__common_8cpp.html#ae940ebb5c2ed838a5be0be933834b0e0" title="init_objective_function" alt="" coords="222,12,373,39"/>
+<area shape="rect" id="node3" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="422,12,503,39"/>
 </map>

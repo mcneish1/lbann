@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -139,41 +139,45 @@ $(document).ready(function(){initNavTree('cv__cropper_8hpp_source.html','');});
 <div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;</div>
 <div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;  <span class="comment">// --- state variables ---</span></div>
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;  <span class="keywordtype">double</span> m_zoom; </div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;  <span class="keywordtype">int</span> m_interpolation; </div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;  <span class="keywordtype">void</span> unset_roi();</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;</div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160; <span class="keyword">public</span>:</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;  cv_cropper();</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;  cv_cropper(<span class="keyword">const</span> cv_cropper&amp; rhs) = <span class="keywordflow">default</span>;</div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;  cv_cropper&amp; operator=(<span class="keyword">const</span> cv_cropper&amp; rhs) = <span class="keywordflow">default</span>;</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;  cv_cropper *clone() <span class="keyword">const override</span>;</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;  ~cv_cropper()<span class="keyword"> override </span>{}</div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;  <span class="keywordtype">void</span> set(<span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> width, <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> height,</div>
-<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;           <span class="keyword">const</span> <span class="keywordtype">bool</span> random_crop = <span class="keyword">false</span>,</div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;           <span class="keyword">const</span> std::pair&lt;int, int&gt;&amp; roi = std::make_pair(0,0));</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;  <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> get_crop_width()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> m_width; }</div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;  <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> get_crop_height()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> m_height; }</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;  <span class="keywordtype">void</span> reset() <span class="keyword">override</span>;</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;</div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;  <span class="keywordtype">bool</span> determine_transform(<span class="keyword">const</span> <a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">cv::Mat</a>&amp; image) <span class="keyword">override</span>;</div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;</div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;  <span class="keywordtype">bool</span> determine_inverse_transform()<span class="keyword"> override </span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
-<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;</div>
-<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;  <span class="keywordtype">bool</span> apply(<a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">cv::Mat</a>&amp; image) <span class="keyword">override</span>;</div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;</div>
-<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;  std::string get_type()<span class="keyword"> const override </span>{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;cropper&quot;</span>; }</div>
-<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;  std::string get_description() <span class="keyword">const override</span>;</div>
-<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;  std::ostream&amp; print(std::ostream&amp; os) <span class="keyword">const override</span>;</div>
-<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;};</div>
-<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;</div>
-<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;} <span class="comment">// end of namespace lbann</span></div>
-<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;<span class="preprocessor">#endif // __LIB_OPENCV</span></div>
-<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;<span class="preprocessor"></span></div>
-<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;<span class="preprocessor">#endif // LBANN_CV_CROPPER_HPP</span></div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;  <span class="keyword">static</span> <span class="keyword">const</span> <span class="keywordtype">int</span> m_interpolation_choices[3];</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;  <span class="keywordtype">int</span> m_interpolation; </div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;  <span class="keywordtype">bool</span> m_adaptive_interpolation; </div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;  <span class="keywordtype">void</span> unset_roi();</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160; <span class="keyword">public</span>:</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;  cv_cropper();</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;  cv_cropper(<span class="keyword">const</span> cv_cropper&amp; rhs) = <span class="keywordflow">default</span>;</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  cv_cropper&amp; operator=(<span class="keyword">const</span> cv_cropper&amp; rhs) = <span class="keywordflow">default</span>;</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  cv_cropper *clone() <span class="keyword">const override</span>;</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;  ~cv_cropper()<span class="keyword"> override </span>{}</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;  <span class="keywordtype">void</span> set(<span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> width, <span class="keyword">const</span> <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> height,</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;           <span class="keyword">const</span> <span class="keywordtype">bool</span> random_crop = <span class="keyword">false</span>,</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;           <span class="keyword">const</span> std::pair&lt;int, int&gt;&amp; roi = std::make_pair(0,0),</div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;           <span class="keyword">const</span> <span class="keywordtype">bool</span> adaptive_interpolation = <span class="keyword">false</span>);</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;  <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> get_crop_width()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> m_width; }</div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;  <span class="keywordtype">unsigned</span> <span class="keywordtype">int</span> get_crop_height()<span class="keyword"> const </span>{ <span class="keywordflow">return</span> m_height; }</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;</div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;  <span class="keywordtype">void</span> reset() <span class="keyword">override</span>;</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;</div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;  <span class="keywordtype">bool</span> determine_transform(<span class="keyword">const</span> <a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">cv::Mat</a>&amp; image) <span class="keyword">override</span>;</div>
+<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;</div>
+<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;  <span class="keywordtype">bool</span> determine_inverse_transform()<span class="keyword"> override </span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;</div>
+<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;  <span class="keywordtype">bool</span> apply(<a class="code" href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">cv::Mat</a>&amp; image) <span class="keyword">override</span>;</div>
+<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;</div>
+<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;  std::string get_type()<span class="keyword"> const override </span>{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;cropper&quot;</span>; }</div>
+<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;  std::string get_description() <span class="keyword">const override</span>;</div>
+<div class="line"><a name="l00115"></a><span class="lineno">  115</span>&#160;  std::ostream&amp; print(std::ostream&amp; os) <span class="keyword">const override</span>;</div>
+<div class="line"><a name="l00116"></a><span class="lineno">  116</span>&#160;};</div>
+<div class="line"><a name="l00117"></a><span class="lineno">  117</span>&#160;</div>
+<div class="line"><a name="l00118"></a><span class="lineno">  118</span>&#160;} <span class="comment">// end of namespace lbann</span></div>
+<div class="line"><a name="l00119"></a><span class="lineno">  119</span>&#160;<span class="preprocessor">#endif // __LIB_OPENCV</span></div>
+<div class="line"><a name="l00120"></a><span class="lineno">  120</span>&#160;<span class="preprocessor"></span></div>
+<div class="line"><a name="l00121"></a><span class="lineno">  121</span>&#160;<span class="preprocessor">#endif // LBANN_CV_CROPPER_HPP</span></div>
 <div class="ttc" id="cv__transform_8hpp_html"><div class="ttname"><a href="cv__transform_8hpp.html">cv_transform.hpp</a></div></div>
 <div class="ttc" id="base_8hpp_html_a483ed30937584c6d3a4d76bff5215a34"><div class="ttname"><a href="base_8hpp.html#a483ed30937584c6d3a4d76bff5215a34">Mat</a></div><div class="ttdeci">El::Matrix&lt; DataType &gt; Mat</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00047">base.hpp:47</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
@@ -182,7 +186,7 @@ $(document).ready(function(){initNavTree('cv__cropper_8hpp_source.html','');});
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_d166d048bb8382a532581a8bdef1f3cb.html">include</a></li><li class="navelem"><a class="el" href="dir_782d4f5c831b713e690bf8a67fa27f73.html">lbann</a></li><li class="navelem"><a class="el" href="dir_fbd98ad6835c554c600d006efc9d422a.html">data_readers</a></li><li class="navelem"><a class="el" href="cv__cropper_8hpp.html">cv_cropper.hpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:50 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:51 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -176,6 +176,14 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af183624e63ba65e0003fa988f53dee0c inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#aba03b59c056ace8094095c08e39b9ac4">on_backward_prop_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1Layer.html">Layer</a> *l)</td></tr>
 <tr class="separator:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a1a9248b305f06419889c1b3b0f0893d8">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a497e750da160e0071ce8864ccc3a1344">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a235195d5fa4461835b861a03a5c0278f">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a4653e2903bfd3903709a81eaf7eabc1a">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a3462e54126adbd0082c22c98d8de5468">on_batch_evaluate_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
 <tr class="separator:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad10891b8ab3de74ee1a70e6255e7d58a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#ad10891b8ab3de74ee1a70e6255e7d58a">on_batch_evaluate_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
@@ -422,8 +430,8 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;    <a class="code" href="classlbann_1_1lbann__callback.html#a277d46138184f85f161a8263b8322c76">m_summarizer</a>-&gt;<a class="code" href="classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525">reduce_scalar</a>(<span class="stringliteral">&quot;minibatch_time&quot;</span>, mb_time, m-&gt;get_cur_step());</div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;  }</div>
 <div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;}</div>
-<div class="ttc" id="classlbann_1_1lbann__callback_html_a277d46138184f85f161a8263b8322c76"><div class="ttname"><a href="classlbann_1_1lbann__callback.html#a277d46138184f85f161a8263b8322c76">lbann::lbann_callback::m_summarizer</a></div><div class="ttdeci">lbann_summary * m_summarizer</div><div class="ttdef"><b>Definition:</b> <a href="callback_8hpp_source.html#l00130">callback.hpp:130</a></div></div>
-<div class="ttc" id="classlbann_1_1lbann__summary_html_a3e0b9aae1f80403a195567fd25ea2525"><div class="ttname"><a href="classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525">lbann::lbann_summary::reduce_scalar</a></div><div class="ttdeci">void reduce_scalar(const std::string tag, DataType s, int step)</div><div class="ttdef"><b>Definition:</b> <a href="summary_8hpp_source.html#l00198">summary.hpp:198</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__callback_html_a277d46138184f85f161a8263b8322c76"><div class="ttname"><a href="classlbann_1_1lbann__callback.html#a277d46138184f85f161a8263b8322c76">lbann::lbann_callback::m_summarizer</a></div><div class="ttdeci">lbann_summary * m_summarizer</div><div class="ttdef"><b>Definition:</b> <a href="callback_8hpp_source.html#l00138">callback.hpp:138</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__summary_html_a3e0b9aae1f80403a195567fd25ea2525"><div class="ttname"><a href="classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525">lbann::lbann_summary::reduce_scalar</a></div><div class="ttdeci">void reduce_scalar(const std::string tag, DataType s, int step)</div><div class="ttdef"><b>Definition:</b> <a href="summary_8hpp_source.html#l00202">summary.hpp:202</a></div></div>
 <div class="ttc" id="classlbann_1_1lbann__callback__timer_html_a22fece4925b879e72069c75189ba7eb4"><div class="ttname"><a href="classlbann_1_1lbann__callback__timer.html#a22fece4925b879e72069c75189ba7eb4">lbann::lbann_callback_timer::m_batch_start</a></div><div class="ttdeci">double m_batch_start</div><div class="ttdef"><b>Definition:</b> <a href="callback__timer_8hpp_source.html#l00065">callback_timer.hpp:65</a></div></div>
 <div class="ttc" id="namespacelbann_html_a478d36031ff0659893c4322cd856157f"><div class="ttname"><a href="namespacelbann.html#a478d36031ff0659893c4322cd856157f">lbann::get_time</a></div><div class="ttdeci">double get_time()</div><div class="ttdef"><b>Definition:</b> <a href="timer_8hpp_source.html#l00037">timer.hpp:37</a></div></div>
 <div class="ttc" id="classlbann_1_1lbann__callback__timer_html_af339724b7dd990ff420e45b4c3eedc2d"><div class="ttname"><a href="classlbann_1_1lbann__callback__timer.html#af339724b7dd990ff420e45b4c3eedc2d">lbann::lbann_callback_timer::m_batch_times</a></div><div class="ttdeci">std::vector&lt; double &gt; m_batch_times</div><div class="ttdef"><b>Definition:</b> <a href="callback__timer_8hpp_source.html#l00067">callback_timer.hpp:67</a></div></div>
@@ -672,7 +680,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1lbann__callback__timer.html">lbann_callback_timer</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:06 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:36 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

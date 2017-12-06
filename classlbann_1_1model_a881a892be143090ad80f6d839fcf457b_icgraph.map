@@ -1,5 +1,4 @@
 <map id="lbann::model::get_terminate_training" name="lbann::model::get_terminate_training">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="261,5,390,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="238,57,413,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="461,57,624,98"/>
+<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="237,5,400,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="254,71,383,97"/>
 </map>

@@ -1,4 +1,0 @@
-<map id="lbann::batch_normalization::fp_set_std_matrix_view" name="lbann::batch_normalization::fp_set_std_matrix_view">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a935881e25a98b4ffad1985dc04c19572" title="lbann::Layer::fp_set\l_std_matrix_view" alt="" coords="233,5,370,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="419,5,589,46"/>
-</map>

@@ -69,6 +69,9 @@ var dir_c86a6a3c530b05416af6543d88826214 =
     [ "callback_summary.hpp", "callback__summary_8hpp.html", [
       [ "lbann_callback_summary", "classlbann_1_1lbann__callback__summary.html", "classlbann_1_1lbann__callback__summary" ]
     ] ],
+    [ "callback_timeline.hpp", "callback__timeline_8hpp.html", [
+      [ "lbann_callback_timeline", "classlbann_1_1lbann__callback__timeline.html", "classlbann_1_1lbann__callback__timeline" ]
+    ] ],
     [ "callback_timer.hpp", "callback__timer_8hpp.html", [
       [ "lbann_callback_timer", "classlbann_1_1lbann__callback__timer.html", "classlbann_1_1lbann__callback__timer" ]
     ] ],

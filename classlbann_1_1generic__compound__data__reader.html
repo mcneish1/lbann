@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -536,7 +536,7 @@ Additional Inherited Members</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Data reader for merging the samples from multiple data readers into a single dataset. </p>
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00038">38</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00040">40</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a04486965ddea17b89dd0e0b262ae4f00"></a>
 <div class="memitem">
@@ -570,17 +570,17 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00040">40</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;                                                   :</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#aaba933b8f7c1227801f6e80d39986af4">generic_data_reader</a>(shuffle),</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;    <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>(data_readers) {</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>.empty()) {</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;      <span class="keywordflow">throw</span> lbann_exception(</div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;        <span class="stringliteral">&quot;generic_compound_data_reader: data reader list empty&quot;</span>);</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;    }</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;  }</div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00042">42</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;                                                   :</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#aaba933b8f7c1227801f6e80d39986af4">generic_data_reader</a>(shuffle),</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;    <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>(std::move(data_readers)) {</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>.empty()) {</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;      <span class="keywordflow">throw</span> lbann_exception(</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;        <span class="stringliteral">&quot;generic_compound_data_reader: data reader list empty&quot;</span>);</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;    }</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;  }</div>
 <div class="ttc" id="classlbann_1_1generic__data__reader_html_aaba933b8f7c1227801f6e80d39986af4"><div class="ttname"><a href="classlbann_1_1generic__data__reader.html#aaba933b8f7c1227801f6e80d39986af4">lbann::generic_data_reader::generic_data_reader</a></div><div class="ttdeci">generic_data_reader(bool shuffle=true)</div><div class="ttdef"><b>Definition:</b> <a href="data__reader_8hpp_source.html#l00064">data_reader.hpp:64</a></div></div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -606,15 +606,15 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00050">50</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;                                                                         :</div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#aaba933b8f7c1227801f6e80d39986af4">generic_data_reader</a>(other) {</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : other.m_data_readers) {</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;      <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>.push_back(reader-&gt;copy());</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    }</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;  }</div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00052">52</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;                                                                         :</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#aaba933b8f7c1227801f6e80d39986af4">generic_data_reader</a>(other) {</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : other.m_data_readers) {</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;      <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>.push_back(reader-&gt;copy());</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    }</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;  }</div>
 <div class="ttc" id="classlbann_1_1generic__data__reader_html_aaba933b8f7c1227801f6e80d39986af4"><div class="ttname"><a href="classlbann_1_1generic__data__reader.html#aaba933b8f7c1227801f6e80d39986af4">lbann::generic_data_reader::generic_data_reader</a></div><div class="ttdeci">generic_data_reader(bool shuffle=true)</div><div class="ttdef"><b>Definition:</b> <a href="data__reader_8hpp_source.html#l00064">data_reader.hpp:64</a></div></div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -639,13 +639,13 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00067">67</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;                                           {</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;      <span class="keyword">delete</span> reader;</div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    }</div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00069">69</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;                                           {</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;      <span class="keyword">delete</span> reader;</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    }</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  }</div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -699,20 +699,20 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00056">56</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;                                                                                     {</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#aec7e626e6efa2a4bf23f931e2ef8f607">generic_data_reader::operator=</a>(other);</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;      <span class="keyword">delete</span> reader;</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    }</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    m_data_readers.clear();</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : other.m_data_readers) {</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;      m_data_readers.push_back(reader-&gt;copy());</div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;    }</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;  }</div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00058">58</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;                                                                                     {</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#aec7e626e6efa2a4bf23f931e2ef8f607">generic_data_reader::operator=</a>(other);</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;      <span class="keyword">delete</span> reader;</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    }</div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;    m_data_readers.clear();</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : other.m_data_readers) {</div>
+<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;      m_data_readers.push_back(reader-&gt;copy());</div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    }</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;    <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;  }</div>
 <div class="ttc" id="classlbann_1_1generic__data__reader_html_aec7e626e6efa2a4bf23f931e2ef8f607"><div class="ttname"><a href="classlbann_1_1generic__data__reader.html#aec7e626e6efa2a4bf23f931e2ef8f607">lbann::generic_data_reader::operator=</a></div><div class="ttdeci">generic_data_reader &amp; operator=(const generic_data_reader &amp;)=default</div></div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -760,15 +760,15 @@ Here is the caller graph for this function:</div>
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1generic__data__reader.html#a343f7d791a04aa1ef30ff829a899e2ae">lbann::generic_data_reader</a>.</p>
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00100">100</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;                                   {</div>
-<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#a343f7d791a04aa1ef30ff829a899e2ae">generic_data_reader::set_master</a>(m);</div>
-<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
-<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;      reader-&gt;set_master(m);</div>
-<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;    }</div>
-<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;  }</div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00102">102</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160;                                   {</div>
+<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#a343f7d791a04aa1ef30ff829a899e2ae">generic_data_reader::set_master</a>(m);</div>
+<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
+<div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;      reader-&gt;set_master(m);</div>
+<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;    }</div>
+<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;  }</div>
 <div class="ttc" id="classlbann_1_1generic__data__reader_html_a343f7d791a04aa1ef30ff829a899e2ae"><div class="ttname"><a href="classlbann_1_1generic__data__reader.html#a343f7d791a04aa1ef30ff829a899e2ae">lbann::generic_data_reader::set_master</a></div><div class="ttdeci">virtual void set_master(bool m)</div><div class="ttdoc">only the master may write to cerr or cout; primarily for use in debugging during development ...</div><div class="ttdef"><b>Definition:</b> <a href="data__reader_8hpp_source.html#l00463">data_reader.hpp:463</a></div></div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -807,16 +807,16 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1generic__data__reader.html#a8515fb4ffbeaa89fd8459b66b9ba358f">lbann::generic_data_reader</a>.</p>
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00107">107</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;                                   {</div>
-<div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#a8515fb4ffbeaa89fd8459b66b9ba358f">generic_data_reader::set_rank</a>(<a class="code" href="structlayer__header.html#a325142c0466170c6627710106275c7fd">rank</a>);</div>
-<div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
-<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;      reader-&gt;set_rank(<a class="code" href="structlayer__header.html#a325142c0466170c6627710106275c7fd">rank</a>);</div>
-<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;    }</div>
-<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;  }</div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00109">109</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;                                   {</div>
+<div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#a8515fb4ffbeaa89fd8459b66b9ba358f">generic_data_reader::set_rank</a>(<a class="code" href="structlayer__header.html#a325142c0466170c6627710106275c7fd">rank</a>);</div>
+<div class="line"><a name="l00111"></a><span class="lineno">  111</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
+<div class="line"><a name="l00112"></a><span class="lineno">  112</span>&#160;      reader-&gt;set_rank(<a class="code" href="structlayer__header.html#a325142c0466170c6627710106275c7fd">rank</a>);</div>
+<div class="line"><a name="l00113"></a><span class="lineno">  113</span>&#160;    }</div>
+<div class="line"><a name="l00114"></a><span class="lineno">  114</span>&#160;  }</div>
 <div class="ttc" id="structlayer__header_html_a325142c0466170c6627710106275c7fd"><div class="ttname"><a href="structlayer__header.html#a325142c0466170c6627710106275c7fd">layer_header::rank</a></div><div class="ttdeci">uint64_t rank</div><div class="ttdef"><b>Definition:</b> <a href="persist_8cpp_source.html#l00056">persist.cpp:56</a></div></div>
 <div class="ttc" id="classlbann_1_1generic__data__reader_html_a8515fb4ffbeaa89fd8459b66b9ba358f"><div class="ttname"><a href="classlbann_1_1generic__data__reader.html#a8515fb4ffbeaa89fd8459b66b9ba358f">lbann::generic_data_reader::set_rank</a></div><div class="ttdeci">virtual void set_rank(int rank)</div><div class="ttdoc">Allow the reader to know where it is in the model hierarchy. </div><div class="ttdef"><b>Definition:</b> <a href="data__reader_8hpp_source.html#l00473">data_reader.hpp:473</a></div></div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -854,15 +854,15 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1generic__data__reader.html#adeb9413be971a0c1454fdeb46fea0716">lbann::generic_data_reader</a>.</p>
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00086">86</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;                                         {</div>
-<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#adeb9413be971a0c1454fdeb46fea0716">generic_data_reader::set_role</a>(role);</div>
-<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
-<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;      reader-&gt;set_role(role);</div>
-<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    }</div>
-<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;  }</div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00088">88</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;                                         {</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#adeb9413be971a0c1454fdeb46fea0716">generic_data_reader::set_role</a>(role);</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;      reader-&gt;set_role(role);</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;    }</div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;  }</div>
 <div class="ttc" id="classlbann_1_1generic__data__reader_html_adeb9413be971a0c1454fdeb46fea0716"><div class="ttname"><a href="classlbann_1_1generic__data__reader.html#adeb9413be971a0c1454fdeb46fea0716">lbann::generic_data_reader::set_role</a></div><div class="ttdeci">virtual void set_role(std::string role)</div><div class="ttdef"><b>Definition:</b> <a href="data__reader_8hpp_source.html#l00199">data_reader.hpp:199</a></div></div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -902,14 +902,14 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1generic__data__reader.html#a18b67bfa426eb4d2c8195d115c4df49f">lbann::generic_data_reader</a>.</p>
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00077">77</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;                                                 {</div>
-<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#a18b67bfa426eb4d2c8195d115c4df49f">generic_data_reader::set_validation_percent</a>(s);</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
-<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;      reader-&gt;set_validation_percent(0);</div>
-<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;    }</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00079">79</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;                                                 {</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#a18b67bfa426eb4d2c8195d115c4df49f">generic_data_reader::set_validation_percent</a>(s);</div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;      reader-&gt;set_validation_percent(0);</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;    }</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;  }</div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 <div class="ttc" id="classlbann_1_1generic__data__reader_html_a18b67bfa426eb4d2c8195d115c4df49f"><div class="ttname"><a href="classlbann_1_1generic__data__reader.html#a18b67bfa426eb4d2c8195d115c4df49f">lbann::generic_data_reader::set_validation_percent</a></div><div class="ttdeci">virtual void set_validation_percent(double s)</div><div class="ttdef"><b>Definition:</b> <a href="data__reader_8cpp_source.html#l00447">data_reader.cpp:447</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
@@ -948,15 +948,15 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1generic__data__reader.html#ac2e5412d76932006842ae6ea4dfdd214">lbann::generic_data_reader</a>.</p>
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00093">93</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;                                          {</div>
-<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#ac2e5412d76932006842ae6ea4dfdd214">generic_data_reader::swap_role</a>(role);</div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;      reader-&gt;swap_role(role);</div>
-<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    }</div>
-<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;  }</div>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00095">95</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;                                          {</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#ac2e5412d76932006842ae6ea4dfdd214">generic_data_reader::swap_role</a>(role);</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp;&amp; reader : <a class="code" href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">m_data_readers</a>) {</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;      reader-&gt;swap_role(role);</div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;    }</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;  }</div>
 <div class="ttc" id="classlbann_1_1generic__data__reader_html_ac2e5412d76932006842ae6ea4dfdd214"><div class="ttname"><a href="classlbann_1_1generic__data__reader.html#ac2e5412d76932006842ae6ea4dfdd214">lbann::generic_data_reader::swap_role</a></div><div class="ttdeci">virtual void swap_role(std::string role)</div><div class="ttdef"><b>Definition:</b> <a href="data__reader_8hpp_source.html#l00208">data_reader.hpp:208</a></div></div>
-<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00117">compound_data_reader.hpp:117</a></div></div>
+<div class="ttc" id="classlbann_1_1generic__compound__data__reader_html_a9815e94ade5873415fd766e09d956d5b"><div class="ttname"><a href="classlbann_1_1generic__compound__data__reader.html#a9815e94ade5873415fd766e09d956d5b">lbann::generic_compound_data_reader::m_data_readers</a></div><div class="ttdeci">std::vector&lt; generic_data_reader * &gt; m_data_readers</div><div class="ttdoc">List of readers providing data. </div><div class="ttdef"><b>Definition:</b> <a href="compound__data__reader_8hpp_source.html#l00119">compound_data_reader.hpp:119</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -990,7 +990,7 @@ Here is the call graph for this function:</div>
 
 <p>List of readers providing data. </p>
 
-<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00117">117</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
+<p>Definition at line <a class="el" href="compound__data__reader_8hpp_source.html#l00119">119</a> of file <a class="el" href="compound__data__reader_8hpp_source.html">compound_data_reader.hpp</a>.</p>
 
 </div>
 </div>
@@ -1003,7 +1003,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1generic__compound__data__reader.html">generic_compound_data_reader</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:09 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:46 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

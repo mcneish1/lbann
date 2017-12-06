@@ -1,4 +1,3 @@
 <map id="lbann::input_layer::get_num_samples_tested" name="lbann::input_layer::get_num_samples_tested">
 <area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#ab095e8d203b09de89d4bd879f0a44026" title="lbann::target_layer\l::get_num_samples_tested" alt="" coords="232,5,411,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__io.html#a8abca84e4b0dc21b28e5d5e409446fdc" title="lbann::lbann_callback\l_io::on_test_end" alt="" coords="459,34,605,75"/>
 </map>

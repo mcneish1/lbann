@@ -1,7 +1,7 @@
 var classlbann_1_1pooling__layer =
 [
     [ "pooling_layer", "classlbann_1_1pooling__layer.html#a741518e767a2343e16cf6320483be83f", null ],
-    [ "pooling_layer", "classlbann_1_1pooling__layer.html#a8bac07fb02864c0bd2f2ed64831dfc13", null ],
+    [ "pooling_layer", "classlbann_1_1pooling__layer.html#aca6c27a7f4f875d735912192948c0518", null ],
     [ "pooling_layer", "classlbann_1_1pooling__layer.html#aab33e9b05ae9fffe36333feabbee9895", null ],
     [ "~pooling_layer", "classlbann_1_1pooling__layer.html#acdd563bbeab301496456dfb058fcb640", null ],
     [ "bp_compute", "classlbann_1_1pooling__layer.html#ab58fe97e976f60df37f958e79fd56ff9", null ],

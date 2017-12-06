@@ -23,7 +23,6 @@
 <area shape="rect" id="node30" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a091e7563b5a7a90638e2521fe39cbf8f" title="Potentially change the mini&#45;batch size. " alt="" coords="236,1520,383,1576"/>
 <area shape="rect" id="node31" href="$classlbann_1_1lbann__callback__step__minibatch.html#a9ed85aa78f6e4fe4cf3427f9257a4610" title="lbann::lbann_callback\l_step_minibatch::schedule" alt="" coords="221,1601,398,1642"/>
 <area shape="rect" id="node32" href="$classlbann_1_1lbann__callback__minibatch__schedule.html#af95cbe83a587590219174cb17828ea4b" title="lbann::lbann_callback\l_minibatch_schedule::\lschedule" alt="" coords="233,1667,385,1723"/>
-<area shape="rect" id="node33" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="222,1747,397,1789"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checknan.html#a09388ae76566a6a93c957ab76cd54dcd" title="lbann::lbann_callback\l_checknan::on_forward\l_prop_end" alt="" coords="491,5,648,61"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__checknan.html#a40d9a9fcc5849746570b99321e1c5488" title="lbann::lbann_callback\l_checknan::on_backward\l_prop_end" alt="" coords="484,85,655,141"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__checknan.html#a1d1b3b082aa49016e7b80e0f267575da" title="lbann::lbann_callback\l_checknan::on_batch_end" alt="" coords="482,166,657,207"/>
@@ -31,5 +30,4 @@
 <area shape="rect" id="node16" href="$classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#acb641b979a37cc703994103a4e8428a5" title="lbann::lbann_callback\l_dump_minibatch_sample\l_indices::on_evaluate_forward\l_prop_end" alt="" coords="470,635,669,706"/>
 <area shape="rect" id="node18" href="$classlbann_1_1lbann__callback__dump__weights.html#a46db01d535414a0965caae709a08a150" title="lbann::lbann_callback\l_dump_weights::on_train_begin" alt="" coords="467,730,672,771"/>
 <area shape="rect" id="node19" href="$classlbann_1_1lbann__callback__dump__weights.html#aa73068d94b2408fc0124b2a05b4e2b8a" title="lbann::lbann_callback\l_dump_weights::on_epoch_end" alt="" coords="467,795,672,837"/>
-<area shape="rect" id="node34" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="488,1747,651,1789"/>
 </map>

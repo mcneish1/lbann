@@ -1,7 +1,7 @@
 <map id="lbann::input_layer_partitioned_minibatch::update_compute" name="lbann::input_layer_partitioned_minibatch::update_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1partitioned__minibatch.html#acaf52f2e90c653ccf325550109cf91d3" title="lbann::partitioned\l_minibatch::is_data\l_set_processed" alt="" coords="206,85,341,141"/>
-<area shape="rect" id="node5" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="211,166,335,207"/>
-<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="Get the number of iterations in each epoch. " alt="" coords="390,5,573,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a8dd549fbec0b3a52f732a73036bbe87e" title="Return the index of the current iteration step in the epoch (also the mini&#45;batch index) ..." alt="" coords="412,85,551,141"/>
-<area shape="rect" id="node6" href="$classlbann_1_1input__layer.html#a7f76e9590f8aaca012904a955eb37a49" title="lbann::input_layer\l::get_execution_mode" alt="" coords="406,166,557,207"/>
+<area shape="rect" id="node2" href="$classlbann_1_1partitioned__minibatch.html#acaf52f2e90c653ccf325550109cf91d3" title="lbann::partitioned\l_minibatch::is_data\l_set_processed" alt="" coords="206,81,341,137"/>
+<area shape="rect" id="node5" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="211,162,335,203"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="Get the number of iterations in each epoch. " alt="" coords="410,5,593,61"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a8dd549fbec0b3a52f732a73036bbe87e" title="Return the index of the current iteration step in the epoch (also the mini&#45;batch index) ..." alt="" coords="432,85,571,141"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="389,169,613,196"/>
 </map>

@@ -1,17 +1,15 @@
 var classlbann_1_1batch__normalization =
 [
-    [ "batch_normalization", "classlbann_1_1batch__normalization.html#af656b0d68444165664ec22ec8034efce", null ],
+    [ "batch_normalization", "classlbann_1_1batch__normalization.html#a04f092712566fd732e5fc5e48ee16f4d", null ],
     [ "batch_normalization", "classlbann_1_1batch__normalization.html#a62e642fc7c064a49826e5d4a10a87e5c", null ],
     [ "~batch_normalization", "classlbann_1_1batch__normalization.html#ac7a4a1b85b97c3e0db9d926a410331dd", null ],
     [ "bp_compute", "classlbann_1_1batch__normalization.html#ad9aedd689cd8923d8c8e9c4e57a4e8b7", null ],
     [ "bp_compute_cpu", "classlbann_1_1batch__normalization.html#a83e40edd001a0b71c31fbc9a3acb2231", null ],
     [ "bp_compute_gpu", "classlbann_1_1batch__normalization.html#a7d48ad1531825fc9745c77f9ae5f68d6", null ],
-    [ "bp_set_std_matrix_view", "classlbann_1_1batch__normalization.html#a5e1951d8f3763d598604a33d4ce858c0", null ],
     [ "copy", "classlbann_1_1batch__normalization.html#af149d82996f351a5897a16a78ced113d", null ],
     [ "fp_compute", "classlbann_1_1batch__normalization.html#a92ad52396d7083c84ec20016ad5e994b", null ],
     [ "fp_compute_cpu", "classlbann_1_1batch__normalization.html#ae4cad47f456752e4ea20add0f6f38819", null ],
     [ "fp_compute_gpu", "classlbann_1_1batch__normalization.html#aacff2c47a5455a4c28b9695f4fb37249", null ],
-    [ "fp_set_std_matrix_view", "classlbann_1_1batch__normalization.html#a88acd11136c7b07a2c9b4ee38fdefe25", null ],
     [ "get_data_layout", "classlbann_1_1batch__normalization.html#ac97c038b9dec333a7fb285c196429e2d", null ],
     [ "get_description", "classlbann_1_1batch__normalization.html#a331738f02157f9e1e21f212c41feb86c", null ],
     [ "get_type", "classlbann_1_1batch__normalization.html#a1a773049354935cc2841bea8aa8bd94f", null ],

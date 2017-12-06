@@ -1,7 +1,0 @@
-<map id="lbann::model::do_batch_evaluate_begin_cbs" name="lbann::model::do_batch_evaluate_begin_cbs">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a86392f46d84513b82761f749a31093db" title="lbann::model::evaluate\l_mini_batch" alt="" coords="211,34,365,75"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a4191097fdbcd1686525e9cd150f958ef" title="lbann::model::evaluate" alt="" coords="414,41,567,68"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__ltfb.html#af447a14b1598f93f87af7ff006a124ba" title="lbann::lbann_callback\l_ltfb::evaluate" alt="" coords="616,5,763,46"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="625,71,754,97"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="811,5,957,46"/>
-</map>

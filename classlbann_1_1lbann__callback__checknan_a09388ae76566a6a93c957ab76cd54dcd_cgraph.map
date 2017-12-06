@@ -7,10 +7,10 @@
 <area shape="rect" id="node13" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="234,381,377,422"/>
 <area shape="rect" id="node15" href="$classlbann_1_1Layer.html#a7eae259f041e79b4a23f439f3dbe800d" title="lbann::Layer::get_name" alt="" coords="226,447,385,473"/>
 <area shape="rect" id="node10" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="448,355,627,381"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a999f86970eaf27f0169af3c2a904727e" title="lbann::model::get_layers" alt="" coords="455,56,619,83"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="455,56,619,83"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="466,107,609,149"/>
 <area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="466,173,609,214"/>
 <area shape="rect" id="node9" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="464,238,611,279"/>
-<area shape="rect" id="node11" href="$classlbann_1_1model.html#a3a48f1f87528a090da84e8f7ef7df35e" title="lbann::model::get_weights" alt="" coords="450,304,625,331"/>
+<area shape="rect" id="node11" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="450,304,625,331"/>
 <area shape="rect" id="node14" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="466,406,609,447"/>
 </map>

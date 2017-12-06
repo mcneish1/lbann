@@ -16,7 +16,7 @@ var classlbann_1_1metrics_1_1metric =
     [ "reset_metric", "classlbann_1_1metrics_1_1metric.html#a5cc1d6d2f40977a2b19c77961564a37d", null ],
     [ "setup", "classlbann_1_1metrics_1_1metric.html#ad87909c3c9793a05c88420ab8473dbd2", null ],
     [ "m_comm", "classlbann_1_1metrics_1_1metric.html#a13a38b9b0c81442d7e5c8c378cad8117", null ],
-    [ "m_neural_network_model", "classlbann_1_1metrics_1_1metric.html#ab8214235f2bfbc05d28c13beeb1f8bb4", null ],
+    [ "m_model", "classlbann_1_1metrics_1_1metric.html#a872f140f04ac013cfeb49f0d00d63ecc", null ],
     [ "m_testing_stats", "classlbann_1_1metrics_1_1metric.html#a52dcd2cbed8053d9a00462dd326cebd6", null ],
     [ "m_training_stats", "classlbann_1_1metrics_1_1metric.html#a33b3527a28a6e8d8eaf719d9327fe303", null ],
     [ "m_validation_stats", "classlbann_1_1metrics_1_1metric.html#a28589fea20a9ed6bcc043e0f17ad5453", null ]

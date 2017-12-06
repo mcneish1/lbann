@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -163,7 +163,7 @@ $(document).ready(function(){initNavTree('quantizer__impl_8hpp_source.html','');
 <div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;  <span class="keyword">const</span> <a class="code" href="structlbann_1_1lbann__quantizer_1_1adaptive__thresholds.html">adaptive_thresholds</a> threshes =</div>
 <div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    <a class="code" href="classlbann_1_1lbann__quantizer.html#aa5aabc1cb4163e95aee993d9b37b9b32">proportion_threshold</a>(mat, qerror, proportion);</div>
 <div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  <span class="comment">// This is for accessing q in different ways.</span></div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  colT *q_col = (colT *) q.data();</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  <span class="keyword">auto</span> *q_col = (colT *) q.data();</div>
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;<span class="preprocessor">  #pragma omp parallel firstprivate(threshes, height, width, ldim, mat_buf, qerror_buf) num_threads(num_threads)</span></div>
 <div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;<span class="preprocessor"></span>  {</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">int</span> tid = omp_get_thread_num();</div>
@@ -278,7 +278,7 @@ $(document).ready(function(){initNavTree('quantizer__impl_8hpp_source.html','');
 <div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;<span class="preprocessor"></span>  <span class="keyword">const</span> colT height = mat.Height();</div>
 <div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;<span class="preprocessor"></span>  <span class="keyword">const</span> colT ldim = mat.LDim();</div>
-<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;  <span class="keyword">const</span> colT *q_col = (<span class="keyword">const</span> colT *) q;</div>
+<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> *q_col = (<span class="keyword">const</span> colT *) q;</div>
 <div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">int</span> num_threads = <a class="code" href="classlbann_1_1lbann__quantizer.html#aaa0c20f755437130172c40ca8e95bc3f">get_adaptive_quantization_threads</a>(mat.Width());</div>
 <div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;<span class="preprocessor">  #pragma omp parallel for schedule(dynamic, 1), firstprivate(header_len, buf) num_threads(num_threads)</span></div>
 <div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;<span class="preprocessor"></span>  <span class="keywordflow">for</span> (colT header_loc = 0; header_loc &lt; header_len; header_loc += <a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a>) {</div>
@@ -331,7 +331,7 @@ $(document).ready(function(){initNavTree('quantizer__impl_8hpp_source.html','');
 <div class="line"><a name="l00239"></a><span class="lineno">  239</span>&#160;<span class="preprocessor"></span>  <span class="keyword">const</span> colT height = mat.Height();</div>
 <div class="line"><a name="l00240"></a><span class="lineno">  240</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00241"></a><span class="lineno">  241</span>&#160;<span class="preprocessor"></span>  <span class="keyword">const</span> colT ldim = mat.LDim();</div>
-<div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;  <span class="keyword">const</span> colT *q_col = (<span class="keyword">const</span> colT *) q;</div>
+<div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> *q_col = (<span class="keyword">const</span> colT *) q;</div>
 <div class="line"><a name="l00243"></a><span class="lineno">  243</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">int</span> num_threads = <a class="code" href="classlbann_1_1lbann__quantizer.html#aaa0c20f755437130172c40ca8e95bc3f">get_adaptive_quantization_threads</a>(mat.Width());</div>
 <div class="line"><a name="l00244"></a><span class="lineno">  244</span>&#160;<span class="preprocessor">  #pragma omp parallel for schedule(dynamic, 1), firstprivate(header_len, buf) num_threads(num_threads)</span></div>
 <div class="line"><a name="l00245"></a><span class="lineno">  245</span>&#160;<span class="preprocessor"></span>  <span class="keywordflow">for</span> (colT header_loc = 0; header_loc &lt; header_len; header_loc += <a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a>) {</div>
@@ -393,7 +393,7 @@ $(document).ready(function(){initNavTree('quantizer__impl_8hpp_source.html','');
 <div class="line"><a name="l00301"></a><span class="lineno">  301</span>&#160;  <span class="comment">// Compute the thresholds.</span></div>
 <div class="line"><a name="l00302"></a><span class="lineno">  302</span>&#160;  <span class="keyword">const</span> <a class="code" href="structlbann_1_1lbann__quantizer_1_1adaptive__thresholds.html">adaptive_thresholds</a> threshes =</div>
 <div class="line"><a name="l00303"></a><span class="lineno">  303</span>&#160;    <a class="code" href="classlbann_1_1lbann__quantizer.html#aa5aabc1cb4163e95aee993d9b37b9b32">proportion_threshold</a>(mat, qerror, proportion);</div>
-<div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160;  colT *q_col = (colT *) q.data();</div>
+<div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160;  <span class="keyword">auto</span> *q_col = (colT *) q.data();</div>
 <div class="line"><a name="l00305"></a><span class="lineno">  305</span>&#160;<span class="preprocessor">  #pragma omp parallel firstprivate(threshes, height, width, ldim, mat_buf, qerror_buf) num_threads(num_threads)</span></div>
 <div class="line"><a name="l00306"></a><span class="lineno">  306</span>&#160;<span class="preprocessor"></span>  {</div>
 <div class="line"><a name="l00307"></a><span class="lineno">  307</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">int</span> tid = omp_get_thread_num();</div>
@@ -507,7 +507,7 @@ $(document).ready(function(){initNavTree('quantizer__impl_8hpp_source.html','');
 <div class="line"><a name="l00415"></a><span class="lineno">  415</span>&#160;  <span class="keyword">const</span> colT header_len = row_header_factor * <a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a> * width +</div>
 <div class="line"><a name="l00416"></a><span class="lineno">  416</span>&#160;                          row_header_factor;</div>
 <div class="line"><a name="l00417"></a><span class="lineno">  417</span>&#160;  <span class="keyword">const</span> colT num_quantized = q.size() - header_len;</div>
-<div class="line"><a name="l00418"></a><span class="lineno">  418</span>&#160;  colT *q_col = (colT *) q.data();</div>
+<div class="line"><a name="l00418"></a><span class="lineno">  418</span>&#160;  <span class="keyword">auto</span> *q_col = (colT *) q.data();</div>
 <div class="line"><a name="l00419"></a><span class="lineno">  419</span>&#160;  <span class="keywordflow">if</span> (num_quantized &gt; <a class="code" href="classlbann_1_1lbann__quantizer.html#abe63d57e62be1b498848f7920de4433a">MAX_QUANTIZED_EXCESS</a> * width * height / proportion) {</div>
 <div class="line"><a name="l00420"></a><span class="lineno">  420</span>&#160;    <span class="comment">// Ensure there is a maximum bound on the number of entries sent.</span></div>
 <div class="line"><a name="l00421"></a><span class="lineno">  421</span>&#160;    <span class="comment">// This should only occur if the threshold sampling is really bad.</span></div>
@@ -567,10 +567,10 @@ $(document).ready(function(){initNavTree('quantizer__impl_8hpp_source.html','');
 <div class="line"><a name="l00475"></a><span class="lineno">  475</span>&#160;  <span class="keyword">const</span> colT header_len = row_header_factor * width * <a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a> +</div>
 <div class="line"><a name="l00476"></a><span class="lineno">  476</span>&#160;                          row_header_factor;</div>
 <div class="line"><a name="l00477"></a><span class="lineno">  477</span>&#160;  <span class="comment">// Copy the header over. Locations will need to be adjusted later.</span></div>
-<div class="line"><a name="l00478"></a><span class="lineno">  478</span>&#160;  <span class="keyword">const</span> colT *q_col = (<span class="keyword">const</span> colT *) q.data();</div>
+<div class="line"><a name="l00478"></a><span class="lineno">  478</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> *q_col = (<span class="keyword">const</span> colT *) q.data();</div>
 <div class="line"><a name="l00479"></a><span class="lineno">  479</span>&#160;  <span class="keyword">const</span> colT total_len = header_len + q_col[<a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a> * end] - q_col[<a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a> * start];</div>
 <div class="line"><a name="l00480"></a><span class="lineno">  480</span>&#160;  slice.resize(total_len);</div>
-<div class="line"><a name="l00481"></a><span class="lineno">  481</span>&#160;  colT *slice_col = (colT *) slice.data();</div>
+<div class="line"><a name="l00481"></a><span class="lineno">  481</span>&#160;  <span class="keyword">auto</span> *slice_col = (colT *) slice.data();</div>
 <div class="line"><a name="l00482"></a><span class="lineno">  482</span>&#160;  std::copy(&amp;q_col[<a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a>*start], &amp;q_col[<a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a>*end + 1],</div>
 <div class="line"><a name="l00483"></a><span class="lineno">  483</span>&#160;            slice_col);</div>
 <div class="line"><a name="l00484"></a><span class="lineno">  484</span>&#160;  <span class="comment">// Copy data over.</span></div>
@@ -702,7 +702,7 @@ $(document).ready(function(){initNavTree('quantizer__impl_8hpp_source.html','');
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_d166d048bb8382a532581a8bdef1f3cb.html">include</a></li><li class="navelem"><a class="el" href="dir_782d4f5c831b713e690bf8a67fa27f73.html">lbann</a></li><li class="navelem"><a class="el" href="dir_288651154ff4ea4d814cdc4cf97cc86d.html">utils</a></li><li class="navelem"><a class="el" href="quantizer__impl_8hpp.html">quantizer_impl.hpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:51 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:52 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

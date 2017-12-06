@@ -1,0 +1,8 @@
+<map id="lbann::lbann_callback_timeline::get_rel_time" name="lbann::lbann_callback_timeline::get_rel_time">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__timeline.html#a9c093b091fd38b79f8632cf786d29ce2" title="lbann::lbann_callback\l_timeline::on_forward\l_prop_begin" alt="" coords="231,5,377,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__timeline.html#a28f4387fda222bf988d744e0b2ec8b4b" title="lbann::lbann_callback\l_timeline::on_forward\l_prop_end" alt="" coords="231,85,377,141"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__timeline.html#a81d50e48462765b5e9913ae357b5a412" title="lbann::lbann_callback\l_timeline::on_backward\l_prop_begin" alt="" coords="225,165,383,221"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__timeline.html#a0de42325a96128f7e41ecf8004b99b26" title="lbann::lbann_callback\l_timeline::on_backward\l_prop_end" alt="" coords="225,245,383,301"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__timeline.html#a2037300798c70d831845c7efaf5de6c2" title="lbann::lbann_callback\l_timeline::on_optimize_begin" alt="" coords="209,326,399,367"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__timeline.html#afdf506e2c2d40c7b0d1f845fb0ed077e" title="lbann::lbann_callback\l_timeline::on_optimize_end" alt="" coords="214,391,394,433"/>
+</map>

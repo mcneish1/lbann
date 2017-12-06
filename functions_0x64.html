@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -129,12 +129,15 @@ $(document).ready(function(){initNavTree('functions_0x64.html','');});
 <li>default_allreduce_algo
 : <a class="el" href="classlbann_1_1lbann__comm.html#ac7731d6bcdb6775009467cf4138d4bab">lbann::lbann_comm</a>
 </li>
-<li>delete_layers()
-: <a class="el" href="classlbann_1_1model.html#a484a61c1cff796d6016d06645422b61b">lbann::model</a>
-</li>
 <li>differentiate()
-: <a class="el" href="classlbann_1_1cross__entropy.html#aaf801d4908e641ebb1086fbec13c91e6">lbann::cross_entropy</a>
+: <a class="el" href="classlbann_1_1poisson__negloglike.html#a26484f42545088c0aec8d15faa2bd93a">lbann::poisson_negloglike</a>
+, <a class="el" href="classlbann_1_1polya__negloglike.html#a172badba3e364d58f9c8661833cdf30f">lbann::polya_negloglike</a>
+, <a class="el" href="classlbann_1_1binary__cross__entropy.html#a501f2dfb2e06d564e95f938df102b6dd">lbann::binary_cross_entropy</a>
+, <a class="el" href="classlbann_1_1cross__entropy.html#aaf801d4908e641ebb1086fbec13c91e6">lbann::cross_entropy</a>
+, <a class="el" href="classlbann_1_1cross__entropy__with__uncertainty.html#a36dff522f85665cc1c36ad3c95dff008">lbann::cross_entropy_with_uncertainty</a>
+, <a class="el" href="classlbann_1_1geom__negloglike.html#aaad106a2f3e6ef914f8c6f25eb3c686e">lbann::geom_negloglike</a>
 , <a class="el" href="classlbann_1_1loss__function.html#af069062d0ed2d953a952d7ceb6c08903">lbann::loss_function</a>
+, <a class="el" href="classlbann_1_1mean__absolute__deviation.html#a3df7e6c1799267d8ecedeab81ae7f036">lbann::mean_absolute_deviation</a>
 , <a class="el" href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">lbann::mean_squared_error</a>
 </li>
 <li>disable_augmentation()
@@ -144,9 +147,9 @@ $(document).ready(function(){initNavTree('functions_0x64.html','');});
 : <a class="el" href="classlbann_1_1csv__reader.html#ad69e57123eba2002a693aedb87dc14f3">lbann::csv_reader</a>
 </li>
 <li>display_unit()
-: <a class="el" href="classlbann_1_1metrics_1_1categorical__accuracy.html#ae75e128a7083d1c0f226a5842cf76373">lbann::metrics::categorical_accuracy&lt; T_layout &gt;</a>
+: <a class="el" href="classlbann_1_1metrics_1_1metric.html#af0ef8e45a3fe74f869638911480f79e1">lbann::metrics::metric</a>
+, <a class="el" href="classlbann_1_1metrics_1_1categorical__accuracy.html#ae75e128a7083d1c0f226a5842cf76373">lbann::metrics::categorical_accuracy&lt; T_layout &gt;</a>
 , <a class="el" href="classlbann_1_1metrics_1_1top__k__categorical__accuracy.html#a8bf123c059627f495480de9ff2398756">lbann::metrics::top_k_categorical_accuracy&lt; T_layout &gt;</a>
-, <a class="el" href="classlbann_1_1metrics_1_1metric.html#af0ef8e45a3fe74f869638911480f79e1">lbann::metrics::metric</a>
 </li>
 <li>distribute_from_local_matrix()
 : <a class="el" href="classlbann_1_1generic__data__distribution.html#a276efb3b3d901a343d76f6e246c9be1f">lbann::generic_data_distribution</a>
@@ -154,19 +157,13 @@ $(document).ready(function(){initNavTree('functions_0x64.html','');});
 , <a class="el" href="classlbann_1_1partitioned__minibatch.html#a0a2b7f224d9a88f15be3d485ee0e3d0a">lbann::partitioned_minibatch</a>
 </li>
 <li>distributed_minibatch()
-: <a class="el" href="classlbann_1_1distributed__minibatch.html#a6dfe77e9b24ff71df1c51d6366d60a16">lbann::distributed_minibatch</a>
+: <a class="el" href="classlbann_1_1distributed__minibatch.html#adcd27270ef55d29a8403cf79ec2457f9">lbann::distributed_minibatch</a>
 </li>
 <li>do_batch_begin_cbs()
-: <a class="el" href="classlbann_1_1model.html#a717aa5b84ad1f779403a052848a8eb37">lbann::model</a>
+: <a class="el" href="classlbann_1_1model.html#a156acfa740b92322d44b6c477636eb26">lbann::model</a>
 </li>
 <li>do_batch_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#a1b925c322faaba8c9d9f78c224a31e89">lbann::model</a>
-</li>
-<li>do_batch_evaluate_begin_cbs()
-: <a class="el" href="classlbann_1_1model.html#a29250ca6e08353e282a378b73f6b3688">lbann::model</a>
-</li>
-<li>do_batch_evaluate_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#a0074ca9fde53941efda2f7aefdbb7ee2">lbann::model</a>
+: <a class="el" href="classlbann_1_1model.html#a3dc29e9751a53afda7e171aff335273e">lbann::model</a>
 </li>
 <li>do_epoch_begin_cbs()
 : <a class="el" href="classlbann_1_1model.html#a6f975af3ff4921d78a9eb1aca12eaf5e">lbann::model</a>
@@ -174,23 +171,23 @@ $(document).ready(function(){initNavTree('functions_0x64.html','');});
 <li>do_epoch_end_cbs()
 : <a class="el" href="classlbann_1_1model.html#a93e43a6c5aaf8ad890ef50ff97dfa176">lbann::model</a>
 </li>
+<li>do_evaluate_begin_cbs()
+: <a class="el" href="classlbann_1_1model.html#ab14bedea05bd5ef549d95ceb2b57b7a4">lbann::model</a>
+</li>
+<li>do_evaluate_end_cbs()
+: <a class="el" href="classlbann_1_1model.html#ab123ed691fb6e9f52d468914a1f4460c">lbann::model</a>
+</li>
 <li>do_layer_backward_prop_begin_cbs()
 : <a class="el" href="classlbann_1_1model.html#a51dc59ea8dd4bc689854732269aaf001">lbann::model</a>
 </li>
 <li>do_layer_backward_prop_end_cbs()
 : <a class="el" href="classlbann_1_1model.html#ab0939d2668cca7efc2cc52355d34df3b">lbann::model</a>
 </li>
-<li>do_layer_evaluate_forward_prop_begin_cbs()
-: <a class="el" href="classlbann_1_1model.html#a35d8cb0c081f1941399af9efd6f38c83">lbann::model</a>
-</li>
-<li>do_layer_evaluate_forward_prop_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#afd75d646fd01292430aab26d05658865">lbann::model</a>
-</li>
 <li>do_layer_forward_prop_begin_cbs()
-: <a class="el" href="classlbann_1_1model.html#aca9c91259fc49ab6a6ea55cda2c62c2d">lbann::model</a>
+: <a class="el" href="classlbann_1_1model.html#ac19ce0dd060f9caddd6e14974a6e7713">lbann::model</a>
 </li>
 <li>do_layer_forward_prop_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#ac87db62dd205da6d627fbcd617296559">lbann::model</a>
+: <a class="el" href="classlbann_1_1model.html#a7d6b891f58a7df9726e4f2c48d1f957a">lbann::model</a>
 </li>
 <li>do_model_backward_prop_begin_cbs()
 : <a class="el" href="classlbann_1_1model.html#a8a60eee343381e657b2c042637e56751">lbann::model</a>
@@ -198,29 +195,20 @@ $(document).ready(function(){initNavTree('functions_0x64.html','');});
 <li>do_model_backward_prop_end_cbs()
 : <a class="el" href="classlbann_1_1model.html#a737a0129eadf52be476034888b3eedc2">lbann::model</a>
 </li>
-<li>do_model_evaluate_forward_prop_begin_cbs()
-: <a class="el" href="classlbann_1_1model.html#a833784f603c1ab71291d9ef7578129cf">lbann::model</a>
-</li>
-<li>do_model_evaluate_forward_prop_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#a5fe57d079f5fd31d8d6df35cecaa1924">lbann::model</a>
-</li>
 <li>do_model_forward_prop_begin_cbs()
-: <a class="el" href="classlbann_1_1model.html#a9f7390320a5519c4cff3130c69d1df2d">lbann::model</a>
+: <a class="el" href="classlbann_1_1model.html#af3c45642bbacf1bd07e8504d7e689ec0">lbann::model</a>
 </li>
 <li>do_model_forward_prop_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#a0f4fa75de20f7c3dccb73736bb6a64b2">lbann::model</a>
+: <a class="el" href="classlbann_1_1model.html#a9d67f4f3a027327d2db8767759f9c2bf">lbann::model</a>
 </li>
-<li>do_phase_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#a9cabc94a034c55ee43e3aa7cbaf507ed">lbann::model</a>
+<li>do_model_optimize_begin_cbs()
+: <a class="el" href="classlbann_1_1model.html#a19c96544ccf733646f3454be887f3a08">lbann::model</a>
+</li>
+<li>do_model_optimize_end_cbs()
+: <a class="el" href="classlbann_1_1model.html#ac0b37e4f4881e274bd9c4889d4852fe8">lbann::model</a>
 </li>
 <li>do_summary()
 : <a class="el" href="classlbann_1_1lbann__callback__imcomm.html#a5b29c317be868056b1c69afa5e097771">lbann::lbann_callback_imcomm</a>
-</li>
-<li>do_test_begin_cbs()
-: <a class="el" href="classlbann_1_1model.html#aad5597a3b4ed02b0ffb283fbd565419f">lbann::model</a>
-</li>
-<li>do_test_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#aeb2d57a2d2f081f182cf8a3fd8fad9e1">lbann::model</a>
 </li>
 <li>do_train_begin_cbs()
 : <a class="el" href="classlbann_1_1model.html#a780395fa740102adda5537aa5d257698">lbann::model</a>
@@ -228,17 +216,17 @@ $(document).ready(function(){initNavTree('functions_0x64.html','');});
 <li>do_train_end_cbs()
 : <a class="el" href="classlbann_1_1model.html#a13bb6edae42c719b78454a8af9549122">lbann::model</a>
 </li>
-<li>do_validation_begin_cbs()
-: <a class="el" href="classlbann_1_1model.html#a49f85b10f117ac69e3b88fafc422fd61">lbann::model</a>
+<li>do_weight_optimize_begin_cbs()
+: <a class="el" href="classlbann_1_1model.html#a24b668fa62ce0215d3b1773636b7eced">lbann::model</a>
 </li>
-<li>do_validation_end_cbs()
-: <a class="el" href="classlbann_1_1model.html#a9ac1b2c3e53a51e31458d81482f2bd14">lbann::model</a>
-</li>
-<li>dropout()
-: <a class="el" href="classlbann_1_1dropout.html#ab2057d4abf48b96f8f6e9f64bdb0fc7e">lbann::dropout&lt; T_layout &gt;</a>
+<li>do_weight_optimize_end_cbs()
+: <a class="el" href="classlbann_1_1model.html#af1e22d2b06d0ca90ae79fd5cf1d82066">lbann::model</a>
 </li>
 <li>DropOut
 : <a class="el" href="classlbann_1_1TrainingParams.html#a682b2fe0b572a0df36a7d5f35d6edc41">lbann::TrainingParams</a>
+</li>
+<li>dropout()
+: <a class="el" href="classlbann_1_1dropout.html#ab2057d4abf48b96f8f6e9f64bdb0fc7e">lbann::dropout&lt; T_layout &gt;</a>
 </li>
 <li>dump_network()
 : <a class="el" href="classlbann_1_1lbann__callback__checknan.html#a335713a3df9194f657f98cccd2f695f5">lbann::lbann_callback_checknan</a>
@@ -270,7 +258,7 @@ $(document).ready(function(){initNavTree('functions_0x64.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:35 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:56:02 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

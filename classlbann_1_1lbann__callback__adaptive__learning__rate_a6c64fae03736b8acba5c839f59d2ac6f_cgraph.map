@@ -1,5 +1,5 @@
 <map id="lbann::lbann_callback_adaptive_learning_rate::global_schedule" name="lbann::lbann_callback_adaptive_learning_rate::global_schedule">
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="231,5,377,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#acf17279d9186337f4170f4edd4d5205b" title="lbann::model::get_objective\l_function" alt="" coords="213,70,395,111"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#ac843a0982ae11b989fc4ef8beb3542f2" title="lbann::model::get_objective\l_function" alt="" coords="213,70,395,111"/>
 <area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#a74f5d56f81156b2971ba11d5c03f535d" title="lbann::objective_function\l::get_history_mean_value" alt="" coords="219,135,389,177"/>
 </map>

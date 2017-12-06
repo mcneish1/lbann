@@ -23,5 +23,7 @@ var searchData=
   ['profiler_2ecpp',['profiler.cpp',['../profiler_8cpp.html',1,'']]],
   ['profiler_2ehpp',['profiler.hpp',['../profiler_8hpp.html',1,'']]],
   ['proto_5fcommon_2ecpp',['proto_common.cpp',['../proto__common_8cpp.html',1,'']]],
-  ['proto_5fcommon_2ehpp',['proto_common.hpp',['../proto__common_8hpp.html',1,'']]]
+  ['proto_5fcommon_2ehpp',['proto_common.hpp',['../proto__common_8hpp.html',1,'']]],
+  ['protobuf_5futils_2ecpp',['protobuf_utils.cpp',['../protobuf__utils_8cpp.html',1,'']]],
+  ['protobuf_5futils_2ehpp',['protobuf_utils.hpp',['../protobuf__utils_8hpp.html',1,'']]]
 ];

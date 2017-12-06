@@ -2,6 +2,5 @@
 <area shape="rect" id="node2" href="$proto__common_8cpp.html#a579d7fb8865ac82f25a7ed4e0f12469c" title="layer_is_in_model" alt="" coords="181,5,307,32"/>
 <area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a326668ce624a9bcc719a463820b2e3a4" title="lbann::Layer::add_parent\l_layer" alt="" coords="161,57,327,98"/>
 <area shape="rect" id="node4" href="$classlbann_1_1Layer.html#ace0346ac56fd7ce7b6b44f27f224f35e" title="lbann::Layer::add_child\l_layer" alt="" coords="166,122,322,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1target__layer.html#a88c7a947e7cf92151939167141cc9924" title="lbann::target_layer\l::set_paired_input_layer" alt="" coords="164,187,324,229"/>
-<area shape="rect" id="node6" href="$classlbann_1_1reconstruction__layer.html#a57e3d25871c8472c5a8de71537fdedff" title="lbann::reconstruction\l_layer::set_original_layer" alt="" coords="161,253,327,294"/>
+<area shape="rect" id="node5" href="$classlbann_1_1reconstruction__layer.html#a57e3d25871c8472c5a8de71537fdedff" title="lbann::reconstruction\l_layer::set_original_layer" alt="" coords="161,187,327,229"/>
 </map>

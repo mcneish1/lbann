@@ -1,7 +1,7 @@
 var searchData=
 [
+  ['mean_5fabsolute_5fdeviation',['mean_absolute_deviation',['../classlbann_1_1mean__absolute__deviation.html',1,'lbann']]],
   ['mean_5fabsolute_5fdeviation',['mean_absolute_deviation',['../classlbann_1_1metrics_1_1mean__absolute__deviation.html',1,'lbann::metrics']]],
-  ['mean_5fabsolute_5fdeviation',['mean_absolute_deviation',['../classlbann_1_1objective__functions_1_1mean__absolute__deviation.html',1,'lbann::objective_functions']]],
   ['mean_5fsquared_5ferror',['mean_squared_error',['../classlbann_1_1metrics_1_1mean__squared__error.html',1,'lbann::metrics']]],
   ['mean_5fsquared_5ferror',['mean_squared_error',['../classlbann_1_1mean__squared__error.html',1,'lbann']]],
   ['metric',['metric',['../classlbann_1_1metrics_1_1metric.html',1,'lbann::metrics']]],

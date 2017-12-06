@@ -13,12 +13,10 @@
 <area shape="rect" id="node16" href="$classlbann_1_1lbann__callback__profiler.html#a6cfc4cf84fe4229f627d18ad19eaa415" title="lbann::lbann_callback\l_profiler::on_forward\l_prop_end" alt="" coords="241,776,388,832"/>
 <area shape="rect" id="node15" href="$classlbann_1_1lbann__callback__profiler.html#a158d8d47bd7a2e38a1f5589030fa523b" title="lbann::lbann_callback\l_profiler::on_backward\l_prop_begin" alt="" coords="477,797,630,853"/>
 <area shape="rect" id="node17" href="$classlbann_1_1lbann__callback__profiler.html#a3fe2bc2b07b2e8e5873c9afb94cebe93" title="lbann::lbann_callback\l_profiler::on_backward\l_prop_end" alt="" coords="238,907,391,963"/>
-<area shape="rect" id="node18" href="$classlbann_1_1model.html#ad395a8f4a45a6a7547b4da4bad6b2c78" title="Print out the description of a layer set up. " alt="" coords="250,987,379,1029"/>
+<area shape="rect" id="node18" href="$classlbann_1_1model.html#ad395a8f4a45a6a7547b4da4bad6b2c78" title="lbann::model::print\l_layer_description" alt="" coords="250,987,379,1029"/>
 <area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch.html#a973a545f264ea3441280e735e12e0ef4" title="lbann::target_layer\l_distributed_minibatch\l::setup_data" alt="" coords="477,5,629,61"/>
 <area shape="rect" id="node4" href="$classlbann_1_1target__layer__partitioned__minibatch.html#aa411e2509ea33ea4da3cd81eb66e0c4a" title="lbann::target_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="477,85,629,141"/>
-<area shape="rect" id="node19" href="$classlbann_1_1sequential__model.html#ae894aa390468c3b7646d8fc0c4389795" title="lbann::sequential_model\l::setup_subset" alt="" coords="472,954,635,995"/>
-<area shape="rect" id="node23" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="477,1019,629,1061"/>
-<area shape="rect" id="node20" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9531d27227598e0f28a6fc04ef672ebf" title="Inserts a mirror layer for specified layer index. " alt="" coords="683,921,863,962"/>
-<area shape="rect" id="node21" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="692,986,855,1027"/>
-<area shape="rect" id="node22" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a90afd0c31448bb8f9f6e1e9f39f416a3" title="Removes mirror for specified layer index. " alt="" coords="913,986,1103,1027"/>
+<area shape="rect" id="node19" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="472,954,635,995"/>
+<area shape="rect" id="node21" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="477,1019,629,1061"/>
+<area shape="rect" id="node20" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adc219a87e3ce3a0e5a11450cc80d67e5" title="lbann::greedy_layerwise\l_autoencoder::setup" alt="" coords="683,954,845,995"/>
 </map>

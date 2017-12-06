@@ -20,7 +20,8 @@
 <area shape="rect" id="node28" href="$classlbann_1_1lbann__callback__io.html#a8abca84e4b0dc21b28e5d5e409446fdc" title="lbann::lbann_callback\l_io::on_test_end" alt="" coords="237,1279,384,1321"/>
 <area shape="rect" id="node29" href="$classlbann_1_1lbann__callback__learning__rate.html#ab8eb509bdbea501882d6b248a814bb28" title="lbann::lbann_callback\l_learning_rate::on_epoch_end" alt="" coords="213,1345,408,1386"/>
 <area shape="rect" id="node30" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="237,1410,384,1451"/>
-<area shape="rect" id="node31" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a091e7563b5a7a90638e2521fe39cbf8f" title="Potentially change the mini&#45;batch size. " alt="" coords="237,1476,384,1532"/>
+<area shape="rect" id="node31" href="$classlbann_1_1lbann__callback__timeline.html#a7af247d7f016db358da0a57f8a4b76c6" title="lbann::lbann_callback\l_timeline::on_train_end" alt="" coords="233,1475,389,1517"/>
+<area shape="rect" id="node32" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a091e7563b5a7a90638e2521fe39cbf8f" title="Potentially change the mini&#45;batch size. " alt="" coords="237,1541,384,1597"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checknan.html#a09388ae76566a6a93c957ab76cd54dcd" title="lbann::lbann_callback\l_checknan::on_forward\l_prop_end" alt="" coords="496,5,653,61"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__checknan.html#a40d9a9fcc5849746570b99321e1c5488" title="lbann::lbann_callback\l_checknan::on_backward\l_prop_end" alt="" coords="489,85,660,141"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__checknan.html#a1d1b3b082aa49016e7b80e0f267575da" title="lbann::lbann_callback\l_checknan::on_batch_end" alt="" coords="487,166,662,207"/>

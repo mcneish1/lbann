@@ -10,29 +10,24 @@
 <area shape="rect" id="node14" href="$classlbann_1_1lbann__callback__timer.html#a95ccee037894dbb5e3c663fbdfbc9d7f" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="226,527,377,569"/>
 <area shape="rect" id="node15" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a4f5d8ab04ab3e1cc3aa66327d3712f51" title="Set the initial mini&#45;batch size. " alt="" coords="228,593,375,649"/>
 <area shape="rect" id="node16" href="$classlbann_1_1dag__model.html#a42182cd35edf4a0e597aadc2591b9b7c" title="lbann::dag_model::setup" alt="" coords="219,673,383,700"/>
-<area shape="rect" id="node17" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a90afd0c31448bb8f9f6e1e9f39f416a3" title="Removes mirror for specified layer index. " alt="" coords="702,811,893,853"/>
-<area shape="rect" id="node18" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="214,775,389,817"/>
-<area shape="rect" id="node20" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aba7eba729e2d84e42b7305da1309d649" title="Global evaluation (testing), provide overall cost relative to original input. " alt="" coords="220,841,383,882"/>
-<area shape="rect" id="node21" href="$classlbann_1_1sequential__model.html#ae894aa390468c3b7646d8fc0c4389795" title="lbann::sequential_model\l::setup_subset" alt="" coords="220,906,383,947"/>
-<area shape="rect" id="node24" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="225,971,377,1013"/>
-<area shape="rect" id="node25" href="$proto__common_8hpp.html#a9a9d7504db9e1b819fcddac197da3252" title="Returns true if the Model contains at least one MotifLayer. " alt="" coords="258,1037,345,1064"/>
-<area shape="rect" id="node26" href="$proto__common_8hpp.html#a9454e517d698ec0960588364b9b42d6a" title="expand_motifs" alt="" coords="248,1088,355,1115"/>
-<area shape="rect" id="node27" href="$proto__common_8cpp.html#aad2a06edafd258ed60b9a6aa26bda770" title="get_proto_layers" alt="" coords="242,1139,361,1165"/>
-<area shape="rect" id="node28" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="511,1164,596,1191"/>
-<area shape="rect" id="node29" href="$proto__common_8cpp.html#ada60fd1558bd89338f58bdd0a27c35e6" title="construct_summarizer" alt="" coords="226,1240,377,1267"/>
-<area shape="rect" id="node31" href="$proto__common_8cpp.html#a1d628fde9876b07dc32de6556da91ca1" title="choose_imcomm_callback\l_weights" alt="" coords="213,1291,389,1333"/>
-<area shape="rect" id="node30" href="$proto__common_8cpp.html#a64cca5f2ba7a9cd8cc113280320dea19" title="init_callbacks" alt="" coords="503,1299,604,1325"/>
-<area shape="rect" id="node32" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="261,1408,342,1435"/>
-<area shape="rect" id="node33" href="$proto__common_8hpp.html#ae5ac4c13a36b3222afacd8d7b4786140" title="adjusts the number of parallel data readers " alt="" coords="216,1459,387,1485"/>
-<area shape="rect" id="node34" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="225,1509,377,1536"/>
-<area shape="rect" id="node35" href="$proto__common_8hpp.html#adf83ffea572cec61b853b61aa68bea27" title="print various params (learn_rate, etc) to cout " alt="" coords="242,1560,361,1587"/>
-<area shape="rect" id="node36" href="$proto__common_8hpp.html#a403b98ced142a0afa3b939e7af1095b0" title="prints usage information " alt="" coords="262,1611,341,1637"/>
-<area shape="rect" id="node37" href="$proto__common_8hpp.html#a4f1af470c45e9ed06039685e5f72ea4a" title="prints prototext file, cmd line, etc to file " alt="" coords="250,1661,353,1688"/>
+<area shape="rect" id="node17" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="220,725,383,766"/>
+<area shape="rect" id="node19" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="225,790,377,831"/>
+<area shape="rect" id="node20" href="$proto__common_8hpp.html#a9a9d7504db9e1b819fcddac197da3252" title="Returns true if the Model contains at least one MotifLayer. " alt="" coords="258,856,345,883"/>
+<area shape="rect" id="node21" href="$proto__common_8hpp.html#a9454e517d698ec0960588364b9b42d6a" title="expand_motifs" alt="" coords="248,907,355,933"/>
+<area shape="rect" id="node22" href="$proto__common_8cpp.html#aad2a06edafd258ed60b9a6aa26bda770" title="get_proto_layers" alt="" coords="242,957,361,984"/>
+<area shape="rect" id="node23" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="511,983,596,1009"/>
+<area shape="rect" id="node24" href="$proto__common_8cpp.html#ada60fd1558bd89338f58bdd0a27c35e6" title="construct_summarizer" alt="" coords="226,1059,377,1085"/>
+<area shape="rect" id="node26" href="$proto__common_8cpp.html#a1d628fde9876b07dc32de6556da91ca1" title="choose_imcomm_callback\l_weights" alt="" coords="213,1110,389,1151"/>
+<area shape="rect" id="node25" href="$proto__common_8cpp.html#a64cca5f2ba7a9cd8cc113280320dea19" title="init_callbacks" alt="" coords="503,1117,604,1144"/>
+<area shape="rect" id="node27" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="261,1227,342,1253"/>
+<area shape="rect" id="node28" href="$proto__common_8hpp.html#ae5ac4c13a36b3222afacd8d7b4786140" title="adjusts the number of parallel data readers " alt="" coords="216,1277,387,1304"/>
+<area shape="rect" id="node29" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="225,1328,377,1355"/>
+<area shape="rect" id="node30" href="$proto__common_8hpp.html#adf83ffea572cec61b853b61aa68bea27" title="print various params (learn_rate, etc) to cout " alt="" coords="242,1379,361,1405"/>
+<area shape="rect" id="node31" href="$proto__common_8hpp.html#a403b98ced142a0afa3b939e7af1095b0" title="prints usage information " alt="" coords="262,1429,341,1456"/>
+<area shape="rect" id="node32" href="$proto__common_8hpp.html#a4f1af470c45e9ed06039685e5f72ea4a" title="prints prototext file, cmd line, etc to file " alt="" coords="250,1480,353,1507"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="480,135,627,177"/>
 <area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__save__images.html#aa540916eef9b95db68889a8a7426779c" title="lbann::lbann_callback\l_save_images::on_epoch_end" alt="" coords="454,397,653,438"/>
 <area shape="rect" id="node12" href="$classlbann_1_1lbann__callback__save__images.html#a4591438de0b52467988e2bd34b55c0dd" title="lbann::lbann_callback\l_save_images::on_phase_end" alt="" coords="454,462,653,503"/>
 <area shape="rect" id="node13" href="$classlbann_1_1lbann__callback__save__images.html#a44d0f0113133d6fd8944d8b7702ea786" title="lbann::lbann_callback\l_save_images::on_test_end" alt="" coords="461,527,646,569"/>
-<area shape="rect" id="node19" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="472,775,635,817"/>
-<area shape="rect" id="node22" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9531d27227598e0f28a6fc04ef672ebf" title="Inserts a mirror layer for specified layer index. " alt="" coords="463,841,643,882"/>
-<area shape="rect" id="node23" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="472,906,635,947"/>
+<area shape="rect" id="node18" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adc219a87e3ce3a0e5a11450cc80d67e5" title="lbann::greedy_layerwise\l_autoencoder::setup" alt="" coords="472,725,635,766"/>
 </map>

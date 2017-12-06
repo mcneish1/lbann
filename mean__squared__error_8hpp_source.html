@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -116,8 +116,8 @@ $(document).ready(function(){initNavTree('mean__squared__error_8hpp_source.html'
 <div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="comment">// implied. See the License for the specific language governing</span></div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;<span class="comment">// permissions and limitations under the license.</span></div>
 <div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<span class="comment"></span></div>
-<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="preprocessor">#ifndef LBANN_OBJECTIVE_FUNCTION_MEAN_SQUARED_ERROR_HPP_INCLUDED</span></div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#define LBANN_OBJECTIVE_FUNCTION_MEAN_SQUARED_ERROR_HPP_INCLUDED</span></div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="preprocessor">#ifndef LBANN_OBJECTIVE_FUNCTION_LOSS_FUNCTION_MEAN_SQUARED_ERROR_HPP_INCLUDED</span></div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="preprocessor"></span><span class="preprocessor">#define LBANN_OBJECTIVE_FUNCTION_LOSS_FUNCTION_MEAN_SQUARED_ERROR_HPP_INCLUDED</span></div>
 <div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="preprocessor"></span></div>
 <div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="loss__function_8hpp.html">lbann/objective_functions/loss_functions/loss_function.hpp</a>&quot;</span></div>
 <div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;</div>
@@ -135,18 +135,18 @@ $(document).ready(function(){initNavTree('mean__squared__error_8hpp_source.html'
 <div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;</div>
 <div class="line"><a name="l00051"></a><span class="lineno"><a class="line" href="classlbann_1_1mean__squared__error.html#a5a3d05648897521585d1671818f04682">   51</a></span>&#160;  std::string <a class="code" href="classlbann_1_1mean__squared__error.html#a5a3d05648897521585d1671818f04682">name</a>()<span class="keyword"> const override </span>{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;mean_squared_error&quot;</span>; }</div>
 <div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;  <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> <a class="code" href="classlbann_1_1mean__squared__error.html#a1b0a947bbc6ac0ef940f01b71db91e51">evaluate</a>(<span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; prediction,</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;                    <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; ground_truth) <span class="keyword">override</span>;</div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;  <span class="keywordtype">void</span> <a class="code" href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">differentiate</a>(<span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; prediction,</div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;                     <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; ground_truth,</div>
-<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;                     <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; gradient) <span class="keyword">override</span>;</div>
-<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;</div>
-<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;};</div>
-<div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;</div>
-<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;} <span class="comment">// namespace lbann</span></div>
-<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;</div>
-<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;<span class="preprocessor">#endif // LBANN_OBJECTIVE_FUNCTION_MEAN_SQUARED_ERROR_HPP_INCLUDED</span></div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;  <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> <a class="code" href="classlbann_1_1mean__squared__error.html#a1b0a947bbc6ac0ef940f01b71db91e51">evaluate</a>(<span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; prediction,</div>
+<div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;                    <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; ground_truth) <span class="keyword">override</span>;</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;  <span class="keywordtype">void</span> <a class="code" href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">differentiate</a>(<span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; prediction,</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;                     <span class="keyword">const</span> <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; ground_truth,</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;                     <a class="code" href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a>&amp; gradient) <span class="keyword">override</span>;</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;</div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;};</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;} <span class="comment">// namespace lbann</span></div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;<span class="preprocessor">#endif // LBANN_OBJECTIVE_FUNCTION_LOSS_FUNCTION_MEAN_SQUARED_ERROR_HPP_INCLUDED</span></div>
 <div class="ttc" id="base_8hpp_html_a279b64f47fb2213ad73e59be937afcfa"><div class="ttname"><a href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a></div><div class="ttdeci">float DataType</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00042">base.hpp:42</a></div></div>
 <div class="ttc" id="base_8hpp_html_a059664ed36d5eedd5ff4f7838d9c7a5a"><div class="ttname"><a href="base_8hpp.html#a059664ed36d5eedd5ff4f7838d9c7a5a">AbsDistMat</a></div><div class="ttdeci">El::AbstractDistMatrix&lt; DataType &gt; AbsDistMat</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00048">base.hpp:48</a></div></div>
 <div class="ttc" id="classlbann_1_1mean__squared__error_html_a1b0a947bbc6ac0ef940f01b71db91e51"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#a1b0a947bbc6ac0ef940f01b71db91e51">lbann::mean_squared_error::evaluate</a></div><div class="ttdeci">DataType evaluate(const AbsDistMat &amp;prediction, const AbsDistMat &amp;ground_truth) override</div><div class="ttdef"><b>Definition:</b> <a href="mean__squared__error_8cpp_source.html#l00031">mean_squared_error.cpp:31</a></div></div>
@@ -154,7 +154,7 @@ $(document).ready(function(){initNavTree('mean__squared__error_8hpp_source.html'
 <div class="ttc" id="loss__function_8hpp_html"><div class="ttname"><a href="loss__function_8hpp.html">loss_function.hpp</a></div></div>
 <div class="ttc" id="classlbann_1_1mean__squared__error_html_a7f3c4314bcec3e7b957d1f5de7278351"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#a7f3c4314bcec3e7b957d1f5de7278351">lbann::mean_squared_error::~mean_squared_error</a></div><div class="ttdeci">~mean_squared_error() override=default</div></div>
 <div class="ttc" id="classlbann_1_1loss__function_html"><div class="ttname"><a href="classlbann_1_1loss__function.html">lbann::loss_function</a></div><div class="ttdef"><b>Definition:</b> <a href="loss__function_8hpp_source.html#l00036">loss_function.hpp:36</a></div></div>
-<div class="ttc" id="classlbann_1_1mean__squared__error_html_af4a4fab7640019ba921812ad1280e418"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">lbann::mean_squared_error::differentiate</a></div><div class="ttdeci">void differentiate(const AbsDistMat &amp;prediction, const AbsDistMat &amp;ground_truth, AbsDistMat &amp;gradient) override</div><div class="ttdef"><b>Definition:</b> <a href="mean__squared__error_8cpp_source.html#l00070">mean_squared_error.cpp:70</a></div></div>
+<div class="ttc" id="classlbann_1_1mean__squared__error_html_af4a4fab7640019ba921812ad1280e418"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#af4a4fab7640019ba921812ad1280e418">lbann::mean_squared_error::differentiate</a></div><div class="ttdeci">void differentiate(const AbsDistMat &amp;prediction, const AbsDistMat &amp;ground_truth, AbsDistMat &amp;gradient) override</div><div class="ttdef"><b>Definition:</b> <a href="mean__squared__error_8cpp_source.html#l00069">mean_squared_error.cpp:69</a></div></div>
 <div class="ttc" id="classlbann_1_1mean__squared__error_html_a14c06b31a609a2e6766a55a17cbd2187"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#a14c06b31a609a2e6766a55a17cbd2187">lbann::mean_squared_error::operator=</a></div><div class="ttdeci">mean_squared_error &amp; operator=(const mean_squared_error &amp;other)=default</div></div>
 <div class="ttc" id="classlbann_1_1mean__squared__error_html_a5a3d05648897521585d1671818f04682"><div class="ttname"><a href="classlbann_1_1mean__squared__error.html#a5a3d05648897521585d1671818f04682">lbann::mean_squared_error::name</a></div><div class="ttdeci">std::string name() const override</div><div class="ttdef"><b>Definition:</b> <a href="mean__squared__error_8hpp_source.html#l00051">mean_squared_error.hpp:51</a></div></div>
 <div class="ttc" id="classlbann_1_1loss__function_html_af477915c28349ba9b0cbd7caf9b38346"><div class="ttname"><a href="classlbann_1_1loss__function.html#af477915c28349ba9b0cbd7caf9b38346">lbann::loss_function::loss_function</a></div><div class="ttdeci">loss_function(DataType scale_factor=DataType(1))</div><div class="ttdef"><b>Definition:</b> <a href="loss__function_8cpp_source.html#l00033">loss_function.cpp:33</a></div></div>
@@ -165,7 +165,7 @@ $(document).ready(function(){initNavTree('mean__squared__error_8hpp_source.html'
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_d166d048bb8382a532581a8bdef1f3cb.html">include</a></li><li class="navelem"><a class="el" href="dir_782d4f5c831b713e690bf8a67fa27f73.html">lbann</a></li><li class="navelem"><a class="el" href="dir_0dc6c0b079b9264eceafc7fce54db998.html">objective_functions</a></li><li class="navelem"><a class="el" href="dir_23a9a56651ae5b0944c59b179d90647c.html">loss_functions</a></li><li class="navelem"><a class="el" href="mean__squared__error_8hpp.html">mean_squared_error.hpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:51 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:52 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

@@ -5,8 +5,5 @@
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__adaptive__learning__rate.html#a6c64fae03736b8acba5c839f59d2ac6f" title="lbann::lbann_callback\l_adaptive_learning_rate\l::global_schedule" alt="" coords="258,217,417,273"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__print.html#a28f2b022193c62f3af40364d2c5b14b2" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="264,298,411,339"/>
 <area shape="rect" id="node7" href="$classlbann_1_1model.html#a1eb5efcc8f73ba9478b2ce1efb9f2d8c" title="lbann::model::summarize\l_stats" alt="" coords="253,363,421,405"/>
-<area shape="rect" id="node9" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="250,429,425,470"/>
-<area shape="rect" id="node11" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aba7eba729e2d84e42b7305da1309d649" title="Global evaluation (testing), provide overall cost relative to original input. " alt="" coords="256,494,419,535"/>
 <area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__summary.html#a89b18186fdaa7b6a7a0e9ab8ee334d88" title="lbann::lbann_callback\l_summary::on_batch_end" alt="" coords="499,363,671,405"/>
-<area shape="rect" id="node10" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="504,461,667,502"/>
 </map>

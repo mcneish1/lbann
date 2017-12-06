@@ -33,6 +33,7 @@ var searchData=
   ['lbann_5fcallback_5fstep_5flearning_5frate',['lbann_callback_step_learning_rate',['../classlbann_1_1lbann__callback__step__learning__rate.html',1,'lbann']]],
   ['lbann_5fcallback_5fstep_5fminibatch',['lbann_callback_step_minibatch',['../classlbann_1_1lbann__callback__step__minibatch.html',1,'lbann']]],
   ['lbann_5fcallback_5fsummary',['lbann_callback_summary',['../classlbann_1_1lbann__callback__summary.html',1,'lbann']]],
+  ['lbann_5fcallback_5ftimeline',['lbann_callback_timeline',['../classlbann_1_1lbann__callback__timeline.html',1,'lbann']]],
   ['lbann_5fcallback_5ftimer',['lbann_callback_timer',['../classlbann_1_1lbann__callback__timer.html',1,'lbann']]],
   ['lbann_5fcallback_5fvariable_5fminibatch',['lbann_callback_variable_minibatch',['../classlbann_1_1lbann__callback__variable__minibatch.html',1,'lbann']]],
   ['lbann_5fcomm',['lbann_comm',['../classlbann_1_1lbann__comm.html',1,'lbann']]],

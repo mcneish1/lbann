@@ -18,6 +18,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "Callbacks", "callbacks.html", [
+      [ "Check Dataset", "callbacks.html#checkdata", null ],
       [ "Check Initialization", "callbacks.html#checkinit", null ],
       [ "Check Reconstruction", "callbacks.html#checkreconstruction", null ],
       [ "Check NAN", "callbacks.html#checknan", null ],
@@ -26,19 +27,26 @@ var NAVTREE =
       [ "Dump Gradients", "callbacks.html#dump_grads", null ],
       [ "Dump Minibatch Sample Indices", "callbacks.html#dump_mb_sample_indices", null ],
       [ "Dump Weights", "callbacks.html#dump_wei", null ],
+      [ "Early Stopping", "callbacks.html#earlystop", null ],
+      [ "Gradient Check", "callbacks.html#gradientcheck", null ],
+      [ "Hang", "callbacks.html#hang", null ],
       [ "Inter-model Communication", "callbacks.html#im_comm", null ],
-      [ "IO", "callbacks.html#io", null ],
+      [ "Print IO", "callbacks.html#io", null ],
       [ "Learning Rate", "callbacks.html#learningrate", null ],
       [ "Manage LTFB", "callbacks.html#LTFB", null ],
       [ "Print Accuracy", "callbacks.html#print_acc", null ],
-      [ "Save Images", "callbacks.html#save_images", [
-        [ "Sum", "callbacks.html#sum", null ]
-      ] ],
+      [ "Save Images", "callbacks.html#save_images", null ],
+      [ "Summary", "callbacks.html#summary", null ],
       [ "Timer", "callbacks.html#timer", null ],
-      [ "Debug", "callbacks.html#dbg", null ]
+      [ "Debug", "callbacks.html#dbg", null ],
+      [ "Variable Minibatch", "callbacks.html#variable_mb", null ]
     ] ],
     [ "Layers", "layers.html", [
-      [ "Learning", "layers.html#learning", null ],
+      [ "Learning", "layers.html#learning", [
+        [ "Convolution", "layers.html#conv", null ],
+        [ "Deconvolution", "layers.html#deconv", null ],
+        [ "Fully Connected", "layers.html#ip", null ]
+      ] ],
       [ "Regularizer", "layers.html#regularizer", [
         [ "Batch Normalization", "layers.html#batchNorm", null ],
         [ "Dropout", "layers.html#dropout", null ],
@@ -47,7 +55,10 @@ var NAVTREE =
       ] ],
       [ "Transform", "layers.html#transform", [
         [ "Concatenation", "layers.html#concatenation", null ],
+        [ "Noise", "layers.html#noise", null ],
+        [ "Unpooling", "layers.html#unpooling", null ],
         [ "Pooling", "layers.html#pooling", null ],
+        [ "Reshape", "layers.html#reshape", null ],
         [ "Slice", "layers.html#slice", null ],
         [ "Split", "layers.html#split", null ],
         [ "Sum", "layers.html#sum", null ]
@@ -62,18 +73,37 @@ var NAVTREE =
         [ "Sigmoid", "layers.html#sigLayer", null ],
         [ "Softplus", "layers.html#softplus", null ],
         [ "Softmax", "layers.html#softmax", null ],
-        [ "Tanh", "layers.html#tanh", null ]
+        [ "Tanh", "layers.html#tanh", null ],
+        [ "Atan", "layers.html#atan", null ],
+        [ "Bent Identity", "layers.html#bent_identity", null ],
+        [ "Exponential", "layers.html#exponential", null ]
       ] ],
-      [ "IO", "layers.html#io", null ]
+      [ "IO", "layers.html#i_o", [
+        [ "Input", "layers.html#input", null ],
+        [ "Target", "layers.html#target", null ]
+      ] ]
     ] ],
     [ "Metrics", "metrics.html", [
-      [ "Categorical Accuracy", "metrics.html#cate_accuracy", null ],
+      [ "Categorical Accuracy", "metrics.html#cataccuracy", null ],
+      [ "Mean Absolute Deviation", "metrics.html#mean_abs_dev", null ],
       [ "Mean Squared Error", "metrics.html#mse", null ],
+      [ "Pearson Correlation", "metrics.html#pearson", null ],
       [ "Top K Categorical Accuracy", "metrics.html#top_k", null ]
     ] ],
     [ "Objective Functions", "obj_fn.html", [
-      [ "Categorical Cross Entropy", "obj_fn.html#cate_cross_entropy", null ],
-      [ "Objective Mean Squared Error", "obj_fn.html#Omse", null ]
+      [ "Loss Functions", "obj_fn.html#loss_functions", [
+        [ "Binary Cross Entropy", "obj_fn.html#bin_cross_ent", null ],
+        [ "Cross Entropy", "obj_fn.html#cross_ent", null ],
+        [ "Cross Entropy with Uncertainty", "obj_fn.html#cross_ent_uncertain", null ],
+        [ "Geometric Negative Log Likelihood", "obj_fn.html#gemo_negloglike", null ],
+        [ "Mean Absolute Deviation", "obj_fn.html#mad", null ],
+        [ "Mean Squared Error", "obj_fn.html#m_s_e", null ],
+        [ "Poisson Negative Log Likelihood", "obj_fn.html#pos_negloglike", null ],
+        [ "Polya Negative Log Likelihood", "obj_fn.html#poly_negloglike", null ]
+      ] ],
+      [ "Weight Regularization", "obj_fn.html#weight_regularization", [
+        [ "L2 Weight Regularization", "obj_fn.html#l2_weight", null ]
+      ] ]
     ] ],
     [ "Optimizers", "optimizers.html", [
       [ "Adagrad", "optimizers.html#Adagrad", null ],
@@ -126,21 +156,21 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "Elemental__extensions_8cpp.html",
-"classlbann_1_1Layer.html#a247cc68c730284f10a2cb42985fe5f3a",
-"classlbann_1_1batch__normalization.html#ac7a4a1b85b97c3e0db9d926a410331dd",
-"classlbann_1_1elu__layer.html#a37a371015add326278f7a537ade73e30",
-"classlbann_1_1greedy__layerwise__autoencoder.html#a345718b457e9afc62137a1a15172f191",
-"classlbann_1_1io__layer.html#ab061ec74d131699c7fd59b992bbe7036",
-"classlbann_1_1lbann__callback__imcomm.html#acf7e894b3381e7f9b71020dc73594d6aa5f19efb5bef79cea24be992a2137962e",
-"classlbann_1_1lbann__comm.html#a4f01e2f2d8220dc34cf39eb4a255cd7d",
-"classlbann_1_1local__response__normalization__layer.html#a85c25a68888e2e9d163a820326fc09ff",
-"classlbann_1_1noise__layer.html#a004e44d3229c02aa44b58bb266e01a96",
-"classlbann_1_1pooling__layer.html#a58f9e6223649bb79ad10a2411602d71d",
-"classlbann_1_1split__layer.html#af3ac078a4aec07033d22083a557dfd59",
-"cv__colorizer_8cpp_source.html",
-"functions_vars_0x61.html",
-"omp__diagnostics_8cpp.html#a17d55032bad5bb02903f9b1d933836a4",
-"statistics_8hpp.html#a085b697db535c10a6fd6689cc4445bd4"
+"classlbann_1_1Layer.html#a0fa0ea9160b490c151c0a17fde4f7239",
+"classlbann_1_1batch__normalization.html#aa4677c2f7d5ea27c53bf0f61f280a2a3",
+"classlbann_1_1distributed__minibatch.html#a6dfe77e9b24ff71df1c51d6366d60a16",
+"classlbann_1_1generic__data__reader.html#aec7e626e6efa2a4bf23f931e2ef8f607",
+"classlbann_1_1input__layer__partitioned__minibatch.html#a215779d7811c9c9c5b9baad95221b67f",
+"classlbann_1_1lbann__callback__gradient__check.html#ae198159c613bb05e00f49b824a61afbb",
+"classlbann_1_1lbann__comm.html#a10f367960aeed86d2f68210b82810e8d",
+"classlbann_1_1lbann__quantizer.html#a9d6e80bd54d6eb03dc63c15861356557",
+"classlbann_1_1model.html#a5bafc4e84671490c6118959becb22e16",
+"classlbann_1_1polya__negloglike.html#a0c00f1f9cac0b0c6a638b86e031768e3",
+"classlbann_1_1softplus__layer.html",
+"cross__entropy_8cpp.html",
+"functions_func_0x68.html",
+"namespacecudnn.html",
+"reshape_8hpp_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

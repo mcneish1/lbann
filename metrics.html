@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -93,12 +93,18 @@ $(document).ready(function(){initNavTree('metrics.html','');});
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>A metric is used to judge the performance of a model. These are similar to an objective function, but metrics are not used to train the model. Metric functions can be specified on prototext model files. LBANN supported metrics are found below.</p>
-<h1><a class="anchor" id="cate_accuracy"></a>
+<h1><a class="anchor" id="cataccuracy"></a>
 Categorical Accuracy</h1>
 <p>Implementation details: <a class="el" href="classlbann_1_1metrics_1_1categorical__accuracy.html">lbann::metrics::categorical_accuracy</a></p>
+<h1><a class="anchor" id="mean_abs_dev"></a>
+Mean Absolute Deviation</h1>
+<p>Implementation details: <a class="el" href="classlbann_1_1metrics_1_1mean__absolute__deviation.html">lbann::metrics::mean_absolute_deviation</a></p>
 <h1><a class="anchor" id="mse"></a>
 Mean Squared Error</h1>
 <p>Implementation details: <a class="el" href="classlbann_1_1metrics_1_1mean__squared__error.html">lbann::metrics::mean_squared_error</a></p>
+<h1><a class="anchor" id="pearson"></a>
+Pearson Correlation</h1>
+<p>Implementation details: <a class="el" href="classlbann_1_1metrics_1_1pearson__correlation.html">lbann::metrics::pearson_correlation</a></p>
 <h1><a class="anchor" id="top_k"></a>
 Top K Categorical Accuracy</h1>
 <p>A prediction is correct under this metric if any of the top k predictions are the correct prediction.</p>
@@ -108,7 +114,7 @@ Top K Categorical Accuracy</h1>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:00 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:18 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

@@ -3,5 +3,5 @@
 <area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#acd502193755ac3460a76db9738055733" title="lbann::input_layer\l::get_data_dims" alt="" coords="201,57,325,98"/>
 <area shape="rect" id="node4" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="413,23,537,65"/>
 <area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#a67a39151ff0aeddb94725613ef17504f" title="Get the dimensions of the data. " alt="" coords="395,89,554,130"/>
-<area shape="rect" id="node5" href="$classlbann_1_1input__layer.html#a7f76e9590f8aaca012904a955eb37a49" title="lbann::input_layer\l::get_execution_mode" alt="" coords="603,23,754,65"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="603,31,827,57"/>
 </map>

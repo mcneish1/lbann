@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -447,7 +447,7 @@ template&lt;typename colT , typename rowT &gt; </div>
 <div class="line"><a name="l00415"></a><span class="lineno">  415</span>&#160;  <span class="keyword">const</span> colT header_len = row_header_factor * <a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a> * width +</div>
 <div class="line"><a name="l00416"></a><span class="lineno">  416</span>&#160;                          row_header_factor;</div>
 <div class="line"><a name="l00417"></a><span class="lineno">  417</span>&#160;  <span class="keyword">const</span> colT num_quantized = q.size() - header_len;</div>
-<div class="line"><a name="l00418"></a><span class="lineno">  418</span>&#160;  colT *q_col = (colT *) q.data();</div>
+<div class="line"><a name="l00418"></a><span class="lineno">  418</span>&#160;  <span class="keyword">auto</span> *q_col = (colT *) q.data();</div>
 <div class="line"><a name="l00419"></a><span class="lineno">  419</span>&#160;  <span class="keywordflow">if</span> (num_quantized &gt; <a class="code" href="classlbann_1_1lbann__quantizer.html#abe63d57e62be1b498848f7920de4433a">MAX_QUANTIZED_EXCESS</a> * width * height / proportion) {</div>
 <div class="line"><a name="l00420"></a><span class="lineno">  420</span>&#160;    <span class="comment">// Ensure there is a maximum bound on the number of entries sent.</span></div>
 <div class="line"><a name="l00421"></a><span class="lineno">  421</span>&#160;    <span class="comment">// This should only occur if the threshold sampling is really bad.</span></div>
@@ -591,7 +591,7 @@ template&lt;typename colT , typename rowT &gt; </div>
 <div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;  <span class="keyword">const</span> adaptive_thresholds threshes =</div>
 <div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    <a class="code" href="classlbann_1_1lbann__quantizer.html#aa5aabc1cb4163e95aee993d9b37b9b32">proportion_threshold</a>(mat, qerror, proportion);</div>
 <div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  <span class="comment">// This is for accessing q in different ways.</span></div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  colT *q_col = (colT *) q.data();</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  <span class="keyword">auto</span> *q_col = (colT *) q.data();</div>
 <div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;<span class="preprocessor">  #pragma omp parallel firstprivate(threshes, height, width, ldim, mat_buf, qerror_buf) num_threads(num_threads)</span></div>
 <div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;<span class="preprocessor"></span>  {</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">int</span> tid = omp_get_thread_num();</div>
@@ -823,7 +823,7 @@ template&lt;typename colT , typename rowT &gt; </div>
 <div class="line"><a name="l00301"></a><span class="lineno">  301</span>&#160;  <span class="comment">// Compute the thresholds.</span></div>
 <div class="line"><a name="l00302"></a><span class="lineno">  302</span>&#160;  <span class="keyword">const</span> adaptive_thresholds threshes =</div>
 <div class="line"><a name="l00303"></a><span class="lineno">  303</span>&#160;    <a class="code" href="classlbann_1_1lbann__quantizer.html#aa5aabc1cb4163e95aee993d9b37b9b32">proportion_threshold</a>(mat, qerror, proportion);</div>
-<div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160;  colT *q_col = (colT *) q.data();</div>
+<div class="line"><a name="l00304"></a><span class="lineno">  304</span>&#160;  <span class="keyword">auto</span> *q_col = (colT *) q.data();</div>
 <div class="line"><a name="l00305"></a><span class="lineno">  305</span>&#160;<span class="preprocessor">  #pragma omp parallel firstprivate(threshes, height, width, ldim, mat_buf, qerror_buf) num_threads(num_threads)</span></div>
 <div class="line"><a name="l00306"></a><span class="lineno">  306</span>&#160;<span class="preprocessor"></span>  {</div>
 <div class="line"><a name="l00307"></a><span class="lineno">  307</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">int</span> tid = omp_get_thread_num();</div>
@@ -1007,10 +1007,10 @@ template&lt;typename colT , typename rowT &gt; </div>
 <div class="line"><a name="l00475"></a><span class="lineno">  475</span>&#160;  <span class="keyword">const</span> colT header_len = row_header_factor * width * <a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a> +</div>
 <div class="line"><a name="l00476"></a><span class="lineno">  476</span>&#160;                          row_header_factor;</div>
 <div class="line"><a name="l00477"></a><span class="lineno">  477</span>&#160;  <span class="comment">// Copy the header over. Locations will need to be adjusted later.</span></div>
-<div class="line"><a name="l00478"></a><span class="lineno">  478</span>&#160;  <span class="keyword">const</span> colT *q_col = (<span class="keyword">const</span> colT *) q.data();</div>
+<div class="line"><a name="l00478"></a><span class="lineno">  478</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> *q_col = (<span class="keyword">const</span> colT *) q.data();</div>
 <div class="line"><a name="l00479"></a><span class="lineno">  479</span>&#160;  <span class="keyword">const</span> colT total_len = header_len + q_col[<a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a> * end] - q_col[<a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a> * start];</div>
 <div class="line"><a name="l00480"></a><span class="lineno">  480</span>&#160;  slice.resize(total_len);</div>
-<div class="line"><a name="l00481"></a><span class="lineno">  481</span>&#160;  colT *slice_col = (colT *) slice.data();</div>
+<div class="line"><a name="l00481"></a><span class="lineno">  481</span>&#160;  <span class="keyword">auto</span> *slice_col = (colT *) slice.data();</div>
 <div class="line"><a name="l00482"></a><span class="lineno">  482</span>&#160;  std::copy(&amp;q_col[<a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a>*start], &amp;q_col[<a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a>*end + 1],</div>
 <div class="line"><a name="l00483"></a><span class="lineno">  483</span>&#160;            slice_col);</div>
 <div class="line"><a name="l00484"></a><span class="lineno">  484</span>&#160;  <span class="comment">// Copy data over.</span></div>
@@ -1081,7 +1081,7 @@ template&lt;typename colT , typename rowT &gt; </div>
 <div class="line"><a name="l00186"></a><span class="lineno">  186</span>&#160;<span class="preprocessor"></span>  <span class="keyword">const</span> colT <a class="code" href="structlayer__header.html#ad986e4b92e5b455e066fd349725c6bd9">height</a> = mat.Height();</div>
 <div class="line"><a name="l00187"></a><span class="lineno">  187</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00188"></a><span class="lineno">  188</span>&#160;<span class="preprocessor"></span>  <span class="keyword">const</span> colT <a class="code" href="structlayer__header.html#a5b4ee2de6371d894b5646b74ceb5c321">ldim</a> = mat.LDim();</div>
-<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;  <span class="keyword">const</span> colT *q_col = (<span class="keyword">const</span> colT *) q;</div>
+<div class="line"><a name="l00189"></a><span class="lineno">  189</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> *q_col = (<span class="keyword">const</span> colT *) q;</div>
 <div class="line"><a name="l00190"></a><span class="lineno">  190</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">int</span> num_threads = <a class="code" href="classlbann_1_1lbann__quantizer.html#aaa0c20f755437130172c40ca8e95bc3f">get_adaptive_quantization_threads</a>(mat.Width());</div>
 <div class="line"><a name="l00191"></a><span class="lineno">  191</span>&#160;<span class="preprocessor">  #pragma omp parallel for schedule(dynamic, 1), firstprivate(header_len, buf) num_threads(num_threads)</span></div>
 <div class="line"><a name="l00192"></a><span class="lineno">  192</span>&#160;<span class="preprocessor"></span>  <span class="keywordflow">for</span> (colT header_loc = 0; header_loc &lt; header_len; header_loc += <a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a>) {</div>
@@ -1211,7 +1211,7 @@ template&lt;typename colT , typename rowT &gt; </div>
 <div class="line"><a name="l00239"></a><span class="lineno">  239</span>&#160;<span class="preprocessor"></span>  <span class="keyword">const</span> colT <a class="code" href="structlayer__header.html#ad986e4b92e5b455e066fd349725c6bd9">height</a> = mat.Height();</div>
 <div class="line"><a name="l00240"></a><span class="lineno">  240</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00241"></a><span class="lineno">  241</span>&#160;<span class="preprocessor"></span>  <span class="keyword">const</span> colT <a class="code" href="structlayer__header.html#a5b4ee2de6371d894b5646b74ceb5c321">ldim</a> = mat.LDim();</div>
-<div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;  <span class="keyword">const</span> colT *q_col = (<span class="keyword">const</span> colT *) q;</div>
+<div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;  <span class="keyword">const</span> <span class="keyword">auto</span> *q_col = (<span class="keyword">const</span> colT *) q;</div>
 <div class="line"><a name="l00243"></a><span class="lineno">  243</span>&#160;  <span class="keyword">const</span> <span class="keywordtype">int</span> num_threads = <a class="code" href="classlbann_1_1lbann__quantizer.html#aaa0c20f755437130172c40ca8e95bc3f">get_adaptive_quantization_threads</a>(mat.Width());</div>
 <div class="line"><a name="l00244"></a><span class="lineno">  244</span>&#160;<span class="preprocessor">  #pragma omp parallel for schedule(dynamic, 1), firstprivate(header_len, buf) num_threads(num_threads)</span></div>
 <div class="line"><a name="l00245"></a><span class="lineno">  245</span>&#160;<span class="preprocessor"></span>  <span class="keywordflow">for</span> (colT header_loc = 0; header_loc &lt; header_len; header_loc += <a class="code" href="classlbann_1_1lbann__quantizer.html#afb4315625e371169cabfac56c3f75d37">HEADER_FACTOR</a>) {</div>
@@ -1465,7 +1465,7 @@ Here is the caller graph for this function:</div>
   </table>
   </dd>
 </dl>
-<dl class="todo"><dt><b><a class="el" href="todo.html#_todo000017">Todo:</a></b></dt><dd>Make this configurable at compile time. </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="todo.html#_todo000015">Todo:</a></b></dt><dd>Make this configurable at compile time. </dd></dl>
 <dl class="section note"><dt>Note</dt><dd>If this and get_adaptive_quantization_threads return different values for the same width, OpenMP may reap its threads and add additional overhead when invoking a parallel region with more threads. </dd></dl>
 
 <p>Definition at line <a class="el" href="quantizer_8hpp_source.html#l00351">351</a> of file <a class="el" href="quantizer_8hpp_source.html">quantizer.hpp</a>.</p>
@@ -1521,7 +1521,7 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 <p>Return the number of threads adaptive quantization should use for a matrix with the given width. This number of threads is empirically determined. </p>
-<dl class="todo"><dt><b><a class="el" href="todo.html#_todo000016">Todo:</a></b></dt><dd>Make this configurable at compile time. </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="todo.html#_todo000014">Todo:</a></b></dt><dd>Make this configurable at compile time. </dd></dl>
 
 <p>Definition at line <a class="el" href="quantizer_8hpp_source.html#l00328">328</a> of file <a class="el" href="quantizer_8hpp_source.html">quantizer.hpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00328"></a><span class="lineno">  328</span>&#160;                                                            {</div>
@@ -2488,7 +2488,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;    memcpy(&amp;avg_neg, &amp;tmp, <span class="keyword">sizeof</span>(avg_neg));</div>
 <div class="line"><a name="l00157"></a><span class="lineno">  157</span>&#160;    <span class="comment">// Unquantize this column.</span></div>
 <div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;    <span class="keywordflow">for</span> (El::Int row_chunk = 0; row_chunk &lt; <a class="code" href="structlayer__header.html#ad986e4b92e5b455e066fd349725c6bd9">height</a>; row_chunk += <a class="code" href="classlbann_1_1lbann__quantizer.html#a33ea17392f53b90e91aea1ffb7e11d68">NUM_BITS</a>) {</div>
-<div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;      <a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a> q = (<a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a>) qmat_buf[qrow + col * qmat_ldim];</div>
+<div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;      <span class="keyword">auto</span> q = (<a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a>) qmat_buf[qrow + col * qmat_ldim];</div>
 <div class="line"><a name="l00160"></a><span class="lineno">  160</span>&#160;      <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> bit = 0; bit &lt; <a class="code" href="classlbann_1_1lbann__quantizer.html#a33ea17392f53b90e91aea1ffb7e11d68">NUM_BITS</a>; ++bit) {</div>
 <div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;        El::Int row = row_chunk + bit;</div>
 <div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160;        <span class="keywordflow">if</span> (row &gt;= height) {</div>
@@ -2613,7 +2613,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;    memcpy(&amp;avg_neg, &amp;tmp, <span class="keyword">sizeof</span>(avg_neg));</div>
 <div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;    <span class="comment">// Unquantize this column.</span></div>
 <div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;    <span class="keywordflow">for</span> (El::Int row_chunk = 0; row_chunk &lt; <a class="code" href="structlayer__header.html#ad986e4b92e5b455e066fd349725c6bd9">height</a>; row_chunk += <a class="code" href="classlbann_1_1lbann__quantizer.html#a33ea17392f53b90e91aea1ffb7e11d68">NUM_BITS</a>) {</div>
-<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;      <a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a> q = (<a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a>) qmat_buf[qrow + col * qmat_ldim];</div>
+<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;      <span class="keyword">auto</span> q = (<a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a>) qmat_buf[qrow + col * qmat_ldim];</div>
 <div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;      <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> bit = 0; bit &lt; <a class="code" href="classlbann_1_1lbann__quantizer.html#a33ea17392f53b90e91aea1ffb7e11d68">NUM_BITS</a>; ++bit) {</div>
 <div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;        El::Int row = row_chunk + bit;</div>
 <div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;        <span class="keywordflow">if</span> (row &gt;= height) {</div>
@@ -3599,7 +3599,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1lbann__quantizer.html">lbann_quantizer</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:29 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:55:48 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

@@ -1,16 +1,14 @@
 <map id="lbann::lbann_comm::get_num_models" name="lbann::lbann_comm::get_num_models">
 <area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__check__init.html#a037f1371c56c1b528f487517a58ce3fb" title="lbann::lbann_callback\l_check_init::on_train_begin" alt="" coords="202,5,382,46"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__debug__io.html#a528f4aea5f657f40b27c58a164d4095a" title="lbann::lbann_callback\l_debug_io::print_phase_start" alt="" coords="197,70,387,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__imcomm.html#a3160dbf536def4f930e0ea0aabdebc11" title="lbann::lbann_callback\l_imcomm::on_epoch_end" alt="" coords="207,135,377,177"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="210,201,374,257"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__ltfb.html#a6adc1934308bfec9625db664141c721d" title="lbann::lbann_callback\l_ltfb::select_partner" alt="" coords="219,282,365,323"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__print.html#a28f2b022193c62f3af40364d2c5b14b2" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="219,347,365,389"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__print.html#a1f72a486004af859823f75c311dcff42" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="219,413,365,454"/>
-<area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__timer.html#a95ccee037894dbb5e3c663fbdfbc9d7f" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="217,478,367,519"/>
-<area shape="rect" id="node12" href="$classlbann_1_1lbann__comm.html#a34d5414f1ac4749e6f0937b638bb5cc6" title="lbann::lbann_comm::\lintermodel_allreduce" alt="" coords="221,543,363,585"/>
-<area shape="rect" id="node13" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="205,609,379,650"/>
-<area shape="rect" id="node15" href="$classlbann_1_1greedy__layerwise__autoencoder.html#aba7eba729e2d84e42b7305da1309d649" title="Global evaluation (testing), provide overall cost relative to original input. " alt="" coords="211,674,373,715"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__imcomm.html#a332ba4ceca91939c79fae2735fdc8ff3" title="lbann::lbann_callback\l_imcomm::on_train_begin" alt="" coords="207,135,377,177"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__imcomm.html#a3160dbf536def4f930e0ea0aabdebc11" title="lbann::lbann_callback\l_imcomm::on_epoch_end" alt="" coords="207,201,377,242"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="210,267,374,323"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__ltfb.html#a6adc1934308bfec9625db664141c721d" title="lbann::lbann_callback\l_ltfb::select_partner" alt="" coords="219,347,365,389"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__print.html#a28f2b022193c62f3af40364d2c5b14b2" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="219,413,365,454"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__print.html#a1f72a486004af859823f75c311dcff42" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="219,478,365,519"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__callback__timer.html#a95ccee037894dbb5e3c663fbdfbc9d7f" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="217,543,367,585"/>
+<area shape="rect" id="node13" href="$classlbann_1_1lbann__comm.html#a34d5414f1ac4749e6f0937b638bb5cc6" title="lbann::lbann_comm::\lintermodel_allreduce" alt="" coords="221,609,363,650"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__debug__io.html#aa3d2a6fb4d7375c05ece0058224ea792" title="BVE FIXME. " alt="" coords="435,70,618,111"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="453,282,600,323"/>
-<area shape="rect" id="node14" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="445,641,608,682"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="453,347,600,389"/>
 </map>

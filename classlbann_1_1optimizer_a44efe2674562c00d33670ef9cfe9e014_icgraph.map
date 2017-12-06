@@ -11,6 +11,8 @@
 <area shape="rect" id="node13" href="$classlbann_1_1optimizer.html#aa9f43ca3f22edc0a25d0509b6514a411" title="lbann::optimizer::step" alt="" coords="225,576,372,603"/>
 <area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__summary.html#a1ff0c4368aee47c294b9c11a5176b9e0" title="lbann::lbann_callback\l_summary::on_train_begin" alt="" coords="451,695,626,737"/>
 <area shape="rect" id="node12" href="$classlbann_1_1lbann__callback__summary.html#a404e64dcedfcba611510379f99dcace9" title="lbann::lbann_callback\l_summary::on_epoch_end" alt="" coords="451,630,626,671"/>
-<area shape="rect" id="node14" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="474,565,603,606"/>
-<area shape="rect" id="node15" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="675,572,805,599"/>
+<area shape="rect" id="node14" href="$classlbann_1_1model.html#a38d8924938fa69857d3f9ed83ac98ee9" title="lbann::model::update\l_weights" alt="" coords="467,565,610,606"/>
+<area shape="rect" id="node15" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="675,565,805,606"/>
+<area shape="rect" id="node16" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="853,535,1016,577"/>
+<area shape="rect" id="node17" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="870,601,999,628"/>
 </map>

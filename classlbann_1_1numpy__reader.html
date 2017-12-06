@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -905,7 +905,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00169"></a><span class="lineno">  169</span>&#160;  <span class="keywordflow">if</span> (!<a class="code" href="classlbann_1_1numpy__reader.html#a7567338be86dff81afece19d031a942d">m_has_responses</a>) {</div>
 <div class="line"><a name="l00170"></a><span class="lineno">  170</span>&#160;    <span class="keywordflow">throw</span> lbann_exception(<span class="stringliteral">&quot;numpy_reader: do not have responses&quot;</span>);</div>
 <div class="line"><a name="l00171"></a><span class="lineno">  171</span>&#160;  }</div>
-<div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160;  <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> response = <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>(0);</div>
+<div class="line"><a name="l00172"></a><span class="lineno">  172</span>&#160;  <span class="keyword">auto</span> response = <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>(0);</div>
 <div class="line"><a name="l00173"></a><span class="lineno">  173</span>&#160;  <span class="keywordflow">if</span> (<a class="code" href="classlbann_1_1numpy__reader.html#a6d43a1eae0fedb6fa237b24cef8f37fa">m_data</a>.word_size == 4) {</div>
 <div class="line"><a name="l00174"></a><span class="lineno">  174</span>&#160;    <span class="keywordtype">float</span> *data = <a class="code" href="classlbann_1_1numpy__reader.html#a6d43a1eae0fedb6fa237b24cef8f37fa">m_data</a>.data&lt;<span class="keywordtype">float</span>&gt;() + data_id*(<a class="code" href="classlbann_1_1numpy__reader.html#aef25f95077f565fa9616ec353b93f675">m_num_features</a>+1);</div>
 <div class="line"><a name="l00175"></a><span class="lineno">  175</span>&#160;    response = (<a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>) data[<a class="code" href="classlbann_1_1numpy__reader.html#aef25f95077f565fa9616ec353b93f675">m_num_features</a>+1];</div>
@@ -1245,15 +1245,6 @@ Here is the call graph for this function:</div>
 <div class="fragment"><div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;{ <a class="code" href="classlbann_1_1numpy__reader.html#a0e8caa5609e706bf909b78c4c35377b8">m_has_labels</a> = b; }</div>
 <div class="ttc" id="classlbann_1_1numpy__reader_html_a0e8caa5609e706bf909b78c4c35377b8"><div class="ttname"><a href="classlbann_1_1numpy__reader.html#a0e8caa5609e706bf909b78c4c35377b8">lbann::numpy_reader::m_has_labels</a></div><div class="ttdeci">bool m_has_labels</div><div class="ttdoc">Whether to fetch a label from the last column. </div><div class="ttdef"><b>Definition:</b> <a href="data__reader__numpy_8hpp_source.html#l00086">data_reader_numpy.hpp:86</a></div></div>
 </div><!-- fragment -->
-<p><div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlbann_1_1numpy__reader_ae5f6ee086fbf0fa91d029808d454c1f0_icgraph.png" border="0" usemap="#classlbann_1_1numpy__reader_ae5f6ee086fbf0fa91d029808d454c1f0_icgraph" alt=""/></div>
-<map name="classlbann_1_1numpy__reader_ae5f6ee086fbf0fa91d029808d454c1f0_icgraph" id="classlbann_1_1numpy__reader_ae5f6ee086fbf0fa91d029808d454c1f0_icgraph">
-<area shape="rect" id="node2" href="proto__common_8hpp.html#a74f60f765908334042f5b5ec5054646e" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="198,12,319,39"/></map>
-</div>
-</p>
-
 </div>
 </div>
 <a class="anchor" id="a511981e78b175345b6b8a84b5f688774"></a>
@@ -1284,15 +1275,6 @@ Here is the caller graph for this function:</div>
 <div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;{ <a class="code" href="classlbann_1_1numpy__reader.html#a7567338be86dff81afece19d031a942d">m_has_responses</a> = b; }</div>
 <div class="ttc" id="classlbann_1_1numpy__reader_html_a7567338be86dff81afece19d031a942d"><div class="ttname"><a href="classlbann_1_1numpy__reader.html#a7567338be86dff81afece19d031a942d">lbann::numpy_reader::m_has_responses</a></div><div class="ttdeci">bool m_has_responses</div><div class="ttdoc">Whether to fetch a response from the last column. </div><div class="ttdef"><b>Definition:</b> <a href="data__reader__numpy_8hpp_source.html#l00088">data_reader_numpy.hpp:88</a></div></div>
 </div><!-- fragment -->
-<p><div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classlbann_1_1numpy__reader_a511981e78b175345b6b8a84b5f688774_icgraph.png" border="0" usemap="#classlbann_1_1numpy__reader_a511981e78b175345b6b8a84b5f688774_icgraph" alt=""/></div>
-<map name="classlbann_1_1numpy__reader_a511981e78b175345b6b8a84b5f688774_icgraph" id="classlbann_1_1numpy__reader_a511981e78b175345b6b8a84b5f688774_icgraph">
-<area shape="rect" id="node2" href="proto__common_8hpp.html#a74f60f765908334042f5b5ec5054646e" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="198,12,319,39"/></map>
-</div>
-</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
@@ -1449,7 +1431,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1numpy__reader.html">numpy_reader</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:13 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:58 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

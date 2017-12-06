@@ -1,6 +1,5 @@
 <map id="lbann::generic_data_reader::get_mini_batch_size" name="lbann::generic_data_reader::get_mini_batch_size">
 <area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a6e00b2ebf313178c8fb7c47baa513746" title="lbann::input_layer\l::get_mini_batch_size" alt="" coords="265,5,415,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__debug__io.html#a528f4aea5f657f40b27c58a164d4095a" title="lbann::lbann_callback\l_debug_io::print_phase_start" alt="" coords="245,70,435,111"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__print.html#ae3c99d7c56ac33ab7e09880134b43cad" title="lbann::lbann_callback\l_print::on_epoch_begin" alt="" coords="497,5,653,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__debug__io.html#aa3d2a6fb4d7375c05ece0058224ea792" title="BVE FIXME. " alt="" coords="483,70,666,111"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__debug__io.html#a528f4aea5f657f40b27c58a164d4095a" title="lbann::lbann_callback\l_debug_io::print_phase_start" alt="" coords="245,70,435,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__debug__io.html#aa3d2a6fb4d7375c05ece0058224ea792" title="BVE FIXME. " alt="" coords="483,70,666,111"/>
 </map>

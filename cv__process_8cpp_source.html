@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -170,8 +170,8 @@ $(document).ready(function(){initNavTree('cv__process_8cpp_source.html','');});
 <div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;</div>
 <div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;</div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;<span class="keywordtype">void</span> cv_process::reset() {</div>
-<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> i = 0u; i &lt; m_transforms.size(); ++i)</div>
-<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    m_transforms[i]-&gt;reset();</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;  <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; m_transform : m_transforms)</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;    m_transform-&gt;reset();</div>
 <div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;}</div>
 <div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;</div>
 <div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;<span class="keywordtype">void</span> cv_process::disable_normalizer() {</div>
@@ -181,8 +181,8 @@ $(document).ready(function(){initNavTree('cv__process_8cpp_source.html','');});
 <div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;}</div>
 <div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;</div>
 <div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;<span class="keywordtype">void</span> cv_process::disable_transforms() {</div>
-<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> i = 0u; i &lt; m_transforms.size(); ++i) {</div>
-<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;    m_transforms[i]-&gt;disable();</div>
+<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;  <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; m_transform : m_transforms) {</div>
+<div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;    m_transform-&gt;disable();</div>
 <div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;  }</div>
 <div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;}</div>
 <div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;</div>
@@ -220,7 +220,7 @@ $(document).ready(function(){initNavTree('cv__process_8cpp_source.html','');});
 <div class="line"><a name="l00144"></a><span class="lineno">  144</span>&#160;</div>
 <div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;std::vector&lt;unsigned int&gt; cv_process::get_data_dims()<span class="keyword"> const </span>{</div>
 <div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;  <span class="keywordflow">for</span>(<span class="keyword">const</span> std::unique_ptr&lt;cv_transform&gt;&amp; tr: m_transforms) {</div>
-<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;    <span class="keyword">const</span> cv_cropper* <span class="keyword">const</span> c = <span class="keyword">dynamic_cast&lt;</span><span class="keyword">const </span>cv_cropper*<span class="keyword">&gt;</span>(&amp;(*tr));</div>
+<div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;    <span class="keyword">const</span> <span class="keyword">auto</span>* <span class="keyword">const</span> c = <span class="keyword">dynamic_cast&lt;</span><span class="keyword">const </span>cv_cropper*<span class="keyword">&gt;</span>(&amp;(*tr));</div>
 <div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;    <span class="keywordflow">if</span> (c != <span class="keyword">nullptr</span>) {</div>
 <div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;      <span class="keywordflow">return</span> {c-&gt;get_crop_width(), c-&gt;get_crop_height()};</div>
 <div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;    }</div>
@@ -359,7 +359,7 @@ $(document).ready(function(){initNavTree('cv__process_8cpp_source.html','');});
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_923d22ad389741cf75d7d5ed6c33331c.html">src</a></li><li class="navelem"><a class="el" href="dir_ef9b326ddabc1183ea63c83861219e30.html">data_readers</a></li><li class="navelem"><a class="el" href="cv__process_8cpp.html">cv_process.cpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:51 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:52 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

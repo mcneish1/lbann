@@ -1,6 +1,6 @@
 var classlbann_1_1sum__layer =
 [
-    [ "sum_layer", "classlbann_1_1sum__layer.html#a3393648b617e1397b6a04eeb40fdee88", null ],
+    [ "sum_layer", "classlbann_1_1sum__layer.html#a5b375fd1c1b0af355b878c2ae5ca6646", null ],
     [ "sum_layer", "classlbann_1_1sum__layer.html#a8e9989500088d4748b51537954dfd026", null ],
     [ "~sum_layer", "classlbann_1_1sum__layer.html#a884bae52065a56c160d4f3bb071b09da", null ],
     [ "bp_compute", "classlbann_1_1sum__layer.html#a0dcddd056cf81c1fbea22a5e1c01c6d9", null ],

@@ -1,5 +1,3 @@
 <map id="lbann::image_data_reader::set_input_params" name="lbann::image_data_reader::set_input_params">
 <area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader__org.html#afb843084789c6a12e01a5d4a687003cf" title="Set up imagenet specific input parameters. " alt="" coords="225,5,383,46"/>
-<area shape="rect" id="node3" href="$init__image__data__readers_8hpp.html#a712004ee86a9e1de504f12e98aa51e24" title="init_image_data_reader" alt="" coords="226,71,382,97"/>
-<area shape="rect" id="node4" href="$proto__common_8hpp.html#a74f60f765908334042f5b5ec5054646e" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="433,71,554,97"/>
 </map>

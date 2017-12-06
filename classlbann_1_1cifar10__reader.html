@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -861,7 +861,7 @@ Here is the call graph for this function:</div>
 
 <p>Definition at line <a class="el" href="data__reader__cifar10_8cpp_source.html#l00105">105</a> of file <a class="el" href="data__reader__cifar10_8cpp_source.html">data_reader_cifar10.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00105"></a><span class="lineno">  105</span>&#160;                                                                         {</div>
-<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;  <span class="keywordtype">int</span> label = (int)<a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>[data_id][0];</div>
+<div class="line"><a name="l00106"></a><span class="lineno">  106</span>&#160;  <span class="keyword">auto</span> label = (int)<a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>[data_id][0];</div>
 <div class="line"><a name="l00107"></a><span class="lineno">  107</span>&#160;  Y.Set(label, mb_idx, 1);</div>
 <div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;  <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;}</div>
@@ -921,19 +921,19 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;  <span class="comment">//reserve space for string images</span></div>
 <div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;  <span class="keywordtype">int</span> num_images = fs / len;</div>
 <div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  <a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>.resize(num_images);</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> h=0; h&lt;<a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>.size(); h++) {</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    <a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>[h].resize(len);</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; h : <a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>) {</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;    h.resize(len);</div>
 <div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;  }</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;</div>
 <div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;  <span class="comment">//read in the images; each image is 1 byte, which is the</span></div>
 <div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;  <span class="comment">//label (0-9), and 3072 pixels</span></div>
-<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> h=0; h&lt;<a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>.size(); h++) {</div>
-<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    in.read((<span class="keywordtype">char</span> *)&amp;(<a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>[h][0]), len);</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;  <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; h : m_data) {</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;    in.read((<span class="keywordtype">char</span> *)&amp;(h[0]), len);</div>
 <div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;  }</div>
 <div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;  in.close();</div>
 <div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;</div>
-<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;  <a class="code" href="classlbann_1_1generic__data__reader.html#aaab6aeff67ffff1c689336851fec2c57">m_shuffled_indices</a>.resize(<a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>.size());</div>
-<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> n = 0; n &lt; <a class="code" href="classlbann_1_1cifar10__reader.html#a9b47dab5c16987441ec5276d91a5aab5">m_data</a>.size(); n++) {</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;  <a class="code" href="classlbann_1_1generic__data__reader.html#aaab6aeff67ffff1c689336851fec2c57">m_shuffled_indices</a>.resize(m_data.size());</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> n = 0; n &lt; m_data.size(); n++) {</div>
 <div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;    <a class="code" href="classlbann_1_1generic__data__reader.html#aaab6aeff67ffff1c689336851fec2c57">m_shuffled_indices</a>[n] = n;</div>
 <div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160;  }</div>
 <div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;</div>
@@ -1124,7 +1124,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1cifar10__reader.html">cifar10_reader</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:11 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:51 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

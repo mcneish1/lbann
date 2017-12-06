@@ -1,6 +1,6 @@
 var classlbann_1_1split__layer =
 [
-    [ "split_layer", "classlbann_1_1split__layer.html#af8b1781b1d8beaaf7ad9a6d62073923b", null ],
+    [ "split_layer", "classlbann_1_1split__layer.html#a875f1e07dd924826e7ec62e44f697c3e", null ],
     [ "split_layer", "classlbann_1_1split__layer.html#a34a41b3d70ee9a3b30bb32b2e94217b4", null ],
     [ "~split_layer", "classlbann_1_1split__layer.html#aaf7837a27d1e949f9753bf8bc70274e6", null ],
     [ "bp_compute", "classlbann_1_1split__layer.html#ae7b54dc12b2560d27f506d5f34c4074f", null ],

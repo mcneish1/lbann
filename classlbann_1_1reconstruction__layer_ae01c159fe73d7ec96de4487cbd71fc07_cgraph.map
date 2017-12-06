@@ -1,3 +1,4 @@
 <map id="lbann::reconstruction_layer::update_compute" name="lbann::reconstruction_layer::update_compute">
-<area shape="rect" id="node2" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="217,12,327,39"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="216,5,440,32"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="273,56,383,83"/>
 </map>

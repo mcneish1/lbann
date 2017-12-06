@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -176,6 +176,14 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af183624e63ba65e0003fa988f53dee0c inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#aba03b59c056ace8094095c08e39b9ac4">on_backward_prop_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1Layer.html">Layer</a> *l)</td></tr>
 <tr class="separator:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a1a9248b305f06419889c1b3b0f0893d8">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a497e750da160e0071ce8864ccc3a1344">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a235195d5fa4461835b861a03a5c0278f">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a4653e2903bfd3903709a81eaf7eabc1a">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a3462e54126adbd0082c22c98d8de5468">on_batch_evaluate_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
 <tr class="separator:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad10891b8ab3de74ee1a70e6255e7d58a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#ad10891b8ab3de74ee1a70e6255e7d58a">on_batch_evaluate_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
@@ -207,7 +215,7 @@ Additional Inherited Members</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Dump activations matrices to files. This will dump each hidden layer's activation matrix after each minibatch. The matrices are written to files using Elemental's simple ASCII format. This is not meant for checkpointing, but for exporting acitvation matrices for analysis that isn't easily done in LBANN. Note this dumps matrices during each mini-batch. This will be slow and produce a lot of output. </p>
 
-<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00045">45</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
+<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00047">47</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="af54e8ae29bfb339c7298856d18e8facc"></a>
 <div class="memitem">
@@ -247,11 +255,11 @@ Additional Inherited Members</h2></td></tr>
   </dd>
 </dl>
 
-<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00052">52</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;                                                                              :</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <a class="code" href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann_callback</a>(batch_interval), <a class="code" href="classlbann_1_1lbann__callback__dump__activations.html#a5775d9317de386e07cbd137122db6ee6">m_basename</a>(basename) {}</div>
+<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00054">54</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;                                                                              :</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <a class="code" href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann_callback</a>(batch_interval), <a class="code" href="classlbann_1_1lbann__callback__dump__activations.html#a5775d9317de386e07cbd137122db6ee6">m_basename</a>(std::move(basename)) {}</div>
 <div class="ttc" id="classlbann_1_1lbann__callback_html_a679057298a41ddd47f08c157f756c584"><div class="ttname"><a href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann::lbann_callback::lbann_callback</a></div><div class="ttdeci">lbann_callback(int batch_interval=1, lbann_summary *summarizer=nullptr)</div><div class="ttdef"><b>Definition:</b> <a href="callback_8hpp_source.html#l00056">callback.hpp:56</a></div></div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__activations_html_a5775d9317de386e07cbd137122db6ee6"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__activations.html#a5775d9317de386e07cbd137122db6ee6">lbann::lbann_callback_dump_activations::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__activations_8hpp_source.html#l00065">callback_dump_activations.hpp:65</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__activations_html_a5775d9317de386e07cbd137122db6ee6"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__activations.html#a5775d9317de386e07cbd137122db6ee6">lbann::lbann_callback_dump_activations::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__activations_8hpp_source.html#l00067">callback_dump_activations.hpp:67</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -312,11 +320,11 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classlbann_1_1lbann__callback.html#a9f545d1269a8c7af335625d049691f26">lbann::lbann_callback</a>.</p>
 
-<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00058">58</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;                                                         {</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__callback__dump__activations.html#af54e8ae29bfb339c7298856d18e8facc">lbann_callback_dump_activations</a>(*<span class="keyword">this</span>);</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__activations_html_af54e8ae29bfb339c7298856d18e8facc"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__activations.html#af54e8ae29bfb339c7298856d18e8facc">lbann::lbann_callback_dump_activations::lbann_callback_dump_activations</a></div><div class="ttdeci">lbann_callback_dump_activations(std::string basename, int batch_interval=1)</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__activations_8hpp_source.html#l00052">callback_dump_activations.hpp:52</a></div></div>
+<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00060">60</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;                                                         {</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__callback__dump__activations.html#af54e8ae29bfb339c7298856d18e8facc">lbann_callback_dump_activations</a>(*<span class="keyword">this</span>);</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;  }</div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__activations_html_af54e8ae29bfb339c7298856d18e8facc"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__activations.html#af54e8ae29bfb339c7298856d18e8facc">lbann::lbann_callback_dump_activations::lbann_callback_dump_activations</a></div><div class="ttdeci">lbann_callback_dump_activations(std::string basename, int batch_interval=1)</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__activations_8hpp_source.html#l00054">callback_dump_activations.hpp:54</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -353,8 +361,8 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classlbann_1_1lbann__callback.html#a7522c7a14f1d6a1ea762cc2d7248eb3a">lbann::lbann_callback</a>.</p>
 
-<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00062">62</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;dump activations&quot;</span>; }</div>
+<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00064">64</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;dump activations&quot;</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -412,7 +420,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;  El::Write(l-&gt;get_activations(), file, El::ASCII);</div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;  </div>
 <div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;}</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__activations_html_a5775d9317de386e07cbd137122db6ee6"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__activations.html#a5775d9317de386e07cbd137122db6ee6">lbann::lbann_callback_dump_activations::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__activations_8hpp_source.html#l00065">callback_dump_activations.hpp:65</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__activations_html_a5775d9317de386e07cbd137122db6ee6"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__activations.html#a5775d9317de386e07cbd137122db6ee6">lbann::lbann_callback_dump_activations::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__activations_8hpp_source.html#l00067">callback_dump_activations.hpp:67</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -469,7 +477,7 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 <p>Basename for writing files. </p>
 
-<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00065">65</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
+<p>Definition at line <a class="el" href="callback__dump__activations_8hpp_source.html#l00067">67</a> of file <a class="el" href="callback__dump__activations_8hpp_source.html">callback_dump_activations.hpp</a>.</p>
 
 </div>
 </div>
@@ -483,7 +491,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1lbann__callback__dump__activations.html">lbann_callback_dump_activations</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:03 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:28 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

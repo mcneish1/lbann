@@ -1,3 +1,4 @@
 <map id="lbann::Layer::fp_compute" name="lbann::Layer::fp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a2483ccd8a4406a6891f6176f1001b4e5" title="lbann::Layer::forward_prop" alt="" coords="224,5,400,32"/>
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a2483ccd8a4406a6891f6176f1001b4e5" title="lbann::Layer::forward_prop" alt="" coords="224,12,400,39"/>
+<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#af16aa7d2336a3f64e27970241cb2cd3e" title="lbann::greedy_layerwise\l_autoencoder::forward_prop" alt="" coords="449,5,631,46"/>
 </map>

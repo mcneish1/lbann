@@ -1,10 +1,7 @@
 <map id="lbann::Layer::get_num_neurons" name="lbann::Layer::get_num_neurons">
-<area shape="rect" id="node2" href="$classlbann_1_1reconstruction__layer.html#a3abb27b670b5c57f2a6b1d669a7de508" title="lbann::reconstruction\l_layer::setup_dims" alt="" coords="217,5,359,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#ad395a8f4a45a6a7547b4da4bad6b2c78" title="Print out the description of a layer set up. " alt="" coords="223,70,353,111"/>
-<area shape="rect" id="node9" href="$classlbann_1_1sequential__model.html#aa8c82036ab32a3caf35811ff887bb64b" title="lbann::sequential_model\l::num_previous_neurons" alt="" coords="206,135,370,177"/>
-<area shape="rect" id="node4" href="$classlbann_1_1sequential__model.html#ae894aa390468c3b7646d8fc0c4389795" title="lbann::sequential_model\l::setup_subset" alt="" coords="419,38,581,79"/>
-<area shape="rect" id="node8" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="424,103,576,145"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a9531d27227598e0f28a6fc04ef672ebf" title="Inserts a mirror layer for specified layer index. " alt="" coords="630,6,810,47"/>
-<area shape="rect" id="node6" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="639,71,801,113"/>
-<area shape="rect" id="node7" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a90afd0c31448bb8f9f6e1e9f39f416a3" title="Removes mirror for specified layer index. " alt="" coords="859,71,1050,113"/>
+<area shape="rect" id="node2" href="$classlbann_1_1reconstruction__layer.html#a3abb27b670b5c57f2a6b1d669a7de508" title="lbann::reconstruction\l_layer::setup_dims" alt="" coords="206,5,349,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#ad395a8f4a45a6a7547b4da4bad6b2c78" title="lbann::model::print\l_layer_description" alt="" coords="213,70,342,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="397,37,560,78"/>
+<area shape="rect" id="node6" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="403,102,555,143"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adc219a87e3ce3a0e5a11450cc80d67e5" title="lbann::greedy_layerwise\l_autoencoder::setup" alt="" coords="608,37,771,78"/>
 </map>

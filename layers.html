@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -92,9 +92,18 @@ $(document).ready(function(){initNavTree('layers.html','');});
 <div class="title">Layers </div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p>Detailed information for layer types and options within these types can be found in this section. The layers are <a class="el" href="layers.html#learning">Learning</a>, <a class="el" href="layers.html#regularizer">Regularizer</a>, <a class="el" href="layers.html#transform">Transform</a>, <a class="el" href="layers.html#activation">Activation</a>, and <a class="el" href="layers.html#io">IO</a>.</p>
+<div class="textblock"><p>Detailed information for layer types and options within these types can be found in this section. The layers are <a class="el" href="layers.html#learning">Learning</a>, <a class="el" href="layers.html#regularizer">Regularizer</a>, <a class="el" href="layers.html#transform">Transform</a>, <a class="el" href="layers.html#activation">Activation</a>, and <a class="el" href="layers.html#i_o">IO</a>.</p>
 <h1><a class="anchor" id="learning"></a>
 Learning</h1>
+<h2><a class="anchor" id="conv"></a>
+Convolution</h2>
+<p>Implementation details: <a class="el" href="classlbann_1_1convolution__layer.html" title="Convolution layer. ">lbann::convolution_layer</a></p>
+<h2><a class="anchor" id="deconv"></a>
+Deconvolution</h2>
+<p>Implementation details: <a class="el" href="classlbann_1_1deconvolution__layer.html" title="Convolution layer. ">lbann::deconvolution_layer</a></p>
+<h2><a class="anchor" id="ip"></a>
+Fully Connected</h2>
+<p>Implementation details: <a class="el" href="classlbann_1_1fully__connected__layer.html">lbann::fully_connected_layer</a></p>
 <h1><a class="anchor" id="regularizer"></a>
 Regularizer</h1>
 <h2><a class="anchor" id="batchNorm"></a>
@@ -118,16 +127,31 @@ Transform</h1>
 <h2><a class="anchor" id="concatenation"></a>
 Concatenation</h2>
 <p>Implementation details: <a class="el" href="classlbann_1_1concatenation__layer.html" title="Concatenation layer. ">lbann::concatenation_layer</a></p>
+<h2><a class="anchor" id="noise"></a>
+Noise</h2>
+<p>Add synthetic (Gaussian) noise to input data (the layer below) </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">noise_factor</td><td>controls the noise level</td></tr>
+  </table>
+  </dd>
+</dl>
+<p>Implementation details: <a class="el" href="classlbann_1_1noise__layer.html">lbann::noise_layer</a></p>
+<h2><a class="anchor" id="unpooling"></a>
+Unpooling</h2>
+<p>Implementation details: <a class="el" href="classlbann_1_1unpooling__layer.html" title="Unpooling layer. ">lbann::unpooling_layer</a></p>
 <h2><a class="anchor" id="pooling"></a>
 Pooling</h2>
-<p><a class="el" href="classlbann_1_1pooling__layer.html" title="Pooling layer. ">lbann::pooling_layer</a></p>
+<p>Implementation details: <a class="el" href="classlbann_1_1pooling__layer.html" title="Pooling layer. ">lbann::pooling_layer</a></p>
+<h2><a class="anchor" id="reshape"></a>
+Reshape</h2>
+<p>Reshape layer</p>
 <p>Implementation details: <a class="el" href="classlbann_1_1pooling__layer.html" title="Pooling layer. ">lbann::pooling_layer</a></p>
 <h2><a class="anchor" id="slice"></a>
 Slice</h2>
 <p>Implementation details: <a class="el" href="classlbann_1_1slice__layer.html" title="Slice layer. ">lbann::slice_layer</a></p>
 <h2><a class="anchor" id="split"></a>
 Split</h2>
-<p><a class="el" href="classlbann_1_1split__layer.html" title="Split layer. ">lbann::split_layer</a></p>
 <p>Implementation details: <a class="el" href="classlbann_1_1split__layer.html" title="Split layer. ">lbann::split_layer</a></p>
 <h2><a class="anchor" id="sum"></a>
 Sum</h2>
@@ -174,14 +198,32 @@ Softmax</h2>
 Tanh</h2>
 <p>Hyperbolic tangent activation function.</p>
 <p>Implementation details: <a class="el" href="classlbann_1_1tanh__layer.html">lbann::tanh_layer</a></p>
-<h1><a class="anchor" id="io"></a>
+<h2><a class="anchor" id="atan"></a>
+Atan</h2>
+<p>Atan activation function. See: <a href="http://mathworld.wolfram.com/InverseTangent.html">http://mathworld.wolfram.com/InverseTangent.html</a></p>
+<p>Implementation details: <a class="el" href="classlbann_1_1atan__layer.html">lbann::atan_layer</a></p>
+<h2><a class="anchor" id="bent_identity"></a>
+Bent Identity</h2>
+<p>Bent Identity activation function. See: <a href="https://en.wikipedia.org/wiki/Bent_Identity_function">https://en.wikipedia.org/wiki/Bent_Identity_function</a></p>
+<p>Implementation details: <a class="el" href="classlbann_1_1bent__identity__layer.html">lbann::bent_identity_layer</a></p>
+<h2><a class="anchor" id="exponential"></a>
+Exponential</h2>
+<p>Exponential activation function. See: <a href="https://en.wikipedia.org/wiki/Exponential_function">https://en.wikipedia.org/wiki/Exponential_function</a></p>
+<p>Implementation details: <a class="el" href="classlbann_1_1exponential__layer.html">lbann::exponential_layer</a></p>
+<h1><a class="anchor" id="i_o"></a>
 IO</h1>
+<h2><a class="anchor" id="input"></a>
+Input</h2>
+<p>Implementation details: <a class="el" href="classlbann_1_1input__layer.html">lbann::input_layer</a> </p>
+<h2><a class="anchor" id="target"></a>
+Target</h2>
+<p>Implementation details: <a class="el" href="classlbann_1_1target__layer.html">lbann::target_layer</a> </p>
 </div></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:00 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:18 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

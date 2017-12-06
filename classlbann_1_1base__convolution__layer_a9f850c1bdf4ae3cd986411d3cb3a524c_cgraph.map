@@ -3,7 +3,6 @@
 <area shape="rect" id="node4" href="$classlbann_1_1model.html#a077e4cd5b4bedc6bc63a46cdbd5ab543" title="lbann::model::create\l_optimizer" alt="" coords="235,63,375,105"/>
 <area shape="rect" id="node6" href="$classlbann_1_1model.html#af35fca77e75eb6dd570e4727aa3d5b6b" title="lbann::model::add_weights" alt="" coords="217,129,394,156"/>
 <area shape="rect" id="node7" href="$classlbann_1_1fan__in__fan__out__initializer.html#a6da7299bd2fb6aa1b549125fc62ffafc" title="lbann::fan_in_fan_out\l_initializer::set_fan_in" alt="" coords="231,181,379,222"/>
-<area shape="rect" id="node8" href="$classlbann_1_1fan__in__fan__out__initializer.html#a4464e05d66e938058a01be04a2495452" title="lbann::fan_in_fan_out\l_initializer::set_fan_out" alt="" coords="227,246,383,287"/>
 <area shape="rect" id="node3" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="443,5,597,46"/>
 <area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#adf19a1d19d832ebfe70072cc202cdf39" title="lbann::optimizer::copy" alt="" coords="445,71,595,97"/>
 </map>

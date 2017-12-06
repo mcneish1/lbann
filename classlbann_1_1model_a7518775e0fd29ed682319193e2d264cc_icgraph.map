@@ -1,8 +1,9 @@
 <map id="lbann::model::update_layers" name="lbann::model::update_layers">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a86392f46d84513b82761f749a31093db" title="lbann::model::evaluate\l_mini_batch" alt="" coords="198,5,351,46"/>
-<area shape="rect" id="node7" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="413,63,542,105"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a4191097fdbcd1686525e9cd150f958ef" title="lbann::model::evaluate" alt="" coords="401,12,554,39"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__ltfb.html#af447a14b1598f93f87af7ff006a124ba" title="lbann::lbann_callback\l_ltfb::evaluate" alt="" coords="603,5,749,46"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="611,71,741,97"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="797,5,944,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a9716a956bdc7d20dbc8ce8bf08bbcea7" title="lbann::model::evaluate\l_mini_batch" alt="" coords="198,63,351,105"/>
+<area shape="rect" id="node8" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="413,122,542,163"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a4191097fdbcd1686525e9cd150f958ef" title="lbann::model::evaluate" alt="" coords="401,71,554,97"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__ltfb.html#af447a14b1598f93f87af7ff006a124ba" title="lbann::lbann_callback\l_ltfb::evaluate" alt="" coords="611,5,757,46"/>
+<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="603,122,765,163"/>
+<area shape="rect" id="node7" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="619,71,749,97"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="813,5,960,46"/>
 </map>

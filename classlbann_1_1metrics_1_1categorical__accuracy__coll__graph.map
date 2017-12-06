@@ -1,11 +1,11 @@
 <map id="lbann::metrics::categorical_accuracy&lt; T_layout &gt;" name="lbann::metrics::categorical_accuracy&lt; T_layout &gt;">
-<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="28,307,175,333"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="156,5,290,32"/>
-<area shape="rect" id="node6" href="$classlbann_1_1optimizer.html" title="lbann::optimizer" alt="" coords="435,96,550,123"/>
-<area shape="rect" id="node8" href="$classlbann_1_1weights.html" title="lbann::weights" alt="" coords="289,187,395,213"/>
-<area shape="rect" id="node9" href="$classlbann_1_1weights__initializer.html" title="lbann::weights_initializer" alt="" coords="141,96,305,123"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="543,187,639,213"/>
-<area shape="rect" id="node4" href="$classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="19,187,185,213"/>
-<area shape="rect" id="node10" href="$classlbann_1_1objective__function.html" title="lbann::objective_function" alt="" coords="507,307,673,333"/>
-<area shape="rect" id="node7" href="$classcudnn_1_1cudnn__manager.html" title="cudnn::cudnn_manager" alt="" coords="363,5,521,32"/>
+<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1metric.html" title="lbann::metrics::metric" alt="" coords="33,307,180,333"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="137,5,271,32"/>
+<area shape="rect" id="node6" href="$classlbann_1_1optimizer.html" title="lbann::optimizer" alt="" coords="416,96,531,123"/>
+<area shape="rect" id="node8" href="$classlbann_1_1weights.html" title="lbann::weights" alt="" coords="269,187,376,213"/>
+<area shape="rect" id="node9" href="$classlbann_1_1weights__initializer.html" title="lbann::weights_initializer" alt="" coords="122,96,285,123"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="524,187,620,213"/>
+<area shape="rect" id="node4" href="$classlbann_1_1metrics_1_1statistics.html" title="lbann::metrics::statistics" alt="" coords="24,187,189,213"/>
+<area shape="rect" id="node10" href="$classlbann_1_1objective__function.html" title="lbann::objective_function" alt="" coords="487,307,653,333"/>
+<area shape="rect" id="node7" href="$classcudnn_1_1cudnn__manager.html" title="cudnn::cudnn_manager" alt="" coords="344,5,501,32"/>
 </map>

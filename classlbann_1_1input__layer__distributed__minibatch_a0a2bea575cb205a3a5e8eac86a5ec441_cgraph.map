@@ -1,11 +1,11 @@
 <map id="lbann::input_layer_distributed_minibatch::setup_data" name="lbann::input_layer_distributed_minibatch::setup_data">
 <area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a0e2a03f177fdcc0aa366e5eeea1270ef" title="lbann::input_layer\l::setup_data" alt="" coords="258,5,382,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="712,37,867,78"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="747,37,901,78"/>
 <area shape="rect" id="node5" href="$classlbann_1_1input__layer.html#a61ce6b94adf181112c41a20c1ce261fa" title="lbann::input_layer\l::calculate_num_iterations\l_per_epoch_training_spans_models" alt="" coords="205,133,435,189"/>
 <area shape="rect" id="node10" href="$classlbann_1_1input__layer.html#a724e066351c5e6a4f89e6b80313e2b81" title="lbann::input_layer\l::calculate_num_iterations\l_per_epoch_training_unique\l_per_models" alt="" coords="229,217,411,287"/>
 <area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a50a89f8a68762c677d48efe384676e81" title="lbann::Layer::setup_data" alt="" coords="491,16,656,43"/>
 <area shape="rect" id="node6" href="$classlbann_1_1generic__data__distribution.html#a8445ea9fc402e4e0d52b654d188ed7e0" title="lbann::generic_data\l_distribution::calculate\l_num_iterations_per_epoch\l_spanning_models" alt="" coords="483,122,664,193"/>
 <area shape="rect" id="node7" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="511,311,635,353"/>
 <area shape="rect" id="node9" href="$classlbann_1_1generic__data__distribution.html#a7db3be4de938c7ab55089c1a12c9fc2d" title="lbann::generic_data\l_distribution::calculate\l_num_iterations_per_epoch\l_single_model" alt="" coords="483,217,664,287"/>
-<area shape="rect" id="node8" href="$classlbann_1_1input__layer.html#a7f76e9590f8aaca012904a955eb37a49" title="lbann::input_layer\l::get_execution_mode" alt="" coords="714,311,865,353"/>
+<area shape="rect" id="node8" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="712,319,936,345"/>
 </map>

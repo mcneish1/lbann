@@ -1,5 +1,11 @@
 <map id="lbann::loss_function" name="lbann::loss_function">
-<area shape="rect" id="node3" href="$classlbann_1_1cross__entropy.html" title="lbann::cross_entropy" alt="" coords="5,163,147,189"/>
-<area shape="rect" id="node4" href="$classlbann_1_1mean__squared__error.html" title="lbann::mean_squared\l_error" alt="" coords="172,155,319,197"/>
-<area shape="rect" id="node2" href="$classlbann_1_1objective__function__term.html" title="lbann::objective_function_term" alt="" coords="61,5,259,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1binary__cross__entropy.html" title="lbann::binary_cross\l_entropy" alt="" coords="458,5,593,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1cross__entropy.html" title="lbann::cross_entropy" alt="" coords="454,71,597,97"/>
+<area shape="rect" id="node5" href="$classlbann_1_1cross__entropy__with__uncertainty.html" title="lbann::cross_entropy\l_with_uncertainty" alt="" coords="454,122,597,163"/>
+<area shape="rect" id="node6" href="$classlbann_1_1geom__negloglike.html" title="lbann::geom_negloglike" alt="" coords="446,188,605,215"/>
+<area shape="rect" id="node7" href="$classlbann_1_1mean__absolute__deviation.html" title="lbann::mean_absolute\l_deviation" alt="" coords="451,239,600,281"/>
+<area shape="rect" id="node8" href="$classlbann_1_1mean__squared__error.html" title="lbann::mean_squared\l_error" alt="" coords="452,305,599,346"/>
+<area shape="rect" id="node9" href="$classlbann_1_1poisson__negloglike.html" title="lbann::poisson_negloglike" alt="" coords="440,371,611,397"/>
+<area shape="rect" id="node10" href="$classlbann_1_1polya__negloglike.html" title="lbann::polya_negloglike" alt="" coords="447,421,604,448"/>
+<area shape="rect" id="node2" href="$classlbann_1_1objective__function__term.html" title="lbann::objective_function_term" alt="" coords="6,217,205,244"/>
 </map>

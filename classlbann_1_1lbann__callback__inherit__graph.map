@@ -21,13 +21,14 @@
 <area shape="rect" id="node26" href="$classlbann_1_1lbann__callback__profiler.html" title="lbann::lbann_callback\l_profiler" alt="" coords="220,1222,367,1263"/>
 <area shape="rect" id="node27" href="$classlbann_1_1lbann__callback__save__images.html" title="lbann::lbann_callback\l_save_images" alt="" coords="220,1287,367,1329"/>
 <area shape="rect" id="node28" href="$classlbann_1_1lbann__callback__summary.html" title="lbann::lbann_callback\l_summary" alt="" coords="220,1353,367,1394"/>
-<area shape="rect" id="node29" href="$classlbann_1_1lbann__callback__timer.html" title="lbann::lbann_callback\l_timer" alt="" coords="220,1418,367,1459"/>
-<area shape="rect" id="node30" href="$classlbann_1_1lbann__callback__variable__minibatch.html" title="lbann::lbann_callback\l_variable_minibatch" alt="" coords="220,1483,367,1525"/>
+<area shape="rect" id="node29" href="$classlbann_1_1lbann__callback__timeline.html" title="lbann::lbann_callback\l_timeline" alt="" coords="220,1418,367,1459"/>
+<area shape="rect" id="node30" href="$classlbann_1_1lbann__callback__timer.html" title="lbann::lbann_callback\l_timer" alt="" coords="220,1483,367,1525"/>
+<area shape="rect" id="node31" href="$classlbann_1_1lbann__callback__variable__minibatch.html" title="lbann::lbann_callback\l_variable_minibatch" alt="" coords="220,1549,367,1590"/>
 <area shape="rect" id="node19" href="$classlbann_1_1lbann__callback__adaptive__learning__rate.html" title="lbann::lbann_callback\l_adaptive_learning_rate" alt="" coords="449,909,607,950"/>
 <area shape="rect" id="node20" href="$classlbann_1_1lbann__callback__drop__fixed__learning__rate.html" title="lbann::lbann_callback\l_drop_fixed_learning_rate" alt="" coords="443,974,613,1015"/>
 <area shape="rect" id="node21" href="$classlbann_1_1lbann__callback__linear__growth__learning__rate.html" title="lbann::lbann_callback\l_linear_growth_learning_rate" alt="" coords="435,1039,621,1081"/>
 <area shape="rect" id="node22" href="$classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html" title="lbann::lbann_callback\l_optimizerwise_adaptive\l_learning_rate" alt="" coords="445,1105,611,1161"/>
 <area shape="rect" id="node23" href="$classlbann_1_1lbann__callback__step__learning__rate.html" title="lbann::lbann_callback\l_step_learning_rate" alt="" coords="455,1186,601,1227"/>
-<area shape="rect" id="node31" href="$classlbann_1_1lbann__callback__minibatch__schedule.html" title="lbann::lbann_callback\l_minibatch_schedule" alt="" coords="455,1450,601,1491"/>
-<area shape="rect" id="node32" href="$classlbann_1_1lbann__callback__step__minibatch.html" title="lbann::lbann_callback\l_step_minibatch" alt="" coords="455,1515,601,1557"/>
+<area shape="rect" id="node32" href="$classlbann_1_1lbann__callback__minibatch__schedule.html" title="lbann::lbann_callback\l_minibatch_schedule" alt="" coords="455,1515,601,1557"/>
+<area shape="rect" id="node33" href="$classlbann_1_1lbann__callback__step__minibatch.html" title="lbann::lbann_callback\l_step_minibatch" alt="" coords="455,1581,601,1622"/>
 </map>

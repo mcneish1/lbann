@@ -1,6 +1,12 @@
 <map id="lbann::objective_function_term" name="lbann::objective_function_term">
-<area shape="rect" id="node2" href="$classlbann_1_1l2__weight__regularization.html" title="lbann::l2_weight_regularization" alt="" coords="5,80,205,107"/>
-<area shape="rect" id="node3" href="$classlbann_1_1loss__function.html" title="lbann::loss_function" alt="" coords="229,80,368,107"/>
-<area shape="rect" id="node4" href="$classlbann_1_1cross__entropy.html" title="lbann::cross_entropy" alt="" coords="142,163,284,189"/>
-<area shape="rect" id="node5" href="$classlbann_1_1mean__squared__error.html" title="lbann::mean_squared\l_error" alt="" coords="309,155,456,197"/>
+<area shape="rect" id="node2" href="$classlbann_1_1l2__weight__regularization.html" title="lbann::l2_weight_regularization" alt="" coords="253,167,453,193"/>
+<area shape="rect" id="node3" href="$classlbann_1_1loss__function.html" title="lbann::loss_function" alt="" coords="284,217,423,244"/>
+<area shape="rect" id="node4" href="$classlbann_1_1binary__cross__entropy.html" title="lbann::binary_cross\l_entropy" alt="" coords="519,5,654,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1cross__entropy.html" title="lbann::cross_entropy" alt="" coords="515,71,658,97"/>
+<area shape="rect" id="node6" href="$classlbann_1_1cross__entropy__with__uncertainty.html" title="lbann::cross_entropy\l_with_uncertainty" alt="" coords="515,122,658,163"/>
+<area shape="rect" id="node7" href="$classlbann_1_1geom__negloglike.html" title="lbann::geom_negloglike" alt="" coords="507,188,666,215"/>
+<area shape="rect" id="node8" href="$classlbann_1_1mean__absolute__deviation.html" title="lbann::mean_absolute\l_deviation" alt="" coords="512,239,661,281"/>
+<area shape="rect" id="node9" href="$classlbann_1_1mean__squared__error.html" title="lbann::mean_squared\l_error" alt="" coords="513,305,660,346"/>
+<area shape="rect" id="node10" href="$classlbann_1_1poisson__negloglike.html" title="lbann::poisson_negloglike" alt="" coords="501,371,672,397"/>
+<area shape="rect" id="node11" href="$classlbann_1_1polya__negloglike.html" title="lbann::polya_negloglike" alt="" coords="508,421,665,448"/>
 </map>

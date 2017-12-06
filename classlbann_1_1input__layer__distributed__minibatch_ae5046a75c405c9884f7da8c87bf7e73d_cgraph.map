@@ -1,15 +1,15 @@
 <map id="lbann::input_layer_distributed_minibatch::fp_compute" name="lbann::input_layer_distributed_minibatch::fp_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1distributed__minibatch.html#a3c8a76cf76cda34543f1710dac611caf" title="lbann::distributed\l_minibatch::fetch_to\l_local_matrix" alt="" coords="229,136,369,192"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="237,5,361,46"/>
-<area shape="rect" id="node6" href="$classlbann_1_1generic__data__distribution.html#a80b28ff9727f1618c70d23588f588cde" title="Is this rank the current root node for the Elemental Distribution. " alt="" coords="205,70,392,111"/>
-<area shape="rect" id="node8" href="$classlbann_1_1input__layer.html#a14eaabc5c57543a966e0b274be5891d2" title="lbann::input_layer\l::update_num_samples\l_processed" alt="" coords="220,363,377,419"/>
-<area shape="rect" id="node13" href="$classlbann_1_1model.html#a4f3cc91f8495870723389be15f77184a" title="lbann::model::set_current\l_mini_batch_size" alt="" coords="214,297,383,338"/>
-<area shape="rect" id="node14" href="$classlbann_1_1distributed__minibatch.html#a121ebcae23ab1c8ae4a65dcb9460457f" title="lbann::distributed\l_minibatch::distribute\l_from_local_matrix" alt="" coords="225,216,372,272"/>
-<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a2a3dfe8df7934de80214c3aa59a8c2a9" title="Return the number of parallel readers per model. " alt="" coords="444,176,615,232"/>
-<area shape="rect" id="node5" href="$classlbann_1_1input__layer.html#a7f76e9590f8aaca012904a955eb37a49" title="lbann::input_layer\l::get_execution_mode" alt="" coords="454,5,605,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1distributed__minibatch.html#a3c8a76cf76cda34543f1710dac611caf" title="lbann::distributed\l_minibatch::fetch_to\l_local_matrix" alt="" coords="229,129,369,185"/>
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b" title="lbann::input_layer\l::get_data_reader" alt="" coords="467,5,591,46"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__data__distribution.html#a80b28ff9727f1618c70d23588f588cde" title="Is this rank the current root node for the Elemental Distribution. " alt="" coords="205,63,392,105"/>
+<area shape="rect" id="node8" href="$classlbann_1_1input__layer.html#a14eaabc5c57543a966e0b274be5891d2" title="lbann::input_layer\l::update_num_samples\l_processed" alt="" coords="220,356,377,412"/>
+<area shape="rect" id="node13" href="$classlbann_1_1model.html#a4f3cc91f8495870723389be15f77184a" title="lbann::model::set_current\l_mini_batch_size" alt="" coords="214,290,383,331"/>
+<area shape="rect" id="node14" href="$classlbann_1_1distributed__minibatch.html#a121ebcae23ab1c8ae4a65dcb9460457f" title="lbann::distributed\l_minibatch::distribute\l_from_local_matrix" alt="" coords="225,209,372,265"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a2a3dfe8df7934de80214c3aa59a8c2a9" title="Return the number of parallel readers per model. " alt="" coords="444,172,615,228"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="667,111,891,137"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="458,70,601,111"/>
-<area shape="rect" id="node9" href="$classlbann_1_1input__layer.html#ac285598482f2aeb7e907a6895f7158be" title="lbann::input_layer\l::select_dataset" alt="" coords="467,305,591,346"/>
-<area shape="rect" id="node11" href="$classlbann_1_1dataset.html#a412b29a50638f7d8feea4ad368c6a4dc" title="lbann::dataset::num\l_samples_processed" alt="" coords="457,370,602,411"/>
-<area shape="rect" id="node12" href="$classlbann_1_1dataset.html#a1342ab433dd0a23bb83ba8c9524e7d4a" title="lbann::dataset::get\l_num_samples_processed" alt="" coords="441,435,618,477"/>
-<area shape="rect" id="node10" href="$classlbann_1_1input__layer.html#aecb64889e2135f0d84b475f31bb4c17f" title="lbann::input_layer\l::get_dataset" alt="" coords="667,305,791,346"/>
+<area shape="rect" id="node9" href="$classlbann_1_1input__layer.html#ac285598482f2aeb7e907a6895f7158be" title="lbann::input_layer\l::select_dataset" alt="" coords="467,261,591,302"/>
+<area shape="rect" id="node11" href="$classlbann_1_1dataset.html#a412b29a50638f7d8feea4ad368c6a4dc" title="lbann::dataset::num\l_samples_processed" alt="" coords="457,330,602,371"/>
+<area shape="rect" id="node12" href="$classlbann_1_1dataset.html#a1342ab433dd0a23bb83ba8c9524e7d4a" title="lbann::dataset::get\l_num_samples_processed" alt="" coords="441,395,618,437"/>
+<area shape="rect" id="node10" href="$classlbann_1_1input__layer.html#aecb64889e2135f0d84b475f31bb4c17f" title="lbann::input_layer\l::get_dataset" alt="" coords="717,261,841,302"/>
 </map>

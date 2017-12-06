@@ -1,4 +1,4 @@
 <map id="lbann::lbann_callback_variable_minibatch::get_current_learning_rate" name="lbann::lbann_callback_variable_minibatch::get_current_learning_rate">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a3a48f1f87528a090da84e8f7ef7df35e" title="lbann::model::get_weights" alt="" coords="222,5,397,32"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="222,5,397,32"/>
 <area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a3d43f99cf93668b9a1a1974a47cf644a" title="lbann::optimizer::get\l_learning_rate" alt="" coords="239,57,379,98"/>
 </map>

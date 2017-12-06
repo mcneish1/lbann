@@ -1,7 +1,7 @@
 <map id="lbann::batch_normalization::bp_compute_cpu" name="lbann::batch_normalization::bp_compute_cpu">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a7f8a6efd69263d6268ced61c8121f344" title="lbann::Layer::get_execution_mode" alt="" coords="232,5,453,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef" title="lbann::lbann_comm::\lallreduce" alt="" coords="271,57,414,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#adc2be91222e59b976a40f614dbcfb644" title="lbann::model::get_effective\l_mini_batch_size" alt="" coords="253,122,432,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#aba753df2dc9b36c5c1bdd8b2dbfbbd79" title="lbann::optimizer::allreduce\l_and_add_to_gradient" alt="" coords="255,187,430,229"/>
-<area shape="rect" id="node6" href="$classlbann_1_1optimizer.html#a10517deafb049ddd740f72e7c3ff2cc3" title="lbann::optimizer::is\l_initialized" alt="" coords="502,187,634,229"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="232,5,456,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="259,57,429,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef" title="lbann::lbann_comm::\lallreduce" alt="" coords="273,122,415,163"/>
+<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#aba753df2dc9b36c5c1bdd8b2dbfbbd79" title="lbann::optimizer::allreduce\l_and_add_to_gradient" alt="" coords="257,187,431,229"/>
+<area shape="rect" id="node6" href="$classlbann_1_1optimizer.html#a10517deafb049ddd740f72e7c3ff2cc3" title="lbann::optimizer::is\l_initialized" alt="" coords="505,187,637,229"/>
 </map>

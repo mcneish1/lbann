@@ -1,8 +1,7 @@
 <map id="lbann::model::do_layer_backward_prop_end_cbs" name="lbann::model::do_layer_backward_prop_end_cbs">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a2ce4444efaab4dd1236c837d6847e438" title="lbann::model::backward_prop" alt="" coords="232,15,424,41"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a2a36fa3e219c8facb254185b704105a4" title="Training step on one mini&#45;batch. " alt="" coords="227,67,429,109"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="501,5,630,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="718,12,847,39"/>
-<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="478,70,653,111"/>
-<area shape="rect" id="node7" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="701,70,864,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a6d39fda041fe570a668cb72594508062" title="lbann::greedy_layerwise\l_autoencoder::backward_prop" alt="" coords="467,5,663,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a2ce4444efaab4dd1236c837d6847e438" title="lbann::model::backward_prop" alt="" coords="227,63,419,89"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="501,70,630,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="712,41,875,82"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="729,107,858,133"/>
 </map>

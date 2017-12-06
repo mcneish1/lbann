@@ -7,14 +7,13 @@
 <area shape="rect" id="node10" href="$proto__common_8cpp.html#a0fdec131be29a7d794ec3e3fc89d1dcb" title="get_pool_mode" alt="" coords="170,275,281,301"/>
 <area shape="rect" id="node11" href="$classlbann_1_1Layer.html#a1edbe39f1a48826a377ade47578bf7c5" title="lbann::Layer::set_name" alt="" coords="146,325,305,352"/>
 <area shape="rect" id="node12" href="$classlbann_1_1Layer.html#a7eae259f041e79b4a23f439f3dbe800d" title="lbann::Layer::get_name" alt="" coords="146,376,305,403"/>
-<area shape="rect" id="node13" href="$proto__common_8cpp.html#a579d7fb8865ac82f25a7ed4e0f12469c" title="layer_is_in_model" alt="" coords="381,420,507,447"/>
+<area shape="rect" id="node13" href="$proto__common_8cpp.html#a579d7fb8865ac82f25a7ed4e0f12469c" title="layer_is_in_model" alt="" coords="381,427,507,453"/>
 <area shape="rect" id="node14" href="$classlbann_1_1model.html#a5dfa9895024f07d273062b67d7a0dc01" title="lbann::model::add_layer" alt="" coords="145,477,305,504"/>
-<area shape="rect" id="node15" href="$proto__common_8cpp.html#a064e1d7d943d9022b6b2a071a897b81b" title="setup_pointers" alt="" coords="172,539,279,565"/>
+<area shape="rect" id="node15" href="$proto__common_8cpp.html#a064e1d7d943d9022b6b2a071a897b81b" title="setup_pointers" alt="" coords="172,528,279,555"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="577,41,719,82"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="577,106,719,147"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="769,41,911,82"/>
-<area shape="rect" id="node16" href="$classlbann_1_1Layer.html#a326668ce624a9bcc719a463820b2e3a4" title="lbann::Layer::add_parent\l_layer" alt="" coords="361,471,527,513"/>
-<area shape="rect" id="node17" href="$classlbann_1_1Layer.html#ace0346ac56fd7ce7b6b44f27f224f35e" title="lbann::Layer::add_child\l_layer" alt="" coords="366,537,522,578"/>
-<area shape="rect" id="node18" href="$classlbann_1_1target__layer.html#a88c7a947e7cf92151939167141cc9924" title="lbann::target_layer\l::set_paired_input_layer" alt="" coords="364,602,524,643"/>
-<area shape="rect" id="node19" href="$classlbann_1_1reconstruction__layer.html#a57e3d25871c8472c5a8de71537fdedff" title="lbann::reconstruction\l_layer::set_original_layer" alt="" coords="361,667,527,709"/>
+<area shape="rect" id="node16" href="$classlbann_1_1Layer.html#a326668ce624a9bcc719a463820b2e3a4" title="lbann::Layer::add_parent\l_layer" alt="" coords="361,478,527,519"/>
+<area shape="rect" id="node17" href="$classlbann_1_1Layer.html#ace0346ac56fd7ce7b6b44f27f224f35e" title="lbann::Layer::add_child\l_layer" alt="" coords="366,543,522,585"/>
+<area shape="rect" id="node18" href="$classlbann_1_1reconstruction__layer.html#a57e3d25871c8472c5a8de71537fdedff" title="lbann::reconstruction\l_layer::set_original_layer" alt="" coords="361,609,527,650"/>
 </map>

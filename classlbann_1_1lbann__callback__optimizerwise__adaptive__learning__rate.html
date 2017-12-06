@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -188,6 +188,14 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:abeb1e486e259fd358332abf1e952f630 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#aba03b59c056ace8094095c08e39b9ac4">on_backward_prop_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1Layer.html">Layer</a> *l)</td></tr>
 <tr class="separator:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a1a9248b305f06419889c1b3b0f0893d8">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a497e750da160e0071ce8864ccc3a1344">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a235195d5fa4461835b861a03a5c0278f">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a4653e2903bfd3903709a81eaf7eabc1a">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a3462e54126adbd0082c22c98d8de5468">on_batch_evaluate_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
 <tr class="separator:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad10891b8ab3de74ee1a70e6255e7d58a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#ad10891b8ab3de74ee1a70e6255e7d58a">on_batch_evaluate_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
@@ -250,11 +258,11 @@ Training", 2017. </p>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="callback__learning__rate_8cpp_source.html#l00213">213</a> of file <a class="el" href="callback__learning__rate_8cpp_source.html">callback_learning_rate.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00214"></a><span class="lineno">  214</span>&#160;               :</div>
-<div class="line"><a name="l00215"></a><span class="lineno">  215</span>&#160;  <a class="code" href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a4ab8768ad85fe17728d62eceb628cc9f">lbann_callback_optimizerwise_adaptive_learning_rate</a>(scale,</div>
-<div class="line"><a name="l00216"></a><span class="lineno">  216</span>&#160;                                                      std::unordered_set&lt;weights *&gt;()) {}</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate_html_a4ab8768ad85fe17728d62eceb628cc9f"><div class="ttname"><a href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a4ab8768ad85fe17728d62eceb628cc9f">lbann::lbann_callback_optimizerwise_adaptive_learning_rate::lbann_callback_optimizerwise_adaptive_learning_rate</a></div><div class="ttdeci">lbann_callback_optimizerwise_adaptive_learning_rate(float scale)</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8cpp_source.html#l00213">callback_learning_rate.cpp:213</a></div></div>
+<p>Definition at line <a class="el" href="callback__learning__rate_8cpp_source.html#l00214">214</a> of file <a class="el" href="callback__learning__rate_8cpp_source.html">callback_learning_rate.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00215"></a><span class="lineno">  215</span>&#160;               :</div>
+<div class="line"><a name="l00216"></a><span class="lineno">  216</span>&#160;  <a class="code" href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a4ab8768ad85fe17728d62eceb628cc9f">lbann_callback_optimizerwise_adaptive_learning_rate</a>(scale,</div>
+<div class="line"><a name="l00217"></a><span class="lineno">  217</span>&#160;                                                      std::unordered_set&lt;weights *&gt;()) {}</div>
+<div class="ttc" id="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate_html_a4ab8768ad85fe17728d62eceb628cc9f"><div class="ttname"><a href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a4ab8768ad85fe17728d62eceb628cc9f">lbann::lbann_callback_optimizerwise_adaptive_learning_rate::lbann_callback_optimizerwise_adaptive_learning_rate</a></div><div class="ttdeci">lbann_callback_optimizerwise_adaptive_learning_rate(float scale)</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8cpp_source.html#l00214">callback_learning_rate.cpp:214</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -291,10 +299,10 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p>Definition at line <a class="el" href="callback__learning__rate_8cpp_source.html#l00218">218</a> of file <a class="el" href="callback__learning__rate_8cpp_source.html">callback_learning_rate.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00219"></a><span class="lineno">  219</span>&#160;                                                         :</div>
-<div class="line"><a name="l00220"></a><span class="lineno">  220</span>&#160;  <a class="code" href="classlbann_1_1lbann__callback__learning__rate.html#a69687cd55f4d09c480e08e18488519fe">lbann_callback_learning_rate</a>(weights_list), <a class="code" href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a332beb0eb4464929248f56e1815d4e69">m_scale</a>(scale) {}</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__learning__rate_html_a69687cd55f4d09c480e08e18488519fe"><div class="ttname"><a href="classlbann_1_1lbann__callback__learning__rate.html#a69687cd55f4d09c480e08e18488519fe">lbann::lbann_callback_learning_rate::lbann_callback_learning_rate</a></div><div class="ttdeci">lbann_callback_learning_rate()</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8cpp_source.html#l00036">callback_learning_rate.cpp:36</a></div></div>
+<p>Definition at line <a class="el" href="callback__learning__rate_8cpp_source.html#l00219">219</a> of file <a class="el" href="callback__learning__rate_8cpp_source.html">callback_learning_rate.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00220"></a><span class="lineno">  220</span>&#160;                                                         :</div>
+<div class="line"><a name="l00221"></a><span class="lineno">  221</span>&#160;  <a class="code" href="classlbann_1_1lbann__callback__learning__rate.html#a69687cd55f4d09c480e08e18488519fe">lbann_callback_learning_rate</a>(weights_list), <a class="code" href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a332beb0eb4464929248f56e1815d4e69">m_scale</a>(scale) {}</div>
+<div class="ttc" id="classlbann_1_1lbann__callback__learning__rate_html_a69687cd55f4d09c480e08e18488519fe"><div class="ttname"><a href="classlbann_1_1lbann__callback__learning__rate.html#a69687cd55f4d09c480e08e18488519fe">lbann::lbann_callback_learning_rate::lbann_callback_learning_rate</a></div><div class="ttdeci">lbann_callback_learning_rate()</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8cpp_source.html#l00037">callback_learning_rate.cpp:37</a></div></div>
 <div class="ttc" id="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate_html_a332beb0eb4464929248f56e1815d4e69"><div class="ttname"><a href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a332beb0eb4464929248f56e1815d4e69">lbann::lbann_callback_optimizerwise_adaptive_learning_rate::m_scale</a></div><div class="ttdeci">float m_scale</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8hpp_source.html#l00254">callback_learning_rate.hpp:254</a></div></div>
 </div><!-- fragment -->
 </div>
@@ -350,7 +358,7 @@ Here is the caller graph for this function:</div>
 <p>Definition at line <a class="el" href="callback__learning__rate_8hpp_source.html#l00248">248</a> of file <a class="el" href="callback__learning__rate_8hpp_source.html">callback_learning_rate.hpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00248"></a><span class="lineno">  248</span>&#160;                                                                             {</div>
 <div class="line"><a name="l00249"></a><span class="lineno">  249</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a4ab8768ad85fe17728d62eceb628cc9f">lbann_callback_optimizerwise_adaptive_learning_rate</a>(*<span class="keyword">this</span>); }</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate_html_a4ab8768ad85fe17728d62eceb628cc9f"><div class="ttname"><a href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a4ab8768ad85fe17728d62eceb628cc9f">lbann::lbann_callback_optimizerwise_adaptive_learning_rate::lbann_callback_optimizerwise_adaptive_learning_rate</a></div><div class="ttdeci">lbann_callback_optimizerwise_adaptive_learning_rate(float scale)</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8cpp_source.html#l00213">callback_learning_rate.cpp:213</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate_html_a4ab8768ad85fe17728d62eceb628cc9f"><div class="ttname"><a href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a4ab8768ad85fe17728d62eceb628cc9f">lbann::lbann_callback_optimizerwise_adaptive_learning_rate::lbann_callback_optimizerwise_adaptive_learning_rate</a></div><div class="ttdeci">lbann_callback_optimizerwise_adaptive_learning_rate(float scale)</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8cpp_source.html#l00214">callback_learning_rate.cpp:214</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -451,17 +459,17 @@ Here is the call graph for this function:</div>
 
 <p>Reimplemented from <a class="el" href="classlbann_1_1lbann__callback__learning__rate.html#acf7f3921a68e7f1f772106e18c545345">lbann::lbann_callback_learning_rate</a>.</p>
 
-<p>Definition at line <a class="el" href="callback__learning__rate_8cpp_source.html#l00222">222</a> of file <a class="el" href="callback__learning__rate_8cpp_source.html">callback_learning_rate.cpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00223"></a><span class="lineno">  223</span>&#160;                            {</div>
-<div class="line"><a name="l00224"></a><span class="lineno">  224</span>&#160;  <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> param_norm = El::Nrm2(opt.get_weights().get_values());</div>
-<div class="line"><a name="l00225"></a><span class="lineno">  225</span>&#160;  <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> param_grad_norm = El::Nrm2(opt.get_gradient());</div>
-<div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;  <span class="keywordflow">if</span> (param_norm &gt; <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>(0) &amp;&amp; param_grad_norm &gt; <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>(0)) {</div>
-<div class="line"><a name="l00227"></a><span class="lineno">  227</span>&#160;    <span class="comment">// TODO: Should incorporate weight decay, etc. here.</span></div>
-<div class="line"><a name="l00228"></a><span class="lineno">  228</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="classlbann_1_1lbann__callback__learning__rate.html#a97194f282c29a748c915d9811a8a99fb">m_cur_global_lr</a> * <a class="code" href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a332beb0eb4464929248f56e1815d4e69">m_scale</a> * param_norm / param_grad_norm;</div>
-<div class="line"><a name="l00229"></a><span class="lineno">  229</span>&#160;  } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00230"></a><span class="lineno">  230</span>&#160;    <span class="keywordflow">return</span> opt.get_learning_rate();</div>
-<div class="line"><a name="l00231"></a><span class="lineno">  231</span>&#160;  }</div>
-<div class="line"><a name="l00232"></a><span class="lineno">  232</span>&#160;}</div>
+<p>Definition at line <a class="el" href="callback__learning__rate_8cpp_source.html#l00223">223</a> of file <a class="el" href="callback__learning__rate_8cpp_source.html">callback_learning_rate.cpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00224"></a><span class="lineno">  224</span>&#160;                            {</div>
+<div class="line"><a name="l00225"></a><span class="lineno">  225</span>&#160;  <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> param_norm = El::Nrm2(opt.get_weights().get_values());</div>
+<div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;  <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a> param_grad_norm = El::Nrm2(opt.get_gradient());</div>
+<div class="line"><a name="l00227"></a><span class="lineno">  227</span>&#160;  <span class="keywordflow">if</span> (param_norm &gt; <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>(0) &amp;&amp; param_grad_norm &gt; <a class="code" href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a>(0)) {</div>
+<div class="line"><a name="l00228"></a><span class="lineno">  228</span>&#160;    <span class="comment">// TODO: Should incorporate weight decay, etc. here.</span></div>
+<div class="line"><a name="l00229"></a><span class="lineno">  229</span>&#160;    <span class="keywordflow">return</span> <a class="code" href="classlbann_1_1lbann__callback__learning__rate.html#a97194f282c29a748c915d9811a8a99fb">m_cur_global_lr</a> * <a class="code" href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a332beb0eb4464929248f56e1815d4e69">m_scale</a> * param_norm / param_grad_norm;</div>
+<div class="line"><a name="l00230"></a><span class="lineno">  230</span>&#160;  } <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00231"></a><span class="lineno">  231</span>&#160;    <span class="keywordflow">return</span> opt.get_learning_rate();</div>
+<div class="line"><a name="l00232"></a><span class="lineno">  232</span>&#160;  }</div>
+<div class="line"><a name="l00233"></a><span class="lineno">  233</span>&#160;}</div>
 <div class="ttc" id="base_8hpp_html_a279b64f47fb2213ad73e59be937afcfa"><div class="ttname"><a href="base_8hpp.html#a279b64f47fb2213ad73e59be937afcfa">DataType</a></div><div class="ttdeci">float DataType</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00042">base.hpp:42</a></div></div>
 <div class="ttc" id="classlbann_1_1lbann__callback__learning__rate_html_a97194f282c29a748c915d9811a8a99fb"><div class="ttname"><a href="classlbann_1_1lbann__callback__learning__rate.html#a97194f282c29a748c915d9811a8a99fb">lbann::lbann_callback_learning_rate::m_cur_global_lr</a></div><div class="ttdeci">static float m_cur_global_lr</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8hpp_source.html#l00087">callback_learning_rate.hpp:87</a></div></div>
 <div class="ttc" id="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate_html_a332beb0eb4464929248f56e1815d4e69"><div class="ttname"><a href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html#a332beb0eb4464929248f56e1815d4e69">lbann::lbann_callback_optimizerwise_adaptive_learning_rate::m_scale</a></div><div class="ttdeci">float m_scale</div><div class="ttdef"><b>Definition:</b> <a href="callback__learning__rate_8hpp_source.html#l00254">callback_learning_rate.hpp:254</a></div></div>
@@ -510,7 +518,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1lbann__callback__optimizerwise__adaptive__learning__rate.html">lbann_callback_optimizerwise_adaptive_learning_rate</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:05 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:33 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

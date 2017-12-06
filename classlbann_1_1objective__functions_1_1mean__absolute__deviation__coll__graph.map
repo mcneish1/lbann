@@ -1,9 +1,0 @@
-<map id="lbann::objective_functions::mean_absolute_deviation" name="lbann::objective_functions::mean_absolute_deviation">
-<area shape="rect" id="node2" href="$classlbann_1_1objective__function.html" title="lbann::objective_function" alt="" coords="54,96,220,123"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="265,195,361,221"/>
-<area shape="rect" id="node4" href="$classlbann_1_1optimizer.html" title="lbann::optimizer" alt="" coords="549,96,664,123"/>
-<area shape="rect" id="node7" href="$classlbann_1_1weights.html" title="lbann::weights" alt="" coords="648,195,755,221"/>
-<area shape="rect" id="node5" href="$classcudnn_1_1cudnn__manager.html" title="cudnn::cudnn_manager" alt="" coords="305,5,463,32"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="639,5,773,32"/>
-<area shape="rect" id="node8" href="$classlbann_1_1weights__initializer.html" title="lbann::weights_initializer" alt="" coords="689,96,852,123"/>
-</map>

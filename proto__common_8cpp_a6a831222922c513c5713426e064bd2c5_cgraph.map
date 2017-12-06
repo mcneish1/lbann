@@ -1,14 +1,15 @@
 <map id="init_model" name="init_model">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="178,37,321,78"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a6feaee921c434bbfc32451ed874cc051" title="lbann::model::model" alt="" coords="180,103,319,129"/>
-<area shape="rect" id="node7" href="$classlbann_1_1objective__function.html#a98ba95d702f542ed99ccbf9e5cdde21d" title="lbann::objective_function\l::add_term" alt="" coords="166,154,333,195"/>
-<area shape="rect" id="node8" href="$proto__common_8cpp.html#adcde4622104a976e3ad14b7e4da61fe2" title="get_data_layout" alt="" coords="192,220,307,247"/>
-<area shape="rect" id="node9" href="$classlbann_1_1model.html#adbb03deb321b99e8dbdbe65d7e1a423e" title="lbann::model::add_metric" alt="" coords="165,271,333,297"/>
-<area shape="rect" id="node10" href="$classlbann_1_1model.html#a2707333b9bef9650334b25caf4d099f2" title="lbann::model::set_checkpoint_dir" alt="" coords="143,321,356,348"/>
-<area shape="rect" id="node11" href="$classlbann_1_1model.html#a5638934d2f9b2b4bb7f0265cd4bccf93" title="lbann::model::set_checkpoint\l_epochs" alt="" coords="153,373,345,414"/>
-<area shape="rect" id="node12" href="$classlbann_1_1model.html#a8628a003ba3b086e4cb7c8a6cd6e95e8" title="lbann::model::set_checkpoint\l_steps" alt="" coords="153,438,345,479"/>
-<area shape="rect" id="node13" href="$classlbann_1_1model.html#a4332ad949eb1733fcb2a0a6e6c9f56e9" title="lbann::model::set_checkpoint_secs" alt="" coords="136,504,363,531"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="411,5,554,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="411,70,554,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="603,5,746,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="178,47,321,89"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#a6feaee921c434bbfc32451ed874cc051" title="lbann::model::model" alt="" coords="180,113,319,140"/>
+<area shape="rect" id="node7" href="$proto__common_8cpp.html#ae940ebb5c2ed838a5be0be933834b0e0" title="init_objective_function" alt="" coords="174,164,325,191"/>
+<area shape="rect" id="node9" href="$proto__common_8cpp.html#adcde4622104a976e3ad14b7e4da61fe2" title="get_data_layout" alt="" coords="192,215,307,241"/>
+<area shape="rect" id="node10" href="$classlbann_1_1model.html#adbb03deb321b99e8dbdbe65d7e1a423e" title="lbann::model::add_metric" alt="" coords="165,265,333,292"/>
+<area shape="rect" id="node11" href="$classlbann_1_1model.html#a2707333b9bef9650334b25caf4d099f2" title="lbann::model::set_checkpoint_dir" alt="" coords="143,316,356,343"/>
+<area shape="rect" id="node12" href="$classlbann_1_1model.html#a5638934d2f9b2b4bb7f0265cd4bccf93" title="lbann::model::set_checkpoint\l_epochs" alt="" coords="153,367,345,409"/>
+<area shape="rect" id="node13" href="$classlbann_1_1model.html#a8628a003ba3b086e4cb7c8a6cd6e95e8" title="lbann::model::set_checkpoint\l_steps" alt="" coords="153,433,345,474"/>
+<area shape="rect" id="node14" href="$classlbann_1_1model.html#a4332ad949eb1733fcb2a0a6e6c9f56e9" title="lbann::model::set_checkpoint_secs" alt="" coords="136,499,363,525"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="423,5,566,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="423,70,566,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="627,5,770,46"/>
+<area shape="rect" id="node8" href="$classlbann_1_1objective__function.html#a98ba95d702f542ed99ccbf9e5cdde21d" title="lbann::objective_function\l::add_term" alt="" coords="411,157,578,198"/>
 </map>

@@ -4,9 +4,9 @@
 <area shape="rect" id="node4" href="$classlbann_1_1optimizer.html#a300aa4928e2e4feeb5e99b9eb0a16632" title="lbann::optimizer::optimizer" alt="" coords="189,384,363,411"/>
 <area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#ab7811e0a4d2d9b594140aed78b6de743" title="lbann::optimizer::operator=" alt="" coords="187,173,365,200"/>
 <area shape="rect" id="node10" href="$classlbann_1_1optimizer.html#a44efe2674562c00d33670ef9cfe9e014" title="lbann::optimizer::get\l_gradient" alt="" coords="206,545,346,586"/>
-<area shape="rect" id="node25" href="$classlbann_1_1optimizer.html#a3f41360479fbd46c704342bb4ef36d09" title="lbann::optimizer::clear\l_gradient" alt="" coords="201,751,351,793"/>
-<area shape="rect" id="node26" href="$classlbann_1_1optimizer.html#a7641a88b3c166df2d974a298622b992b" title="lbann::optimizer::setup" alt="" coords="440,960,595,987"/>
-<area shape="rect" id="node33" href="$classlbann_1_1sgd.html#ac0a74200f44b45ced9b44e3b6349581a" title="lbann::sgd::sgd" alt="" coords="221,868,331,895"/>
+<area shape="rect" id="node27" href="$classlbann_1_1optimizer.html#a3f41360479fbd46c704342bb4ef36d09" title="lbann::optimizer::clear\l_gradient" alt="" coords="201,751,351,793"/>
+<area shape="rect" id="node28" href="$classlbann_1_1optimizer.html#a7641a88b3c166df2d974a298622b992b" title="lbann::optimizer::setup" alt="" coords="440,960,595,987"/>
+<area shape="rect" id="node35" href="$classlbann_1_1sgd.html#ac0a74200f44b45ced9b44e3b6349581a" title="lbann::sgd::sgd" alt="" coords="221,868,331,895"/>
 <area shape="rect" id="node9" href="$classlbann_1_1sgd.html#ad3949e74505cd25b267dbdd5b510a83f" title="lbann::sgd::operator=" alt="" coords="445,224,590,251"/>
 <area shape="rect" id="node6" href="$classlbann_1_1adagrad.html#a9c9b59e0dfdfa32a3a9596a38fd95af6" title="lbann::adagrad::operator=" alt="" coords="432,173,603,200"/>
 <area shape="rect" id="node7" href="$classlbann_1_1hypergradient__adam.html#aab8df6bbd256c9731dc1e5b8eac286ec" title="lbann::hypergradient\l_adam::operator=" alt="" coords="448,57,587,98"/>
@@ -23,12 +23,14 @@
 <area shape="rect" id="node22" href="$classlbann_1_1optimizer.html#aa9f43ca3f22edc0a25d0509b6514a411" title="lbann::optimizer::step" alt="" coords="444,909,591,936"/>
 <area shape="rect" id="node20" href="$classlbann_1_1lbann__callback__summary.html#a1ff0c4368aee47c294b9c11a5176b9e0" title="lbann::lbann_callback\l_summary::on_train_begin" alt="" coords="670,379,845,421"/>
 <area shape="rect" id="node21" href="$classlbann_1_1lbann__callback__summary.html#a404e64dcedfcba611510379f99dcace9" title="lbann::lbann_callback\l_summary::on_epoch_end" alt="" coords="670,445,845,486"/>
-<area shape="rect" id="node23" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="693,793,822,834"/>
-<area shape="rect" id="node24" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="894,800,1023,827"/>
-<area shape="rect" id="node27" href="$classlbann_1_1adagrad.html#ab027f2979a6df453eb588b1961afd77a" title="lbann::adagrad::setup" alt="" coords="684,909,831,936"/>
-<area shape="rect" id="node28" href="$classlbann_1_1adam.html#aea0b1fa44197fe184a6feca5ec5c808e" title="lbann::adam::setup" alt="" coords="691,960,824,987"/>
-<area shape="rect" id="node29" href="$classlbann_1_1hypergradient__adam.html#acbc4aa4410eb2e7cb2fd9f423c4909dc" title="lbann::hypergradient\l_adam::setup" alt="" coords="688,1011,827,1053"/>
-<area shape="rect" id="node30" href="$classlbann_1_1rmsprop.html#a8f6111a36f9ad592d14e13b64a0f228f" title="lbann::rmsprop::setup" alt="" coords="683,1077,831,1104"/>
-<area shape="rect" id="node31" href="$classlbann_1_1sgd.html#a616c3cfd457ae1e771710b481b4c1bbb" title="lbann::sgd::setup" alt="" coords="696,1128,819,1155"/>
-<area shape="rect" id="node32" href="$classlbann_1_1weights.html#aa50748c9b3ffa62841e0150a8da29a82" title="lbann::weights::setup" alt="" coords="684,859,831,885"/>
+<area shape="rect" id="node23" href="$classlbann_1_1model.html#a38d8924938fa69857d3f9ed83ac98ee9" title="lbann::model::update\l_weights" alt="" coords="686,793,829,834"/>
+<area shape="rect" id="node24" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="894,793,1023,834"/>
+<area shape="rect" id="node25" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="1072,763,1235,805"/>
+<area shape="rect" id="node26" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="1089,829,1218,856"/>
+<area shape="rect" id="node29" href="$classlbann_1_1adagrad.html#ab027f2979a6df453eb588b1961afd77a" title="lbann::adagrad::setup" alt="" coords="684,909,831,936"/>
+<area shape="rect" id="node30" href="$classlbann_1_1adam.html#aea0b1fa44197fe184a6feca5ec5c808e" title="lbann::adam::setup" alt="" coords="691,960,824,987"/>
+<area shape="rect" id="node31" href="$classlbann_1_1hypergradient__adam.html#acbc4aa4410eb2e7cb2fd9f423c4909dc" title="lbann::hypergradient\l_adam::setup" alt="" coords="688,1011,827,1053"/>
+<area shape="rect" id="node32" href="$classlbann_1_1rmsprop.html#a8f6111a36f9ad592d14e13b64a0f228f" title="lbann::rmsprop::setup" alt="" coords="683,1077,831,1104"/>
+<area shape="rect" id="node33" href="$classlbann_1_1sgd.html#a616c3cfd457ae1e771710b481b4c1bbb" title="lbann::sgd::setup" alt="" coords="696,1128,819,1155"/>
+<area shape="rect" id="node34" href="$classlbann_1_1weights.html#aa50748c9b3ffa62841e0150a8da29a82" title="lbann::weights::setup" alt="" coords="684,859,831,885"/>
 </map>

@@ -1,8 +1,0 @@
-<map id="lbann::model::do_model_forward_prop_end_cbs" name="lbann::model::do_model_forward_prop_end_cbs">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a081d5755391f1ac8460afb448e723b02" title="lbann::model::forward_prop" alt="" coords="225,15,404,41"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a2a36fa3e219c8facb254185b704105a4" title="Training step on one mini&#45;batch. " alt="" coords="213,67,416,109"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="487,5,617,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="705,12,834,39"/>
-<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a8ade73bf7c30f93f7b123cba3590bf69" title="lbann::greedy_layerwise\l_autoencoder::train_phase" alt="" coords="465,70,639,111"/>
-<area shape="rect" id="node7" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="Train neural network. " alt="" coords="688,70,851,111"/>
-</map>

@@ -15,6 +15,7 @@ var proto__common_8cpp =
     [ "init_data_readers", "proto__common_8cpp.html#a03a5415345cac9ae3dc0c1226a40ce14", null ],
     [ "init_default_optimizer", "proto__common_8cpp.html#a14cc44d49cb6a84ddd10ee11f62987bd", null ],
     [ "init_model", "proto__common_8cpp.html#a6a831222922c513c5713426e064bd2c5", null ],
+    [ "init_objective_function", "proto__common_8cpp.html#ae940ebb5c2ed838a5be0be933834b0e0", null ],
     [ "layer_is_in_model", "proto__common_8cpp.html#a579d7fb8865ac82f25a7ed4e0f12469c", null ],
     [ "print_help", "proto__common_8cpp.html#a403b98ced142a0afa3b939e7af1095b0", null ],
     [ "print_parameters", "proto__common_8cpp.html#adf83ffea572cec61b853b61aa68bea27", null ],

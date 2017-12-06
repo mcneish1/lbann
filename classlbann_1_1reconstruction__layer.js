@@ -7,6 +7,7 @@ var classlbann_1_1reconstruction__layer =
     [ "fp_compute", "classlbann_1_1reconstruction__layer.html#ad33ec2cccf89b317e22ec73b1761e427", null ],
     [ "fp_set_std_matrix_view", "classlbann_1_1reconstruction__layer.html#a609cf6822b8181bb8ebc344874acb091", null ],
     [ "get_data_layout", "classlbann_1_1reconstruction__layer.html#a7516698ae3de4cea311ec17685a0b60a", null ],
+    [ "get_description", "classlbann_1_1reconstruction__layer.html#a738c3f06ea3cee1e8b11672fde6b594e", null ],
     [ "get_layer_pointers", "classlbann_1_1reconstruction__layer.html#a52f5ebe2f2716b8cab5e768b1b82c3d0", null ],
     [ "get_type", "classlbann_1_1reconstruction__layer.html#a5f3bced2474caea9b728639633ac25ce", null ],
     [ "initialize_distributed_matrices", "classlbann_1_1reconstruction__layer.html#addb8bfa10eb1f9a956921a15f9752ebe", null ],

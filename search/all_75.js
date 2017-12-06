@@ -18,6 +18,7 @@ var searchData=
   ['update_5flayers',['update_layers',['../classlbann_1_1model.html#a7518775e0fd29ed682319193e2d264cc',1,'lbann::model']]],
   ['update_5fnum_5fsamples_5fprocessed',['update_num_samples_processed',['../classlbann_1_1input__layer.html#a14eaabc5c57543a966e0b274be5891d2',1,'lbann::input_layer::update_num_samples_processed()'],['../classlbann_1_1io__layer.html#a4ed831842ad78aaebfc9519c51268b95',1,'lbann::io_layer::update_num_samples_processed()'],['../classlbann_1_1target__layer.html#a3b2d9dd1fdab9239009c254127c48830',1,'lbann::target_layer::update_num_samples_processed()']]],
   ['update_5ftime',['update_time',['../classlbann_1_1Layer.html#abd6c1fa01659749b22de59baf8259b84',1,'lbann::Layer']]],
+  ['update_5fweights',['update_weights',['../classlbann_1_1model.html#a38d8924938fa69857d3f9ed83ac98ee9',1,'lbann::model']]],
   ['uqtype',['uqtype',['../classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079',1,'lbann::lbann_quantizer']]],
   ['use_5funused_5findex_5fset',['use_unused_index_set',['../classlbann_1_1generic__data__reader.html#afa621af16f1a582b5a22405b79dbe052',1,'lbann::generic_data_reader']]],
   ['using_5fgpus',['using_gpus',['../classlbann_1_1Layer.html#acee56be91337bbd78bc4371a8159b760',1,'lbann::Layer']]]

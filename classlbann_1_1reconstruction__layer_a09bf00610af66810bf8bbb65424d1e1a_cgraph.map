@@ -1,6 +1,6 @@
 <map id="lbann::reconstruction_layer::summarize_stats" name="lbann::reconstruction_layer::summarize_stats">
 <area shape="rect" id="node2" href="$classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="457,5,610,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#acf17279d9186337f4170f4edd4d5205b" title="lbann::model::get_objective\l_function" alt="" coords="219,45,400,86"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#ac843a0982ae11b989fc4ef8beb3542f2" title="lbann::model::get_objective\l_function" alt="" coords="219,45,400,86"/>
 <area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#a74f5d56f81156b2971ba11d5c03f535d" title="lbann::objective_function\l::get_history_mean_value" alt="" coords="224,110,395,151"/>
 <area shape="rect" id="node5" href="$classlbann_1_1Layer.html#a7f3f26e2ae0497f9a00fd6bc56b50543" title="lbann::Layer::summarize\l_stats" alt="" coords="227,175,392,217"/>
 <area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a0a0f8e32e2b17953f87652f855ccfbf9" title="lbann::Layer::reset\l_counters" alt="" coords="468,87,599,129"/>

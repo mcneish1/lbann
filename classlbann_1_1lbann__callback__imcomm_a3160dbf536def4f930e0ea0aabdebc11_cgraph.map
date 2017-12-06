@@ -2,7 +2,7 @@
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="253,5,419,32"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="265,57,407,98"/>
 <area shape="rect" id="node4" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="224,123,448,149"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a3a48f1f87528a090da84e8f7ef7df35e" title="lbann::model::get_weights" alt="" coords="249,173,423,200"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="249,173,423,200"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__imcomm.html#a4f38fa45a0f7a8b290f6d2b701d20622" title="lbann::lbann_callback\l_imcomm::ct_does_quantization" alt="" coords="231,225,441,266"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a68b36ba64db34f33cb135bc64c4623e0" title="lbann::lbann_comm::\lintermodel_sum_matrix" alt="" coords="257,290,415,331"/>
 <area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__imcomm.html#a13fe710b841f72e28daf8de029f6c2f9" title="lbann::lbann_callback\l_imcomm::reshape_mat" alt="" coords="255,355,417,397"/>

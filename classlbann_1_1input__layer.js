@@ -21,7 +21,6 @@ var classlbann_1_1input__layer =
     [ "get_data_reader", "classlbann_1_1input__layer.html#a35e5463661c7a6c2f1a11a0e1ef4795b", null ],
     [ "get_dataset", "classlbann_1_1input__layer.html#aecb64889e2135f0d84b475f31bb4c17f", null ],
     [ "get_dataset", "classlbann_1_1input__layer.html#a3318d3499e68bd31e8621b0981c5b794", null ],
-    [ "get_execution_mode", "classlbann_1_1input__layer.html#a7f76e9590f8aaca012904a955eb37a49", null ],
     [ "get_global_last_mini_batch_size", "classlbann_1_1input__layer.html#afbe157b5447824a71c0373858263a3d8", null ],
     [ "get_global_mini_batch_size", "classlbann_1_1input__layer.html#af8598b6bce859316dbd1074945af8bcc", null ],
     [ "get_last_mini_batch_size", "classlbann_1_1input__layer.html#abf6f3aadaa4d628a420fa18e0b901b34", null ],

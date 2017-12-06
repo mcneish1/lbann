@@ -16,6 +16,10 @@ var dir_288651154ff4ea4d814cdc4cf97cc86d =
     [ "options.hpp", "options_8hpp.html", [
       [ "options", "classoptions.html", "classoptions" ]
     ] ],
+    [ "protobuf_utils.hpp", "protobuf__utils_8hpp.html", [
+      [ "prototext_fn_triple", "structlbann_1_1prototext__fn__triple.html", "structlbann_1_1prototext__fn__triple" ],
+      [ "protobuf_utils", "classlbann_1_1protobuf__utils.html", "classlbann_1_1protobuf__utils" ]
+    ] ],
     [ "quantizer.hpp", "quantizer_8hpp.html", "quantizer_8hpp" ],
     [ "quantizer_impl.hpp", "quantizer__impl_8hpp.html", null ],
     [ "random.hpp", "random_8hpp.html", "random_8hpp" ],

@@ -1,0 +1,5 @@
+<map id="lbann::reconstruction_layer::get_description" name="lbann::reconstruction_layer::get_description">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a7eae259f041e79b4a23f439f3dbe800d" title="lbann::Layer::get_name" alt="" coords="209,5,367,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a2f302cabbc39769b1a029dfe2af0825c" title="lbann::Layer::get_data\l_layout_string" alt="" coords="213,57,363,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1reconstruction__layer.html#a7516698ae3de4cea311ec17685a0b60a" title="lbann::reconstruction\l_layer::get_data_layout" alt="" coords="209,122,367,163"/>
+</map>

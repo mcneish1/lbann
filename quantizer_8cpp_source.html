@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -248,7 +248,7 @@ $(document).ready(function(){initNavTree('quantizer_8cpp_source.html','');});
 <div class="line"><a name="l00156"></a><span class="lineno">  156</span>&#160;    memcpy(&amp;avg_neg, &amp;tmp, <span class="keyword">sizeof</span>(avg_neg));</div>
 <div class="line"><a name="l00157"></a><span class="lineno">  157</span>&#160;    <span class="comment">// Unquantize this column.</span></div>
 <div class="line"><a name="l00158"></a><span class="lineno">  158</span>&#160;    <span class="keywordflow">for</span> (El::Int row_chunk = 0; row_chunk &lt; height; row_chunk += <a class="code" href="classlbann_1_1lbann__quantizer.html#a33ea17392f53b90e91aea1ffb7e11d68">NUM_BITS</a>) {</div>
-<div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;      <a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a> q = (<a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a>) qmat_buf[qrow + col * qmat_ldim];</div>
+<div class="line"><a name="l00159"></a><span class="lineno">  159</span>&#160;      <span class="keyword">auto</span> q = (<a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a>) qmat_buf[qrow + col * qmat_ldim];</div>
 <div class="line"><a name="l00160"></a><span class="lineno">  160</span>&#160;      <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> bit = 0; bit &lt; <a class="code" href="classlbann_1_1lbann__quantizer.html#a33ea17392f53b90e91aea1ffb7e11d68">NUM_BITS</a>; ++bit) {</div>
 <div class="line"><a name="l00161"></a><span class="lineno">  161</span>&#160;        El::Int row = row_chunk + bit;</div>
 <div class="line"><a name="l00162"></a><span class="lineno">  162</span>&#160;        <span class="keywordflow">if</span> (row &gt;= height) {</div>
@@ -286,7 +286,7 @@ $(document).ready(function(){initNavTree('quantizer_8cpp_source.html','');});
 <div class="line"><a name="l00194"></a><span class="lineno">  194</span>&#160;    memcpy(&amp;avg_neg, &amp;tmp, <span class="keyword">sizeof</span>(avg_neg));</div>
 <div class="line"><a name="l00195"></a><span class="lineno">  195</span>&#160;    <span class="comment">// Unquantize this column.</span></div>
 <div class="line"><a name="l00196"></a><span class="lineno">  196</span>&#160;    <span class="keywordflow">for</span> (El::Int row_chunk = 0; row_chunk &lt; height; row_chunk += <a class="code" href="classlbann_1_1lbann__quantizer.html#a33ea17392f53b90e91aea1ffb7e11d68">NUM_BITS</a>) {</div>
-<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;      <a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a> q = (<a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a>) qmat_buf[qrow + col * qmat_ldim];</div>
+<div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;      <span class="keyword">auto</span> q = (<a class="code" href="classlbann_1_1lbann__quantizer.html#a018cddfc9b73d94c2d60bdd7a11a0079">uqtype</a>) qmat_buf[qrow + col * qmat_ldim];</div>
 <div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;      <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> bit = 0; bit &lt; <a class="code" href="classlbann_1_1lbann__quantizer.html#a33ea17392f53b90e91aea1ffb7e11d68">NUM_BITS</a>; ++bit) {</div>
 <div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;        El::Int row = row_chunk + bit;</div>
 <div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;        <span class="keywordflow">if</span> (row &gt;= height) {</div>
@@ -822,7 +822,7 @@ $(document).ready(function(){initNavTree('quantizer_8cpp_source.html','');});
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_923d22ad389741cf75d7d5ed6c33331c.html">src</a></li><li class="navelem"><a class="el" href="dir_a51bfbd72028c1af54cf6311bb8aa1b6.html">utils</a></li><li class="navelem"><a class="el" href="quantizer_8cpp.html">quantizer.cpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:52 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:53 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -180,6 +180,14 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af183624e63ba65e0003fa988f53dee0c inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#aba03b59c056ace8094095c08e39b9ac4">on_backward_prop_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1Layer.html">Layer</a> *l)</td></tr>
 <tr class="separator:aba03b59c056ace8094095c08e39b9ac4 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a1a9248b305f06419889c1b3b0f0893d8">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a1a9248b305f06419889c1b3b0f0893d8 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a497e750da160e0071ce8864ccc3a1344">on_optimize_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a497e750da160e0071ce8864ccc3a1344 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a235195d5fa4461835b861a03a5c0278f">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
+<tr class="separator:a235195d5fa4461835b861a03a5c0278f inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a4653e2903bfd3903709a81eaf7eabc1a">on_optimize_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m, <a class="el" href="classlbann_1_1weights.html">weights</a> *w)</td></tr>
+<tr class="separator:a4653e2903bfd3903709a81eaf7eabc1a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#a3462e54126adbd0082c22c98d8de5468">on_batch_evaluate_begin</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
 <tr class="separator:a3462e54126adbd0082c22c98d8de5468 inherit pub_methods_classlbann_1_1lbann__callback"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad10891b8ab3de74ee1a70e6255e7d58a inherit pub_methods_classlbann_1_1lbann__callback"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlbann_1_1lbann__callback.html#ad10891b8ab3de74ee1a70e6255e7d58a">on_batch_evaluate_end</a> (<a class="el" href="classlbann_1_1model.html">model</a> *m)</td></tr>
@@ -209,7 +217,7 @@ Additional Inherited Members</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Dump sample indices for each minibatch to files. This will dump the list of indices from the training / validation / testing data that was processed Note this dumps vectors during each mini-batch. This will be slow and produce a lot of output. </p>
 
-<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00044">44</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
+<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00046">46</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a32e575722f9ad6f5a48a3fad20282075"></a>
 <div class="memitem">
@@ -249,11 +257,11 @@ Additional Inherited Members</h2></td></tr>
   </dd>
 </dl>
 
-<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00052">52</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;                                                                                           :</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <a class="code" href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann_callback</a>(batch_interval), <a class="code" href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a75ef9a964cb1e1281e4721beef14c265">m_basename</a>(basename) {}</div>
+<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00054">54</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;                                                                                           :</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <a class="code" href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann_callback</a>(batch_interval), <a class="code" href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a75ef9a964cb1e1281e4721beef14c265">m_basename</a>(std::move(basename)) {}</div>
 <div class="ttc" id="classlbann_1_1lbann__callback_html_a679057298a41ddd47f08c157f756c584"><div class="ttname"><a href="classlbann_1_1lbann__callback.html#a679057298a41ddd47f08c157f756c584">lbann::lbann_callback::lbann_callback</a></div><div class="ttdeci">lbann_callback(int batch_interval=1, lbann_summary *summarizer=nullptr)</div><div class="ttdef"><b>Definition:</b> <a href="callback_8hpp_source.html#l00056">callback.hpp:56</a></div></div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__minibatch__sample__indices_html_a75ef9a964cb1e1281e4721beef14c265"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a75ef9a964cb1e1281e4721beef14c265">lbann::lbann_callback_dump_minibatch_sample_indices::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00069">callback_dump_minibatch_sample_indices.hpp:69</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__minibatch__sample__indices_html_a75ef9a964cb1e1281e4721beef14c265"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a75ef9a964cb1e1281e4721beef14c265">lbann::lbann_callback_dump_minibatch_sample_indices::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00071">callback_dump_minibatch_sample_indices.hpp:71</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -314,11 +322,11 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classlbann_1_1lbann__callback.html#a9f545d1269a8c7af335625d049691f26">lbann::lbann_callback</a>.</p>
 
-<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00058">58</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;                                                                      {</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a32e575722f9ad6f5a48a3fad20282075">lbann_callback_dump_minibatch_sample_indices</a>(*<span class="keyword">this</span>);</div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;  }</div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__minibatch__sample__indices_html_a32e575722f9ad6f5a48a3fad20282075"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a32e575722f9ad6f5a48a3fad20282075">lbann::lbann_callback_dump_minibatch_sample_indices::lbann_callback_dump_minibatch_sample_indices</a></div><div class="ttdeci">lbann_callback_dump_minibatch_sample_indices(std::string basename, int batch_interval=1)</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00052">callback_dump_minibatch_sample_indices.hpp:52</a></div></div>
+<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00060">60</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;                                                                      {</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a32e575722f9ad6f5a48a3fad20282075">lbann_callback_dump_minibatch_sample_indices</a>(*<span class="keyword">this</span>);</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;  }</div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__minibatch__sample__indices_html_a32e575722f9ad6f5a48a3fad20282075"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a32e575722f9ad6f5a48a3fad20282075">lbann::lbann_callback_dump_minibatch_sample_indices::lbann_callback_dump_minibatch_sample_indices</a></div><div class="ttdeci">lbann_callback_dump_minibatch_sample_indices(std::string basename, int batch_interval=1)</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00054">callback_dump_minibatch_sample_indices.hpp:54</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -364,7 +372,7 @@ Here is the call graph for this function:</div>
 <p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8cpp_source.html#l00036">36</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8cpp_source.html">callback_dump_minibatch_sample_indices.cpp</a>.</p>
 <div class="fragment"><div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;                                                                                                {</div>
 <div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;  <span class="comment">// Print minibatch sample indices of input layers</span></div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;  input_layer *input = <span class="keyword">dynamic_cast&lt;</span>input_layer*<span class="keyword">&gt;</span>(l);</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;  <span class="keyword">auto</span> *input = <span class="keyword">dynamic_cast&lt;</span>input_layer*<span class="keyword">&gt;</span>(l);</div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;  <span class="keywordflow">if</span> (input != <span class="keyword">nullptr</span>) {</div>
 <div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;    El::Matrix&lt;El::Int&gt;* indices = l-&gt;get_sample_indices_per_mb();</div>
 <div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;    <span class="keywordflow">if</span> (indices == <span class="keyword">nullptr</span></div>
@@ -384,7 +392,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;  }</div>
 <div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;}</div>
 <div class="ttc" id="base_8hpp_html_adeeaddd10bd31df0cae7cb0fcae45d5c"><div class="ttname"><a href="base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c">_to_string</a></div><div class="ttdeci">static const char * _to_string(execution_mode m)</div><div class="ttdef"><b>Definition:</b> <a href="base_8hpp_source.html#l00083">base.hpp:83</a></div></div>
-<div class="ttc" id="classlbann_1_1lbann__callback__dump__minibatch__sample__indices_html_a75ef9a964cb1e1281e4721beef14c265"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a75ef9a964cb1e1281e4721beef14c265">lbann::lbann_callback_dump_minibatch_sample_indices::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00069">callback_dump_minibatch_sample_indices.hpp:69</a></div></div>
+<div class="ttc" id="classlbann_1_1lbann__callback__dump__minibatch__sample__indices_html_a75ef9a964cb1e1281e4721beef14c265"><div class="ttname"><a href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a75ef9a964cb1e1281e4721beef14c265">lbann::lbann_callback_dump_minibatch_sample_indices::m_basename</a></div><div class="ttdeci">std::string m_basename</div><div class="ttdef"><b>Definition:</b> <a href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00071">callback_dump_minibatch_sample_indices.hpp:71</a></div></div>
 </div><!-- fragment -->
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -430,8 +438,8 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classlbann_1_1lbann__callback.html#a7522c7a14f1d6a1ea762cc2d7248eb3a">lbann::lbann_callback</a>.</p>
 
-<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00066">66</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
-<div class="fragment"><div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;dump minibatch sample indices&quot;</span>; }</div>
+<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00068">68</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
+<div class="fragment"><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;{ <span class="keywordflow">return</span> <span class="stringliteral">&quot;dump minibatch sample indices&quot;</span>; }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -594,7 +602,7 @@ Here is the call graph for this function:</div>
 </div><div class="memdoc">
 <p>Basename for writing files. </p>
 
-<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00069">69</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
+<p>Definition at line <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html#l00071">71</a> of file <a class="el" href="callback__dump__minibatch__sample__indices_8hpp_source.html">callback_dump_minibatch_sample_indices.hpp</a>.</p>
 
 </div>
 </div>
@@ -608,7 +616,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelbann.html">lbann</a></li><li class="navelem"><a class="el" href="classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html">lbann_callback_dump_minibatch_sample_indices</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:26:04 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:54:28 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

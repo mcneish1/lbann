@@ -1,4 +1,8 @@
 <map id="lbann::Layer::set_name" name="lbann::Layer::set_name">
-<area shape="rect" id="node2" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="213,5,365,46"/>
-<area shape="rect" id="node3" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="247,71,332,97"/>
+<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a5f237f1f6285475c5493a7d15dc32096" title="lbann::greedy_layerwise\l_autoencoder::set_phase" alt="" coords="213,86,381,127"/>
+<area shape="rect" id="node6" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="221,151,373,193"/>
+<area shape="rect" id="node7" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="255,217,340,244"/>
+<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adf8750be08e34891701a24678f703acd" title="lbann::greedy_layerwise\l_autoencoder::greedy_layerwise\l_autoencoder" alt="" coords="430,5,639,61"/>
+<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ac5e2de693353966b7816ca10282068f5" title="lbann::greedy_layerwise\l_autoencoder::operator=" alt="" coords="453,86,616,127"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="453,151,616,193"/>
 </map>

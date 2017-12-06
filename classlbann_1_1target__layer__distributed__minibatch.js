@@ -8,7 +8,6 @@ var classlbann_1_1target__layer__distributed__minibatch =
     [ "fp_set_std_matrix_view", "classlbann_1_1target__layer__distributed__minibatch.html#af31610e5ec2ebd3352282d4931adf361", null ],
     [ "get_data_layout", "classlbann_1_1target__layer__distributed__minibatch.html#acd71895a6777b22a306fa992998a3401", null ],
     [ "get_description", "classlbann_1_1target__layer__distributed__minibatch.html#a0740d9b366cb6f2a0c3e80dd836ab332", null ],
-    [ "get_execution_mode", "classlbann_1_1target__layer__distributed__minibatch.html#ad2caa15f8af77eb23c94b3a4a26004ae", null ],
     [ "get_type", "classlbann_1_1target__layer__distributed__minibatch.html#a22e628a6e94e422f74ccf706cf90bda1", null ],
     [ "initialize_distributed_matrices", "classlbann_1_1target__layer__distributed__minibatch.html#a437f6c93bc1539bba7fad84bfc7438d8", null ],
     [ "operator=", "classlbann_1_1target__layer__distributed__minibatch.html#acf7151f39cce77563056d3eff2c339cb", null ],

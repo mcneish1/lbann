@@ -1,15 +1,15 @@
 <map id="lbann::lbann_callback_gradient_check::on_test_begin" name="lbann::lbann_callback_gradient_check::on_test_begin">
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="291,5,456,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a999f86970eaf27f0169af3c2a904727e" title="lbann::model::get_layers" alt="" coords="542,99,706,125"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="542,75,706,101"/>
 <area shape="rect" id="node4" href="$classlbann_1_1model.html#a375372b5b864ffbc4eaa0963f6939f65" title="lbann::model::set_execution_mode" alt="" coords="261,107,485,133"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__gradient__check.html#a54ba40dd3b381d5c889d77edeffa37f9" title="lbann::lbann_callback\l_gradient_check::compute\l_objective_function" alt="" coords="286,157,461,213"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#acf17279d9186337f4170f4edd4d5205b" title="lbann::model::get_objective\l_function" alt="" coords="533,215,715,257"/>
-<area shape="rect" id="node9" href="$classlbann_1_1objective__function.html#a7a98909f359b14d0a6955897efbfc47c" title="lbann::objective_function\l::compute_gradient" alt="" coords="541,281,707,322"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="302,343,445,385"/>
-<area shape="rect" id="node14" href="$classlbann_1_1model.html#a3a48f1f87528a090da84e8f7ef7df35e" title="lbann::model::get_weights" alt="" coords="286,409,461,436"/>
-<area shape="rect" id="node7" href="$classlbann_1_1objective__function.html#ab9036db18ca94f7a39592d0ec09d5397" title="lbann::objective_function\l::compute_value" alt="" coords="541,150,707,191"/>
-<area shape="rect" id="node8" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="779,223,890,249"/>
-<area shape="rect" id="node11" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="553,346,695,387"/>
-<area shape="rect" id="node13" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="553,411,695,453"/>
-<area shape="rect" id="node12" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="763,346,906,387"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#ac843a0982ae11b989fc4ef8beb3542f2" title="lbann::model::get_objective\l_function" alt="" coords="533,213,715,254"/>
+<area shape="rect" id="node9" href="$classlbann_1_1objective__function.html#a7a98909f359b14d0a6955897efbfc47c" title="lbann::objective_function\l::compute_gradient" alt="" coords="541,278,707,319"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="302,342,445,383"/>
+<area shape="rect" id="node14" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="286,408,461,435"/>
+<area shape="rect" id="node7" href="$classlbann_1_1objective__function.html#ab9036db18ca94f7a39592d0ec09d5397" title="lbann::objective_function\l::compute_value" alt="" coords="541,147,707,189"/>
+<area shape="rect" id="node8" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="779,220,890,247"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="553,343,695,385"/>
+<area shape="rect" id="node13" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="553,409,695,450"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="763,343,906,385"/>
 </map>

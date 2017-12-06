@@ -1,5 +1,7 @@
 <map id="lbann::optimizer::step" name="lbann::optimizer::step">
 <area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#a3160dbf536def4f930e0ea0aabdebc11" title="lbann::lbann_callback\l_imcomm::on_epoch_end" alt="" coords="200,5,371,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="221,70,350,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="419,77,549,104"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a38d8924938fa69857d3f9ed83ac98ee9" title="lbann::model::update\l_weights" alt="" coords="214,70,357,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="419,70,549,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="597,41,760,82"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="614,107,743,133"/>
 </map>

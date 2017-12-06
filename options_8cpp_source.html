@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -144,7 +144,7 @@ $(document).ready(function(){initNavTree('options_8cpp_source.html','');});
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;  std::string value;</div>
 <div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;  std::string loadme;</div>
 <div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">int</span> j=0; j&lt;argc; j++) {</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <a class="code" href="classoptions.html#a64ad628e508d5d71a117909e44f68350">m_cmd_line</a>.push_back(argv[j]);</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <a class="code" href="classoptions.html#a64ad628e508d5d71a117909e44f68350">m_cmd_line</a>.emplace_back(argv[j]);</div>
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    <a class="code" href="options_8cpp.html#a18f37a1b6f36c00656e52d130c2132d2">m_parse_opt</a>(argv[j], key, value);</div>
 <div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="keywordflow">if</span> (key == <span class="stringliteral">&quot;loadme&quot;</span>) {</div>
 <div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;      loadme = value;</div>
@@ -164,9 +164,9 @@ $(document).ready(function(){initNavTree('options_8cpp_source.html','');});
 <div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;</div>
 <div class="line"><a name="l00071"></a><span class="lineno"><a class="line" href="options_8cpp.html#a7a1c169fc6503243e8670fd2b30b06f1">   71</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="options_8cpp.html#a7a1c169fc6503243e8670fd2b30b06f1">lower</a>(std::string &amp;s)</div>
 <div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;{</div>
-<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> j=0; j&lt;s.size(); j++) {</div>
-<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    <span class="keywordflow">if</span> (isalpha(s[j])) {</div>
-<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;      s[j] = tolower(s[j]);</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">char</span> &amp; j : s) {</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;    <span class="keywordflow">if</span> (isalpha(j)) {</div>
+<div class="line"><a name="l00075"></a><span class="lineno">   75</span>&#160;      j = tolower(j);</div>
 <div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;    }</div>
 <div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;  }</div>
 <div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160;}</div>
@@ -291,8 +291,8 @@ $(document).ready(function(){initNavTree('options_8cpp_source.html','');});
 <div class="line"><a name="l00197"></a><span class="lineno">  197</span>&#160;  }</div>
 <div class="line"><a name="l00198"></a><span class="lineno">  198</span>&#160;  <span class="keywordtype">bool</span> is_good = <span class="keyword">true</span>;</div>
 <div class="line"><a name="l00199"></a><span class="lineno">  199</span>&#160;  std::string val = <a class="code" href="classoptions.html#ac73507ca925d98ee5ff6f04937dff5c3">m_opts</a>[option];</div>
-<div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> j=0; j&lt;val.size(); j++) {</div>
-<div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;    <span class="keywordflow">if</span> (!isdigit(val[j])) {</div>
+<div class="line"><a name="l00200"></a><span class="lineno">  200</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">char</span> j : val) {</div>
+<div class="line"><a name="l00201"></a><span class="lineno">  201</span>&#160;    <span class="keywordflow">if</span> (!isdigit(j)) {</div>
 <div class="line"><a name="l00202"></a><span class="lineno">  202</span>&#160;      is_good = <span class="keyword">false</span>;</div>
 <div class="line"><a name="l00203"></a><span class="lineno">  203</span>&#160;      <span class="keywordflow">break</span>;</div>
 <div class="line"><a name="l00204"></a><span class="lineno">  204</span>&#160;    }</div>
@@ -313,9 +313,9 @@ $(document).ready(function(){initNavTree('options_8cpp_source.html','');});
 <div class="line"><a name="l00219"></a><span class="lineno">  219</span>&#160;  <span class="keywordflow">if</span> (!<a class="code" href="classoptions.html#a99183ba43c8d7b35dbfa1bea0f43db48">m_has_opt</a>(option)) <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a name="l00220"></a><span class="lineno">  220</span>&#160;  std::string val(<a class="code" href="classoptions.html#ac73507ca925d98ee5ff6f04937dff5c3">m_opts</a>[option]);</div>
 <div class="line"><a name="l00221"></a><span class="lineno">  221</span>&#160;  <a class="code" href="options_8cpp.html#a7a1c169fc6503243e8670fd2b30b06f1">lower</a>(val);</div>
-<div class="line"><a name="l00222"></a><span class="lineno">  222</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">size_t</span> j=0; j&lt;val.size(); j++) {</div>
-<div class="line"><a name="l00223"></a><span class="lineno">  223</span>&#160;    <span class="keywordflow">if</span> (!(isdigit(val[j]) or val[j] == <span class="charliteral">&#39;-&#39;</span></div>
-<div class="line"><a name="l00224"></a><span class="lineno">  224</span>&#160;             or tolower(val[j] == <span class="charliteral">&#39;e&#39;</span>) or val[j] == <span class="charliteral">&#39;.&#39;</span>)) {</div>
+<div class="line"><a name="l00222"></a><span class="lineno">  222</span>&#160;  <span class="keywordflow">for</span> (<span class="keywordtype">char</span> j : val) {</div>
+<div class="line"><a name="l00223"></a><span class="lineno">  223</span>&#160;    <span class="keywordflow">if</span> (!(isdigit(j) or j == <span class="charliteral">&#39;-&#39;</span></div>
+<div class="line"><a name="l00224"></a><span class="lineno">  224</span>&#160;             or tolower(j == <span class="charliteral">&#39;e&#39;</span>) or j == <span class="charliteral">&#39;.&#39;</span>)) {</div>
 <div class="line"><a name="l00225"></a><span class="lineno">  225</span>&#160;      <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;    }</div>
 <div class="line"><a name="l00227"></a><span class="lineno">  227</span>&#160;  }</div>
@@ -470,7 +470,7 @@ $(document).ready(function(){initNavTree('options_8cpp_source.html','');});
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_923d22ad389741cf75d7d5ed6c33331c.html">src</a></li><li class="navelem"><a class="el" href="dir_a51bfbd72028c1af54cf6311bb8aa1b6.html">utils</a></li><li class="navelem"><a class="el" href="options_8cpp.html">options.cpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:52 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:53 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

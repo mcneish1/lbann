@@ -1,5 +1,10 @@
 <map id="lbann::Layer::get_child_layers" name="lbann::Layer::get_child_layers">
-<area shape="rect" id="node2" href="$classlbann_1_1dag__model.html#a42182cd35edf4a0e597aadc2591b9b7c" title="lbann::dag_model::setup" alt="" coords="462,5,626,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1dag__model.html#a0d7ed1460a64dc9d6dc48c2163aefce8" title="lbann::dag_model::topologically\l_sort_layers" alt="" coords="209,57,413,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="468,57,620,98"/>
+<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a82b8ced756904a2423a65cd0e329b4e2" title="lbann::greedy_layerwise\l_autoencoder::restore\l_sequential_model" alt="" coords="229,63,392,119"/>
+<area shape="rect" id="node7" href="$classlbann_1_1dag__model.html#a42182cd35edf4a0e597aadc2591b9b7c" title="lbann::dag_model::setup" alt="" coords="463,143,627,169"/>
+<area shape="rect" id="node8" href="$classlbann_1_1dag__model.html#a0d7ed1460a64dc9d6dc48c2163aefce8" title="lbann::dag_model::topologically\l_sort_layers" alt="" coords="209,194,413,235"/>
+<area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="701,5,864,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a5f237f1f6285475c5493a7d15dc32096" title="lbann::greedy_layerwise\l_autoencoder::set_phase" alt="" coords="461,74,629,115"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adf8750be08e34891701a24678f703acd" title="lbann::greedy_layerwise\l_autoencoder::greedy_layerwise\l_autoencoder" alt="" coords="678,71,887,127"/>
+<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ac5e2de693353966b7816ca10282068f5" title="lbann::greedy_layerwise\l_autoencoder::operator=" alt="" coords="701,151,864,193"/>
+<area shape="rect" id="node9" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="469,194,621,235"/>
 </map>

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -227,7 +227,7 @@ $(document).ready(function(){initNavTree('distributed__minibatch_8cpp_source.htm
 <div class="line"><a name="l00148"></a><span class="lineno">  148</span>&#160;}</div>
 <div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;</div>
 <div class="line"><a name="l00150"></a><span class="lineno"><a class="line" href="classlbann_1_1distributed__minibatch.html#a6c04054c09e4404841b553381f28c43a">  150</a></span>&#160;<span class="keywordtype">void</span> <a class="code" href="classlbann_1_1distributed__minibatch.html#a6c04054c09e4404841b553381f28c43a">lbann::distributed_minibatch::calculate_num_iterations_per_epoch</a>(<span class="keywordtype">int</span> num_models, <span class="keywordtype">int</span> model_rank, <span class="keywordtype">int</span> max_mini_batch_size, <a class="code" href="classlbann_1_1generic__data__reader.html">generic_data_reader</a> *data_reader) {</div>
-<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;  <span class="keywordflow">if</span>(data_reader == NULL) { <span class="keywordflow">return</span>; }</div>
+<div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;  <span class="keywordflow">if</span>(data_reader == <span class="keyword">nullptr</span>) { <span class="keywordflow">return</span>; }</div>
 <div class="line"><a name="l00152"></a><span class="lineno">  152</span>&#160;  <span class="comment">// If the data reader does not have any data bail out (e.g. unused validation reader)</span></div>
 <div class="line"><a name="l00153"></a><span class="lineno">  153</span>&#160;  <span class="keywordflow">if</span>(data_reader-&gt;<a class="code" href="classlbann_1_1generic__data__reader.html#ac9cc7be0cea189043aaf243e2b2df8aa">get_use_percent</a>() == double(0.0)) { <span class="keywordflow">return</span>; }</div>
 <div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160;</div>
@@ -370,7 +370,7 @@ $(document).ready(function(){initNavTree('distributed__minibatch_8cpp_source.htm
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_923d22ad389741cf75d7d5ed6c33331c.html">src</a></li><li class="navelem"><a class="el" href="dir_db8f866c82271076ace143de50d574f8.html">data_distributions</a></li><li class="navelem"><a class="el" href="distributed__minibatch_8cpp.html">distributed_minibatch.cpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:51 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:52 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>

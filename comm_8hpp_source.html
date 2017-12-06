@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td style="padding-left: 0.5em;">
    <div id="projectname">LBANN
-   &#160;<span id="projectnumber">3d893bc-ci13</span>
+   &#160;<span id="projectnumber">7624e7a-ci14</span>
    </div>
    <div id="projectbrief">LivermoreBigArtificialNeuralNetworkToolkit</div>
   </td>
@@ -251,7 +251,7 @@ $(document).ready(function(){initNavTree('comm_8hpp_source.html','');});
 <div class="line"><a name="l00223"></a><span class="lineno">  223</span>&#160;  <span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</div>
 <div class="line"><a name="l00224"></a><span class="lineno"><a class="line" href="classlbann_1_1lbann__comm.html#a9d4eeae3b7ed19d48e95fc3f7138885b">  224</a></span>&#160;  <span class="keywordtype">void</span> <a class="code" href="classlbann_1_1lbann__comm.html#a9d4eeae3b7ed19d48e95fc3f7138885b">model_gatherv</a>(T* snd, <span class="keywordtype">int</span> count, <span class="keywordtype">int</span> root) {</div>
 <div class="line"><a name="l00225"></a><span class="lineno">  225</span>&#160;    <a class="code" href="classlbann_1_1lbann__comm.html#ad1f146ae7337ece6266fd307944928e0">bytes_sent</a> += <span class="keyword">sizeof</span>(T) * count;</div>
-<div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;    El::mpi::Gather(snd, count, (T *) NULL, (<span class="keywordtype">int</span> *) NULL, (<span class="keywordtype">int</span> *) NULL, root,</div>
+<div class="line"><a name="l00226"></a><span class="lineno">  226</span>&#160;    El::mpi::Gather(snd, count, (T *) NULL, (<span class="keywordtype">int</span> *) <span class="keyword">nullptr</span>, (<span class="keywordtype">int</span> *) <span class="keyword">nullptr</span>, root,</div>
 <div class="line"><a name="l00227"></a><span class="lineno">  227</span>&#160;                    <a class="code" href="classlbann_1_1lbann__comm.html#a58a75b76bd61ec8a26c1cbbec3dc2f45">model_comm</a>);</div>
 <div class="line"><a name="l00228"></a><span class="lineno">  228</span>&#160;  }</div>
 <div class="line"><a name="l00229"></a><span class="lineno">  229</span>&#160;  <span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</div>
@@ -282,7 +282,7 @@ $(document).ready(function(){initNavTree('comm_8hpp_source.html','');});
 <div class="line"><a name="l00259"></a><span class="lineno">  259</span>&#160;  <span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</div>
 <div class="line"><a name="l00260"></a><span class="lineno"><a class="line" href="classlbann_1_1lbann__comm.html#aa784298e6ed0f9f01a20b179d5110df9">  260</a></span>&#160;  <span class="keywordtype">void</span> <a class="code" href="classlbann_1_1lbann__comm.html#aa784298e6ed0f9f01a20b179d5110df9">gather</a>(T snd, <span class="keywordtype">int</span> root, <span class="keyword">const</span> El::mpi::Comm c) {</div>
 <div class="line"><a name="l00261"></a><span class="lineno">  261</span>&#160;    <a class="code" href="classlbann_1_1lbann__comm.html#ad1f146ae7337ece6266fd307944928e0">bytes_sent</a> += <span class="keyword">sizeof</span>(T);</div>
-<div class="line"><a name="l00262"></a><span class="lineno">  262</span>&#160;    El::mpi::Gather(&amp;snd, 1, (T*) NULL, 0, root, c);</div>
+<div class="line"><a name="l00262"></a><span class="lineno">  262</span>&#160;    El::mpi::Gather(&amp;snd, 1, (T*) <span class="keyword">nullptr</span>, 0, root, c);</div>
 <div class="line"><a name="l00263"></a><span class="lineno">  263</span>&#160;  }</div>
 <div class="line"><a name="l00265"></a><span class="lineno">  265</span>&#160;  <span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</div>
 <div class="line"><a name="l00266"></a><span class="lineno"><a class="line" href="classlbann_1_1lbann__comm.html#ae4b572b9b6538ab148b3082f54514c19">  266</a></span>&#160;  <span class="keywordtype">void</span> <a class="code" href="classlbann_1_1lbann__comm.html#ae4b572b9b6538ab148b3082f54514c19">gather</a>(T snd, T *rcv, <span class="keyword">const</span> El::mpi::Comm c) {</div>
@@ -296,7 +296,7 @@ $(document).ready(function(){initNavTree('comm_8hpp_source.html','');});
 <div class="line"><a name="l00276"></a><span class="lineno">  276</span>&#160;  <span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</div>
 <div class="line"><a name="l00277"></a><span class="lineno"><a class="line" href="classlbann_1_1lbann__comm.html#a6d9e9a16e30045690ea416bf25b77148">  277</a></span>&#160;  <span class="keywordtype">void</span> <a class="code" href="classlbann_1_1lbann__comm.html#a6d9e9a16e30045690ea416bf25b77148">gather</a>(T *snd, <span class="keywordtype">int</span> count, <span class="keywordtype">int</span> root, <span class="keyword">const</span> El::mpi::Comm c) {</div>
 <div class="line"><a name="l00278"></a><span class="lineno">  278</span>&#160;    <a class="code" href="classlbann_1_1lbann__comm.html#ad1f146ae7337ece6266fd307944928e0">bytes_sent</a> += <span class="keyword">sizeof</span>(T) * count;</div>
-<div class="line"><a name="l00279"></a><span class="lineno">  279</span>&#160;    El::mpi::Gather(snd, count, (T*) NULL, 0, root, c);</div>
+<div class="line"><a name="l00279"></a><span class="lineno">  279</span>&#160;    El::mpi::Gather(snd, count, (T*) <span class="keyword">nullptr</span>, 0, root, c);</div>
 <div class="line"><a name="l00280"></a><span class="lineno">  280</span>&#160;  }</div>
 <div class="line"><a name="l00282"></a><span class="lineno">  282</span>&#160;  <span class="keyword">template</span> &lt;<span class="keyword">typename</span> T&gt;</div>
 <div class="line"><a name="l00283"></a><span class="lineno"><a class="line" href="classlbann_1_1lbann__comm.html#a90680b777bcecb4d24392b3300919066">  283</a></span>&#160;  <span class="keywordtype">void</span> <a class="code" href="classlbann_1_1lbann__comm.html#a90680b777bcecb4d24392b3300919066">gather</a>(T *snd, <span class="keywordtype">int</span> count, T *rcv, <span class="keyword">const</span> El::mpi::Comm c) {</div>
@@ -954,7 +954,7 @@ $(document).ready(function(){initNavTree('comm_8hpp_source.html','');});
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_1ec655711e29b55f31ff264c2bb65c33.html">usr</a></li><li class="navelem"><a class="el" href="dir_a0a24880a91b90933073f8d3aa89de73.html">workspace</a></li><li class="navelem"><a class="el" href="dir_208d7a2ea8c59265ec87bf2e980d9340.html">wsb</a></li><li class="navelem"><a class="el" href="dir_bbd6668b26f763289c3f291aff61b3bb.html">lbannusr</a></li><li class="navelem"><a class="el" href="dir_a8f312ba3f043bd02d049f4e47a85cb6.html">bamboo</a></li><li class="navelem"><a class="el" href="dir_133a4a981f060b5c505349fbb77a59be.html">lbann-catalyst159-1</a></li><li class="navelem"><a class="el" href="dir_1cc6d50f976a8e37e2027ade18b1e2d7.html">xml-data</a></li><li class="navelem"><a class="el" href="dir_294e3a20abe6977c38d914c01e9d6ab7.html">build-dir</a></li><li class="navelem"><a class="el" href="dir_a31f8fe46a4aa588b6383a428e6464df.html">LBANN-DG-DD</a></li><li class="navelem"><a class="el" href="dir_d166d048bb8382a532581a8bdef1f3cb.html">include</a></li><li class="navelem"><a class="el" href="dir_782d4f5c831b713e690bf8a67fa27f73.html">lbann</a></li><li class="navelem"><a class="el" href="comm_8hpp.html">comm.hpp</a></li>
-    <li class="footer">Generated on Thu Nov 30 2017 09:25:50 for LBANN by
+    <li class="footer">Generated on Wed Dec 6 2017 09:53:51 for LBANN by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.5 </li>
   </ul>
