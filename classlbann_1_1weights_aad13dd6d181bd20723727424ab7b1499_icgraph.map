@@ -1,11 +1,11 @@
 <map id="lbann::weights::get_name" name="lbann::weights::get_name">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#a5b29c317be868056b1c69afa5e097771" title="lbann::lbann_callback\l_imcomm::do_summary" alt="" coords="233,21,396,62"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#ad45c39a7a85fb8e1d99eca97aa4d9d09" title="lbann::lbann_callback\l_imcomm::do_summary" alt="" coords="233,21,396,62"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__timeline.html#afdf506e2c2d40c7b0d1f845fb0ed077e" title="lbann::lbann_callback\l_timeline::on_optimize_end" alt="" coords="225,101,405,142"/>
 <area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#a3abf8d64c577d317893c64b7c8962caf" title="lbann::optimizer::get\l_description" alt="" coords="245,195,385,237"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="466,5,630,61"/>
-<area shape="rect" id="node6" href="$classlbann_1_1adagrad.html#ad8c3000c84809fab63672e9eb35c5370" title="lbann::adagrad::get\l_description" alt="" coords="481,86,615,127"/>
-<area shape="rect" id="node7" href="$classlbann_1_1adam.html#a14eb9754e2aa38a732d92b6d42311676" title="lbann::adam::get_description" alt="" coords="453,152,643,179"/>
-<area shape="rect" id="node8" href="$classlbann_1_1hypergradient__adam.html#aadcd02daeca55493b0e7210195ddb6ec" title="lbann::hypergradient\l_adam::get_description" alt="" coords="469,203,627,245"/>
-<area shape="rect" id="node9" href="$classlbann_1_1rmsprop.html#a4526482bf60f7f3fc3f60ff70b38cdb7" title="lbann::rmsprop::get\l_description" alt="" coords="481,269,615,310"/>
-<area shape="rect" id="node10" href="$classlbann_1_1sgd.html#a2022661b9ef83e418a0a980207cb231e" title="lbann::sgd::get_description" alt="" coords="459,335,637,361"/>
+<area shape="rect" id="node6" href="$classlbann_1_1adagrad.html#ad8c3000c84809fab63672e9eb35c5370" title="lbann::adagrad::get\l_description" alt="" coords="481,85,615,126"/>
+<area shape="rect" id="node7" href="$classlbann_1_1adam.html#a14eb9754e2aa38a732d92b6d42311676" title="lbann::adam::get_description" alt="" coords="453,151,643,177"/>
+<area shape="rect" id="node8" href="$classlbann_1_1hypergradient__adam.html#aadcd02daeca55493b0e7210195ddb6ec" title="lbann::hypergradient\l_adam::get_description" alt="" coords="469,202,627,243"/>
+<area shape="rect" id="node9" href="$classlbann_1_1rmsprop.html#a4526482bf60f7f3fc3f60ff70b38cdb7" title="lbann::rmsprop::get\l_description" alt="" coords="481,267,615,309"/>
+<area shape="rect" id="node10" href="$classlbann_1_1sgd.html#a2022661b9ef83e418a0a980207cb231e" title="lbann::sgd::get_description" alt="" coords="459,333,637,360"/>
 </map>

@@ -1,5 +1,10 @@
 <map id="lbann::lbann_comm::intermodel_gather" name="lbann::lbann_comm::intermodel_gather">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__print.html#a28f2b022193c62f3af40364d2c5b14b2" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="200,5,347,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__print.html#a1f72a486004af859823f75c311dcff42" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="200,70,347,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__timer.html#a95ccee037894dbb5e3c663fbdfbc9d7f" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="198,135,349,177"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__print.html#a50117faa3edb961ddd87c5c5806820b2" title="lbann::lbann_callback\l_print::report_results" alt="" coords="197,103,344,145"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__timer.html#a955e59858c6803e96b21fe494cdf3971" title="lbann::lbann_callback\l_timer::timing_end" alt="" coords="197,234,344,275"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__print.html#a28f2b022193c62f3af40364d2c5b14b2" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="404,5,551,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__print.html#a7090572e2f89e7994872b5fdb612dd3f" title="lbann::lbann_callback\l_print::on_validation_end" alt="" coords="394,70,561,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__print.html#a1f72a486004af859823f75c311dcff42" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="404,135,551,177"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__timer.html#a95ccee037894dbb5e3c663fbdfbc9d7f" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="402,201,553,242"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__timer.html#a0fea502078111627d340340a63768f9f" title="lbann::lbann_callback\l_timer::on_validation_end" alt="" coords="392,266,563,307"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__timer.html#ab7db32c743128f8bcfc35c8ea56c226a" title="lbann::lbann_callback\l_timer::on_test_end" alt="" coords="404,331,551,373"/>
 </map>

@@ -1,23 +1,24 @@
 <map id="get_cmdline_overrides" name="get_cmdline_overrides">
 <area shape="rect" id="node2" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="227,37,370,78"/>
-<area shape="rect" id="node6" href="$classoptions.html#a9ecfe9c365269df68a41b961c31ae3f5" title="returns a pointer to the Options singleton " alt="" coords="467,331,557,357"/>
+<area shape="rect" id="node6" href="$classoptions.html#a9ecfe9c365269df68a41b961c31ae3f5" title="returns a pointer to the Options singleton " alt="" coords="467,457,557,484"/>
 <area shape="rect" id="node7" href="$classoptions.html#a01020aa5bd82bcff1b1c950b20578883" title="options::has_int" alt="" coords="241,153,356,180"/>
 <area shape="rect" id="node10" href="$classoptions.html#a797bc1915004bdbc34c5eea3fe488952" title="options::get_int" alt="" coords="243,204,354,231"/>
-<area shape="rect" id="node11" href="$classoptions.html#a5db5b27267c27ffe1b029948f64e54c1" title="options::has_string" alt="" coords="446,400,578,427"/>
-<area shape="rect" id="node13" href="$proto__common_8cpp.html#a2b1366b9ab5913e4db6afc8833ca4054" title="set_data_readers_filenames" alt="" coords="206,407,391,433"/>
-<area shape="rect" id="node14" href="$classoptions.html#aeb84be21a30b0dd41d7d9f3f52c0f3f7" title="options::get_string" alt="" coords="447,451,577,477"/>
-<area shape="rect" id="node15" href="$classoptions.html#aafb1d2a7ccde0b1bf786230ba4080ecd" title="options::has_bool" alt="" coords="237,255,361,281"/>
-<area shape="rect" id="node16" href="$classoptions.html#a99aa190102de33e2aed39723929f9fad" title="options::get_bool" alt="" coords="238,103,359,129"/>
-<area shape="rect" id="node17" href="$classoptions.html#ae6f1f714c9ad1dc01cb5509df0c4c838" title="options::has_float" alt="" coords="236,508,361,535"/>
-<area shape="rect" id="node21" href="$classoptions.html#a31607533d0c6d2fa331f4e7f52d34bc8" title="options::get_float" alt="" coords="237,559,360,585"/>
+<area shape="rect" id="node11" href="$classoptions.html#a5db5b27267c27ffe1b029948f64e54c1" title="options::has_string" alt="" coords="446,331,578,357"/>
+<area shape="rect" id="node13" href="$proto__common_8cpp.html#a2b1366b9ab5913e4db6afc8833ca4054" title="set_data_readers_filenames" alt="" coords="206,356,391,383"/>
+<area shape="rect" id="node14" href="$classoptions.html#aeb84be21a30b0dd41d7d9f3f52c0f3f7" title="options::get_string" alt="" coords="447,381,577,408"/>
+<area shape="rect" id="node15" href="$proto__common_8cpp.html#a900e005e45b3debc2444ded1c3ff6e1f" title="set_data_readers_percent" alt="" coords="213,508,385,535"/>
+<area shape="rect" id="node16" href="$classoptions.html#a31607533d0c6d2fa331f4e7f52d34bc8" title="options::get_float" alt="" coords="451,520,573,547"/>
+<area shape="rect" id="node20" href="$classoptions.html#aafb1d2a7ccde0b1bf786230ba4080ecd" title="options::has_bool" alt="" coords="237,255,361,281"/>
+<area shape="rect" id="node21" href="$classoptions.html#a99aa190102de33e2aed39723929f9fad" title="options::get_bool" alt="" coords="238,103,359,129"/>
+<area shape="rect" id="node22" href="$classoptions.html#ae6f1f714c9ad1dc01cb5509df0c4c838" title="options::has_float" alt="" coords="449,596,575,623"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="441,5,583,46"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="441,70,583,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="639,5,782,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="637,5,779,46"/>
 <area shape="rect" id="node8" href="$classoptions.html#ad9b4461e633b73acc2fde7752ef60d41" title="options::m_test_int" alt="" coords="445,204,579,231"/>
-<area shape="rect" id="node9" href="$classoptions.html#a99183ba43c8d7b35dbfa1bea0f43db48" title="options::m_has_opt" alt="" coords="837,445,973,472"/>
-<area shape="rect" id="node12" href="$classoptions.html#a8286a8617eec86a3d4cf678bd17739ba" title="options::m_test_string" alt="" coords="635,445,786,472"/>
-<area shape="rect" id="node18" href="$classoptions.html#ab66aae6c79cdde8dd38d0d3fc8aa3de5" title="options::has_double" alt="" coords="443,508,581,535"/>
-<area shape="rect" id="node19" href="$classoptions.html#a0eebdb8dbce454720ef9251fcd7abf24" title="options::m_test_double" alt="" coords="632,508,789,535"/>
-<area shape="rect" id="node20" href="$options_8cpp.html#a7a1c169fc6503243e8670fd2b30b06f1" title="lower" alt="" coords="879,508,932,535"/>
-<area shape="rect" id="node22" href="$classoptions.html#a0e8ff0d44b9192754451f9dcd47cd559" title="options::get_double" alt="" coords="445,559,579,585"/>
+<area shape="rect" id="node9" href="$classoptions.html#a99183ba43c8d7b35dbfa1bea0f43db48" title="options::m_has_opt" alt="" coords="1037,356,1173,383"/>
+<area shape="rect" id="node12" href="$classoptions.html#a8286a8617eec86a3d4cf678bd17739ba" title="options::m_test_string" alt="" coords="633,356,783,383"/>
+<area shape="rect" id="node17" href="$classoptions.html#a0e8ff0d44b9192754451f9dcd47cd559" title="options::get_double" alt="" coords="641,520,775,547"/>
+<area shape="rect" id="node18" href="$classoptions.html#a0eebdb8dbce454720ef9251fcd7abf24" title="options::m_test_double" alt="" coords="832,520,989,547"/>
+<area shape="rect" id="node19" href="$options_8cpp.html#a7a1c169fc6503243e8670fd2b30b06f1" title="lower" alt="" coords="1079,520,1132,547"/>
+<area shape="rect" id="node23" href="$classoptions.html#ab66aae6c79cdde8dd38d0d3fc8aa3de5" title="options::has_double" alt="" coords="639,583,777,609"/>
 </map>

@@ -1,0 +1,19 @@
+<map id="lbann::lbann_callback_checkpoint::restartShared" name="lbann::lbann_callback_checkpoint::restartShared">
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="235,15,400,41"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="246,66,389,107"/>
+<area shape="rect" id="node7" href="$namespacelbann.html#abebab8298e56db6a455a9ed08ab42bb4" title="Reads the &quot;latest&quot; file and returns the epoch number and sample offset for most recent checkpoint..." alt="" coords="255,197,380,224"/>
+<area shape="rect" id="node11" href="$classlbann_1_1persist.html#a123cbc1d2b693640c784a45cbc6d2d97" title="lbann::persist::open\l_restart" alt="" coords="249,131,385,173"/>
+<area shape="rect" id="node12" href="$classlbann_1_1model.html#a2e02dda11636e015ea0c892ffa541881" title="lbann::model::load\l_from_checkpoint_shared" alt="" coords="232,314,403,355"/>
+<area shape="rect" id="node17" href="$classlbann_1_1persist.html#afeef05548e1d17bd09d3805607edd621" title="lbann::persist::close\l_restart" alt="" coords="248,249,387,290"/>
+<area shape="rect" id="node18" href="$classlbann_1_1persist.html#a847ca86b458718f4f9fab9e64c5cad4a" title="lbann::persist::get\l_bytes" alt="" coords="254,379,381,421"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="459,5,602,46"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="459,70,602,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="659,5,802,46"/>
+<area shape="rect" id="node8" href="$namespacelbann.html#a6084b9319eea1997f8446fa3e6879532" title="lbann::openread" alt="" coords="473,141,588,168"/>
+<area shape="rect" id="node9" href="$namespacelbann.html#a784843ebce0e596dba31c1d981a7f087" title="lbann::read_string" alt="" coords="468,196,593,223"/>
+<area shape="rect" id="node10" href="$namespacelbann.html#a38dd30b2ae8214f6595708264369ddb8" title="lbann::closeread" alt="" coords="472,247,589,273"/>
+<area shape="rect" id="node13" href="$classlbann_1_1persist.html#a90ae976e5566fae1b6debdf1b94fd9e0" title="lbann::persist::get_rank" alt="" coords="451,297,610,324"/>
+<area shape="rect" id="node14" href="$classlbann_1_1persist.html#ace1ebb58e2570693cdce0ebd2817113b" title="lbann::persist::read\l_uint32" alt="" coords="464,349,597,390"/>
+<area shape="rect" id="node16" href="$classlbann_1_1persist.html#aa6d996db3714a7ae055adac0d8e8ac63" title="lbann::persist::read\l_uint64" alt="" coords="464,414,597,455"/>
+<area shape="rect" id="node15" href="$namespacelbann.html#a85385e2a9e058b6720300b4cbdd2b1d0" title="lbann::read_bytes" alt="" coords="668,388,793,415"/>
+</map>

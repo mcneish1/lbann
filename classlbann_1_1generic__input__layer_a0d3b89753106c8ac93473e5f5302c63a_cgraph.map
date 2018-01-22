@@ -1,0 +1,5 @@
+<map id="lbann::generic_input_layer::get_current_step_in_epoch" name="lbann::generic_input_layer::get_current_step_in_epoch">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__input__layer.html#ab6bc391df3475d1467839338c4e435ec" title="lbann::generic_input\l_layer::get_data_reader" alt="" coords="217,5,375,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a8dd549fbec0b3a52f732a73036bbe87e" title="Return the index of the current iteration step in the epoch (also the mini&#45;batch index) ..." alt="" coords="227,69,365,125"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="424,12,648,39"/>
+</map>

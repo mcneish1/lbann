@@ -1,4 +1,0 @@
-<map id="lbann::input_layer::calculate_num_iterations_per_epoch_training_unique_per_models" name="lbann::input_layer::calculate_num_iterations_per_epoch_training_unique_per_models">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#a0a2bea575cb205a3a5e8eac86a5ec441" title="lbann::input_layer\l_distributed_minibatch\l::setup_data" alt="" coords="237,5,389,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a5adc19d6d526f1dc2241ea239761933e" title="lbann::input_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="237,85,389,141"/>
-</map>

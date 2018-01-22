@@ -1,0 +1,5 @@
+<map id="lbann::generic_io_buffer::calculate_num_iterations_per_epoch_spanning_models" name="lbann::generic_io_buffer::calculate_num_iterations_per_epoch_spanning_models">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__input__layer.html#af108a5dc05276bc6bc57b306204b12e4" title="lbann::generic_input\l_layer::calculate_num\l_iterations_per_epoch\l_training_spans_models" alt="" coords="251,5,413,75"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__input__layer.html#a8ca316b0369689949f3f4106920ec28f" title="lbann::generic_input\l_layer::setup_data" alt="" coords="461,19,600,61"/>
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html#afae3ca1cd87682174f878f7a8d234978" title="lbann::input_layer\l::setup_data" alt="" coords="649,19,773,61"/>
+</map>

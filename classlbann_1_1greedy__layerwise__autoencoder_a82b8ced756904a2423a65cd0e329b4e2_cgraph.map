@@ -2,5 +2,5 @@
 <area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a61be00df4d752ce281ec6b85a8677e73" title="lbann::Layer::get_child\l_layers" alt="" coords="223,5,377,46"/>
 <area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a5ff3c704853eaac501a5d2868a2a537c" title="lbann::Layer::get_parent\l_layers" alt="" coords="219,70,381,111"/>
 <area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#a510544e9e511be54a50efd39226de345" title="lbann::objective_function\l::get_terms" alt="" coords="217,135,383,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1loss__function.html#a5eb24382784bb9691e03b0f8f17f71c3" title="lbann::loss_function\l::set_target_layer" alt="" coords="231,201,369,242"/>
+<area shape="rect" id="node5" href="$classlbann_1_1loss__function.html#a9ef5356468c892c2c0221f8acd6b5471" title="lbann::loss_function\l::set_target_layer" alt="" coords="231,201,369,242"/>
 </map>

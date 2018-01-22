@@ -1,19 +1,9 @@
 <map id="lbann::model::operator=" name="lbann::model::operator=">
-<area shape="rect" id="node2" href="$classlbann_1_1objective__function.html#a29905391290f1c013b60d4f90dab2de0" title="lbann::objective_function\l::copy" alt="" coords="215,5,382,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#a2e0a4bb9d0e22f2d15d2171f53cb9857" title="lbann::objective_function\l::set_model" alt="" coords="215,70,382,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1metrics_1_1metric.html#afed075627534afbd02fff549979f8312" title="lbann::metrics::metric\l::copy" alt="" coords="225,135,373,177"/>
-<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#af420f22bbac801c85483ade84588a23f" title="lbann::Layer::copy" alt="" coords="234,201,363,228"/>
-<area shape="rect" id="node7" href="$classlbann_1_1Layer.html#a8eed87b25ea902b223c6b7a23abf78b3" title="lbann::Layer::set_model" alt="" coords="218,252,379,279"/>
-<area shape="rect" id="node8" href="$classlbann_1_1weights.html#a747c5bb17bbd29049e51fbb9b5e4f818" title="lbann::weights::copy" alt="" coords="227,303,370,329"/>
-<area shape="rect" id="node10" href="$classlbann_1_1optimizer.html#adf19a1d19d832ebfe70072cc202cdf39" title="lbann::optimizer::copy" alt="" coords="223,353,374,380"/>
-<area shape="rect" id="node11" href="$classlbann_1_1Layer.html#a9f94210cbb973f1df89ef649899094a1" title="lbann::Layer::get_layer\l_pointers" alt="" coords="221,405,376,446"/>
-<area shape="rect" id="node12" href="$classlbann_1_1Layer.html#af96613293e91e3a4e098796409884012" title="lbann::Layer::set_layer\l_pointers" alt="" coords="221,470,376,511"/>
-<area shape="rect" id="node13" href="$classlbann_1_1Layer.html#a1c9f005cd1129afc93f9104b74414508" title="lbann::Layer::get_weights" alt="" coords="213,536,384,563"/>
-<area shape="rect" id="node14" href="$classlbann_1_1Layer.html#aa95e8155c19a29a180c0e2b2ffb5235e" title="lbann::Layer::set_weights" alt="" coords="213,587,384,613"/>
-<area shape="rect" id="node15" href="$classlbann_1_1objective__function.html#aecd235681e35c8dc2dd8092328f7c65c" title="lbann::objective_function\l::get_layer_pointers" alt="" coords="215,638,382,679"/>
-<area shape="rect" id="node16" href="$classlbann_1_1objective__function.html#acc81b6c9bea84de5e96b58c4a1e75812" title="lbann::objective_function\l::set_layer_pointers" alt="" coords="215,703,382,745"/>
-<area shape="rect" id="node17" href="$classlbann_1_1objective__function.html#a5870cb90980818749866758ee2403126" title="lbann::objective_function\l::get_weights_pointers" alt="" coords="215,769,382,810"/>
-<area shape="rect" id="node18" href="$classlbann_1_1objective__function.html#ad4bb20edfcb1cc8239b45b2fa48627f4" title="lbann::objective_function\l::set_weights_pointers" alt="" coords="215,834,382,875"/>
-<area shape="rect" id="node3" href="$classlbann_1_1objective__function.html#a89e96fddff19f13a6d3acafe4394fd65" title="lbann::objective_function\l::objective_function" alt="" coords="433,5,599,46"/>
-<area shape="rect" id="node9" href="$classlbann_1_1weights.html#a21a3a3f1806197d10619a1450871e066" title="lbann::weights::weights" alt="" coords="437,303,595,329"/>
+<area shape="rect" id="node2" href="$classlbann_1_1objective__function.html#a29905391290f1c013b60d4f90dab2de0" title="lbann::objective_function\l::copy" alt="" coords="214,38,381,79"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a68b8c340fdb91a8c113e5f0334958c9e" title="lbann::model::remap\l_pointers" alt="" coords="227,135,367,177"/>
+<area shape="rect" id="node3" href="$classlbann_1_1objective__function.html#a89e96fddff19f13a6d3acafe4394fd65" title="lbann::objective_function\l::objective_function" alt="" coords="430,5,597,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1objective__function.html#aecd235681e35c8dc2dd8092328f7c65c" title="lbann::objective_function\l::get_layer_pointers" alt="" coords="430,70,597,111"/>
+<area shape="rect" id="node6" href="$classlbann_1_1objective__function.html#acc81b6c9bea84de5e96b58c4a1e75812" title="lbann::objective_function\l::set_layer_pointers" alt="" coords="430,135,597,177"/>
+<area shape="rect" id="node7" href="$classlbann_1_1objective__function.html#a5870cb90980818749866758ee2403126" title="lbann::objective_function\l::get_weights_pointers" alt="" coords="430,201,597,242"/>
+<area shape="rect" id="node8" href="$classlbann_1_1objective__function.html#ad4bb20edfcb1cc8239b45b2fa48627f4" title="lbann::objective_function\l::set_weights_pointers" alt="" coords="430,266,597,307"/>
 </map>

@@ -1,20 +1,21 @@
 <map id="lbann::Layer::get_data_layout_string" name="lbann::Layer::get_data_layout_string">
 <area shape="rect" id="node2" href="$classlbann_1_1relu__layer.html#a57d00fb2f9c90f5132ddea44d3ccc099" title="lbann::relu_layer::\lget_description" alt="" coords="232,5,357,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1softmax__layer.html#afc8ecde99bde8cbacae5dc1779052d1d" title="lbann::softmax_layer\l::get_description" alt="" coords="223,70,366,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer__distributed__minibatch.html#a1eb8c92989f138bd3fa883e5d8681ac0" title="lbann::input_layer\l_distributed_minibatch\l::get_description" alt="" coords="219,136,371,192"/>
-<area shape="rect" id="node5" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a215779d7811c9c9c5b9baad95221b67f" title="lbann::input_layer\l_partitioned_minibatch\l::get_description" alt="" coords="219,216,371,272"/>
-<area shape="rect" id="node6" href="$classlbann_1_1reconstruction__layer.html#a738c3f06ea3cee1e8b11672fde6b594e" title="lbann::reconstruction\l_layer::get_description" alt="" coords="218,297,371,338"/>
-<area shape="rect" id="node7" href="$classlbann_1_1target__layer__distributed__minibatch.html#a0740d9b366cb6f2a0c3e80dd836ab332" title="lbann::target_layer\l_distributed_minibatch\l::get_description" alt="" coords="219,363,371,419"/>
-<area shape="rect" id="node8" href="$classlbann_1_1target__layer__partitioned__minibatch.html#aa2302dd41a81c4653c93903f4dc78d60" title="lbann::target_layer\l_partitioned_minibatch\l::get_description" alt="" coords="219,443,371,499"/>
-<area shape="rect" id="node9" href="$classlbann_1_1convolution__layer.html#abce67d7e977d148093798936aff8ee5e" title="kernel tensor is output channels, input channels, conv dimension (w x h) " alt="" coords="218,523,371,565"/>
-<area shape="rect" id="node10" href="$classlbann_1_1deconvolution__layer.html#a07f211e08383fe8e26b6e1b916136b67" title="lbann::deconvolution\l_layer::get_description" alt="" coords="218,589,371,630"/>
-<area shape="rect" id="node11" href="$classlbann_1_1fully__connected__layer.html#a7ce678ec7560dd145244ffd8813d5edb" title="lbann::fully_connected\l_layer::get_description" alt="" coords="218,654,371,695"/>
-<area shape="rect" id="node12" href="$classlbann_1_1batch__normalization.html#a331738f02157f9e1e21f212c41feb86c" title="lbann::batch_normalization\l::get_description" alt="" coords="206,719,383,761"/>
-<area shape="rect" id="node13" href="$classlbann_1_1dropout.html#a7b53ee7d758337fe40788a567b5d092c" title="lbann::dropout::get\l_description" alt="" coords="229,785,360,826"/>
-<area shape="rect" id="node14" href="$classlbann_1_1local__response__normalization__layer.html#a31f4ab1700e2e1c69a0ccb44c6f0fd69" title="lbann::local_response\l_normalization_layer\l::get_description" alt="" coords="221,851,369,907"/>
-<area shape="rect" id="node15" href="$classlbann_1_1noise__layer.html#a004e44d3229c02aa44b58bb266e01a96" title="lbann::noise_layer\l::get_description" alt="" coords="231,931,358,973"/>
-<area shape="rect" id="node16" href="$classlbann_1_1pooling__layer.html#a11f6d5c7ef16a62d081164f174825ab2" title="lbann::pooling_layer\l::get_description" alt="" coords="226,997,363,1038"/>
-<area shape="rect" id="node17" href="$classlbann_1_1slice__layer.html#aa61c1f449a9f741f523921129dfb88e5" title="lbann::slice_layer\l::get_description" alt="" coords="233,1062,356,1103"/>
-<area shape="rect" id="node18" href="$classlbann_1_1split__layer.html#a3e599c39385b1d707ad9f28454f52cf5" title="lbann::split_layer\l::get_description" alt="" coords="235,1127,355,1169"/>
-<area shape="rect" id="node19" href="$classlbann_1_1sum__layer.html#a73e45687c97990d88a2e31dc177ef56e" title="lbann::sum_layer::get\l_description" alt="" coords="221,1193,368,1234"/>
+<area shape="rect" id="node3" href="$classlbann_1_1sigmoid__layer.html#aa921ef4370e6b4fae38536310d7a3a17" title="lbann::sigmoid_layer\l::get_description" alt="" coords="224,70,365,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1softmax__layer.html#afc8ecde99bde8cbacae5dc1779052d1d" title="lbann::softmax_layer\l::get_description" alt="" coords="223,135,366,177"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__input__layer.html#a8ffe91a3d5b6f37d2dc17e657898dcc8" title="lbann::generic_input\l_layer::get_description" alt="" coords="218,201,371,242"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__target__layer.html#aa2db5ccc0bbd40f081c8ff4501f3fc29" title="lbann::generic_target\l_layer::get_description" alt="" coords="218,266,371,307"/>
+<area shape="rect" id="node7" href="$classlbann_1_1reconstruction__layer.html#a738c3f06ea3cee1e8b11672fde6b594e" title="lbann::reconstruction\l_layer::get_description" alt="" coords="218,331,371,373"/>
+<area shape="rect" id="node8" href="$classlbann_1_1convolution__layer.html#abce67d7e977d148093798936aff8ee5e" title="kernel tensor is output channels, input channels, conv dimension (w x h) " alt="" coords="218,397,371,438"/>
+<area shape="rect" id="node9" href="$classlbann_1_1deconvolution__layer.html#a07f211e08383fe8e26b6e1b916136b67" title="lbann::deconvolution\l_layer::get_description" alt="" coords="218,462,371,503"/>
+<area shape="rect" id="node10" href="$classlbann_1_1fully__connected__layer.html#a7ce678ec7560dd145244ffd8813d5edb" title="lbann::fully_connected\l_layer::get_description" alt="" coords="218,527,371,569"/>
+<area shape="rect" id="node11" href="$classlbann_1_1batch__normalization.html#a331738f02157f9e1e21f212c41feb86c" title="lbann::batch_normalization\l::get_description" alt="" coords="206,593,383,634"/>
+<area shape="rect" id="node12" href="$classlbann_1_1dropout.html#a7b53ee7d758337fe40788a567b5d092c" title="lbann::dropout::get\l_description" alt="" coords="229,658,360,699"/>
+<area shape="rect" id="node13" href="$classlbann_1_1local__response__normalization__layer.html#a31f4ab1700e2e1c69a0ccb44c6f0fd69" title="lbann::local_response\l_normalization_layer\l::get_description" alt="" coords="221,723,369,779"/>
+<area shape="rect" id="node14" href="$classlbann_1_1constant__layer.html#a2745baa79137db746795634144b99080" title="lbann::constant_layer\l::get_description" alt="" coords="221,802,368,843"/>
+<area shape="rect" id="node15" href="$classlbann_1_1noise__layer.html#a004e44d3229c02aa44b58bb266e01a96" title="lbann::noise_layer\l::get_description" alt="" coords="231,867,358,909"/>
+<area shape="rect" id="node16" href="$classlbann_1_1pooling__layer.html#a11f6d5c7ef16a62d081164f174825ab2" title="lbann::pooling_layer\l::get_description" alt="" coords="226,933,363,974"/>
+<area shape="rect" id="node17" href="$classlbann_1_1safe__inv__layer.html#a1823f1ac48228eec1fa0c1578b2b1ab3" title="lbann::safe_inv_layer\l::get_description" alt="" coords="222,998,367,1039"/>
+<area shape="rect" id="node18" href="$classlbann_1_1slice__layer.html#aa61c1f449a9f741f523921129dfb88e5" title="lbann::slice_layer\l::get_description" alt="" coords="233,1063,356,1105"/>
+<area shape="rect" id="node19" href="$classlbann_1_1split__layer.html#a3e599c39385b1d707ad9f28454f52cf5" title="lbann::split_layer\l::get_description" alt="" coords="235,1129,355,1170"/>
+<area shape="rect" id="node20" href="$classlbann_1_1sum__layer.html#a73e45687c97990d88a2e31dc177ef56e" title="lbann::sum_layer::get\l_description" alt="" coords="221,1194,368,1235"/>
 </map>

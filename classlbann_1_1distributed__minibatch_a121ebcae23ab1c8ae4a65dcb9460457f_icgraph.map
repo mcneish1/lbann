@@ -1,4 +1,0 @@
-<map id="lbann::distributed_minibatch::distribute_from_local_matrix" name="lbann::distributed_minibatch::distribute_from_local_matrix">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#ae5046a75c405c9884f7da8c87bf7e73d" title="lbann::input_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="200,5,352,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch.html#a8cccfcb074a156c43e068e0decb82ab2" title="lbann::target_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="200,85,352,141"/>
-</map>

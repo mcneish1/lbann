@@ -1,10 +1,11 @@
 <map id="lbann::imagenet_reader_single::operator=" name="lbann::imagenet_reader_single::operator=">
 <area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader.html#a5ea15cc16aa679a2cb549b44eb77f323" title="lbann::imagenet_reader\l::operator=" alt="" coords="221,70,379,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1imagenet__reader__single.html#a8db14d15bfc2de92ffb3c20f1a38dd00" title="lbann::imagenet_reader\l_single::open_data_stream" alt="" coords="211,169,389,210"/>
+<area shape="rect" id="node7" href="$classlbann_1_1imagenet__reader__single.html#a8db14d15bfc2de92ffb3c20f1a38dd00" title="lbann::imagenet_reader\l_single::open_data_stream" alt="" coords="211,169,389,210"/>
 <area shape="rect" id="node3" href="$classlbann_1_1image__data__reader.html#a76a0b52eafb9ad133fb45fec7cf44700" title="lbann::image_data_reader\l::operator=" alt="" coords="441,5,612,46"/>
 <area shape="rect" id="node5" href="$classlbann_1_1imagenet__reader.html#a1b642b5eb01b209e72bdd8dfa139cafd" title="Replicate image processor for each OpenMP thread. " alt="" coords="448,70,605,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#aec7e626e6efa2a4bf23f931e2ef8f607" title="lbann::generic_data\l_reader::operator=" alt="" coords="665,5,799,46"/>
-<area shape="rect" id="node7" href="$classlbann_1_1generic__data__reader.html#a92fc5dc9b5d4c10bbbf7546353403445" title="lbann::generic_data\l_reader::get_file_dir" alt="" coords="459,135,595,177"/>
-<area shape="rect" id="node8" href="$classlbann_1_1generic__data__reader.html#a0e216aa3f8c40e44c5fb14a587fa49d4" title="lbann::generic_data\l_reader::get_data_filename" alt="" coords="437,201,616,242"/>
-<area shape="rect" id="node9" href="$classlbann_1_1generic__data__reader.html#af144e7313b86f12a190ca260528279b7" title="only the master may write to cerr or cout; primarily for use in debugging during development ..." alt="" coords="459,266,594,307"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#aec7e626e6efa2a4bf23f931e2ef8f607" title="lbann::generic_data\l_reader::operator=" alt="" coords="689,5,823,46"/>
+<area shape="rect" id="node6" href="$classlbann_1_1image__data__reader.html#a0164b0e3abbe92daef73b36fb925403e" title="lbann::image_data_reader\l::set_linearized_image_size" alt="" coords="665,70,847,111"/>
+<area shape="rect" id="node8" href="$classlbann_1_1generic__data__reader.html#a92fc5dc9b5d4c10bbbf7546353403445" title="lbann::generic_data\l_reader::get_file_dir" alt="" coords="459,135,595,177"/>
+<area shape="rect" id="node9" href="$classlbann_1_1generic__data__reader.html#a0e216aa3f8c40e44c5fb14a587fa49d4" title="lbann::generic_data\l_reader::get_data_filename" alt="" coords="437,201,616,242"/>
+<area shape="rect" id="node10" href="$classlbann_1_1generic__data__reader.html#af144e7313b86f12a190ca260528279b7" title="only the master may write to cerr or cout; primarily for use in debugging during development ..." alt="" coords="459,266,594,307"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="lbann::optimizer::stage_gradient_for_accumulation" name="lbann::optimizer::stage_gradient_for_accumulation">
+<area shape="rect" id="node2" href="$classlbann_1_1optimizer.html#a10517deafb049ddd740f72e7c3ff2cc3" title="lbann::optimizer::is\l_initialized" alt="" coords="241,5,373,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a8750b09b3cc17d0daa98c00fe064b3b0" title="lbann::lbann_comm::\lnb_allreduce" alt="" coords="235,70,378,111"/>
+</map>

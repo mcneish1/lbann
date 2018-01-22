@@ -1,0 +1,5 @@
+<map id="lbann::generic_input_layer" name="lbann::generic_input_layer">
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html" title="lbann::input_layer\l\&lt; T_io_buffer, T_layout \&gt;" alt="" coords="5,246,173,287"/>
+<area shape="rect" id="node2" href="$classlbann_1_1io__layer.html" title="lbann::io_layer" alt="" coords="36,80,143,107"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="43,5,136,32"/>
+</map>

@@ -10,7 +10,7 @@ var classlbann_1_1lbann__callback__adaptive__learning__rate =
     [ "m_adjust_learning_rate", "classlbann_1_1lbann__callback__adaptive__learning__rate.html#aa3de3b7d67b5295058e9c2175d06212d", null ],
     [ "m_amt", "classlbann_1_1lbann__callback__adaptive__learning__rate.html#ab9c76371184664ccd8e240e3b16a9736", null ],
     [ "m_cur_epoch", "classlbann_1_1lbann__callback__adaptive__learning__rate.html#a740b8b3bbb47312b48322f440f703222", null ],
-    [ "m_last_score", "classlbann_1_1lbann__callback__adaptive__learning__rate.html#a842a5ced30a457836c4bc0022b6ac636", null ],
+    [ "m_last_score", "classlbann_1_1lbann__callback__adaptive__learning__rate.html#a7aa8aeed3df9cca131ace1ea9fbf1cd3", null ],
     [ "m_patience", "classlbann_1_1lbann__callback__adaptive__learning__rate.html#ac3ac3c4d34d62608c54dfa3a41691217", null ],
     [ "m_wait", "classlbann_1_1lbann__callback__adaptive__learning__rate.html#aecfb70e4a366762305a2dbd8248471de", null ]
 ];

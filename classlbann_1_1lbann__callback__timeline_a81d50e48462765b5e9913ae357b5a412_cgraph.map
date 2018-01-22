@@ -1,4 +1,4 @@
 <map id="lbann::lbann_callback_timeline::on_backward_prop_begin" name="lbann::lbann_callback_timeline::on_backward_prop_begin">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__timeline.html#a20bf4fcdfb616658aeaa8966bc8d7ed5" title="Get time relative to the start time. " alt="" coords="214,13,367,54"/>
-<area shape="rect" id="node3" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="417,20,527,47"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__timeline.html#add292a655884b058ee3db80e5c1954f7" title="Get time relative to the start time. " alt="" coords="214,11,367,53"/>
+<area shape="rect" id="node3" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="417,19,527,45"/>
 </map>

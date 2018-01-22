@@ -1,4 +1,4 @@
 <map id="lbann::siamese_model" name="lbann::siamese_model">
-<area shape="rect" id="node2" href="$classlbann_1_1dag__model.html" title="lbann::dag_model" alt="" coords="19,80,143,107"/>
+<area shape="rect" id="node2" href="$classlbann_1_1directed__acyclic__graph__model.html" title="lbann::directed_acyclic\l_graph_model" alt="" coords="4,81,157,122"/>
 <area shape="rect" id="node3" href="$classlbann_1_1model.html" title="lbann::model" alt="" coords="33,5,129,32"/>
 </map>

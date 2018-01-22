@@ -1,0 +1,4 @@
+<map id="lbann::distributed_io_buffer::is_current_root" name="lbann::distributed_io_buffer::is_current_root">
+<area shape="rect" id="node2" href="$classlbann_1_1distributed__io__buffer.html#a07a3562a7c8b0b194be8d8f0437925be" title="lbann::distributed\l_io_buffer::get_data\l_buffer" alt="" coords="230,5,367,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="227,85,370,126"/>
+</map>

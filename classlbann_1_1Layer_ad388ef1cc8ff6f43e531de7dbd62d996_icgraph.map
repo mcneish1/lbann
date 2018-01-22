@@ -1,9 +1,10 @@
 <map id="lbann::Layer::bp_set_std_matrix_view" name="lbann::Layer::bp_set_std_matrix_view">
 <area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a29a707364f22d1836299c8852d659127" title="lbann::Layer::add_to\l_error_signal" alt="" coords="206,5,346,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a0a502d9218d7dbbfd10ebebb6f917033" title="lbann::Layer::back_prop" alt="" coords="195,71,357,97"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a6d39fda041fe570a668cb72594508062" title="lbann::greedy_layerwise\l_autoencoder::backward_prop" alt="" coords="646,38,842,79"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a2ce4444efaab4dd1236c837d6847e438" title="lbann::model::backward_prop" alt="" coords="405,96,597,123"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="679,103,809,145"/>
-<area shape="rect" id="node7" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="891,74,1053,115"/>
-<area shape="rect" id="node8" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="907,140,1037,167"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a0a502d9218d7dbbfd10ebebb6f917033" title="lbann::Layer::back_prop" alt="" coords="195,71,357,97"/>
+<area shape="rect" id="node3" href="$classlbann_1_1kl__divergence.html#aeb39d1ba1e74874cbf396fbe137ff601" title="lbann::kl_divergence\l::differentiate" alt="" coords="431,5,572,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a6d39fda041fe570a668cb72594508062" title="lbann::greedy_layerwise\l_autoencoder::backward_prop" alt="" coords="646,63,842,105"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#a2ce4444efaab4dd1236c837d6847e438" title="lbann::model::backward_prop" alt="" coords="405,121,597,148"/>
+<area shape="rect" id="node7" href="$classlbann_1_1model.html#a462105993a63277a1ead39c30ebae1bb" title="lbann::model::train\l_mini_batch" alt="" coords="679,129,809,170"/>
+<area shape="rect" id="node8" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="891,99,1053,141"/>
+<area shape="rect" id="node9" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="907,165,1037,192"/>
 </map>

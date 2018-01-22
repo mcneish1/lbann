@@ -1,0 +1,5 @@
+<map id="lbann::generic_input_layer::get_global_mini_batch_size" name="lbann::generic_input_layer::get_global_mini_batch_size">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__input__layer.html#ab6bc391df3475d1467839338c4e435ec" title="lbann::generic_input\l_layer::get_data_reader" alt="" coords="209,5,367,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a6d1ff5f8157e92e27c99fdd7b843f946" title="Return the mini_batch_size across all models (global) " alt="" coords="221,69,355,125"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="416,12,640,39"/>
+</map>

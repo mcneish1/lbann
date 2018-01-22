@@ -1,3 +1,4 @@
 <map id="lbann::generic_data_reader::set_absolute_sample_count" name="lbann::generic_data_reader::set_absolute_sample_count">
-<area shape="rect" id="node2" href="$proto__common_8hpp.html#a74f60f765908334042f5b5ec5054646e" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="201,20,322,47"/>
+<area shape="rect" id="node2" href="$classlbann_1_1mnist__reader.html#aacbd6c4dec95b9849083d96e0005b392" title="lbann::mnist_reader\l::load" alt="" coords="200,5,336,46"/>
+<area shape="rect" id="node3" href="$proto__common_8hpp.html#a74f60f765908334042f5b5ec5054646e" title="instantiates one or more generic_data_readers and inserts them in &amp;data_readers " alt="" coords="207,71,329,97"/>
 </map>

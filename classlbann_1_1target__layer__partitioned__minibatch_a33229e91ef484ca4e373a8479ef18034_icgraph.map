@@ -1,4 +1,0 @@
-<map id="lbann::target_layer_partitioned_minibatch::initialize_distributed_matrices" name="lbann::target_layer_partitioned_minibatch::initialize_distributed_matrices">
-<area shape="rect" id="node2" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a2ae60aa53e41eacf5e42f72d5566a79f" title="lbann::target_layer\l_partitioned_minibatch\l::target_layer_partitioned\l_minibatch" alt="" coords="205,5,371,75"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a140c29cc469579eaccc11b020df291a4" title="lbann::target_layer\l_partitioned_minibatch::copy" alt="" coords="419,19,607,61"/>
-</map>

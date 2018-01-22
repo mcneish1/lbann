@@ -1,4 +1,4 @@
 <map id="lbann::lbann_comm::intermodel_sum_matrix" name="lbann::lbann_comm::intermodel_sum_matrix">
 <area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#a3160dbf536def4f930e0ea0aabdebc11" title="lbann::lbann_callback\l_imcomm::on_epoch_end" alt="" coords="211,5,381,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="214,71,378,127"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="214,69,378,125"/>
 </map>

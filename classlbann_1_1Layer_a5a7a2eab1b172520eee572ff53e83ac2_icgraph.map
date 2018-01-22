@@ -1,4 +1,0 @@
-<map id="lbann::Layer::saveToCheckpointShared" name="lbann::Layer::saveToCheckpointShared">
-<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#a8074358247d9720c45f200ec2aed9df5" title="lbann::softmax_layer\l::saveToCheckpointShared" alt="" coords="265,5,445,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#a71fc24d853999434f199e58de7984625" title="lbann::input_layer\l::saveToCheckpointShared" alt="" coords="265,70,445,111"/>
-</map>

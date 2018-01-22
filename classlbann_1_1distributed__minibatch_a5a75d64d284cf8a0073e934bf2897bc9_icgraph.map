@@ -1,4 +1,0 @@
-<map id="lbann::distributed_minibatch::is_data_set_processed" name="lbann::distributed_minibatch::is_data_set_processed">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__distributed__minibatch.html#aeed7354945c0ecf1651e55d0cdcb4d81" title="lbann::input_layer\l_distributed_minibatch\l::update_compute" alt="" coords="189,5,341,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer__distributed__minibatch.html#a52cf3100b3191516872ef9037e34b369" title="lbann::target_layer\l_distributed_minibatch\l::update_compute" alt="" coords="189,85,341,141"/>
-</map>

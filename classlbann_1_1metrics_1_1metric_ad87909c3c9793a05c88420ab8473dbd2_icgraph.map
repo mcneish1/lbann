@@ -1,7 +1,0 @@
-<map id="lbann::metrics::metric::setup" name="lbann::metrics::metric::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1metrics_1_1categorical__accuracy.html#ab2a1b7f5d56ab0eb1cc35d0b89da8a4b" title="lbann::metrics::categorical\l_accuracy::setup" alt="" coords="205,5,379,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1metrics_1_1mean__absolute__deviation.html#a494730bb0378383f658125f18699b49d" title="lbann::metrics::mean\l_absolute_deviation::setup" alt="" coords="203,70,381,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1metrics_1_1mean__squared__error.html#a847282c7b9df07d41d2ac873cc764b59" title="lbann::metrics::mean\l_squared_error::setup" alt="" coords="218,135,366,177"/>
-<area shape="rect" id="node5" href="$classlbann_1_1metrics_1_1pearson__correlation.html#a3c722d11a7be5eba8ef7e324d1332301" title="lbann::metrics::pearson\l_correlation::setup" alt="" coords="213,201,371,242"/>
-<area shape="rect" id="node6" href="$classlbann_1_1metrics_1_1top__k__categorical__accuracy.html#accf32b65f95effb8b0f8a8736e264b1c" title="lbann::metrics::top\l_k_categorical_accuracy\l::setup" alt="" coords="209,267,375,323"/>
-</map>

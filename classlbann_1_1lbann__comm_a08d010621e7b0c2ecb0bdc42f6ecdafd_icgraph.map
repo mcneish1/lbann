@@ -1,4 +1,4 @@
 <map id="lbann::lbann_comm::get_ar_ag_bytes_received" name="lbann::lbann_comm::get_ar_ag_bytes_received">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#a5b29c317be868056b1c69afa5e097771" title="lbann::lbann_callback\l_imcomm::do_summary" alt="" coords="229,13,392,54"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="441,5,605,61"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__imcomm.html#ad45c39a7a85fb8e1d99eca97aa4d9d09" title="lbann::lbann_callback\l_imcomm::do_summary" alt="" coords="229,11,392,53"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="441,4,605,60"/>
 </map>

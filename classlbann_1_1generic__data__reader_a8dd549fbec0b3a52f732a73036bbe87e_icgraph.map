@@ -1,9 +1,5 @@
 <map id="lbann::generic_data_reader::get_current_step_in_epoch" name="lbann::generic_data_reader::get_current_step_in_epoch">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a58f4ad39f330a9aae6d13f4d34434e59" title="lbann::input_layer\l::get_current_step_in_epoch" alt="" coords="192,19,379,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1distributed__minibatch.html#a5a75d64d284cf8a0073e934bf2897bc9" title="lbann::distributed\l_minibatch::is_data\l_set_processed" alt="" coords="218,85,353,141"/>
-<area shape="rect" id="node6" href="$classlbann_1_1partitioned__minibatch.html#acaf52f2e90c653ccf325550109cf91d3" title="lbann::partitioned\l_minibatch::is_data\l_set_processed" alt="" coords="218,165,353,221"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer__distributed__minibatch.html#aeed7354945c0ecf1651e55d0cdcb4d81" title="lbann::input_layer\l_distributed_minibatch\l::update_compute" alt="" coords="427,5,579,61"/>
-<area shape="rect" id="node5" href="$classlbann_1_1target__layer__distributed__minibatch.html#a52cf3100b3191516872ef9037e34b369" title="lbann::target_layer\l_distributed_minibatch\l::update_compute" alt="" coords="427,85,579,141"/>
-<area shape="rect" id="node7" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a7d649e6d22a780fc8e30ae8ee61555fc" title="lbann::input_layer\l_partitioned_minibatch\l::update_compute" alt="" coords="427,165,579,221"/>
-<area shape="rect" id="node8" href="$classlbann_1_1target__layer__partitioned__minibatch.html#aedfd608eed8066586cd6387777961ec2" title="lbann::target_layer\l_partitioned_minibatch\l::update_compute" alt="" coords="427,245,579,301"/>
+<area shape="rect" id="node2" href="$classlbann_1_1generic__input__layer.html#a0d3b89753106c8ac93473e5f5302c63a" title="lbann::generic_input\l_layer::get_current_step\l_in_epoch" alt="" coords="192,5,355,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1distributed__io__buffer.html#a2e214f6542d9b12c8a29bf41d0ee220e" title="lbann::distributed\l_io_buffer::is_data\l_set_processed" alt="" coords="209,85,338,141"/>
+<area shape="rect" id="node4" href="$classlbann_1_1partitioned__io__buffer.html#a0944161f90eb65286974c3e85155608f" title="lbann::partitioned\l_io_buffer::is_data\l_set_processed" alt="" coords="209,165,338,221"/>
 </map>

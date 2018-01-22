@@ -1,15 +1,12 @@
 <map id="lbann::generic_data_reader::get_num_parallel_readers" name="lbann::generic_data_reader::get_num_parallel_readers">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#aa677f061550c6ba0fd8850d6bd6bc2f5" title="lbann::input_layer\l::get_num_parallel_readers" alt="" coords="229,5,408,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__debug__io.html#a528f4aea5f657f40b27c58a164d4095a" title="lbann::lbann_callback\l_debug_io::print_phase_start" alt="" coords="224,70,413,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1distributed__minibatch.html#a3c8a76cf76cda34543f1710dac611caf" title="lbann::distributed\l_minibatch::fetch_to\l_local_matrix" alt="" coords="249,136,389,192"/>
-<area shape="rect" id="node8" href="$classlbann_1_1distributed__minibatch.html#a121ebcae23ab1c8ae4a65dcb9460457f" title="lbann::distributed\l_minibatch::distribute\l_from_local_matrix" alt="" coords="245,216,392,272"/>
-<area shape="rect" id="node9" href="$classlbann_1_1distributed__minibatch.html#a5a75d64d284cf8a0073e934bf2897bc9" title="lbann::distributed\l_minibatch::is_data\l_set_processed" alt="" coords="251,296,386,352"/>
-<area shape="rect" id="node12" href="$classlbann_1_1partitioned__minibatch.html#a78425586ef02cfda0d5085bd5a635ae4" title="lbann::partitioned\l_minibatch::fetch_to\l_local_matrix" alt="" coords="249,456,389,512"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__debug__io.html#aa3d2a6fb4d7375c05ece0058224ea792" title="BVE FIXME. " alt="" coords="462,70,645,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1input__layer__distributed__minibatch.html#ae5046a75c405c9884f7da8c87bf7e73d" title="lbann::input_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="477,216,629,272"/>
-<area shape="rect" id="node7" href="$classlbann_1_1target__layer__distributed__minibatch.html#a8cccfcb074a156c43e068e0decb82ab2" title="lbann::target_layer\l_distributed_minibatch\l::fp_compute" alt="" coords="477,136,629,192"/>
-<area shape="rect" id="node10" href="$classlbann_1_1input__layer__distributed__minibatch.html#aeed7354945c0ecf1651e55d0cdcb4d81" title="lbann::input_layer\l_distributed_minibatch\l::update_compute" alt="" coords="477,376,629,432"/>
-<area shape="rect" id="node11" href="$classlbann_1_1target__layer__distributed__minibatch.html#a52cf3100b3191516872ef9037e34b369" title="lbann::target_layer\l_distributed_minibatch\l::update_compute" alt="" coords="477,296,629,352"/>
-<area shape="rect" id="node13" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a6ff224ef7b35b92d63edbdb86f3def77" title="lbann::input_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="477,536,629,592"/>
-<area shape="rect" id="node14" href="$classlbann_1_1target__layer__partitioned__minibatch.html#a6936c9aa68ed662f2c96e1e0d6d85f54" title="lbann::target_layer\l_partitioned_minibatch\l::fp_compute" alt="" coords="477,456,629,512"/>
+<area shape="rect" id="node2" href="$classlbann_1_1generic__input__layer.html#a05c4551ee0768bd8a4137c14baba0122" title="lbann::generic_input\l_layer::get_num_parallel\l_readers" alt="" coords="237,5,400,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__debug__io.html#a528f4aea5f657f40b27c58a164d4095a" title="lbann::lbann_callback\l_debug_io::print_phase_start" alt="" coords="224,85,413,126"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__data__store.html#a1cff17def02ee21b6ca0befeb04bb582" title="lbann::generic_data\l_store::setup" alt="" coords="251,150,386,191"/>
+<area shape="rect" id="node8" href="$classlbann_1_1distributed__io__buffer.html#abfeb87d4dc402b482db60926ca9b3ec1" title="lbann::distributed\l_io_buffer::fetch_to\l_local_matrix" alt="" coords="251,215,386,271"/>
+<area shape="rect" id="node9" href="$classlbann_1_1distributed__io__buffer.html#a3a770ec2314313761d6f0eccdb9dc09b" title="lbann::distributed\l_io_buffer::distribute\l_from_local_matrix" alt="" coords="249,295,389,351"/>
+<area shape="rect" id="node10" href="$classlbann_1_1distributed__io__buffer.html#a2e214f6542d9b12c8a29bf41d0ee220e" title="lbann::distributed\l_io_buffer::is_data\l_set_processed" alt="" coords="254,375,383,431"/>
+<area shape="rect" id="node11" href="$classlbann_1_1partitioned__io__buffer.html#a777719c9cebe912dc4c005e2c78d77c8" title="lbann::partitioned\l_io_buffer::fetch_to\l_local_matrix" alt="" coords="251,455,386,511"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__debug__io.html#aa3d2a6fb4d7375c05ece0058224ea792" title="BVE FIXME. " alt="" coords="462,85,645,126"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#ad4c1794b09f95c99a7130d75ec77dae1" title="lbann::generic_data\l_reader::setup_data_store" alt="" coords="467,150,640,191"/>
+<area shape="rect" id="node7" href="$classlbann_1_1data__store__imagenet.html#a611aa1734a491c443396a077b49fe4fe" title="lbann::data_store_imagenet\l::setup" alt="" coords="462,215,645,257"/>
 </map>

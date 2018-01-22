@@ -1,0 +1,4 @@
+<map id="lbann::Layer::save_to_checkpoint_shared" name="lbann::Layer::save_to_checkpoint_shared">
+<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#abdbd20f9a115ed6dbda755e53b84a18d" title="lbann::softmax_layer\l::save_to_checkpoint\l_shared" alt="" coords="228,5,375,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__target__layer.html#a2d9b7fc2c6170eeb9f9f15b1207fb4b7" title="lbann::generic_target\l_layer::save_to_checkpoint\l_shared" alt="" coords="211,85,392,141"/>
+</map>

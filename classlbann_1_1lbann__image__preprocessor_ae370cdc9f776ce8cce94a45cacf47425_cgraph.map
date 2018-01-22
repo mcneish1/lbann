@@ -1,7 +1,7 @@
 <map id="lbann::lbann_image_preprocessor::normalize" name="lbann::lbann_image_preprocessor::normalize">
 <area shape="rect" id="node2" href="$classlbann_1_1lbann__image__preprocessor.html#a02cfd4d8c26a317540b587eb52cef0d5" title="lbann::lbann_image\l_preprocessor::z_score" alt="" coords="227,5,386,46"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__image__preprocessor.html#aa7a8926d0544100f7d3caa9289d94826" title="lbann::lbann_image\l_preprocessor::unit_scale" alt="" coords="221,70,392,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__image__preprocessor.html#ab499dd9f11d98998b5902d639f70fa8e" title="lbann::lbann_image\l_preprocessor::mean\l_subtraction" alt="" coords="235,136,379,192"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__image__preprocessor.html#a05c4cb5cb842df5d46eebe15c6ea9de3" title="lbann::lbann_image\l_preprocessor::unit\l_variance" alt="" coords="239,216,374,272"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#a604ae9da0173b8be2bfb6877997d6d5c" title="Compute mean and standard deviation over matrix entries. " alt="" coords="441,143,597,185"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__image__preprocessor.html#ab499dd9f11d98998b5902d639f70fa8e" title="lbann::lbann_image\l_preprocessor::mean\l_subtraction" alt="" coords="235,135,379,191"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__image__preprocessor.html#a05c4cb5cb842df5d46eebe15c6ea9de3" title="lbann::lbann_image\l_preprocessor::unit\l_variance" alt="" coords="239,215,374,271"/>
+<area shape="rect" id="node5" href="$namespacelbann.html#a604ae9da0173b8be2bfb6877997d6d5c" title="Compute mean and standard deviation over matrix entries. " alt="" coords="441,142,597,183"/>
 </map>

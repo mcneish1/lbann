@@ -1,14 +1,30 @@
 <map id="lbann::read_bytes" name="lbann::read_bytes">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#ace1ebb58e2570693cdce0ebd2817113b" title="lbann::persist::read\l_uint32" alt="" coords="193,5,327,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1persist.html#aa6d996db3714a7ae055adac0d8e8ac63" title="lbann::persist::read\l_uint64" alt="" coords="193,70,327,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1persist.html#a2944c32f6634223c0902b38a697a0957" title="lbann::persist::read\l_int32_contig" alt="" coords="193,135,327,177"/>
-<area shape="rect" id="node7" href="$classlbann_1_1persist.html#ac5e659a6612e5f2911e195fc1b6c045b" title="lbann::persist::read\l_float" alt="" coords="193,201,327,242"/>
-<area shape="rect" id="node8" href="$classlbann_1_1persist.html#ae3a0b96ece72901bb0a05d26a4eb4791" title="lbann::persist::read\l_double" alt="" coords="193,266,327,307"/>
-<area shape="rect" id="node9" href="$namespacelbann.html#aedcde4d93c4feb5090c927de1c45b90d" title="lbann::read_uint32" alt="" coords="196,332,324,359"/>
-<area shape="rect" id="node10" href="$namespacelbann.html#a7ca20ac4f0ec9feaa2f6d5b6ef3c8865" title="lbann::read_uint64" alt="" coords="196,383,324,409"/>
-<area shape="rect" id="node11" href="$namespacelbann.html#acb5b0f1b30c9ab2fba700bb953515810" title="lbann::read_int32_contig" alt="" coords="179,433,341,460"/>
-<area shape="rect" id="node12" href="$namespacelbann.html#acd0595f8c31773a3a46f477a83e4c0f3" title="lbann::read_float" alt="" coords="201,484,319,511"/>
-<area shape="rect" id="node13" href="$namespacelbann.html#a66f98f36cf54dca622f1186309961dd4" title="lbann::read_double" alt="" coords="195,535,325,561"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html#a08da7a777b72e0da8d1792ae335810b1" title="lbann::input_layer\l::loadFromCheckpointShared" alt="" coords="391,62,582,103"/>
-<area shape="rect" id="node5" href="$classlbann_1_1generic__data__reader.html#a4b128336a2cfae4c08ef4fb596957c7e" title="Given directory to store checkpoint files, read state from file and add to number of bytes read..." alt="" coords="390,128,583,184"/>
+<area shape="rect" id="node2" href="$classlbann_1_1persist.html#ace1ebb58e2570693cdce0ebd2817113b" title="lbann::persist::read\l_uint32" alt="" coords="193,71,327,113"/>
+<area shape="rect" id="node7" href="$classlbann_1_1persist.html#aa6d996db3714a7ae055adac0d8e8ac63" title="lbann::persist::read\l_uint64" alt="" coords="193,165,327,206"/>
+<area shape="rect" id="node11" href="$classlbann_1_1persist.html#a2944c32f6634223c0902b38a697a0957" title="lbann::persist::read\l_int32_contig" alt="" coords="193,230,327,271"/>
+<area shape="rect" id="node12" href="$classlbann_1_1persist.html#ac5e659a6612e5f2911e195fc1b6c045b" title="lbann::persist::read\l_float" alt="" coords="193,361,327,402"/>
+<area shape="rect" id="node13" href="$classlbann_1_1persist.html#ae3a0b96ece72901bb0a05d26a4eb4791" title="lbann::persist::read\l_double" alt="" coords="193,295,327,337"/>
+<area shape="rect" id="node14" href="$classlbann_1_1persist.html#a1e84eff891affad6001f3c5fa803cae2" title="lbann::persist::read\l_datatype" alt="" coords="193,426,327,467"/>
+<area shape="rect" id="node24" href="$classlbann_1_1persist.html#a19c0a5dbee697aff0a5a5588f2d370b9" title="lbann::persist::read\l_string" alt="" coords="193,491,327,533"/>
+<area shape="rect" id="node25" href="$namespacelbann.html#aedcde4d93c4feb5090c927de1c45b90d" title="lbann::read_uint32" alt="" coords="196,557,324,584"/>
+<area shape="rect" id="node26" href="$namespacelbann.html#a7ca20ac4f0ec9feaa2f6d5b6ef3c8865" title="lbann::read_uint64" alt="" coords="196,608,324,635"/>
+<area shape="rect" id="node27" href="$namespacelbann.html#acb5b0f1b30c9ab2fba700bb953515810" title="lbann::read_int32_contig" alt="" coords="179,659,341,685"/>
+<area shape="rect" id="node28" href="$namespacelbann.html#acd0595f8c31773a3a46f477a83e4c0f3" title="lbann::read_float" alt="" coords="201,709,319,736"/>
+<area shape="rect" id="node29" href="$namespacelbann.html#a66f98f36cf54dca622f1186309961dd4" title="lbann::read_double" alt="" coords="195,760,325,787"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a2e02dda11636e015ea0c892ffa541881" title="lbann::model::load\l_from_checkpoint_shared" alt="" coords="401,71,572,113"/>
+<area shape="rect" id="node6" href="$classlbann_1_1sequential__model.html#aa52cca299012c67f88483206d50abb21" title="lbann::sequential_model\l::load_from_checkpoint\l_shared" alt="" coords="640,5,803,61"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checkpoint.html#a40d369278bc5963ba2f3cca1750ba004" title="lbann::lbann_callback\l_checkpoint::restartShared" alt="" coords="632,85,811,126"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__checkpoint.html#a383654a7bb70672dfc9fef679f4b509f" title="lbann::lbann_callback\l_checkpoint::setup" alt="" coords="859,85,1005,126"/>
+<area shape="rect" id="node8" href="$classlbann_1_1generic__input__layer.html#ae5a542333eaf447a05fc586848e7c94c" title="lbann::generic_input\l_layer::load_from_checkpoint\l_shared" alt="" coords="391,136,583,192"/>
+<area shape="rect" id="node9" href="$classlbann_1_1generic__data__reader.html#a4b128336a2cfae4c08ef4fb596957c7e" title="Given directory to store checkpoint files, read state from file and add to number of bytes read..." alt="" coords="390,216,583,272"/>
+<area shape="rect" id="node10" href="$structlbann_1_1metric__statistics.html#a4ff472c5d9155fe28c5a576c49f1e154" title="lbann::metric_statistics\l::unpack_scalars" alt="" coords="408,295,565,337"/>
+<area shape="rect" id="node15" href="$classlbann_1_1adam.html#a21a3d2bce0bac5e6c022c5d95ec6348b" title="lbann::adam::unpack\l_scalars" alt="" coords="415,557,558,598"/>
+<area shape="rect" id="node17" href="$classlbann_1_1rmsprop.html#a9b969263276b4d1aed93c3c82abf832d" title="lbann::rmsprop::unpack\l_scalars" alt="" coords="407,491,566,533"/>
+<area shape="rect" id="node18" href="$classlbann_1_1sgd.html#a2b4a91cbb155ed94a185db79fdbf6284" title="lbann::sgd::unpack\l_scalars" alt="" coords="421,361,553,402"/>
+<area shape="rect" id="node20" href="$classlbann_1_1optimizer.html#a42a52aab9a682fda57c1e639968a44b9" title="lbann::optimizer::load\l_from_checkpoint_shared" alt="" coords="401,426,572,467"/>
+<area shape="rect" id="node16" href="$classlbann_1_1adam.html#aca07e925a4751fc5c10a62fb9c72c896" title="lbann::adam::load_from\l_checkpoint_shared" alt="" coords="642,557,801,598"/>
+<area shape="rect" id="node19" href="$classlbann_1_1sgd.html#aa3e3237a59b0593d7caf7357b7c181cf" title="lbann::sgd::load_from\l_checkpoint_shared" alt="" coords="648,295,795,337"/>
+<area shape="rect" id="node21" href="$classlbann_1_1adagrad.html#ac6b6eb0c4d393679f69281c072dbc4fa" title="lbann::adagrad::load\l_from_checkpoint_shared" alt="" coords="636,491,807,533"/>
+<area shape="rect" id="node22" href="$classlbann_1_1rmsprop.html#a64db08f787ca8904a0ba4ecc37d5d1ed" title="lbann::rmsprop::load\l_from_checkpoint_shared" alt="" coords="636,361,807,402"/>
+<area shape="rect" id="node23" href="$classlbann_1_1weights.html#ad41cac4b516d83f086cdfbcdfaa8223c" title="lbann::weights::load\l_from_checkpoint_shared" alt="" coords="636,426,807,467"/>
 </map>

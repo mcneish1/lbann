@@ -1,5 +1,6 @@
 <map id="lbann::imagenet_reader::fetch_datum" name="lbann::imagenet_reader::fetch_datum">
 <area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#a92fc5dc9b5d4c10bbbf7546353403445" title="lbann::generic_data\l_reader::get_file_dir" alt="" coords="221,5,357,46"/>
 <area shape="rect" id="node3" href="$classlbann_1_1imagenet__reader.html#a2a7df26a42356d2feb980c45cc9c1375" title="lbann::imagenet_reader\l::create_datum_view" alt="" coords="211,70,368,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1image__utils.html#ac324a04f877601387cfb10750f1f6b8d" title="Load an image from a file and put it into a serialized buffer. " alt="" coords="226,135,353,177"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__store.html#add66d4a0b6f02471d5d55c02fa4ee47b" title="lbann::generic_data\l_store::get_data_buf" alt="" coords="219,135,360,177"/>
+<area shape="rect" id="node5" href="$classlbann_1_1image__utils.html#ac324a04f877601387cfb10750f1f6b8d" title="Load an image from a file and put it into a serialized buffer. " alt="" coords="226,201,353,242"/>
 </map>

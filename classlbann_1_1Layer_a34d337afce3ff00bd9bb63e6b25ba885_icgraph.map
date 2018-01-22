@@ -1,6 +1,7 @@
 <map id="lbann::Layer::get_num_prev_neurons" name="lbann::Layer::get_num_prev_neurons">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#ad395a8f4a45a6a7547b4da4bad6b2c78" title="lbann::model::print\l_layer_description" alt="" coords="206,38,335,79"/>
-<area shape="rect" id="node3" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="384,5,547,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="389,70,541,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adc219a87e3ce3a0e5a11450cc80d67e5" title="lbann::greedy_layerwise\l_autoencoder::setup" alt="" coords="595,5,757,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#ad395a8f4a45a6a7547b4da4bad6b2c78" title="lbann::model::print\l_layer_description" alt="" coords="206,70,335,111"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a989ab581e359f65c9238d627cce5b589" title="lbann::model::setup\l_layers" alt="" coords="393,5,529,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1recurrent__model.html#a712dabb1c1e90f6e268b42f6abaedd93" title="lbann::recurrent_model\l::setup_layers" alt="" coords="384,70,539,111"/>
+<area shape="rect" id="node6" href="$classlbann_1_1siamese__model.html#afefdbaf473d40e571b2b58539001c9c0" title="lbann::siamese_model\l::setup_layers" alt="" coords="385,135,537,177"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#afd9dbca79503a40b7aa5c78da4d6f391" title="lbann::model::setup" alt="" coords="587,12,723,39"/>
 </map>

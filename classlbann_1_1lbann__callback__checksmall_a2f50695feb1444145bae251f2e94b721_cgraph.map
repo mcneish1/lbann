@@ -1,5 +1,5 @@
 <map id="lbann::lbann_callback_checksmall::on_forward_prop_end" name="lbann::lbann_callback_checksmall::on_forward_prop_end">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a6e307f92dcf0f9f1ea7cdb15d107ea9e" title="lbann::Layer::get_activations" alt="" coords="221,5,411,32"/>
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#afad38f325738e68ae50cda1b92beaa3d" title="lbann::Layer::get_activations" alt="" coords="221,5,411,32"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__checksmall.html#afe78f539ba3b2ad3e6ae8c468850052c" title="lbann::lbann_callback\l_checksmall::is_good" alt="" coords="242,57,390,98"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checksmall.html#acbdd897ecbe5a27b59db15ae7662e0f9" title="lbann::lbann_callback\l_checksmall::name" alt="" coords="243,122,389,163"/>
 <area shape="rect" id="node5" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="233,188,399,215"/>

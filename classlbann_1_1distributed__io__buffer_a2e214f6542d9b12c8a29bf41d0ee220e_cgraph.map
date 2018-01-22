@@ -1,0 +1,5 @@
+<map id="lbann::distributed_io_buffer::is_data_set_processed" name="lbann::distributed_io_buffer::is_data_set_processed">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#a2a3dfe8df7934de80214c3aa59a8c2a9" title="Return the number of parallel readers per model. " alt="" coords="191,5,361,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="Get the number of iterations in each epoch. " alt="" coords="185,85,367,141"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a8dd549fbec0b3a52f732a73036bbe87e" title="Return the index of the current iteration step in the epoch (also the mini&#45;batch index) ..." alt="" coords="207,165,345,221"/>
+</map>

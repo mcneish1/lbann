@@ -1,3 +1,6 @@
 <map id="lbann::generic_data_reader::get_role" name="lbann::generic_data_reader::get_role">
-<area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader__single.html#a77c576d6085d4a8674322275dd9bd133" title="lbann::imagenet_reader\l_single::fetch_datum" alt="" coords="189,5,347,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader__single.html#a77c576d6085d4a8674322275dd9bd133" title="lbann::imagenet_reader\l_single::fetch_datum" alt="" coords="203,5,360,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1data__store__imagenet.html#a611aa1734a491c443396a077b49fe4fe" title="lbann::data_store_imagenet\l::setup" alt="" coords="422,122,605,163"/>
+<area shape="rect" id="node4" href="$classlbann_1_1data__store__imagenet.html#a78034628555839d7bd012deaf8c511fa" title="for use during development and testing " alt="" coords="190,122,373,163"/>
+<area shape="rect" id="node5" href="$classlbann_1_1data__store__imagenet.html#ab7240a01d770827a11d02d43828d1f64" title="for use during development and testing " alt="" coords="190,187,373,229"/>
 </map>

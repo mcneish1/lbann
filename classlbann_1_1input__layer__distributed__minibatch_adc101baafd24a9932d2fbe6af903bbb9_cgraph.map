@@ -1,9 +1,0 @@
-<map id="lbann::input_layer_distributed_minibatch::fp_set_std_matrix_view" name="lbann::input_layer_distributed_minibatch::fp_set_std_matrix_view">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a2f3e0754c1eac720554b64a22bd4a1e6" title="lbann::input_layer\l::fp_set_std_matrix_view" alt="" coords="223,107,391,149"/>
-<area shape="rect" id="node8" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="222,173,391,214"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#ad6b9c222681d5ede138817c4e354e59a" title="lbann::input_layer\l::get_current_mini_batch_size" alt="" coords="441,5,637,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a4f3cc91f8495870723389be15f77184a" title="lbann::model::set_current\l_mini_batch_size" alt="" coords="454,70,623,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1input__layer.html#a0e7b489f32536fff59ad8d1d9b3291fd" title="lbann::input_layer\l::get_current_global\l_mini_batch_size" alt="" coords="471,136,607,192"/>
-<area shape="rect" id="node7" href="$classlbann_1_1model.html#aa64829cba8a84928a396893172a1d116" title="lbann::model::set_effective\l_mini_batch_size" alt="" coords="449,217,628,258"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="685,81,909,108"/>
-</map>

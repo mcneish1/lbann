@@ -1,41 +1,55 @@
 <map id="lbann::lbann_comm::get_rank_in_world" name="lbann::lbann_comm::get_rank_in_world">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__hang.html#ada39fd10375143a26c99e0a32d4368ce" title="Hang on train begin. " alt="" coords="215,754,364,795"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="218,819,361,861"/>
-<area shape="rect" id="node35" href="$classlbann_1_1lbann__callback__checknan.html#a09388ae76566a6a93c957ab76cd54dcd" title="lbann::lbann_callback\l_checknan::on_forward\l_prop_end" alt="" coords="211,885,368,941"/>
-<area shape="rect" id="node36" href="$classlbann_1_1lbann__callback__checknan.html#a40d9a9fcc5849746570b99321e1c5488" title="lbann::lbann_callback\l_checknan::on_backward\l_prop_end" alt="" coords="204,965,375,1021"/>
-<area shape="rect" id="node37" href="$classlbann_1_1lbann__callback__checknan.html#a1d1b3b082aa49016e7b80e0f267575da" title="lbann::lbann_callback\l_checknan::on_batch_end" alt="" coords="202,1046,377,1087"/>
-<area shape="rect" id="node38" href="$classlbann_1_1lbann__callback__checksmall.html#a2f50695feb1444145bae251f2e94b721" title="lbann::lbann_callback\l_checksmall::on_forward\l_prop_end" alt="" coords="206,1112,373,1168"/>
-<area shape="rect" id="node39" href="$classlbann_1_1lbann__callback__checksmall.html#aade56a328c4b9df28c0cd979eed9e5ff" title="lbann::lbann_callback\l_checksmall::on_backward\l_prop_end" alt="" coords="199,1192,379,1248"/>
-<area shape="rect" id="node40" href="$classlbann_1_1lbann__callback__checksmall.html#a00f1e6ad712638a107667a3e6695a6f0" title="lbann::lbann_callback\l_checksmall::on_batch_end" alt="" coords="197,1273,381,1314"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__hang.html#ada39fd10375143a26c99e0a32d4368ce" title="Hang on train begin. " alt="" coords="215,906,364,947"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__comm.html#adb87fdc17095efd8e4dcb343357a6ba5" title="lbann::lbann_comm::\lam_world_master" alt="" coords="218,971,361,1013"/>
+<area shape="rect" id="node49" href="$classlbann_1_1lbann__callback__checknan.html#a09388ae76566a6a93c957ab76cd54dcd" title="lbann::lbann_callback\l_checknan::on_forward\l_prop_end" alt="" coords="211,1036,368,1092"/>
+<area shape="rect" id="node50" href="$classlbann_1_1lbann__callback__checknan.html#a40d9a9fcc5849746570b99321e1c5488" title="lbann::lbann_callback\l_checknan::on_backward\l_prop_end" alt="" coords="204,1116,375,1172"/>
+<area shape="rect" id="node51" href="$classlbann_1_1lbann__callback__checknan.html#a1d1b3b082aa49016e7b80e0f267575da" title="lbann::lbann_callback\l_checknan::on_batch_end" alt="" coords="202,1195,377,1237"/>
+<area shape="rect" id="node52" href="$classlbann_1_1lbann__callback__checksmall.html#a2f50695feb1444145bae251f2e94b721" title="lbann::lbann_callback\l_checksmall::on_forward\l_prop_end" alt="" coords="206,1260,373,1316"/>
+<area shape="rect" id="node53" href="$classlbann_1_1lbann__callback__checksmall.html#aade56a328c4b9df28c0cd979eed9e5ff" title="lbann::lbann_callback\l_checksmall::on_backward\l_prop_end" alt="" coords="199,1340,379,1396"/>
+<area shape="rect" id="node54" href="$classlbann_1_1lbann__callback__checksmall.html#a00f1e6ad712638a107667a3e6695a6f0" title="lbann::lbann_callback\l_checksmall::on_batch_end" alt="" coords="197,1419,381,1461"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__check__init.html#a037f1371c56c1b528f487517a58ce3fb" title="lbann::lbann_callback\l_check_init::on_train_begin" alt="" coords="443,5,623,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__gradient__check.html#ab62102d5ab30330386514161b9ee6586" title="lbann::lbann_callback\l_gradient_check::on_test_begin" alt="" coords="430,70,637,111"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__ltfb.html#a6adc1934308bfec9625db664141c721d" title="lbann::lbann_callback\l_ltfb::select_partner" alt="" coords="460,135,607,177"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__print.html#a405e20e9fa137bd377faf692cc3c54aa" title="lbann::lbann_callback\l_print::setup" alt="" coords="460,201,607,242"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__print.html#ae3c99d7c56ac33ab7e09880134b43cad" title="lbann::lbann_callback\l_print::on_epoch_begin" alt="" coords="455,266,611,307"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__print.html#a28f2b022193c62f3af40364d2c5b14b2" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="460,331,607,373"/>
-<area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__print.html#a1f72a486004af859823f75c311dcff42" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="460,397,607,438"/>
-<area shape="rect" id="node12" href="$classlbann_1_1lbann__callback__save__images.html#ab84c4d511a4614ca90644d12dc77edee" title="lbann::lbann_callback\l_save_images::save_image" alt="" coords="441,462,625,503"/>
-<area shape="rect" id="node16" href="$classlbann_1_1lbann__callback__timer.html#a95ccee037894dbb5e3c663fbdfbc9d7f" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="458,527,609,569"/>
-<area shape="rect" id="node17" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a4f5d8ab04ab3e1cc3aa66327d3712f51" title="Set the initial mini&#45;batch size. " alt="" coords="460,593,607,649"/>
-<area shape="rect" id="node18" href="$classlbann_1_1dag__model.html#a42182cd35edf4a0e597aadc2591b9b7c" title="lbann::dag_model::setup" alt="" coords="451,673,615,700"/>
-<area shape="rect" id="node19" href="$classlbann_1_1sequential__model.html#add7ac2174ffc99d6cf9f40a8c4eb2747" title="lbann::sequential_model\l::setup" alt="" coords="452,725,615,766"/>
-<area shape="rect" id="node21" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="457,790,609,831"/>
-<area shape="rect" id="node22" href="$proto__common_8hpp.html#a9a9d7504db9e1b819fcddac197da3252" title="Returns true if the Model contains at least one MotifLayer. " alt="" coords="490,856,577,883"/>
-<area shape="rect" id="node23" href="$proto__common_8hpp.html#a9454e517d698ec0960588364b9b42d6a" title="expand_motifs" alt="" coords="480,907,587,933"/>
-<area shape="rect" id="node24" href="$proto__common_8cpp.html#aad2a06edafd258ed60b9a6aa26bda770" title="get_proto_layers" alt="" coords="474,957,593,984"/>
-<area shape="rect" id="node25" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="743,983,828,1009"/>
-<area shape="rect" id="node26" href="$proto__common_8cpp.html#ada60fd1558bd89338f58bdd0a27c35e6" title="construct_summarizer" alt="" coords="458,1059,609,1085"/>
-<area shape="rect" id="node28" href="$proto__common_8cpp.html#a1d628fde9876b07dc32de6556da91ca1" title="choose_imcomm_callback\l_weights" alt="" coords="445,1110,621,1151"/>
-<area shape="rect" id="node27" href="$proto__common_8cpp.html#a64cca5f2ba7a9cd8cc113280320dea19" title="init_callbacks" alt="" coords="735,1117,836,1144"/>
-<area shape="rect" id="node29" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="493,1227,574,1253"/>
-<area shape="rect" id="node30" href="$proto__common_8hpp.html#ae5ac4c13a36b3222afacd8d7b4786140" title="adjusts the number of parallel data readers " alt="" coords="448,1277,619,1304"/>
-<area shape="rect" id="node31" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="457,1328,609,1355"/>
-<area shape="rect" id="node32" href="$proto__common_8hpp.html#adf83ffea572cec61b853b61aa68bea27" title="print various params (learn_rate, etc) to cout " alt="" coords="474,1379,593,1405"/>
-<area shape="rect" id="node33" href="$proto__common_8hpp.html#a403b98ced142a0afa3b939e7af1095b0" title="prints usage information " alt="" coords="494,1429,573,1456"/>
-<area shape="rect" id="node34" href="$proto__common_8hpp.html#a4f1af470c45e9ed06039685e5f72ea4a" title="prints prototext file, cmd line, etc to file " alt="" coords="482,1480,585,1507"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="712,135,859,177"/>
-<area shape="rect" id="node13" href="$classlbann_1_1lbann__callback__save__images.html#aa540916eef9b95db68889a8a7426779c" title="lbann::lbann_callback\l_save_images::on_epoch_end" alt="" coords="686,397,885,438"/>
-<area shape="rect" id="node14" href="$classlbann_1_1lbann__callback__save__images.html#a4591438de0b52467988e2bd34b55c0dd" title="lbann::lbann_callback\l_save_images::on_phase_end" alt="" coords="686,462,885,503"/>
-<area shape="rect" id="node15" href="$classlbann_1_1lbann__callback__save__images.html#a44d0f0113133d6fd8944d8b7702ea786" title="lbann::lbann_callback\l_save_images::on_test_end" alt="" coords="693,527,878,569"/>
-<area shape="rect" id="node20" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adc219a87e3ce3a0e5a11450cc80d67e5" title="lbann::greedy_layerwise\l_autoencoder::setup" alt="" coords="704,725,867,766"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__checkpoint.html#a2e5f396667ccc45f7203263b06c5e216" title="lbann::lbann_callback\l_checkpoint::need_checkpoint" alt="" coords="434,135,633,177"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__checkpoint.html#a23b6f5abb924b2c4d0694e98c7d6f4d5" title="lbann::lbann_callback\l_checkpoint::checkpointShared" alt="" coords="431,70,635,111"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__checkpoint.html#a40d369278bc5963ba2f3cca1750ba004" title="lbann::lbann_callback\l_checkpoint::restartShared" alt="" coords="444,201,623,242"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__gradient__check.html#ab62102d5ab30330386514161b9ee6586" title="lbann::lbann_callback\l_gradient_check::on_test_begin" alt="" coords="430,266,637,307"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__callback__ltfb.html#a6adc1934308bfec9625db664141c721d" title="lbann::lbann_callback\l_ltfb::select_partner" alt="" coords="460,331,607,373"/>
+<area shape="rect" id="node14" href="$classlbann_1_1lbann__callback__print.html#a405e20e9fa137bd377faf692cc3c54aa" title="lbann::lbann_callback\l_print::setup" alt="" coords="460,397,607,438"/>
+<area shape="rect" id="node15" href="$classlbann_1_1lbann__callback__print.html#ae3c99d7c56ac33ab7e09880134b43cad" title="lbann::lbann_callback\l_print::on_epoch_begin" alt="" coords="455,462,611,503"/>
+<area shape="rect" id="node16" href="$classlbann_1_1lbann__callback__print.html#a50117faa3edb961ddd87c5c5806820b2" title="lbann::lbann_callback\l_print::report_results" alt="" coords="460,527,607,569"/>
+<area shape="rect" id="node20" href="$classlbann_1_1lbann__callback__save__images.html#ab84c4d511a4614ca90644d12dc77edee" title="lbann::lbann_callback\l_save_images::save_image" alt="" coords="441,593,625,634"/>
+<area shape="rect" id="node24" href="$classlbann_1_1lbann__callback__save__model.html#ae047ee35b65e9bda4080a83833612699" title="lbann::lbann_callback\l_save_model::on_epoch_end" alt="" coords="690,717,881,758"/>
+<area shape="rect" id="node25" href="$classlbann_1_1lbann__callback__timer.html#a955e59858c6803e96b21fe494cdf3971" title="lbann::lbann_callback\l_timer::timing_end" alt="" coords="460,827,607,869"/>
+<area shape="rect" id="node29" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a4f5d8ab04ab3e1cc3aa66327d3712f51" title="Set the initial mini&#45;batch size. " alt="" coords="460,892,607,948"/>
+<area shape="rect" id="node30" href="$classlbann_1_1model.html#a989ab581e359f65c9238d627cce5b589" title="lbann::model::setup\l_layers" alt="" coords="465,971,601,1013"/>
+<area shape="rect" id="node32" href="$classlbann_1_1model.html#a488da86420421a4890c8fd7a95849acc" title="lbann::model::write\l_proto" alt="" coords="467,710,599,751"/>
+<area shape="rect" id="node33" href="$classlbann_1_1sequential__model.html#a53a83327a1115a53affa78c93344e641" title="lbann::sequential_model\l::write_proto" alt="" coords="704,782,867,823"/>
+<area shape="rect" id="node34" href="$classlbann_1_1recurrent__model.html#a712dabb1c1e90f6e268b42f6abaedd93" title="lbann::recurrent_model\l::setup_layers" alt="" coords="456,1037,611,1078"/>
+<area shape="rect" id="node35" href="$classlbann_1_1siamese__model.html#afefdbaf473d40e571b2b58539001c9c0" title="lbann::siamese_model\l::setup_layers" alt="" coords="457,1102,609,1143"/>
+<area shape="rect" id="node36" href="$proto__common_8hpp.html#a9a9d7504db9e1b819fcddac197da3252" title="Returns true if the Model contains at least one MotifLayer. " alt="" coords="490,1168,577,1195"/>
+<area shape="rect" id="node37" href="$proto__common_8hpp.html#a9454e517d698ec0960588364b9b42d6a" title="expand_motifs" alt="" coords="480,1219,587,1245"/>
+<area shape="rect" id="node38" href="$proto__common_8cpp.html#aad2a06edafd258ed60b9a6aa26bda770" title="get_proto_layers" alt="" coords="474,1269,593,1296"/>
+<area shape="rect" id="node39" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="743,1295,828,1321"/>
+<area shape="rect" id="node40" href="$proto__common_8cpp.html#ada60fd1558bd89338f58bdd0a27c35e6" title="construct_summarizer" alt="" coords="458,1421,609,1448"/>
+<area shape="rect" id="node41" href="$proto__common_8cpp.html#a64cca5f2ba7a9cd8cc113280320dea19" title="init_callbacks" alt="" coords="735,1421,836,1448"/>
+<area shape="rect" id="node42" href="$proto__common_8cpp.html#a1d628fde9876b07dc32de6556da91ca1" title="choose_imcomm_callback\l_weights" alt="" coords="445,1473,621,1514"/>
+<area shape="rect" id="node43" href="$proto__common_8hpp.html#aa96ac3f3cab59f29f0442a7981e11263" title="returns a model that is on of: dnn, stacked_autoencoder, greedy_layerwise_autoencoder ..." alt="" coords="493,1539,574,1565"/>
+<area shape="rect" id="node44" href="$proto__common_8hpp.html#ae5ac4c13a36b3222afacd8d7b4786140" title="adjusts the number of parallel data readers " alt="" coords="448,1589,619,1616"/>
+<area shape="rect" id="node45" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="457,1640,609,1667"/>
+<area shape="rect" id="node46" href="$proto__common_8hpp.html#adf83ffea572cec61b853b61aa68bea27" title="print various params (learn_rate, etc) to cout " alt="" coords="474,1691,593,1717"/>
+<area shape="rect" id="node47" href="$proto__common_8hpp.html#a403b98ced142a0afa3b939e7af1095b0" title="prints usage information " alt="" coords="494,1741,573,1768"/>
+<area shape="rect" id="node48" href="$proto__common_8hpp.html#a4f1af470c45e9ed06039685e5f72ea4a" title="prints prototext file, cmd line, etc to file " alt="" coords="482,1792,585,1819"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__checkpoint.html#a406bfba673e503e94ae6eb57aff6a78e" title="lbann::lbann_callback\l_checkpoint::on_epoch_end" alt="" coords="693,63,877,105"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__checkpoint.html#a476527e2b7b44dd3623e01f63ddb5f78" title="lbann::lbann_callback\l_checkpoint::on_batch_end" alt="" coords="695,129,876,170"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__checkpoint.html#a383654a7bb70672dfc9fef679f4b509f" title="lbann::lbann_callback\l_checkpoint::setup" alt="" coords="712,194,859,235"/>
+<area shape="rect" id="node13" href="$classlbann_1_1lbann__callback__ltfb.html#a7d2d1682c4a6a6b7e8ea1e3f4bf33c84" title="lbann::lbann_callback\l_ltfb::on_batch_begin" alt="" coords="712,259,859,301"/>
+<area shape="rect" id="node17" href="$classlbann_1_1lbann__callback__print.html#a28f2b022193c62f3af40364d2c5b14b2" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="712,325,859,366"/>
+<area shape="rect" id="node18" href="$classlbann_1_1lbann__callback__print.html#a7090572e2f89e7994872b5fdb612dd3f" title="lbann::lbann_callback\l_print::on_validation_end" alt="" coords="702,390,869,431"/>
+<area shape="rect" id="node19" href="$classlbann_1_1lbann__callback__print.html#a1f72a486004af859823f75c311dcff42" title="lbann::lbann_callback\l_print::on_test_end" alt="" coords="712,455,859,497"/>
+<area shape="rect" id="node21" href="$classlbann_1_1lbann__callback__save__images.html#aa540916eef9b95db68889a8a7426779c" title="lbann::lbann_callback\l_save_images::on_epoch_end" alt="" coords="686,521,885,562"/>
+<area shape="rect" id="node22" href="$classlbann_1_1lbann__callback__save__images.html#a4591438de0b52467988e2bd34b55c0dd" title="lbann::lbann_callback\l_save_images::on_phase_end" alt="" coords="686,586,885,627"/>
+<area shape="rect" id="node23" href="$classlbann_1_1lbann__callback__save__images.html#a44d0f0113133d6fd8944d8b7702ea786" title="lbann::lbann_callback\l_save_images::on_test_end" alt="" coords="693,651,878,693"/>
+<area shape="rect" id="node26" href="$classlbann_1_1lbann__callback__timer.html#a95ccee037894dbb5e3c663fbdfbc9d7f" title="lbann::lbann_callback\l_timer::on_epoch_end" alt="" coords="710,847,861,889"/>
+<area shape="rect" id="node27" href="$classlbann_1_1lbann__callback__timer.html#a0fea502078111627d340340a63768f9f" title="lbann::lbann_callback\l_timer::on_validation_end" alt="" coords="700,913,871,954"/>
+<area shape="rect" id="node28" href="$classlbann_1_1lbann__callback__timer.html#ab7db32c743128f8bcfc35c8ea56c226a" title="lbann::lbann_callback\l_timer::on_test_end" alt="" coords="712,978,859,1019"/>
+<area shape="rect" id="node31" href="$classlbann_1_1model.html#afd9dbca79503a40b7aa5c78da4d6f391" title="lbann::model::setup" alt="" coords="717,1044,853,1071"/>
 </map>

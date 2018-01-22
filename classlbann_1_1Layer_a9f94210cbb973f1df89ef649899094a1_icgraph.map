@@ -1,8 +1,6 @@
 <map id="lbann::Layer::get_layer_pointers" name="lbann::Layer::get_layer_pointers">
-<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#a50bdb76289421e23c077853a5e18293a" title="lbann::target_layer\l::get_layer_pointers" alt="" coords="220,5,356,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1unpooling__layer.html#a33e17164da27e3370fb3f362dd2e6c13" title="lbann::unpooling_layer\l::get_layer_pointers" alt="" coords="213,70,363,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a03fd1dc3edddb414b040bc009cf73371" title="lbann::model::model" alt="" coords="219,136,357,163"/>
-<area shape="rect" id="node6" href="$classlbann_1_1model.html#a05e8bd6c745ce4414be98462147ec52e" title="lbann::model::operator=" alt="" coords="209,187,367,213"/>
-<area shape="rect" id="node7" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="212,238,364,279"/>
-<area shape="rect" id="node3" href="$classlbann_1_1reconstruction__layer.html#a52f5ebe2f2716b8cab5e768b1b82c3d0" title="lbann::reconstruction\l_layer::get_layer_pointers" alt="" coords="416,5,587,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1generic__target__layer.html#a0325a9703238ac0120893214fd0983b5" title="lbann::generic_target\l_layer::get_layer_pointers" alt="" coords="208,5,379,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1unpooling__layer.html#a33e17164da27e3370fb3f362dd2e6c13" title="lbann::unpooling_layer\l::get_layer_pointers" alt="" coords="218,70,369,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1recurrent__model.html#ac89ddfa607e5cb6b940eb389ebbce6f6" title="lbann::recurrent_model\l::setup_layer_topology" alt="" coords="216,135,371,177"/>
+<area shape="rect" id="node3" href="$classlbann_1_1reconstruction__layer.html#a52f5ebe2f2716b8cab5e768b1b82c3d0" title="lbann::reconstruction\l_layer::get_layer_pointers" alt="" coords="427,5,597,46"/>
 </map>

@@ -1,0 +1,4 @@
+<map id="lbann::objective_function::get_evaluation_time" name="lbann::objective_function::get_evaluation_time">
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a1eb5efcc8f73ba9478b2ce1efb9f2d8c" title="lbann::model::summarize\l_stats" alt="" coords="221,5,389,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__summary.html#a89b18186fdaa7b6a7a0e9ab8ee334d88" title="lbann::lbann_callback\l_summary::on_batch_end" alt="" coords="438,5,610,46"/>
+</map>

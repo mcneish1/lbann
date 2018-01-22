@@ -1,3 +1,4 @@
 <map id="lbann::base_convolution_layer::compute_gradients_cudnn" name="lbann::base_convolution_layer::compute_gradients_cudnn">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="273,5,442,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="277,5,446,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#adc2be91222e59b976a40f614dbcfb644" title="lbann::model::get_effective\l_mini_batch_size" alt="" coords="272,70,451,111"/>
 </map>

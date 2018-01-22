@@ -156,21 +156,23 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "Elemental__extensions_8cpp.html",
-"classlbann_1_1Layer.html#a0fa0ea9160b490c151c0a17fde4f7239",
-"classlbann_1_1batch__normalization.html#aa4677c2f7d5ea27c53bf0f61f280a2a3",
-"classlbann_1_1distributed__minibatch.html#a6dfe77e9b24ff71df1c51d6366d60a16",
-"classlbann_1_1generic__data__reader.html#aec7e626e6efa2a4bf23f931e2ef8f607",
-"classlbann_1_1input__layer__partitioned__minibatch.html#a215779d7811c9c9c5b9baad95221b67f",
-"classlbann_1_1lbann__callback__gradient__check.html#ae198159c613bb05e00f49b824a61afbb",
-"classlbann_1_1lbann__comm.html#a10f367960aeed86d2f68210b82810e8d",
-"classlbann_1_1lbann__quantizer.html#a9d6e80bd54d6eb03dc63c15861356557",
-"classlbann_1_1model.html#a5bafc4e84671490c6118959becb22e16",
-"classlbann_1_1polya__negloglike.html#a0c00f1f9cac0b0c6a638b86e031768e3",
-"classlbann_1_1softplus__layer.html",
-"cross__entropy_8cpp.html",
-"functions_func_0x68.html",
-"namespacecudnn.html",
-"reshape_8hpp_source.html"
+"classlbann_1_1DataGenerator.html#a676e679d18eb0523be714345205c662d",
+"classlbann_1_1base__convolution__layer.html#a98d1340db9b5e128744afbd951870ec8",
+"classlbann_1_1data__reader__merge__samples.html#ab39ad6b6e106eb30f58f9eabaf3352ad",
+"classlbann_1_1generic__data__reader.html#a4ee1a159c74561c15a5e0c267ad3cc6a",
+"classlbann_1_1generic__target__layer.html#ab1bf1a639db82f2dd6ef3994f2269ec2",
+"classlbann_1_1l1__weight__regularization.html#a984a36b0df8d6017874b95faaef97c7a",
+"classlbann_1_1lbann__callback__hang.html#a047660bd517f5c669c8e2abc4f2e951f",
+"classlbann_1_1lbann__callback__variable__minibatch.html#ac78d3d357e1c16b3303cf358aee8a83d",
+"classlbann_1_1lbann__quantizer.html#a2324bba3cbb6c0d3e51bbe21555e7f1a",
+"classlbann_1_1model.html#ab123ed691fb6e9f52d468914a1f4460c",
+"classlbann_1_1polya__negloglike.html#a35d76a08dea5203c4f70e48260adf1ec",
+"classlbann_1_1slice__layer.html#ae077f139e1e0b53cc7f0ae9df89bcabb",
+"comm_8cpp.html#a7a92ceb4ddf57dc156d3a1b39f3ab962",
+"file__io_8hpp.html#a6084b9319eea1997f8446fa3e6879532",
+"l1_8hpp_source.html",
+"persist_8hpp_source.html",
+"structlbann_1_1generic__input__layer_1_1dataset__header.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
@@ -283,7 +285,7 @@ function createIndent(o,domNode,node,level)
     span.style.display = 'inline-block';
     span.style.width   = 16*(level+1)+'px';
     span.style.height  = '22px';
-    span.innerHTML = '&nbsp;';
+    span.innerHTML = '&#160;';
     domNode.appendChild(span);
   } 
 }

@@ -1,0 +1,9 @@
+<map id="lbann::generic_input_layer::fp_set_std_matrix_view" name="lbann::generic_input_layer::fp_set_std_matrix_view">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__input__layer.html#a9b0e18680b576c9569e833b10a8d0f0e" title="lbann::generic_input\l_layer::get_current_mini\l_batch_size" alt="" coords="265,5,426,61"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a4f3cc91f8495870723389be15f77184a" title="lbann::model::set_current\l_mini_batch_size" alt="" coords="261,85,430,126"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__input__layer.html#a236b4c93235f08898600e7c730c3b75f" title="lbann::generic_input\l_layer::get_current_global\l_mini_batch_size" alt="" coords="260,149,431,205"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#aa64829cba8a84928a396893172a1d116" title="lbann::model::set_effective\l_mini_batch_size" alt="" coords="256,229,435,270"/>
+<area shape="rect" id="node7" href="$classlbann_1_1generic__io__buffer.html#af84c26ab5ee77d1d9ed9ea5d62823815" title="lbann::generic_io_buffer\l::set_local_matrix_bypass" alt="" coords="258,294,433,335"/>
+<area shape="rect" id="node8" href="$classlbann_1_1generic__io__buffer.html#a458d9bf722effce4177a0ac0aee9124f" title="lbann::generic_io_buffer\l::set_std_matrix_view" alt="" coords="265,359,425,401"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="483,92,707,119"/>
+</map>

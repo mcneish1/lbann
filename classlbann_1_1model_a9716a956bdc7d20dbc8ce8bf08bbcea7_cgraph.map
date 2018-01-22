@@ -1,7 +1,7 @@
 <map id="lbann::model::evaluate_mini_batch" name="lbann::model::evaluate_mini_batch">
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#a156acfa740b92322d44b6c477636eb26" title="lbann::model::do_batch\l_begin_cbs" alt="" coords="219,34,376,75"/>
 <area shape="rect" id="node4" href="$classlbann_1_1model.html#adc4f845c8e292afe2d8686f459729484" title="lbann::model::forward_prop" alt="" coords="208,157,387,184"/>
-<area shape="rect" id="node9" href="$classlbann_1_1objective__function.html#ab9036db18ca94f7a39592d0ec09d5397" title="lbann::objective_function\l::compute_value" alt="" coords="214,209,381,250"/>
+<area shape="rect" id="node9" href="$classlbann_1_1objective__function.html#aef15864fcee47f4e31e6030bd8f40968" title="lbann::objective_function\l::evaluate" alt="" coords="214,209,381,250"/>
 <area shape="rect" id="node11" href="$classlbann_1_1model.html#a7518775e0fd29ed682319193e2d264cc" title="lbann::model::update\l_layers" alt="" coords="226,274,369,315"/>
 <area shape="rect" id="node12" href="$classlbann_1_1model.html#a3dc29e9751a53afda7e171aff335273e" title="lbann::model::do_batch\l_end_cbs" alt="" coords="219,339,376,381"/>
 <area shape="rect" id="node3" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="653,140,832,167"/>

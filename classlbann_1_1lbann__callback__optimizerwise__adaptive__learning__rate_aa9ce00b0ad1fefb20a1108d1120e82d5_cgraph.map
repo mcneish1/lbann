@@ -1,11 +1,12 @@
 <map id="lbann::lbann_callback_optimizerwise_adaptive_learning_rate::optimizer_schedule" name="lbann::lbann_callback_optimizerwise_adaptive_learning_rate::optimizer_schedule">
 <area shape="rect" id="node2" href="$classlbann_1_1optimizer.html#a9c3fc3f1d45da822676d5932a1c7af82" title="lbann::optimizer::get\l_weights" alt="" coords="219,5,359,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1weights.html#a09fa4082be905c0c124dde3033e2461b" title="lbann::weights::get\l_values" alt="" coords="223,91,355,133"/>
-<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#a44efe2674562c00d33670ef9cfe9e014" title="lbann::optimizer::get\l_gradient" alt="" coords="219,157,359,198"/>
-<area shape="rect" id="node10" href="$classlbann_1_1optimizer.html#a3d43f99cf93668b9a1a1974a47cf644a" title="lbann::optimizer::get\l_learning_rate" alt="" coords="219,222,359,263"/>
-<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a10517deafb049ddd740f72e7c3ff2cc3" title="lbann::optimizer::is\l_initialized" alt="" coords="601,43,733,85"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef" title="lbann::lbann_comm::\lallreduce" alt="" coords="409,102,551,143"/>
-<area shape="rect" id="node7" href="$classlbann_1_1optimizer.html#a435d31e3b7a0302e36439ee36f62dba8" title="lbann::optimizer::add\l_to_gradient" alt="" coords="409,167,551,209"/>
-<area shape="rect" id="node8" href="$classlbann_1_1weights.html#afae2319a2ebb3793cdff1c9d026f2066" title="lbann::weights::get\l_height" alt="" coords="414,233,546,274"/>
-<area shape="rect" id="node9" href="$classlbann_1_1weights.html#aa1f0426f3c14821f61ba63cc126e7a7a" title="lbann::weights::get\l_width" alt="" coords="414,298,546,339"/>
+<area shape="rect" id="node4" href="$classlbann_1_1weights.html#a09fa4082be905c0c124dde3033e2461b" title="lbann::weights::get\l_values" alt="" coords="223,85,355,126"/>
+<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#a44efe2674562c00d33670ef9cfe9e014" title="lbann::optimizer::get\l_gradient" alt="" coords="219,150,359,191"/>
+<area shape="rect" id="node11" href="$classlbann_1_1optimizer.html#a3d43f99cf93668b9a1a1974a47cf644a" title="lbann::optimizer::get\l_learning_rate" alt="" coords="219,215,359,257"/>
+<area shape="rect" id="node3" href="$classlbann_1_1optimizer.html#a10517deafb049ddd740f72e7c3ff2cc3" title="lbann::optimizer::is\l_initialized" alt="" coords="625,41,757,82"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a30439f28cf615e1406090799c5499321" title="lbann::lbann_comm::wait" alt="" coords="409,99,575,125"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef" title="lbann::lbann_comm::\lallreduce" alt="" coords="421,150,563,191"/>
+<area shape="rect" id="node8" href="$classlbann_1_1optimizer.html#a435d31e3b7a0302e36439ee36f62dba8" title="lbann::optimizer::add\l_to_gradient" alt="" coords="421,215,563,257"/>
+<area shape="rect" id="node9" href="$classlbann_1_1weights.html#afae2319a2ebb3793cdff1c9d026f2066" title="lbann::weights::get\l_height" alt="" coords="426,281,558,322"/>
+<area shape="rect" id="node10" href="$classlbann_1_1weights.html#aa1f0426f3c14821f61ba63cc126e7a7a" title="lbann::weights::get\l_width" alt="" coords="426,346,558,387"/>
 </map>

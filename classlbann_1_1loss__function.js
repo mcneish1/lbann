@@ -1,14 +1,17 @@
 var classlbann_1_1loss__function =
 [
-    [ "loss_function", "classlbann_1_1loss__function.html#af477915c28349ba9b0cbd7caf9b38346", null ],
+    [ "loss_function", "classlbann_1_1loss__function.html#a0c5745e661c59e3e5496888d233c07cf", null ],
     [ "loss_function", "classlbann_1_1loss__function.html#aaebcff849004392decc9850c4c75ead5", null ],
     [ "~loss_function", "classlbann_1_1loss__function.html#a21c59d9c3db798c330ff8297f6374747", null ],
-    [ "compute_gradient", "classlbann_1_1loss__function.html#af8e4bdc08ceef381e46067eab7e18c03", null ],
-    [ "compute_value", "classlbann_1_1loss__function.html#ae6c7f4d90401feb37502ce361cd65413", null ],
-    [ "differentiate", "classlbann_1_1loss__function.html#af069062d0ed2d953a952d7ceb6c08903", null ],
-    [ "evaluate", "classlbann_1_1loss__function.html#a537d0e2d80c8f4d9ad5a32cff254958e", null ],
+    [ "compute_weight_regularization", "classlbann_1_1loss__function.html#acd6e3bdcf33235208db03ab7af88e961", null ],
+    [ "differentiate", "classlbann_1_1loss__function.html#adbd03ef952ee1055e3dd98f06d33324f", null ],
+    [ "differentiate_compute", "classlbann_1_1loss__function.html#aefccc2b4f5a02664002d12630cf369e7", null ],
+    [ "evaluate", "classlbann_1_1loss__function.html#afc7f9bf1c331a837ce494a7bcdbd306d", null ],
+    [ "evaluate_compute", "classlbann_1_1loss__function.html#aff4c6cda77b6d0f64f81fab2f5379236", null ],
+    [ "load_from_checkpoint_shared", "classlbann_1_1loss__function.html#ae948babd62a110e2407271f24dcaec1b", null ],
     [ "operator=", "classlbann_1_1loss__function.html#ab882c642619ea4285b61e735d84e401c", null ],
-    [ "set_target_layer", "classlbann_1_1loss__function.html#a5eb24382784bb9691e03b0f8f17f71c3", null ],
-    [ "setup", "classlbann_1_1loss__function.html#ad4381791d7022ea150f2e9b50f84da27", null ],
+    [ "save_to_checkpoint_shared", "classlbann_1_1loss__function.html#ac44929838f3c3f0a34e1532530422dad", null ],
+    [ "set_target_layer", "classlbann_1_1loss__function.html#a9ef5356468c892c2c0221f8acd6b5471", null ],
+    [ "setup", "classlbann_1_1loss__function.html#a17a3629e8519c4215ad776a0c7b522ae", null ],
     [ "m_gradient", "classlbann_1_1loss__function.html#ac6ac9f8f2cef7a4daa1b282dba914975", null ]
 ];

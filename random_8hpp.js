@@ -1,8 +1,8 @@
 var random_8hpp =
 [
     [ "rng", "classlbann_1_1rng.html", "classlbann_1_1rng" ],
-    [ "fast_rng_gen", "random_8hpp.html#ab909b5afe4b0047a3bfe13d519a90290", null ],
-    [ "rng_gen", "random_8hpp.html#aa54070c91e931f303a89f162e91de8cc", null ],
+    [ "fast_rng_gen", "random_8hpp.html#af16616ffa6a3616836eabadd6ce837ec", null ],
+    [ "rng_gen", "random_8hpp.html#aab7fa584bac85b9085aa8b8c5a888356", null ],
     [ "bernoulli_fill", "random_8hpp.html#ae8bc674a3d676391666524b44cbc4068", null ],
     [ "bernoulli_fill_procdet", "random_8hpp.html#ad1e3fe84cfa5257be476de3be805064d", null ],
     [ "fast_rand_int", "random_8hpp.html#a557aaed6267e7aaf583a75149e9c670c", null ],

@@ -1,0 +1,6 @@
+<map id="lbann::kl_divergence::differentiate" name="lbann::kl_divergence::differentiate">
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#afad38f325738e68ae50cda1b92beaa3d" title="lbann::Layer::get_activations" alt="" coords="195,5,384,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a29a707364f22d1836299c8852d659127" title="lbann::Layer::add_to\l_error_signal" alt="" coords="219,57,359,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#ad388ef1cc8ff6f43e531de7dbd62d996" title="lbann::Layer::bp_set\l_std_matrix_view" alt="" coords="433,57,573,98"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="622,57,791,98"/>
+</map>

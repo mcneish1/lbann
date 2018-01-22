@@ -14,7 +14,7 @@ var classlbann_1_1lbann__callback__imcomm =
     [ "copy", "classlbann_1_1lbann__callback__imcomm.html#a9d59535b4789389a8c3c9e406cd1e2d3", null ],
     [ "ct_does_quantization", "classlbann_1_1lbann__callback__imcomm.html#a4f38fa45a0f7a8b290f6d2b701d20622", null ],
     [ "ct_needs_reshape", "classlbann_1_1lbann__callback__imcomm.html#a7cfeece659ac4d1664a46b4e6119588b", null ],
-    [ "do_summary", "classlbann_1_1lbann__callback__imcomm.html#a5b29c317be868056b1c69afa5e097771", null ],
+    [ "do_summary", "classlbann_1_1lbann__callback__imcomm.html#ad45c39a7a85fb8e1d99eca97aa4d9d09", null ],
     [ "name", "classlbann_1_1lbann__callback__imcomm.html#af058602425005a1d198df40b7845e16e", null ],
     [ "on_backward_prop_end", "classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b", null ],
     [ "on_epoch_end", "classlbann_1_1lbann__callback__imcomm.html#a3160dbf536def4f930e0ea0aabdebc11", null ],

@@ -1,3 +1,9 @@
 <map id="options::has_bool" name="options::has_bool">
 <area shape="rect" id="node2" href="$proto__common_8hpp.html#a46fd41f635ff8f352065adc85eb3d1df" title="adjusts the values in p by querying the options db " alt="" coords="179,5,331,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1stack__profiler.html#a5c8e2ec1f36d36ff8211ec8910063777" title="lbann::stack_profiler\l::activate" alt="" coords="185,57,324,98"/>
+<area shape="rect" id="node4" href="$namespacelbann_1_1stack__trace.html#aa071d75a81128e2a8100d66529482842" title="lbann::stack_trace\l::open_output_file" alt="" coords="190,122,319,163"/>
+<area shape="rect" id="node8" href="$namespacelbann_1_1stack__trace.html#a12c3aa60ec15015b925249fc61352f07" title="lbann::stack_trace\l::register_handler" alt="" coords="597,151,726,193"/>
+<area shape="rect" id="node5" href="$namespacelbann_1_1stack__trace.html#ae7396b3b0ee5d087a045f04ce690cae4" title="lbann::stack_trace\l::print_lbann_exception\l_stack_trace" alt="" coords="379,43,535,99"/>
+<area shape="rect" id="node7" href="$namespacelbann_1_1stack__trace.html#a4bf58556b9c42ac8930c273a921172de" title="lbann::stack_trace\l::lbann_signal_handler" alt="" coords="382,122,533,163"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__exception.html#adbbe5260b3e3bd951ed2cb9363040f4a" title="lbann::lbann_exception\l::lbann_exception" alt="" coords="584,50,739,91"/>
 </map>

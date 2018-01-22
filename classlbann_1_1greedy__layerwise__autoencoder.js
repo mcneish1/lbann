@@ -11,7 +11,7 @@ var classlbann_1_1greedy__layerwise__autoencoder =
     [ "operator=", "classlbann_1_1greedy__layerwise__autoencoder.html#ac5e2de693353966b7816ca10282068f5", null ],
     [ "restore_sequential_model", "classlbann_1_1greedy__layerwise__autoencoder.html#a82b8ced756904a2423a65cd0e329b4e2", null ],
     [ "set_phase", "classlbann_1_1greedy__layerwise__autoencoder.html#a5f237f1f6285475c5493a7d15dc32096", null ],
-    [ "setup", "classlbann_1_1greedy__layerwise__autoencoder.html#adc219a87e3ce3a0e5a11450cc80d67e5", null ],
+    [ "setup_layer_topology", "classlbann_1_1greedy__layerwise__autoencoder.html#a115607e435ae4685531a81852ce01fe7", null ],
     [ "train", "classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353", null ],
     [ "m_num_phases", "classlbann_1_1greedy__layerwise__autoencoder.html#a792010a00136ee1e024b6e5d38c77386", null ],
     [ "m_phase", "classlbann_1_1greedy__layerwise__autoencoder.html#a1baf1b5e7fdb5d006f443edbb0bb2973", null ],

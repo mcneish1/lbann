@@ -1,5 +1,5 @@
 <map id="lbann::lbann_callback_learning_rate::on_backward_prop_end" name="lbann::lbann_callback_learning_rate::on_backward_prop_end">
 <area shape="rect" id="node2" href="$classlbann_1_1optimizer.html#a3d43f99cf93668b9a1a1974a47cf644a" title="lbann::optimizer::get\l_learning_rate" alt="" coords="457,5,597,46"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__learning__rate.html#acf7f3921a68e7f1f772106e18c545345" title="lbann::lbann_callback\l_learning_rate::optimizer\l_schedule" alt="" coords="243,29,407,85"/>
-<area shape="rect" id="node4" href="$classlbann_1_1optimizer.html#a147cac09beaa17df4e0fc1fc1be3abce" title="lbann::optimizer::set\l_learning_rate" alt="" coords="255,110,395,151"/>
+<area shape="rect" id="node4" href="$classlbann_1_1optimizer.html#a147cac09beaa17df4e0fc1fc1be3abce" title="lbann::optimizer::set\l_learning_rate" alt="" coords="255,109,395,150"/>
 </map>

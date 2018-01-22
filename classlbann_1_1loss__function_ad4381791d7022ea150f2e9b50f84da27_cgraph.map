@@ -1,5 +1,0 @@
-<map id="lbann::loss_function::setup" name="lbann::loss_function::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1objective__function__term.html#abe002b29ddda9d3628b1ef63061562c4" title="lbann::objective_function\l_term::setup" alt="" coords="193,5,359,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1objective__function.html#ab0a0491478c0d792d9b8d4a257f8b955" title="lbann::objective_function\l::get_model" alt="" coords="193,70,359,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="194,136,358,163"/>
-</map>

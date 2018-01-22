@@ -22,6 +22,7 @@ var proto__common_8cpp =
     [ "read_prototext_file", "proto__common_8cpp.html#addbf693bd6d4a399daa599ba03509569", null ],
     [ "save_session", "proto__common_8cpp.html#a4f1af470c45e9ed06039685e5f72ea4a", null ],
     [ "set_data_readers_filenames", "proto__common_8cpp.html#a2b1366b9ab5913e4db6afc8833ca4054", null ],
+    [ "set_data_readers_percent", "proto__common_8cpp.html#a900e005e45b3debc2444ded1c3ff6e1f", null ],
     [ "set_num_parallel_readers", "proto__common_8cpp.html#ae5ac4c13a36b3222afacd8d7b4786140", null ],
     [ "setup_pointers", "proto__common_8cpp.html#a064e1d7d943d9022b6b2a071a897b81b", null ],
     [ "weights_are_in_model", "proto__common_8cpp.html#a26a1a014d8253df7e3545ed8b4a5b629", null ],

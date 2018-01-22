@@ -12,7 +12,7 @@
 <area shape="rect" id="node17" href="$classlbann_1_1lbann__comm.html#a086078b881e7250df140ac116adb1939" title="lbann::lbann_comm::send" alt="" coords="237,619,408,645"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="459,122,602,163"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#ac1bcd6a5e38ad3a7e86171435642bc9f" title="lbann::lbann_comm::\lget_world_master" alt="" coords="459,187,602,229"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="651,398,794,439"/>
-<area shape="rect" id="node11" href="$classlbann_1_1lbann__comm.html#a303c02c5a127f3ed21f12c9a71cc90a6" title="lbann::lbann_comm::\lbarrier" alt="" coords="459,305,602,346"/>
-<area shape="rect" id="node14" href="$classlbann_1_1lbann__comm.html#a676b64be1b9429b85e8dac09728ba490" title="lbann::lbann_comm::\lget_world_rank" alt="" coords="459,499,602,541"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a8431a8ec85cc2a146d4fd0f579f7b73f" title="lbann::lbann_comm::\lget_world_comm" alt="" coords="651,366,794,407"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__comm.html#a303c02c5a127f3ed21f12c9a71cc90a6" title="lbann::lbann_comm::\lbarrier" alt="" coords="459,363,602,405"/>
+<area shape="rect" id="node14" href="$classlbann_1_1lbann__comm.html#a676b64be1b9429b85e8dac09728ba490" title="lbann::lbann_comm::\lget_world_rank" alt="" coords="459,501,602,542"/>
 </map>

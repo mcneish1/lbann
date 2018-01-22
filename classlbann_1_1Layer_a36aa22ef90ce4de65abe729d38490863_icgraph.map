@@ -4,13 +4,13 @@
 <area shape="rect" id="node4" href="$classlbann_1_1base__convolution__layer.html#a4fb0ec8793656a7c32ff37c266b29a68" title="Initialize GPU objects. " alt="" coords="229,135,392,177"/>
 <area shape="rect" id="node5" href="$classlbann_1_1fully__connected__layer.html#a95c96742a67f2e9398e608b244c2d121" title="lbann::fully_connected\l_layer::setup_gpu" alt="" coords="235,201,387,242"/>
 <area shape="rect" id="node6" href="$classlbann_1_1batch__normalization.html#ab4737c3efcafa9bff1e68084b7f36283" title="lbann::batch_normalization\l::setup_gpu" alt="" coords="222,266,399,307"/>
-<area shape="rect" id="node7" href="$classlbann_1_1local__response__normalization__layer.html#aff5210d74db5f8302989cca12d04263d" title="Initialize GPU objects. " alt="" coords="237,332,385,388"/>
-<area shape="rect" id="node8" href="$classlbann_1_1concatenation__layer.html#a6d8d7513948fda9ef1ac725f36080ed3" title="lbann::concatenation\l_layer::setup_gpu" alt="" coords="239,413,382,454"/>
-<area shape="rect" id="node9" href="$classlbann_1_1noise__layer.html#af9548690f291d5c009a425a928fe2f4f" title="lbann::noise_layer\l::setup_gpu" alt="" coords="247,478,374,519"/>
-<area shape="rect" id="node10" href="$classlbann_1_1pooling__layer.html#a603adc8abc7527f2fd12eb4264b0f3cc" title="Initialize GPU objects. " alt="" coords="242,543,379,585"/>
-<area shape="rect" id="node11" href="$classlbann_1_1slice__layer.html#a007c9b0ec2d874ad187735203fc1661f" title="lbann::slice_layer\l::setup_gpu" alt="" coords="249,609,372,650"/>
-<area shape="rect" id="node12" href="$classlbann_1_1split__layer.html#acc7c8d10d786c0352e1ee41cef972f67" title="lbann::split_layer\l::setup_gpu" alt="" coords="251,674,371,715"/>
-<area shape="rect" id="node13" href="$classlbann_1_1sum__layer.html#a4935bd96e7607075d0403e1495099998" title="lbann::sum_layer::setup_gpu" alt="" coords="216,740,405,767"/>
-<area shape="rect" id="node14" href="$classlbann_1_1Layer.html#a93d6048c5959b27aa475673568dab956" title="lbann::Layer::setup" alt="" coords="244,791,377,817"/>
-<area shape="rect" id="node15" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="453,783,605,825"/>
+<area shape="rect" id="node7" href="$classlbann_1_1local__response__normalization__layer.html#aff5210d74db5f8302989cca12d04263d" title="Initialize GPU objects. " alt="" coords="237,331,385,387"/>
+<area shape="rect" id="node8" href="$classlbann_1_1concatenation__layer.html#a6d8d7513948fda9ef1ac725f36080ed3" title="lbann::concatenation\l_layer::setup_gpu" alt="" coords="239,410,382,451"/>
+<area shape="rect" id="node9" href="$classlbann_1_1noise__layer.html#af9548690f291d5c009a425a928fe2f4f" title="lbann::noise_layer\l::setup_gpu" alt="" coords="247,475,374,517"/>
+<area shape="rect" id="node10" href="$classlbann_1_1pooling__layer.html#a603adc8abc7527f2fd12eb4264b0f3cc" title="Initialize GPU objects. " alt="" coords="242,541,379,582"/>
+<area shape="rect" id="node11" href="$classlbann_1_1safe__inv__layer.html#a396a1178717b8760d85b651644ae0e20" title="lbann::safe_inv_layer\l::setup_gpu" alt="" coords="238,606,383,647"/>
+<area shape="rect" id="node12" href="$classlbann_1_1slice__layer.html#a007c9b0ec2d874ad187735203fc1661f" title="lbann::slice_layer\l::setup_gpu" alt="" coords="249,671,372,713"/>
+<area shape="rect" id="node13" href="$classlbann_1_1split__layer.html#acc7c8d10d786c0352e1ee41cef972f67" title="lbann::split_layer\l::setup_gpu" alt="" coords="251,737,371,778"/>
+<area shape="rect" id="node14" href="$classlbann_1_1sum__layer.html#a4935bd96e7607075d0403e1495099998" title="lbann::sum_layer::setup_gpu" alt="" coords="216,803,405,829"/>
+<area shape="rect" id="node15" href="$classlbann_1_1Layer.html#a93d6048c5959b27aa475673568dab956" title="lbann::Layer::setup" alt="" coords="244,853,377,880"/>
 </map>

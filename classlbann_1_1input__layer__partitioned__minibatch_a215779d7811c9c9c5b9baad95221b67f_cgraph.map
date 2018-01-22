@@ -1,5 +1,0 @@
-<map id="lbann::input_layer_partitioned_minibatch::get_description" name="lbann::input_layer_partitioned_minibatch::get_description">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a051be6d7ddffc75298a83817084ed381" title="lbann::input_layer\l::get_topo_description" alt="" coords="206,5,357,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a2f302cabbc39769b1a029dfe2af0825c" title="lbann::Layer::get_data\l_layout_string" alt="" coords="206,70,357,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer__partitioned__minibatch.html#acfa8a1a177a30d9d2d908adfaa28a455" title="lbann::input_layer\l_partitioned_minibatch\l::get_data_layout" alt="" coords="205,136,357,192"/>
-</map>

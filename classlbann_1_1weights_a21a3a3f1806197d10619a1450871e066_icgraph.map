@@ -1,5 +1,3 @@
 <map id="lbann::weights::weights" name="lbann::weights::weights">
-<area shape="rect" id="node2" href="$classlbann_1_1weights.html#a747c5bb17bbd29049e51fbb9b5e4f818" title="lbann::weights::copy" alt="" coords="214,31,357,57"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#a03fd1dc3edddb414b040bc009cf73371" title="lbann::model::model" alt="" coords="416,5,555,32"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a05e8bd6c745ce4414be98462147ec52e" title="lbann::model::operator=" alt="" coords="406,56,565,83"/>
+<area shape="rect" id="node2" href="$classlbann_1_1weights.html#a747c5bb17bbd29049e51fbb9b5e4f818" title="lbann::weights::copy" alt="" coords="214,5,357,32"/>
 </map>

@@ -1,4 +1,0 @@
-<map id="lbann::input_layer::get_topo_description" name="lbann::input_layer::get_topo_description">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a215779d7811c9c9c5b9baad95221b67f" title="lbann::input_layer\l_partitioned_minibatch\l::get_description" alt="" coords="205,5,357,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a01bd7923a84ddff61ebe8e76f9fe80ad" title="lbann::target_layer\l::get_topo_description" alt="" coords="206,86,357,127"/>
-</map>

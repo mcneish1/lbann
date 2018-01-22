@@ -1,33 +1,33 @@
 <map id="lbann::model::get_max_mini_batch_size" name="lbann::model::get_max_mini_batch_size">
-<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#a4cc8f1f44a2854e78dad4f898d66a5ac" title="lbann::softmax_layer\l::setup_data" alt="" coords="487,193,630,234"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer__distributed__minibatch.html#a0a2bea575cb205a3a5e8eac86a5ec441" title="lbann::input_layer\l_distributed_minibatch\l::setup_data" alt="" coords="701,211,853,267"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer__partitioned__minibatch.html#a5adc19d6d526f1dc2241ea239761933e" title="lbann::input_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="701,306,853,362"/>
-<area shape="rect" id="node5" href="$classlbann_1_1target__layer.html#aefb930871dc04b0ca1a2ec0927de007c" title="lbann::target_layer\l::setup_data" alt="" coords="494,76,623,117"/>
-<area shape="rect" id="node6" href="$classlbann_1_1target__layer__distributed__minibatch.html#a973a545f264ea3441280e735e12e0ef4" title="lbann::target_layer\l_distributed_minibatch\l::setup_data" alt="" coords="701,10,853,66"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__check__dataset.html#a8cbc105d8bd9d3b493ef34de7c387929" title="lbann::lbann_callback\l_check_dataset::on_epoch_end" alt="" coords="209,872,415,913"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a4f5d8ab04ab3e1cc3aa66327d3712f51" title="Set the initial mini&#45;batch size. " alt="" coords="239,938,385,994"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a091e7563b5a7a90638e2521fe39cbf8f" title="Potentially change the mini&#45;batch size. " alt="" coords="239,1018,385,1074"/>
-<area shape="rect" id="node11" href="$classlbann_1_1Layer.html#a50a89f8a68762c677d48efe384676e81" title="lbann::Layer::setup_data" alt="" coords="229,362,395,388"/>
-<area shape="rect" id="node20" href="$classlbann_1_1Layer.html#a36aa22ef90ce4de65abe729d38490863" title="lbann::Layer::setup_gpu" alt="" coords="231,820,393,847"/>
-<area shape="rect" id="node7" href="$classlbann_1_1target__layer__partitioned__minibatch.html#aa411e2509ea33ea4da3cd81eb66e0c4a" title="lbann::target_layer\l_partitioned_minibatch\l::setup_data" alt="" coords="701,90,853,146"/>
-<area shape="rect" id="node12" href="$classlbann_1_1input__layer.html#a0e2a03f177fdcc0aa366e5eeea1270ef" title="lbann::input_layer\l::setup_data" alt="" coords="497,258,621,300"/>
-<area shape="rect" id="node13" href="$classlbann_1_1base__convolution__layer.html#a9f850c1bdf4ae3cd986411d3cb3a524c" title="lbann::base_convolution\l_layer::setup_data" alt="" coords="477,506,640,548"/>
-<area shape="rect" id="node16" href="$classlbann_1_1fully__connected__layer.html#aec4298146845489597126503177d3127" title="lbann::fully_connected\l_layer::setup_data" alt="" coords="483,389,635,430"/>
-<area shape="rect" id="node17" href="$classlbann_1_1batch__normalization.html#ac046a5ab567cc01f9a36c6b0fc4e3b55" title="lbann::batch_normalization\l::setup_data" alt="" coords="470,324,647,365"/>
-<area shape="rect" id="node18" href="$classlbann_1_1Layer.html#a93d6048c5959b27aa475673568dab956" title="lbann::Layer::setup" alt="" coords="492,572,625,599"/>
-<area shape="rect" id="node14" href="$classlbann_1_1convolution__layer.html#ab20636b44d2b17abdb5424df54cb9c6d" title="lbann::convolution\l_layer::setup_data" alt="" coords="713,441,842,482"/>
-<area shape="rect" id="node15" href="$classlbann_1_1deconvolution__layer.html#a6d891396ea1c91030cd647cc111c8c5f" title="lbann::deconvolution\l_layer::setup_data" alt="" coords="707,506,848,548"/>
-<area shape="rect" id="node19" href="$classlbann_1_1siamese__model.html#a2017cd30a5a252ac38bbbdcbf08f5d19" title="lbann::siamese_model\l::setup" alt="" coords="701,572,853,613"/>
-<area shape="rect" id="node21" href="$classlbann_1_1relu__layer.html#a9426317aa741ab8a202ee52cf5250b59" title="lbann::relu_layer::\lsetup_gpu" alt="" coords="496,872,621,913"/>
-<area shape="rect" id="node22" href="$classlbann_1_1softmax__layer.html#a7c2618f40e9d0ab4135ec0e9f0bea156" title="lbann::softmax_layer\l::setup_gpu" alt="" coords="487,937,630,978"/>
-<area shape="rect" id="node23" href="$classlbann_1_1base__convolution__layer.html#a4fb0ec8793656a7c32ff37c266b29a68" title="Initialize GPU objects. " alt="" coords="477,1002,640,1044"/>
-<area shape="rect" id="node24" href="$classlbann_1_1fully__connected__layer.html#a95c96742a67f2e9398e608b244c2d121" title="lbann::fully_connected\l_layer::setup_gpu" alt="" coords="483,1068,635,1109"/>
-<area shape="rect" id="node25" href="$classlbann_1_1batch__normalization.html#ab4737c3efcafa9bff1e68084b7f36283" title="lbann::batch_normalization\l::setup_gpu" alt="" coords="470,1133,647,1174"/>
-<area shape="rect" id="node26" href="$classlbann_1_1local__response__normalization__layer.html#aff5210d74db5f8302989cca12d04263d" title="Initialize GPU objects. " alt="" coords="485,1199,633,1255"/>
-<area shape="rect" id="node27" href="$classlbann_1_1concatenation__layer.html#a6d8d7513948fda9ef1ac725f36080ed3" title="lbann::concatenation\l_layer::setup_gpu" alt="" coords="487,1280,630,1321"/>
-<area shape="rect" id="node28" href="$classlbann_1_1noise__layer.html#af9548690f291d5c009a425a928fe2f4f" title="lbann::noise_layer\l::setup_gpu" alt="" coords="495,1345,622,1386"/>
-<area shape="rect" id="node29" href="$classlbann_1_1pooling__layer.html#a603adc8abc7527f2fd12eb4264b0f3cc" title="Initialize GPU objects. " alt="" coords="490,624,627,665"/>
-<area shape="rect" id="node30" href="$classlbann_1_1slice__layer.html#a007c9b0ec2d874ad187735203fc1661f" title="lbann::slice_layer\l::setup_gpu" alt="" coords="497,689,620,730"/>
-<area shape="rect" id="node31" href="$classlbann_1_1split__layer.html#acc7c8d10d786c0352e1ee41cef972f67" title="lbann::split_layer\l::setup_gpu" alt="" coords="499,754,619,796"/>
-<area shape="rect" id="node32" href="$classlbann_1_1sum__layer.html#a4935bd96e7607075d0403e1495099998" title="lbann::sum_layer::setup_gpu" alt="" coords="464,820,653,847"/>
+<area shape="rect" id="node2" href="$classlbann_1_1softmax__layer.html#a4cc8f1f44a2854e78dad4f898d66a5ac" title="lbann::softmax_layer\l::setup_data" alt="" coords="487,5,630,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__input__layer.html#a8ca316b0369689949f3f4106920ec28f" title="lbann::generic_input\l_layer::setup_data" alt="" coords="489,70,628,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__target__layer.html#a73b35ee4dcb97a166369426d975596b2" title="lbann::generic_target\l_layer::setup_data" alt="" coords="487,135,630,177"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__check__dataset.html#a8cbc105d8bd9d3b493ef34de7c387929" title="lbann::lbann_callback\l_check_dataset::on_epoch_end" alt="" coords="209,811,415,853"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a4f5d8ab04ab3e1cc3aa66327d3712f51" title="Set the initial mini&#45;batch size. " alt="" coords="239,876,385,932"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a091e7563b5a7a90638e2521fe39cbf8f" title="Potentially change the mini&#45;batch size. " alt="" coords="239,956,385,1012"/>
+<area shape="rect" id="node9" href="$classlbann_1_1Layer.html#a50a89f8a68762c677d48efe384676e81" title="lbann::Layer::setup_data" alt="" coords="229,273,395,300"/>
+<area shape="rect" id="node17" href="$classlbann_1_1Layer.html#a36aa22ef90ce4de65abe729d38490863" title="lbann::Layer::setup_gpu" alt="" coords="231,760,393,787"/>
+<area shape="rect" id="node31" href="$classlbann_1_1categorical__accuracy__metric.html#a328a63ccc21c31efd511445f5b060960" title="lbann::categorical\l_accuracy_metric::setup" alt="" coords="229,1035,395,1077"/>
+<area shape="rect" id="node32" href="$classlbann_1_1pearson__correlation__metric.html#a4394c0ebb3cacdcec934e4ae322f9bb6" title="lbann::pearson_correlation\l_metric::setup" alt="" coords="225,1101,399,1142"/>
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html#afae3ca1cd87682174f878f7a8d234978" title="lbann::input_layer\l::setup_data" alt="" coords="710,70,834,111"/>
+<area shape="rect" id="node10" href="$classlbann_1_1base__convolution__layer.html#a9f850c1bdf4ae3cd986411d3cb3a524c" title="lbann::base_convolution\l_layer::setup_data" alt="" coords="477,397,640,438"/>
+<area shape="rect" id="node13" href="$classlbann_1_1fully__connected__layer.html#aec4298146845489597126503177d3127" title="lbann::fully_connected\l_layer::setup_data" alt="" coords="483,201,635,242"/>
+<area shape="rect" id="node14" href="$classlbann_1_1batch__normalization.html#ac046a5ab567cc01f9a36c6b0fc4e3b55" title="lbann::batch_normalization\l::setup_data" alt="" coords="470,266,647,307"/>
+<area shape="rect" id="node15" href="$classlbann_1_1constant__layer.html#ad46d9db2e6bad4204dcedd2be60bfb1a" title="lbann::constant_layer\l::setup_data" alt="" coords="485,331,632,373"/>
+<area shape="rect" id="node16" href="$classlbann_1_1Layer.html#a93d6048c5959b27aa475673568dab956" title="lbann::Layer::setup" alt="" coords="492,463,625,489"/>
+<area shape="rect" id="node11" href="$classlbann_1_1convolution__layer.html#ab20636b44d2b17abdb5424df54cb9c6d" title="lbann::convolution\l_layer::setup_data" alt="" coords="707,429,837,470"/>
+<area shape="rect" id="node12" href="$classlbann_1_1deconvolution__layer.html#a6d891396ea1c91030cd647cc111c8c5f" title="lbann::deconvolution\l_layer::setup_data" alt="" coords="701,363,843,405"/>
+<area shape="rect" id="node18" href="$classlbann_1_1relu__layer.html#a9426317aa741ab8a202ee52cf5250b59" title="lbann::relu_layer::\lsetup_gpu" alt="" coords="496,1233,621,1274"/>
+<area shape="rect" id="node19" href="$classlbann_1_1softmax__layer.html#a7c2618f40e9d0ab4135ec0e9f0bea156" title="lbann::softmax_layer\l::setup_gpu" alt="" coords="487,1298,630,1339"/>
+<area shape="rect" id="node20" href="$classlbann_1_1base__convolution__layer.html#a4fb0ec8793656a7c32ff37c266b29a68" title="Initialize GPU objects. " alt="" coords="477,514,640,555"/>
+<area shape="rect" id="node21" href="$classlbann_1_1fully__connected__layer.html#a95c96742a67f2e9398e608b244c2d121" title="lbann::fully_connected\l_layer::setup_gpu" alt="" coords="483,579,635,621"/>
+<area shape="rect" id="node22" href="$classlbann_1_1batch__normalization.html#ab4737c3efcafa9bff1e68084b7f36283" title="lbann::batch_normalization\l::setup_gpu" alt="" coords="470,645,647,686"/>
+<area shape="rect" id="node23" href="$classlbann_1_1local__response__normalization__layer.html#aff5210d74db5f8302989cca12d04263d" title="Initialize GPU objects. " alt="" coords="485,709,633,765"/>
+<area shape="rect" id="node24" href="$classlbann_1_1concatenation__layer.html#a6d8d7513948fda9ef1ac725f36080ed3" title="lbann::concatenation\l_layer::setup_gpu" alt="" coords="487,789,630,830"/>
+<area shape="rect" id="node25" href="$classlbann_1_1noise__layer.html#af9548690f291d5c009a425a928fe2f4f" title="lbann::noise_layer\l::setup_gpu" alt="" coords="495,854,622,895"/>
+<area shape="rect" id="node26" href="$classlbann_1_1pooling__layer.html#a603adc8abc7527f2fd12eb4264b0f3cc" title="Initialize GPU objects. " alt="" coords="490,919,627,961"/>
+<area shape="rect" id="node27" href="$classlbann_1_1safe__inv__layer.html#a396a1178717b8760d85b651644ae0e20" title="lbann::safe_inv_layer\l::setup_gpu" alt="" coords="486,985,631,1026"/>
+<area shape="rect" id="node28" href="$classlbann_1_1slice__layer.html#a007c9b0ec2d874ad187735203fc1661f" title="lbann::slice_layer\l::setup_gpu" alt="" coords="497,1050,620,1091"/>
+<area shape="rect" id="node29" href="$classlbann_1_1split__layer.html#acc7c8d10d786c0352e1ee41cef972f67" title="lbann::split_layer\l::setup_gpu" alt="" coords="499,1115,619,1157"/>
+<area shape="rect" id="node30" href="$classlbann_1_1sum__layer.html#a4935bd96e7607075d0403e1495099998" title="lbann::sum_layer::setup_gpu" alt="" coords="464,1181,653,1208"/>
 </map>

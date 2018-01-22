@@ -1,5 +1,0 @@
-<map id="lbann::l2_weight_regularization::setup" name="lbann::l2_weight_regularization::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1objective__function__term.html#abe002b29ddda9d3628b1ef63061562c4" title="lbann::objective_function\l_term::setup" alt="" coords="258,5,425,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1objective__function.html#ab0a0491478c0d792d9b8d4a257f8b955" title="lbann::objective_function\l::get_model" alt="" coords="258,70,425,111"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="254,136,429,163"/>
-</map>

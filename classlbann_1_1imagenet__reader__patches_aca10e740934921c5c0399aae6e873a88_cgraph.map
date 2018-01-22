@@ -1,3 +1,4 @@
 <map id="lbann::imagenet_reader_patches::imagenet_reader_patches" name="lbann::imagenet_reader_patches::imagenet_reader_patches">
-<area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader__patches.html#a714247cc547161688a66a64737527de0" title="Replicate image processor for each OpenMP thread. " alt="" coords="233,13,429,54"/>
+<area shape="rect" id="node2" href="$classlbann_1_1imagenet__reader__patches.html#a714247cc547161688a66a64737527de0" title="Replicate image processor for each OpenMP thread. " alt="" coords="233,11,429,53"/>
+<area shape="rect" id="node3" href="$classlbann_1_1image__data__reader.html#a0164b0e3abbe92daef73b36fb925403e" title="lbann::image_data_reader\l::set_linearized_image_size" alt="" coords="478,11,661,53"/>
 </map>

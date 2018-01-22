@@ -1,3 +1,6 @@
 <map id="lbann::makedir" name="lbann::makedir">
-<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a5bb3c2effb859cf3ca2c5f297acc3195" title="lbann::persist::open\l_checkpoint" alt="" coords="160,5,296,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__checkpoint.html#a23b6f5abb924b2c4d0694e98c7d6f4d5" title="lbann::lbann_callback\l_checkpoint::checkpointShared" alt="" coords="345,38,549,79"/>
+<area shape="rect" id="node5" href="$classlbann_1_1persist.html#acf4e795ed71edb845443087e4059b54b" title="lbann::persist::open\l_checkpoint" alt="" coords="160,67,296,109"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__checkpoint.html#a406bfba673e503e94ae6eb57aff6a78e" title="lbann::lbann_callback\l_checkpoint::on_epoch_end" alt="" coords="597,5,781,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checkpoint.html#a476527e2b7b44dd3623e01f63ddb5f78" title="lbann::lbann_callback\l_checkpoint::on_batch_end" alt="" coords="599,70,780,111"/>
 </map>

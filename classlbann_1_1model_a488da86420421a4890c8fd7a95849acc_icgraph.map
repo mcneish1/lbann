@@ -1,0 +1,4 @@
+<map id="lbann::model::write_proto" name="lbann::model::write_proto">
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__save__model.html#ae047ee35b65e9bda4080a83833612699" title="lbann::lbann_callback\l_save_model::on_epoch_end" alt="" coords="187,5,378,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1sequential__model.html#a53a83327a1115a53affa78c93344e641" title="lbann::sequential_model\l::write_proto" alt="" coords="201,70,364,111"/>
+</map>

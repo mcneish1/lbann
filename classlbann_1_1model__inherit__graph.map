@@ -1,6 +1,7 @@
 <map id="lbann::model" name="lbann::model">
-<area shape="rect" id="node2" href="$classlbann_1_1dag__model.html" title="lbann::dag_model" alt="" coords="22,80,145,107"/>
-<area shape="rect" id="node4" href="$classlbann_1_1sequential__model.html" title="lbann::sequential_model" alt="" coords="177,80,340,107"/>
-<area shape="rect" id="node3" href="$classlbann_1_1siamese__model.html" title="lbann::siamese_model" alt="" coords="5,163,157,189"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html" title="lbann::greedy_layerwise\l_autoencoder" alt="" coords="181,155,344,197"/>
+<area shape="rect" id="node2" href="$classlbann_1_1directed__acyclic__graph__model.html" title="lbann::directed_acyclic\l_graph_model" alt="" coords="5,81,159,122"/>
+<area shape="rect" id="node4" href="$classlbann_1_1recurrent__model.html" title="lbann::recurrent_model" alt="" coords="184,88,337,115"/>
+<area shape="rect" id="node5" href="$classlbann_1_1sequential__model.html" title="lbann::sequential_model" alt="" coords="363,88,525,115"/>
+<area shape="rect" id="node3" href="$classlbann_1_1siamese__model.html" title="lbann::siamese_model" alt="" coords="7,179,159,205"/>
+<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html" title="lbann::greedy_layerwise\l_autoencoder" alt="" coords="363,171,525,213"/>
 </map>

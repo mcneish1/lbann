@@ -2,10 +2,10 @@
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="458,5,633,32"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__checknan.html#ac74f7f665823d0500875b9740aaccabc" title="lbann::lbann_callback\l_checknan::is_good" alt="" coords="245,275,392,317"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checknan.html#a335713a3df9194f657f98cccd2f695f5" title="lbann::lbann_callback\l_checknan::dump_network" alt="" coords="229,158,408,199"/>
-<area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__checknan.html#ab42c997a06058c3535792408fdd5fed8" title="lbann::lbann_callback\l_checknan::name" alt="" coords="245,341,392,382"/>
 <area shape="rect" id="node6" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="463,56,628,83"/>
-<area shape="rect" id="node12" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="247,406,390,447"/>
 <area shape="rect" id="node10" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="456,355,635,381"/>
+<area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__checknan.html#ab42c997a06058c3535792408fdd5fed8" title="lbann::lbann_callback\l_checknan::name" alt="" coords="245,341,392,382"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="247,406,390,447"/>
 <area shape="rect" id="node5" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="463,107,627,133"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="474,158,617,199"/>
 <area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="474,223,617,265"/>

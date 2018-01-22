@@ -1,0 +1,13 @@
+<map id="lbann::generic_target_layer::fp_compute" name="lbann::generic_target_layer::fp_compute">
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="907,48,1131,74"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__io__buffer.html#af9fc2100d41328fe399acf7bced950d7" title="lbann::generic_io_buffer\l::fetch_to_local_matrix" alt="" coords="215,90,375,131"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__input__layer.html#a0903dcb289fdf87ecbd2bf851aa9ab9b" title="lbann::generic_input\l_layer::get_data_reader" alt="" coords="215,155,374,196"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__target__layer.html#a0dbe5fc5203e15ddcf8348daf2f697c5" title="lbann::generic_target\l_layer::update_num_samples\l_processed" alt="" coords="199,220,391,276"/>
+<area shape="rect" id="node11" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="210,299,379,340"/>
+<area shape="rect" id="node12" href="$classlbann_1_1generic__io__buffer.html#a08c2bb93b86d2926df52ef9272a07d87" title="lbann::generic_io_buffer\l::distribute_from_local_matrix" alt="" coords="198,364,391,406"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__input__layer.html#a0c2f123432ec6af168012cc8699a1d3f" title="lbann::generic_input\l_layer::update_num_samples\l_processed" alt="" coords="440,214,632,270"/>
+<area shape="rect" id="node7" href="$classlbann_1_1generic__input__layer.html#a654365ee97a64c75a547cfb7ef329304" title="lbann::generic_input\l_layer::select_dataset" alt="" coords="694,104,845,146"/>
+<area shape="rect" id="node9" href="$classlbann_1_1dataset.html#a412b29a50638f7d8feea4ad368c6a4dc" title="lbann::dataset::num\l_samples_processed" alt="" coords="697,188,842,230"/>
+<area shape="rect" id="node10" href="$classlbann_1_1dataset.html#a1342ab433dd0a23bb83ba8c9524e7d4a" title="lbann::dataset::get\l_num_samples_processed" alt="" coords="681,254,858,295"/>
+<area shape="rect" id="node8" href="$classlbann_1_1generic__input__layer.html#af5699540797c22d8846028e578a6fc59" title="lbann::generic_input\l_layer::get_dataset" alt="" coords="949,104,1088,146"/>
+</map>

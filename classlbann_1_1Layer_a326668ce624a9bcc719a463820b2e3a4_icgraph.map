@@ -1,8 +1,9 @@
 <map id="lbann::Layer::add_parent_layer" name="lbann::Layer::add_parent_layer">
-<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a5f237f1f6285475c5493a7d15dc32096" title="lbann::greedy_layerwise\l_autoencoder::set_phase" alt="" coords="219,103,387,145"/>
-<area shape="rect" id="node6" href="$proto__common_8cpp.html#a064e1d7d943d9022b6b2a071a897b81b" title="setup_pointers" alt="" coords="249,185,356,212"/>
+<area shape="rect" id="node2" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a5f237f1f6285475c5493a7d15dc32096" title="lbann::greedy_layerwise\l_autoencoder::set_phase" alt="" coords="219,85,387,126"/>
+<area shape="rect" id="node6" href="$classlbann_1_1recurrent__model.html#ac89ddfa607e5cb6b940eb389ebbce6f6" title="lbann::recurrent_model\l::setup_layer_topology" alt="" coords="225,150,380,191"/>
+<area shape="rect" id="node7" href="$proto__common_8cpp.html#a064e1d7d943d9022b6b2a071a897b81b" title="setup_pointers" alt="" coords="249,216,356,243"/>
 <area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#adf8750be08e34891701a24678f703acd" title="lbann::greedy_layerwise\l_autoencoder::greedy_layerwise\l_autoencoder" alt="" coords="435,5,645,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ac5e2de693353966b7816ca10282068f5" title="lbann::greedy_layerwise\l_autoencoder::operator=" alt="" coords="459,86,621,127"/>
-<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="459,151,621,193"/>
-<area shape="rect" id="node7" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="497,217,583,244"/>
+<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#ac5e2de693353966b7816ca10282068f5" title="lbann::greedy_layerwise\l_autoencoder::operator=" alt="" coords="459,85,621,126"/>
+<area shape="rect" id="node5" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="459,150,621,191"/>
+<area shape="rect" id="node8" href="$proto__common_8hpp.html#a663b73f4f97dd1e9e5c0cd2bcb836336" title="add_layers" alt="" coords="497,216,583,243"/>
 </map>

@@ -1,0 +1,7 @@
+<map id="lbann::stack_trace::open_output_file" name="lbann::stack_trace::open_output_file">
+<area shape="rect" id="node2" href="$classoptions.html#a9ecfe9c365269df68a41b961c31ae3f5" title="returns a pointer to the Options singleton " alt="" coords="201,5,292,32"/>
+<area shape="rect" id="node3" href="$classoptions.html#aafb1d2a7ccde0b1bf786230ba4080ecd" title="options::has_bool" alt="" coords="185,56,309,83"/>
+<area shape="rect" id="node6" href="$classoptions.html#a99aa190102de33e2aed39723929f9fad" title="options::get_bool" alt="" coords="186,107,307,133"/>
+<area shape="rect" id="node4" href="$classoptions.html#ad9b4461e633b73acc2fde7752ef60d41" title="options::m_test_int" alt="" coords="357,81,491,108"/>
+<area shape="rect" id="node5" href="$classoptions.html#a99183ba43c8d7b35dbfa1bea0f43db48" title="options::m_has_opt" alt="" coords="539,81,675,108"/>
+</map>

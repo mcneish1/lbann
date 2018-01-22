@@ -1,6 +1,6 @@
 <map id="lbann::lbann_callback_step_minibatch::schedule" name="lbann::lbann_callback_step_minibatch::schedule">
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="243,5,389,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a51aae8871667fdff3e54f13488809382" title="Get the current learning rate (assumes every layer has the same one). " alt="" coords="232,71,400,127"/>
-<area shape="rect" id="node4" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="449,56,623,83"/>
-<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#a3d43f99cf93668b9a1a1974a47cf644a" title="lbann::optimizer::get\l_learning_rate" alt="" coords="466,107,606,149"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a51aae8871667fdff3e54f13488809382" title="Get the current learning rate (assumes every layer has the same one). " alt="" coords="232,69,400,125"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="449,55,623,81"/>
+<area shape="rect" id="node5" href="$classlbann_1_1optimizer.html#a3d43f99cf93668b9a1a1974a47cf644a" title="lbann::optimizer::get\l_learning_rate" alt="" coords="466,106,606,147"/>
 </map>

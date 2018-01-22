@@ -1,8 +1,0 @@
-<map id="lbann::target_layer::update_num_samples_processed" name="lbann::target_layer::update_num_samples_processed">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html#a14eaabc5c57543a966e0b274be5891d2" title="lbann::input_layer\l::update_num_samples\l_processed" alt="" coords="211,92,368,148"/>
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html#ac285598482f2aeb7e907a6895f7158be" title="lbann::input_layer\l::select_dataset" alt="" coords="443,34,567,75"/>
-<area shape="rect" id="node6" href="$classlbann_1_1dataset.html#a412b29a50638f7d8feea4ad368c6a4dc" title="lbann::dataset::num\l_samples_processed" alt="" coords="433,99,578,141"/>
-<area shape="rect" id="node7" href="$classlbann_1_1dataset.html#a1342ab433dd0a23bb83ba8c9524e7d4a" title="lbann::dataset::get\l_num_samples_processed" alt="" coords="417,165,594,206"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html#aecb64889e2135f0d84b475f31bb4c17f" title="lbann::input_layer\l::get_dataset" alt="" coords="693,5,817,46"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="643,71,867,97"/>
-</map>

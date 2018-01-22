@@ -1,11 +1,11 @@
 <map id="lbann::fast_rand_int" name="lbann::fast_rand_int">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#a4dd4696cbbfd93c73e5fb3c40fcb16c3" title="lbann::lbann_quantizer\l::onebit_quantize" alt="" coords="189,78,341,119"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__quantizer.html#aa5aabc1cb4163e95aee993d9b37b9b32" title="lbann::lbann_quantizer\l::proportion_threshold" alt="" coords="189,217,341,258"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__quantizer.html#af77beca5905ff8601ca9b8231a2a16e0" title="lbann::lbann_quantizer\l::col_reconstruction" alt="" coords="189,151,341,193"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#a4dd4696cbbfd93c73e5fb3c40fcb16c3" title="lbann::lbann_quantizer\l::onebit_quantize" alt="" coords="189,77,341,118"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__quantizer.html#aa5aabc1cb4163e95aee993d9b37b9b32" title="lbann::lbann_quantizer\l::proportion_threshold" alt="" coords="189,214,341,255"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__quantizer.html#af77beca5905ff8601ca9b8231a2a16e0" title="lbann::lbann_quantizer\l::col_reconstruction" alt="" coords="189,149,341,190"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#a9eeb89150026bf4b7bea15bffdba10d3" title="lbann::lbann_quantizer\l::onebit_quantize" alt="" coords="405,5,557,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#a4b326de1ca5b7eba6415b6f42f83335b" title="lbann::lbann_quantizer\l::intermodel_sum_onebit\l_quantized" alt="" coords="399,71,563,127"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="622,31,786,87"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__quantizer.html#af24e00e26e157f102f3cef547de40ae1" title="lbann::lbann_quantizer\l::intermodel_sum_onebit\l_quantized" alt="" coords="622,111,786,167"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__quantizer.html#a7e4dfca5770dfd88ae6255b0407d8f80" title="lbann::lbann_quantizer\l::adaptive_quantize" alt="" coords="405,151,557,193"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__quantizer.html#a25ed3869c6bc615ae51198803ea4e33d" title="lbann::lbann_quantizer\l::adaptive_quantize_replace" alt="" coords="389,217,573,258"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#a4b326de1ca5b7eba6415b6f42f83335b" title="lbann::lbann_quantizer\l::intermodel_sum_onebit\l_quantized" alt="" coords="399,69,563,125"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__imcomm.html#a0a425ba562f7637b25cd6ba094e7885b" title="lbann::lbann_callback\l_imcomm::on_backward\l_prop_end" alt="" coords="622,29,786,85"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__quantizer.html#af24e00e26e157f102f3cef547de40ae1" title="lbann::lbann_quantizer\l::intermodel_sum_onebit\l_quantized" alt="" coords="622,109,786,165"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__quantizer.html#a7e4dfca5770dfd88ae6255b0407d8f80" title="lbann::lbann_quantizer\l::adaptive_quantize" alt="" coords="405,149,557,190"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__quantizer.html#a25ed3869c6bc615ae51198803ea4e33d" title="lbann::lbann_quantizer\l::adaptive_quantize_replace" alt="" coords="389,214,573,255"/>
 </map>

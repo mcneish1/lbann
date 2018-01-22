@@ -1,8 +1,8 @@
 <map id="lbann::model::summarize_stats" name="lbann::model::summarize_stats">
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="221,5,400,32"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__summary.html#a3e0b9aae1f80403a195567fd25ea2525" title="lbann::lbann_summary\l::reduce_scalar" alt="" coords="234,57,387,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#a74f5d56f81156b2971ba11d5c03f535d" title="lbann::objective_function\l::get_history_mean_value" alt="" coords="225,122,396,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1objective__function.html#a7af9511dbcec5540250a23672acdc2f4" title="lbann::objective_function\l::get_value_time" alt="" coords="227,187,394,229"/>
-<area shape="rect" id="node6" href="$classlbann_1_1objective__function.html#a4645a120c56d2f7aa54ad299f1b234fd" title="lbann::objective_function\l::get_gradient_time" alt="" coords="227,253,394,294"/>
+<area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#af1e690ad7bb7de5f64e6a3926a5b2399" title="lbann::objective_function\l::get_mean_value" alt="" coords="227,122,394,163"/>
+<area shape="rect" id="node5" href="$classlbann_1_1objective__function.html#a11a78ee6e09b1866682faa67d5ef50a7" title="lbann::objective_function\l::get_evaluation_time" alt="" coords="227,187,394,229"/>
+<area shape="rect" id="node6" href="$classlbann_1_1objective__function.html#adb074349034d4991801ac41e5f08eddc" title="lbann::objective_function\l::get_differentiation_time" alt="" coords="227,253,394,294"/>
 <area shape="rect" id="node7" href="$classlbann_1_1objective__function.html#a92b248be17049b1d7e82accbd913d6f1" title="lbann::objective_function\l::reset_counters" alt="" coords="227,318,394,359"/>
 </map>

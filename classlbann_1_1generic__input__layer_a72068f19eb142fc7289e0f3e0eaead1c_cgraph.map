@@ -1,0 +1,5 @@
+<map id="lbann::generic_input_layer::get_num_iterations_per_epoch" name="lbann::generic_input_layer::get_num_iterations_per_epoch">
+<area shape="rect" id="node2" href="$classlbann_1_1generic__input__layer.html#ab6bc391df3475d1467839338c4e435ec" title="lbann::generic_input\l_layer::get_data_reader" alt="" coords="242,5,401,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="Get the number of iterations in each epoch. " alt="" coords="230,69,413,125"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="461,12,685,39"/>
+</map>

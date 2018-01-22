@@ -1,10 +1,8 @@
 <map id="lbann::io_layer" name="lbann::io_layer">
-<area shape="rect" id="node3" href="$classlbann_1_1input__layer.html" title="lbann::input_layer" alt="" coords="305,100,429,127"/>
-<area shape="rect" id="node6" href="$classlbann_1_1target__layer.html" title="lbann::target_layer" alt="" coords="302,211,431,237"/>
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="5,137,99,164"/>
-<area shape="rect" id="node4" href="$classlbann_1_1input__layer__distributed__minibatch.html" title="lbann::input_layer\l_distributed_minibatch\l\&lt; T_layout \&gt;" alt="" coords="480,5,632,61"/>
-<area shape="rect" id="node5" href="$classlbann_1_1input__layer__partitioned__minibatch.html" title="lbann::input_layer\l_partitioned_minibatch\l\&lt; T_layout \&gt;" alt="" coords="480,85,632,141"/>
-<area shape="rect" id="node7" href="$classlbann_1_1reconstruction__layer.html" title="lbann::reconstruction\l_layer\&lt; T_layout \&gt;" alt="" coords="485,166,627,207"/>
-<area shape="rect" id="node8" href="$classlbann_1_1target__layer__distributed__minibatch.html" title="lbann::target_layer\l_distributed_minibatch\l\&lt; T_layout \&gt;" alt="" coords="480,232,632,288"/>
-<area shape="rect" id="node9" href="$classlbann_1_1target__layer__partitioned__minibatch.html" title="lbann::target_layer\l_partitioned_minibatch\l\&lt; T_layout \&gt;" alt="" coords="480,312,632,368"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__input__layer.html" title="lbann::generic_input\l_layer" alt="" coords="304,5,443,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__target__layer.html" title="lbann::generic_target\l_layer" alt="" coords="302,70,445,111"/>
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="5,45,99,72"/>
+<area shape="rect" id="node4" href="$classlbann_1_1input__layer.html" title="lbann::input_layer\l\&lt; T_io_buffer, T_layout \&gt;" alt="" coords="494,5,663,46"/>
+<area shape="rect" id="node6" href="$classlbann_1_1reconstruction__layer.html" title="lbann::reconstruction\l_layer\&lt; T_layout \&gt;" alt="" coords="507,70,650,111"/>
+<area shape="rect" id="node7" href="$classlbann_1_1target__layer.html" title="lbann::target_layer\l\&lt; T_io_buffer, T_layout \&gt;" alt="" coords="494,135,663,177"/>
 </map>

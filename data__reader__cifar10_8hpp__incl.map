@@ -1,22 +1,26 @@
-<map id="/usr/workspace/wsb/lbannusr/bamboo/lbann&#45;catalyst159&#45;1/xml&#45;data/build&#45;dir/LBANN&#45;DG&#45;DD/include/lbann/data_readers/data_reader_cifar10.hpp" name="/usr/workspace/wsb/lbannusr/bamboo/lbann&#45;catalyst159&#45;1/xml&#45;data/build&#45;dir/LBANN&#45;DG&#45;DD/include/lbann/data_readers/data_reader_cifar10.hpp">
-<area shape="rect" id="node2" href="$data__reader__image_8hpp.html" title="data_reader_image.hpp" alt="" coords="929,155,1086,181"/>
-<area shape="rect" id="node3" href="$data__reader_8hpp.html" title="data_reader.hpp" alt="" coords="545,304,659,331"/>
-<area shape="rect" id="node20" href="$image__preprocessor_8hpp.html" title="lbann/data_readers\l/image_preprocessor.hpp" alt="" coords="923,379,1091,421"/>
-<area shape="rect" id="node25" href="$cv__process_8hpp.html" title="cv_process.hpp" alt="" coords="1701,229,1815,256"/>
-<area shape="rect" id="node4" href="$base_8hpp.html" title="lbann/base.hpp" alt="" coords="715,544,825,571"/>
-<area shape="rect" id="node7" href="$random_8hpp.html" title="lbann/utils/random.hpp" alt="" coords="1195,387,1347,413"/>
-<area shape="rect" id="node12" href="$exception_8hpp.html" title="lbann/utils/exception.hpp" alt="" coords="640,387,806,413"/>
-<area shape="rect" id="node8" href="$comm_8hpp.html" title="lbann/comm.hpp" alt="" coords="489,469,607,496"/>
-<area shape="rect" id="node15" href="$file__io_8hpp.html" title="lbann/io/file_io.hpp" alt="" coords="126,387,257,413"/>
-<area shape="rect" id="node19" href="$persist_8hpp.html" title="lbann/io/persist.hpp" alt="" coords="331,469,465,496"/>
-<area shape="rect" id="node6" href="$Elemental__extensions_8hpp.html" title="lbann/Elemental_extensions.hpp" alt="" coords="522,619,733,645"/>
-<area shape="rect" id="node26" href="$cv__transform_8hpp.html" title="cv_transform.hpp" alt="" coords="1691,387,1814,413"/>
-<area shape="rect" id="node29" href="$cv__normalizer_8hpp.html" title="cv_normalizer.hpp" alt="" coords="2150,304,2278,331"/>
-<area shape="rect" id="node31" href="$cv__augmenter_8hpp.html" title="cv_augmenter.hpp" alt="" coords="1315,304,1443,331"/>
-<area shape="rect" id="node34" href="$cv__colorizer_8hpp.html" title="cv_colorizer.hpp" alt="" coords="1603,304,1721,331"/>
-<area shape="rect" id="node35" href="$cv__cropper_8hpp.html" title="cv_cropper.hpp" alt="" coords="1468,304,1578,331"/>
-<area shape="rect" id="node37" href="$cv__mean__extractor_8hpp.html" title="cv_mean_extractor.hpp" alt="" coords="1967,304,2125,331"/>
-<area shape="rect" id="node27" href="$opencv_8hpp.html" title="opencv.hpp" alt="" coords="1633,469,1722,496"/>
-<area shape="rect" id="node28" href="$opencv__extensions_8hpp.html" title="opencv_extensions.hpp" alt="" coords="1747,469,1905,496"/>
-<area shape="rect" id="node30" href="$mild__exception_8hpp.html" title="lbann/utils/mild_exception.hpp" alt="" coords="1979,387,2177,413"/>
+<map id="/home/travis/build/LLNL/lbann/include/lbann/data_readers/data_reader_cifar10.hpp" name="/home/travis/build/LLNL/lbann/include/lbann/data_readers/data_reader_cifar10.hpp">
+<area shape="rect" id="node2" href="$data__reader__image_8hpp.html" title="data_reader_image.hpp" alt="" coords="603,125,760,152"/>
+<area shape="rect" id="node3" href="$data__reader_8hpp.html" title="data_reader.hpp" alt="" coords="624,200,739,227"/>
+<area shape="rect" id="node28" href="$image__preprocessor_8hpp.html" title="lbann/data_readers\l/image_preprocessor.hpp" alt="" coords="5,275,173,317"/>
+<area shape="rect" id="node32" href="$cv__process_8hpp.html" title="cv_process.hpp" alt="" coords="1951,283,2065,309"/>
+<area shape="rect" id="node4" href="$base_8hpp.html" title="lbann/base.hpp" alt="" coords="329,440,439,467"/>
+<area shape="rect" id="node12" href="$random_8hpp.html" title="lbann/utils/random.hpp" alt="" coords="299,283,452,309"/>
+<area shape="rect" id="node13" href="$comm_8hpp.html" title="lbann/comm.hpp" alt="" coords="441,365,559,392"/>
+<area shape="rect" id="node17" href="$exception_8hpp.html" title="lbann/utils/exception.hpp" alt="" coords="529,283,695,309"/>
+<area shape="rect" id="node23" href="$file__io_8hpp.html" title="lbann/io/file_io.hpp" alt="" coords="1089,283,1219,309"/>
+<area shape="rect" id="node27" href="$persist_8hpp.html" title="lbann/io/persist.hpp" alt="" coords="38,365,172,392"/>
+<area shape="rect" id="node6" href="$Elemental__extensions_8hpp.html" title="lbann/Elemental_extensions.hpp" alt="" coords="236,515,445,541"/>
+<area shape="rect" id="node7" href="$cyg__profile_8hpp.html" title="lbann/utils/cyg_profile.hpp" alt="" coords="471,515,644,541"/>
+<area shape="rect" id="node18" href="$stack__trace_8hpp.html" title="lbann/utils/stack_trace.hpp" alt="" coords="840,365,1019,392"/>
+<area shape="rect" id="node33" href="$cv__transform_8hpp.html" title="cv_transform.hpp" alt="" coords="2092,440,2215,467"/>
+<area shape="rect" id="node36" href="$cv__normalizer_8hpp.html" title="cv_normalizer.hpp" alt="" coords="1472,365,1600,392"/>
+<area shape="rect" id="node39" href="$cv__subtractor_8hpp.html" title="cv_subtractor.hpp" alt="" coords="1625,365,1751,392"/>
+<area shape="rect" id="node40" href="$cv__augmenter_8hpp.html" title="cv_augmenter.hpp" alt="" coords="1775,365,1904,392"/>
+<area shape="rect" id="node43" href="$cv__colorizer_8hpp.html" title="cv_colorizer.hpp" alt="" coords="2112,365,2228,392"/>
+<area shape="rect" id="node44" href="$cv__decolorizer_8hpp.html" title="cv_decolorizer.hpp" alt="" coords="2253,365,2383,392"/>
+<area shape="rect" id="node45" href="$cv__cropper_8hpp.html" title="cv_cropper.hpp" alt="" coords="2459,365,2569,392"/>
+<area shape="rect" id="node47" href="$cv__mean__extractor_8hpp.html" title="cv_mean_extractor.hpp" alt="" coords="1929,365,2087,392"/>
+<area shape="rect" id="node34" href="$opencv_8hpp.html" title="opencv.hpp" alt="" coords="2182,515,2271,541"/>
+<area shape="rect" id="node35" href="$opencv__extensions_8hpp.html" title="opencv_extensions.hpp" alt="" coords="1999,515,2157,541"/>
+<area shape="rect" id="node38" href="$mild__exception_8hpp.html" title="lbann/utils/mild_exception.hpp" alt="" coords="1511,440,1708,467"/>
 </map>

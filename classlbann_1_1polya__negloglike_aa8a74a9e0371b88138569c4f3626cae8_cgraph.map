@@ -1,6 +1,0 @@
-<map id="lbann::polya_negloglike::setup" name="lbann::polya_negloglike::setup">
-<area shape="rect" id="node2" href="$classlbann_1_1loss__function.html#ad4381791d7022ea150f2e9b50f84da27" title="lbann::loss_function\l::setup" alt="" coords="211,70,349,111"/>
-<area shape="rect" id="node3" href="$classlbann_1_1objective__function__term.html#abe002b29ddda9d3628b1ef63061562c4" title="lbann::objective_function\l_term::setup" alt="" coords="398,5,565,46"/>
-<area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#ab0a0491478c0d792d9b8d4a257f8b955" title="lbann::objective_function\l::get_model" alt="" coords="398,70,565,111"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="399,136,563,163"/>
-</map>

@@ -1,11 +1,12 @@
 <map id="lbann::lbann_callback_dump_minibatch_sample_indices::on_forward_prop_end" name="lbann::lbann_callback_dump_minibatch_sample_indices::on_forward_prop_end">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a34d4564309168b3ab0b2e3092e2f9355" title="lbann::lbann_callback\l_dump_minibatch_sample\l_indices::dump_to_file" alt="" coords="256,216,429,272"/>
-<area shape="rect" id="node9" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="500,405,679,432"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#a34d4564309168b3ab0b2e3092e2f9355" title="lbann::lbann_callback\l_dump_minibatch_sample\l_indices::dump_to_file" alt="" coords="256,249,429,305"/>
+<area shape="rect" id="node10" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="500,471,679,497"/>
 <area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a0ac13af6f5ee8316d64c550bef919ee0" title="lbann::Layer::get_sample\l_indices_per_mb" alt="" coords="505,5,673,46"/>
 <area shape="rect" id="node4" href="$base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="550,71,629,97"/>
 <area shape="rect" id="node5" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="477,121,701,148"/>
 <area shape="rect" id="node6" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="507,172,672,199"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="518,223,661,265"/>
-<area shape="rect" id="node8" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="516,289,663,330"/>
-<area shape="rect" id="node10" href="$classlbann_1_1Layer.html#a7eae259f041e79b4a23f439f3dbe800d" title="lbann::Layer::get_name" alt="" coords="510,355,669,381"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="518,289,661,330"/>
+<area shape="rect" id="node9" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="516,354,663,395"/>
+<area shape="rect" id="node11" href="$classlbann_1_1Layer.html#a7eae259f041e79b4a23f439f3dbe800d" title="lbann::Layer::get_name" alt="" coords="510,420,669,447"/>
 </map>

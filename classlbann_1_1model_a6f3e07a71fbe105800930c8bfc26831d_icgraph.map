@@ -1,12 +1,11 @@
 <map id="lbann::model::get_cur_validation_step" name="lbann::model::get_cur_validation_step">
 <area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__check__dataset.html#a1223f07081d495d971cdf205f892c50d" title="lbann::lbann_callback\l_check_dataset::on_evaluate\l_forward_prop_end" alt="" coords="213,5,405,61"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__debug.html#ac364fb6e77dc163e146af77bb670d74b" title="lbann::lbann_callback\l_debug::on_batch_evaluate_begin" alt="" coords="200,86,419,127"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__debug.html#a07a02eb525ebe9c06b361c48fc2977c8" title="lbann::lbann_callback\l_debug::on_batch_evaluate_end" alt="" coords="205,151,414,193"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__debug.html#a83fe16882119a54afe59ba616fe1722a" title="lbann::lbann_callback\l_debug::on_evaluate_forward\l_prop_begin" alt="" coords="213,217,405,273"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__debug.html#a19639823e288e7599947c0abfaa6d1f4" title="lbann::lbann_callback\l_debug::on_evaluate_forward\l_prop_end" alt="" coords="213,297,405,353"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__debug__io.html#aa7ef1c147f01e166e7a3fa51aaf47516" title="lbann::lbann_callback\l_debug_io::print_fp_start" alt="" coords="227,378,392,419"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__debug__io.html#a528f4aea5f657f40b27c58a164d4095a" title="lbann::lbann_callback\l_debug_io::print_phase_start" alt="" coords="215,443,404,485"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#acb641b979a37cc703994103a4e8428a5" title="lbann::lbann_callback\l_dump_minibatch_sample\l_indices::on_evaluate_forward\l_prop_end" alt="" coords="210,509,409,579"/>
-<area shape="rect" id="node11" href="$classlbann_1_1lbann__callback__print.html#a28f2b022193c62f3af40364d2c5b14b2" title="lbann::lbann_callback\l_print::on_epoch_end" alt="" coords="236,603,383,645"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__debug__io.html#aa3d2a6fb4d7375c05ece0058224ea792" title="BVE FIXME. " alt="" coords="467,443,650,485"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__debug.html#ac364fb6e77dc163e146af77bb670d74b" title="lbann::lbann_callback\l_debug::on_batch_evaluate_begin" alt="" coords="200,85,419,126"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__debug.html#a07a02eb525ebe9c06b361c48fc2977c8" title="lbann::lbann_callback\l_debug::on_batch_evaluate_end" alt="" coords="205,150,414,191"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__callback__debug.html#a83fe16882119a54afe59ba616fe1722a" title="lbann::lbann_callback\l_debug::on_evaluate_forward\l_prop_begin" alt="" coords="213,215,405,271"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__debug.html#a19639823e288e7599947c0abfaa6d1f4" title="lbann::lbann_callback\l_debug::on_evaluate_forward\l_prop_end" alt="" coords="213,295,405,351"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__debug__io.html#a3c9897a583441381f82a11246aea4424" title="lbann::lbann_callback\l_debug_io::print_fp_start" alt="" coords="227,374,392,415"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__callback__debug__io.html#a528f4aea5f657f40b27c58a164d4095a" title="lbann::lbann_callback\l_debug_io::print_phase_start" alt="" coords="215,439,404,481"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__dump__minibatch__sample__indices.html#acb641b979a37cc703994103a4e8428a5" title="lbann::lbann_callback\l_dump_minibatch_sample\l_indices::on_evaluate_forward\l_prop_end" alt="" coords="210,505,409,575"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__callback__debug__io.html#aa3d2a6fb4d7375c05ece0058224ea792" title="BVE FIXME. " alt="" coords="467,439,650,481"/>
 </map>

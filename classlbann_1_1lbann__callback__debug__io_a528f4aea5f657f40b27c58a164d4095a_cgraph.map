@@ -4,19 +4,19 @@
 <area shape="rect" id="node4" href="$classlbann_1_1model.html#a6f3e07a71fbe105800930c8bfc26831d" title="lbann::model::get_cur\l_validation_step" alt="" coords="265,107,412,149"/>
 <area shape="rect" id="node5" href="$classlbann_1_1model.html#ae213ea2a37bfcc416897fad4d0aa2434" title="lbann::model::get_cur\l_testing_step" alt="" coords="265,173,412,214"/>
 <area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#ad45d83176d89f6e7e1ecac07f1b7bb6b" title="Allow the reader to know where it is in the model hierarchy. " alt="" coords="271,238,406,279"/>
-<area shape="rect" id="node7" href="$classlbann_1_1generic__data__reader.html#a2a3dfe8df7934de80214c3aa59a8c2a9" title="Return the number of parallel readers per model. " alt="" coords="253,304,424,360"/>
-<area shape="rect" id="node8" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="256,384,421,411"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="267,435,410,477"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="267,501,410,542"/>
-<area shape="rect" id="node11" href="$base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="299,567,378,593"/>
-<area shape="rect" id="node12" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="Get the number of iterations in each epoch. " alt="" coords="247,617,430,673"/>
-<area shape="rect" id="node13" href="$classlbann_1_1generic__data__reader.html#a6d1ff5f8157e92e27c99fdd7b843f946" title="Return the mini_batch_size across all models (global) " alt="" coords="271,697,406,753"/>
-<area shape="rect" id="node14" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="267,778,410,819"/>
-<area shape="rect" id="node15" href="$classlbann_1_1generic__data__reader.html#a839e820be1d0e6bcebd370b5a11e397c" title="Get the mini batch size. " alt="" coords="243,843,435,885"/>
-<area shape="rect" id="node16" href="$classlbann_1_1generic__data__reader.html#a7b666bdfc0f6bb72fdfcbc2163fb65fd" title="Return the mini batch stride. " alt="" coords="267,909,410,965"/>
-<area shape="rect" id="node17" href="$classlbann_1_1generic__data__reader.html#afe9c91178894c621f907bcfe4222d3c9" title="Return the last mini batch size across all models (global) " alt="" coords="263,989,414,1045"/>
-<area shape="rect" id="node18" href="$classlbann_1_1generic__data__reader.html#a0517da9de5ce2278dd984c4df64cd6dd" title="Return the last mini batch size. " alt="" coords="263,1069,414,1125"/>
-<area shape="rect" id="node19" href="$classlbann_1_1generic__data__reader.html#a61a99184de625ba92fc0364cffe4c272" title="Return the last mini batch stride. " alt="" coords="269,1149,408,1205"/>
-<area shape="rect" id="node20" href="$classlbann_1_1generic__data__reader.html#a0329a4d44c0dc693eea68741506a43bf" title="Return the base offset. " alt="" coords="255,1230,422,1271"/>
-<area shape="rect" id="node21" href="$classlbann_1_1generic__data__reader.html#af78ad94a94b4312bd21461e2a87e4e09" title="Return the model offset. " alt="" coords="252,1295,425,1337"/>
+<area shape="rect" id="node7" href="$classlbann_1_1generic__data__reader.html#a2a3dfe8df7934de80214c3aa59a8c2a9" title="Return the number of parallel readers per model. " alt="" coords="253,303,424,359"/>
+<area shape="rect" id="node8" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="256,383,421,409"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="267,434,410,475"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="267,499,410,541"/>
+<area shape="rect" id="node11" href="$base_8hpp.html#adeeaddd10bd31df0cae7cb0fcae45d5c" title="_to_string" alt="" coords="299,565,378,592"/>
+<area shape="rect" id="node12" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="Get the number of iterations in each epoch. " alt="" coords="247,616,430,672"/>
+<area shape="rect" id="node13" href="$classlbann_1_1generic__data__reader.html#a6d1ff5f8157e92e27c99fdd7b843f946" title="Return the mini_batch_size across all models (global) " alt="" coords="271,696,406,752"/>
+<area shape="rect" id="node14" href="$classlbann_1_1lbann__comm.html#a54842b679a3756cf79b43baf46caf637" title="lbann::lbann_comm::\lget_num_models" alt="" coords="267,775,410,817"/>
+<area shape="rect" id="node15" href="$classlbann_1_1generic__data__reader.html#a839e820be1d0e6bcebd370b5a11e397c" title="Get the mini batch size. " alt="" coords="243,841,435,882"/>
+<area shape="rect" id="node16" href="$classlbann_1_1generic__data__reader.html#a7b666bdfc0f6bb72fdfcbc2163fb65fd" title="Return the mini batch stride. " alt="" coords="267,905,410,961"/>
+<area shape="rect" id="node17" href="$classlbann_1_1generic__data__reader.html#afe9c91178894c621f907bcfe4222d3c9" title="Return the last mini batch size across all models (global) " alt="" coords="263,985,414,1041"/>
+<area shape="rect" id="node18" href="$classlbann_1_1generic__data__reader.html#a0517da9de5ce2278dd984c4df64cd6dd" title="Return the last mini batch size. " alt="" coords="263,1065,414,1121"/>
+<area shape="rect" id="node19" href="$classlbann_1_1generic__data__reader.html#a61a99184de625ba92fc0364cffe4c272" title="Return the last mini batch stride. " alt="" coords="269,1145,408,1201"/>
+<area shape="rect" id="node20" href="$classlbann_1_1generic__data__reader.html#a0329a4d44c0dc693eea68741506a43bf" title="Return the base offset. " alt="" coords="255,1225,422,1266"/>
+<area shape="rect" id="node21" href="$classlbann_1_1generic__data__reader.html#af78ad94a94b4312bd21461e2a87e4e09" title="Return the model offset. " alt="" coords="252,1290,425,1331"/>
 </map>

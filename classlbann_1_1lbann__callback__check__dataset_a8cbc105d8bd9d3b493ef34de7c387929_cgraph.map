@@ -4,8 +4,8 @@
 <area shape="rect" id="node4" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="262,107,426,133"/>
 <area shape="rect" id="node5" href="$classlbann_1_1lbann__comm.html#ad67668baa49b8713f3c74816d1aeb175" title="lbann::lbann_comm::\lget_procs_per_model" alt="" coords="271,158,417,199"/>
 <area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a06a31f9df1860358ef0ef68d9e165cac" title="lbann::lbann_comm::\lam_model_master" alt="" coords="273,223,415,265"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#ab7cdeca37f1fcd22a3b69f6134fb299f" title="lbann::lbann_comm::\lmodel_gather" alt="" coords="273,341,415,382"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#ad61b35af881db9671f3d71ddbf1ced3f" title="lbann::lbann_comm::\lget_model_master" alt="" coords="475,250,618,291"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#ab7cdeca37f1fcd22a3b69f6134fb299f" title="lbann::lbann_comm::\lmodel_gather" alt="" coords="273,341,415,382"/>
 <area shape="rect" id="node10" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="267,406,421,447"/>
 <area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#aa784298e6ed0f9f01a20b179d5110df9" title="lbann::lbann_comm::\lgather" alt="" coords="475,341,618,382"/>
 </map>

@@ -1,9 +1,9 @@
 <map id="lbann::model::set_execution_mode" name="lbann::model::set_execution_mode">
 <area shape="rect" id="node2" href="$classlbann_1_1lbann__callback__gradient__check.html#ab62102d5ab30330386514161b9ee6586" title="lbann::lbann_callback\l_gradient_check::on_test_begin" alt="" coords="278,5,485,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__ltfb.html#af447a14b1598f93f87af7ff006a124ba" title="lbann::lbann_callback\l_ltfb::evaluate" alt="" coords="744,69,891,110"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a0bf55673097cf7faac5fac6b869892f2" title="lbann::model::setup\l_epoch" alt="" coords="313,143,449,185"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__ltfb.html#ab6dbb28ff4d6c230b47a7b9e126a54ba" title="lbann::lbann_callback\l_ltfb::on_batch_end" alt="" coords="947,69,1093,110"/>
-<area shape="rect" id="node6" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="736,211,899,253"/>
-<area shape="rect" id="node7" href="$classlbann_1_1model.html#a4191097fdbcd1686525e9cd150f958ef" title="lbann::model::evaluate" alt="" coords="534,172,687,199"/>
-<area shape="rect" id="node8" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="753,152,882,179"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#a5d188d75f53e0a4c6161500181b27c03" title="lbann::model::reset\l_mode_and_model" alt="" coords="315,70,448,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a085f0b2debb82d9c4927a1c8b11dd353" title="lbann::greedy_layerwise\l_autoencoder::train" alt="" coords="736,5,899,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a4191097fdbcd1686525e9cd150f958ef" title="lbann::model::evaluate" alt="" coords="534,77,687,104"/>
+<area shape="rect" id="node8" href="$classlbann_1_1model.html#a11c79dc3783d11b799bdc40ff9c92ddc" title="lbann::model::train" alt="" coords="753,136,882,163"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__callback__ltfb.html#a85d68539f56b01b6f9975c830e7693a8" title="lbann::lbann_callback\l_ltfb::evaluate" alt="" coords="744,70,891,111"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__callback__ltfb.html#a7d2d1682c4a6a6b7e8ea1e3f4bf33c84" title="lbann::lbann_callback\l_ltfb::on_batch_begin" alt="" coords="947,70,1093,111"/>
 </map>

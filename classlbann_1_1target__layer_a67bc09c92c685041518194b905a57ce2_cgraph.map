@@ -1,0 +1,6 @@
+<map id="lbann::target_layer::target_layer" name="lbann::target_layer::target_layer">
+<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#a34b7fe0522350d9fef731ae0642a8931" title="lbann::target_layer\l::validate_data_layout" alt="" coords="184,5,333,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#acbcd75df0b4d7a46017d35577a719e67" title="lbann::target_layer\l::initialize_io_buffer" alt="" coords="191,70,326,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1target__layer.html#a615ca6d80687b54da373d1375caaec98" title="lbann::target_layer\l::initialize_distributed\l_matrices" alt="" coords="187,135,331,191"/>
+<area shape="rect" id="node5" href="$classlbann_1_1io__layer.html#a8aa477e63440c75d19bf441b80ec4ae1" title="lbann::io_layer::is\l_for_regression" alt="" coords="197,214,321,255"/>
+</map>

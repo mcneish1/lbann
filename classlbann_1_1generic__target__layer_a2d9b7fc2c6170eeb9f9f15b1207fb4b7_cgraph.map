@@ -1,0 +1,4 @@
+<map id="lbann::generic_target_layer::save_to_checkpoint_shared" name="lbann::generic_target_layer::save_to_checkpoint_shared">
+<area shape="rect" id="node2" href="$classlbann_1_1persist.html#a90ae976e5566fae1b6debdf1b94fd9e0" title="lbann::persist::get_rank" alt="" coords="235,5,394,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#a77808538b2e251d87a1093c253c0fb8b" title="lbann::Layer::save\l_to_checkpoint_shared" alt="" coords="237,57,393,98"/>
+</map>

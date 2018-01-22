@@ -1,5 +1,0 @@
-<map id="lbann::geom_negloglike::evaluate" name="lbann::geom_negloglike::evaluate">
-<area shape="rect" id="node2" href="$classlbann_1_1objective__function.html#ab0a0491478c0d792d9b8d4a257f8b955" title="lbann::objective_function\l::get_model" alt="" coords="214,5,381,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="215,71,380,97"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html#af5631e5f0f54e4df4958eba9df2599ef" title="lbann::lbann_comm::\lallreduce" alt="" coords="226,122,369,163"/>
-</map>

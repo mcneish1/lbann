@@ -1,7 +1,0 @@
-<map id="lbann::input_layer_distributed_minibatch&lt; T_layout &gt;" name="lbann::input_layer_distributed_minibatch&lt; T_layout &gt;">
-<area shape="rect" id="node2" href="$classlbann_1_1input__layer.html" title="lbann::input_layer" alt="" coords="5,179,128,205"/>
-<area shape="rect" id="node3" href="$classlbann_1_1io__layer.html" title="lbann::io_layer" alt="" coords="13,88,120,115"/>
-<area shape="rect" id="node4" href="$classlbann_1_1Layer.html" title="lbann::Layer" alt="" coords="20,5,113,32"/>
-<area shape="rect" id="node5" href="$classlbann_1_1generic__data__distribution.html" title="lbann::generic_data\l_distribution" alt="" coords="145,81,279,122"/>
-<area shape="rect" id="node6" href="$classlbann_1_1distributed__minibatch.html" title="lbann::distributed\l_minibatch" alt="" coords="153,171,273,213"/>
-</map>

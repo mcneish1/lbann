@@ -1,6 +1,6 @@
 <map id="lbann::weights" name="lbann::weights">
-<area shape="rect" id="node2" href="$classlbann_1_1optimizer.html" title="lbann::optimizer" alt="" coords="73,277,188,304"/>
-<area shape="rect" id="node3" href="$classcudnn_1_1cudnn__manager.html" title="cudnn::cudnn_manager" alt="" coords="31,96,188,123"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="227,5,361,32"/>
-<area shape="rect" id="node5" href="$classlbann_1_1weights__initializer.html" title="lbann::weights_initializer" alt="" coords="213,96,376,123"/>
+<area shape="rect" id="node2" href="$classlbann_1_1optimizer.html" title="lbann::optimizer" alt="" coords="213,277,328,304"/>
+<area shape="rect" id="node3" href="$classcudnn_1_1cudnn__manager.html" title="cudnn::cudnn_manager" alt="" coords="5,96,163,123"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__comm.html" title="lbann::lbann_comm" alt="" coords="333,5,467,32"/>
+<area shape="rect" id="node5" href="$classlbann_1_1weights__initializer.html" title="lbann::weights_initializer" alt="" coords="187,96,351,123"/>
 </map>

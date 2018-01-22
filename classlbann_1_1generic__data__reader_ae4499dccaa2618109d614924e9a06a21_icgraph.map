@@ -1,4 +1,8 @@
 <map id="lbann::generic_data_reader::get_next_position" name="lbann::generic_data_reader::get_next_position">
-<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#a1d10dec5713fbe60e61b4dc400227ade" title="lbann::generic_data\l_reader::update" alt="" coords="230,5,365,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1generic__data__reader.html#a89760a0a3870df18e33298ed15518e98" title="lbann::generic_data\l_reader::update" alt="" coords="230,38,365,79"/>
 <area shape="rect" id="node3" href="$classlbann_1_1update__data__reader__functor.html#a999db4df49da9eb371c467537782d442" title="lbann::update_data\l_reader_functor::operator()" alt="" coords="414,5,589,46"/>
+<area shape="rect" id="node4" href="$classlbann_1_1generic__data__store.html#a938bc728f1440b8d19b7195cb749b980" title="fills in m_my_indices and m_index_mapping " alt="" coords="423,70,580,111"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__data__store.html#a1cff17def02ee21b6ca0befeb04bb582" title="lbann::generic_data\l_store::setup" alt="" coords="638,70,773,111"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__data__reader.html#ad4c1794b09f95c99a7130d75ec77dae1" title="lbann::generic_data\l_reader::setup_data_store" alt="" coords="827,37,1000,78"/>
+<area shape="rect" id="node7" href="$classlbann_1_1data__store__imagenet.html#a611aa1734a491c443396a077b49fe4fe" title="lbann::data_store_imagenet\l::setup" alt="" coords="822,102,1005,143"/>
 </map>

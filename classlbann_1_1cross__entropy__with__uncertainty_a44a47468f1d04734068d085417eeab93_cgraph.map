@@ -1,0 +1,6 @@
+<map id="lbann::cross_entropy_with_uncertainty::setup" name="lbann::cross_entropy_with_uncertainty::setup">
+<area shape="rect" id="node2" href="$classlbann_1_1loss__function.html#a17a3629e8519c4215ad776a0c7b522ae" title="lbann::loss_function\l::setup" alt="" coords="219,34,357,75"/>
+<area shape="rect" id="node3" href="$classlbann_1_1objective__function__term.html#a6c8dbdf18aac8676098189fb7b178e91" title="lbann::objective_function\l_term::setup" alt="" coords="406,5,573,46"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="407,71,571,97"/>
+<area shape="rect" id="node4" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="621,12,787,39"/>
+</map>

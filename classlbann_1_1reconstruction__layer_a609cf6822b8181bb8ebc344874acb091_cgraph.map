@@ -1,7 +1,8 @@
 <map id="lbann::reconstruction_layer::fp_set_std_matrix_view" name="lbann::reconstruction_layer::fp_set_std_matrix_view">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="715,5,885,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1target__layer.html#a244d14e401fc2707bc140bc54274903c" title="lbann::target_layer\l::fp_set_std_matrix_view" alt="" coords="267,38,435,79"/>
-<area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a6e307f92dcf0f9f1ea7cdb15d107ea9e" title="lbann::Layer::get_activations" alt="" coords="256,104,445,131"/>
-<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a935881e25a98b4ffad1985dc04c19572" title="lbann::Layer::fp_set\l_std_matrix_view" alt="" coords="511,63,649,105"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#aec3a74a3933b781ebc925f36dcb3c86a" title="lbann::model::get_metrics" alt="" coords="494,129,666,156"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#a7ac8e9b04bf236c6ad16c486b49d393f" title="lbann::model::get_current\l_mini_batch_size" alt="" coords="731,5,901,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1generic__target__layer.html#aabb108a68f324f10b67d3b71a3d0325a" title="lbann::generic_target\l_layer::fp_set_std_matrix_view" alt="" coords="256,63,459,105"/>
+<area shape="rect" id="node7" href="$classlbann_1_1Layer.html#afad38f325738e68ae50cda1b92beaa3d" title="lbann::Layer::get_activations" alt="" coords="263,129,452,156"/>
+<area shape="rect" id="node4" href="$classlbann_1_1Layer.html#a935881e25a98b4ffad1985dc04c19572" title="lbann::Layer::fp_set\l_std_matrix_view" alt="" coords="526,63,663,105"/>
+<area shape="rect" id="node5" href="$classlbann_1_1generic__io__buffer.html#af84c26ab5ee77d1d9ed9ea5d62823815" title="lbann::generic_io_buffer\l::set_local_matrix_bypass" alt="" coords="507,129,682,170"/>
+<area shape="rect" id="node6" href="$classlbann_1_1generic__io__buffer.html#a458d9bf722effce4177a0ac0aee9124f" title="lbann::generic_io_buffer\l::set_std_matrix_view" alt="" coords="515,194,675,235"/>
 </map>

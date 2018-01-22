@@ -1,7 +1,7 @@
 <map id="lbann::lbann_quantizer::get_adaptive_quantization_threads" name="lbann::lbann_quantizer::get_adaptive_quantization_threads">
-<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#a22b898932caed41ccf24abcb67c00ba1" title="lbann::lbann_quantizer\l::get_adaptive_quantization\l_copy_threads" alt="" coords="235,37,416,93"/>
-<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#a7e4dfca5770dfd88ae6255b0407d8f80" title="lbann::lbann_quantizer\l::adaptive_quantize" alt="" coords="480,12,632,54"/>
-<area shape="rect" id="node5" href="$classlbann_1_1lbann__quantizer.html#acf8d21e8114a00fdea53d919d76dd511" title="lbann::lbann_quantizer\l::adaptive_unquantize" alt="" coords="249,118,401,159"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__quantizer.html#a1f63f7be2e227a48ebaa25056e6f85bc" title="lbann::lbann_quantizer\l::adaptive_unquantize_add" alt="" coords="237,183,414,224"/>
-<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#a25ed3869c6bc615ae51198803ea4e33d" title="lbann::lbann_quantizer\l::adaptive_quantize_replace" alt="" coords="464,143,648,184"/>
+<area shape="rect" id="node2" href="$classlbann_1_1lbann__quantizer.html#a22b898932caed41ccf24abcb67c00ba1" title="lbann::lbann_quantizer\l::get_adaptive_quantization\l_copy_threads" alt="" coords="235,35,416,91"/>
+<area shape="rect" id="node3" href="$classlbann_1_1lbann__quantizer.html#a7e4dfca5770dfd88ae6255b0407d8f80" title="lbann::lbann_quantizer\l::adaptive_quantize" alt="" coords="480,10,632,51"/>
+<area shape="rect" id="node4" href="$classlbann_1_1lbann__quantizer.html#a25ed3869c6bc615ae51198803ea4e33d" title="lbann::lbann_quantizer\l::adaptive_quantize_replace" alt="" coords="464,91,648,133"/>
+<area shape="rect" id="node5" href="$classlbann_1_1lbann__quantizer.html#acf8d21e8114a00fdea53d919d76dd511" title="lbann::lbann_quantizer\l::adaptive_unquantize" alt="" coords="249,166,401,207"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__quantizer.html#a1f63f7be2e227a48ebaa25056e6f85bc" title="lbann::lbann_quantizer\l::adaptive_unquantize_add" alt="" coords="237,231,414,273"/>
 </map>

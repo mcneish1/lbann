@@ -2,11 +2,11 @@
 <area shape="rect" id="node2" href="$classlbann_1_1sequential__model.html#a9714c99522b90488c486b390c5a7b6f3" title="lbann::sequential_model\l::operator=" alt="" coords="219,153,381,194"/>
 <area shape="rect" id="node3" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a5f237f1f6285475c5493a7d15dc32096" title="lbann::greedy_layerwise\l_autoencoder::set_phase" alt="" coords="216,218,384,259"/>
 <area shape="rect" id="node4" href="$classlbann_1_1greedy__layerwise__autoencoder.html#a82b8ced756904a2423a65cd0e329b4e2" title="lbann::greedy_layerwise\l_autoencoder::restore\l_sequential_model" alt="" coords="433,69,596,125"/>
+<area shape="rect" id="node7" href="$classlbann_1_1objective__function.html#a510544e9e511be54a50efd39226de345" title="lbann::objective_function\l::get_terms" alt="" coords="646,135,813,177"/>
+<area shape="rect" id="node8" href="$classlbann_1_1loss__function.html#a9ef5356468c892c2c0221f8acd6b5471" title="lbann::loss_function\l::set_target_layer" alt="" coords="660,201,799,242"/>
 <area shape="rect" id="node9" href="$proto__common_8cpp.html#adcde4622104a976e3ad14b7e4da61fe2" title="get_data_layout" alt="" coords="457,251,572,277"/>
 <area shape="rect" id="node10" href="$classlbann_1_1Layer.html#a1edbe39f1a48826a377ade47578bf7c5" title="lbann::Layer::set_name" alt="" coords="435,301,594,328"/>
 <area shape="rect" id="node11" href="$classlbann_1_1Layer.html#a326668ce624a9bcc719a463820b2e3a4" title="lbann::Layer::add_parent\l_layer" alt="" coords="432,353,597,394"/>
-<area shape="rect" id="node7" href="$classlbann_1_1objective__function.html#a510544e9e511be54a50efd39226de345" title="lbann::objective_function\l::get_terms" alt="" coords="646,135,813,177"/>
-<area shape="rect" id="node8" href="$classlbann_1_1loss__function.html#a5eb24382784bb9691e03b0f8f17f71c3" title="lbann::loss_function\l::set_target_layer" alt="" coords="660,201,799,242"/>
 <area shape="rect" id="node5" href="$classlbann_1_1Layer.html#a61be00df4d752ce281ec6b85a8677e73" title="lbann::Layer::get_child\l_layers" alt="" coords="653,5,806,46"/>
 <area shape="rect" id="node6" href="$classlbann_1_1Layer.html#a5ff3c704853eaac501a5d2868a2a537c" title="lbann::Layer::get_parent\l_layers" alt="" coords="648,70,811,111"/>
 </map>

@@ -1,12 +1,12 @@
 <map id="lbann::lbann_callback_checknan::on_forward_prop_end" name="lbann::lbann_callback_checknan::on_forward_prop_end">
-<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#a6e307f92dcf0f9f1ea7cdb15d107ea9e" title="lbann::Layer::get_activations" alt="" coords="211,29,400,56"/>
+<area shape="rect" id="node2" href="$classlbann_1_1Layer.html#afad38f325738e68ae50cda1b92beaa3d" title="lbann::Layer::get_activations" alt="" coords="211,29,400,56"/>
 <area shape="rect" id="node3" href="$classlbann_1_1lbann__callback__checknan.html#ac74f7f665823d0500875b9740aaccabc" title="lbann::lbann_callback\l_checknan::is_good" alt="" coords="232,81,379,122"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__checknan.html#a335713a3df9194f657f98cccd2f695f5" title="lbann::lbann_callback\l_checknan::dump_network" alt="" coords="216,198,395,239"/>
-<area shape="rect" id="node12" href="$classlbann_1_1lbann__callback__checknan.html#ab42c997a06058c3535792408fdd5fed8" title="lbann::lbann_callback\l_checknan::name" alt="" coords="232,315,379,357"/>
 <area shape="rect" id="node6" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="455,5,620,32"/>
+<area shape="rect" id="node10" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="448,355,627,381"/>
+<area shape="rect" id="node12" href="$classlbann_1_1lbann__callback__checknan.html#ab42c997a06058c3535792408fdd5fed8" title="lbann::lbann_callback\l_checknan::name" alt="" coords="232,315,379,357"/>
 <area shape="rect" id="node13" href="$classlbann_1_1lbann__comm.html#a615265cd20ffb4863089bb94e4c82fe7" title="lbann::lbann_comm::\lget_rank_in_world" alt="" coords="234,381,377,422"/>
 <area shape="rect" id="node15" href="$classlbann_1_1Layer.html#a7eae259f041e79b4a23f439f3dbe800d" title="lbann::Layer::get_name" alt="" coords="226,447,385,473"/>
-<area shape="rect" id="node10" href="$classlbann_1_1model.html#a3753cfdb1b3dac2eec1db5b7b8f9c4d9" title="lbann::model::get_cur_step" alt="" coords="448,355,627,381"/>
 <area shape="rect" id="node5" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="455,56,619,83"/>
 <area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="466,107,609,149"/>
 <area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="466,173,609,214"/>

@@ -1,0 +1,8 @@
+<map id="lbann::stack_profiler::activate" name="lbann::stack_profiler::activate">
+<area shape="rect" id="node2" href="$classoptions.html#a9ecfe9c365269df68a41b961c31ae3f5" title="returns a pointer to the Options singleton " alt="" coords="209,5,300,32"/>
+<area shape="rect" id="node3" href="$classoptions.html#aafb1d2a7ccde0b1bf786230ba4080ecd" title="options::has_bool" alt="" coords="193,56,317,83"/>
+<area shape="rect" id="node6" href="$classoptions.html#a99aa190102de33e2aed39723929f9fad" title="options::get_bool" alt="" coords="194,107,315,133"/>
+<area shape="rect" id="node7" href="$stack__profiler_8cpp.html#ad1c2d92ab2c29021521d36cf4c97e488" title="c_hash_create" alt="" coords="201,157,308,184"/>
+<area shape="rect" id="node4" href="$classoptions.html#ad9b4461e633b73acc2fde7752ef60d41" title="options::m_test_int" alt="" coords="365,81,499,108"/>
+<area shape="rect" id="node5" href="$classoptions.html#a99183ba43c8d7b35dbfa1bea0f43db48" title="options::m_has_opt" alt="" coords="547,81,683,108"/>
+</map>

@@ -1,4 +1,4 @@
 <map id="lbann::reconstruction_layer::set_layer_pointers" name="lbann::reconstruction_layer::set_layer_pointers">
-<area shape="rect" id="node2" href="$classlbann_1_1target__layer.html#a3fe64c60b5e918abdc378580063ba004" title="lbann::target_layer\l::set_layer_pointers" alt="" coords="224,5,360,46"/>
-<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#af96613293e91e3a4e098796409884012" title="lbann::Layer::set_layer\l_pointers" alt="" coords="408,5,563,46"/>
+<area shape="rect" id="node2" href="$classlbann_1_1generic__target__layer.html#aa0cec7c9cab70de4afce85feb4fadc9b" title="lbann::generic_target\l_layer::set_layer_pointers" alt="" coords="224,5,395,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1Layer.html#af96613293e91e3a4e098796409884012" title="lbann::Layer::set_layer\l_pointers" alt="" coords="443,5,597,46"/>
 </map>

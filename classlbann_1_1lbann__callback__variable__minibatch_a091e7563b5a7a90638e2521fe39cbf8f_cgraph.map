@@ -2,15 +2,15 @@
 <area shape="rect" id="node2" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="202,5,366,32"/>
 <area shape="rect" id="node3" href="$classlbann_1_1model.html#aa837a468e77991314053a93441d111ca" title="lbann::model::get_comm" alt="" coords="201,56,367,83"/>
 <area shape="rect" id="node4" href="$classlbann_1_1lbann__callback__variable__minibatch.html#ace13e8941491ddd28ef35c277cecb1ad" title="lbann::lbann_callback\l_variable_minibatch::\lschedule" alt="" coords="211,107,357,163"/>
-<area shape="rect" id="node5" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="207,187,361,229"/>
-<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a06a31f9df1860358ef0ef68d9e165cac" title="lbann::lbann_comm::\lam_model_master" alt="" coords="213,253,355,294"/>
-<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="213,318,355,359"/>
-<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a011659ba208ccafbf97724ea8ac8d109" title="Change the learning rate of every layer in m to new_lr. " alt="" coords="211,384,357,440"/>
-<area shape="rect" id="node13" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a51aae8871667fdff3e54f13488809382" title="Get the current learning rate (assumes every layer has the same one). " alt="" coords="200,464,368,520"/>
-<area shape="rect" id="node15" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="211,545,357,586"/>
-<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="433,221,575,262"/>
-<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#ad61b35af881db9671f3d71ddbf1ced3f" title="lbann::lbann_comm::\lget_model_master" alt="" coords="433,286,575,327"/>
-<area shape="rect" id="node11" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="417,439,591,465"/>
-<area shape="rect" id="node12" href="$classlbann_1_1optimizer.html#a147cac09beaa17df4e0fc1fc1be3abce" title="lbann::optimizer::set\l_learning_rate" alt="" coords="434,373,574,414"/>
-<area shape="rect" id="node14" href="$classlbann_1_1optimizer.html#a3d43f99cf93668b9a1a1974a47cf644a" title="lbann::optimizer::get\l_learning_rate" alt="" coords="434,490,574,531"/>
+<area shape="rect" id="node5" href="$classlbann_1_1model.html#a7c37a886565aaee121b7de862d8c06ad" title="lbann::model::get_max\l_mini_batch_size" alt="" coords="207,186,361,227"/>
+<area shape="rect" id="node6" href="$classlbann_1_1lbann__comm.html#a06a31f9df1860358ef0ef68d9e165cac" title="lbann::lbann_comm::\lam_model_master" alt="" coords="213,251,355,293"/>
+<area shape="rect" id="node9" href="$classlbann_1_1lbann__comm.html#a6c201108eb6b5a1e23021db29cef655b" title="lbann::lbann_comm::\lget_model_rank" alt="" coords="213,317,355,358"/>
+<area shape="rect" id="node10" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a011659ba208ccafbf97724ea8ac8d109" title="Change the learning rate of every layer in m to new_lr. " alt="" coords="211,381,357,437"/>
+<area shape="rect" id="node13" href="$classlbann_1_1lbann__callback__variable__minibatch.html#a51aae8871667fdff3e54f13488809382" title="Get the current learning rate (assumes every layer has the same one). " alt="" coords="200,461,368,517"/>
+<area shape="rect" id="node15" href="$classlbann_1_1model.html#a675b1c6cb1a0eabca80d6a6de1fbbb08" title="lbann::model::get_cur\l_epoch" alt="" coords="211,541,357,582"/>
+<area shape="rect" id="node7" href="$classlbann_1_1lbann__comm.html#a206bafe522a0962c450f4fc69d030656" title="lbann::lbann_comm::\lget_rank_in_model" alt="" coords="433,219,575,261"/>
+<area shape="rect" id="node8" href="$classlbann_1_1lbann__comm.html#ad61b35af881db9671f3d71ddbf1ced3f" title="lbann::lbann_comm::\lget_model_master" alt="" coords="433,285,575,326"/>
+<area shape="rect" id="node11" href="$classlbann_1_1model.html#a91cd652cf6cad2830857a48a17742654" title="lbann::model::get_weights" alt="" coords="417,436,591,463"/>
+<area shape="rect" id="node12" href="$classlbann_1_1optimizer.html#a147cac09beaa17df4e0fc1fc1be3abce" title="lbann::optimizer::set\l_learning_rate" alt="" coords="434,370,574,411"/>
+<area shape="rect" id="node14" href="$classlbann_1_1optimizer.html#a3d43f99cf93668b9a1a1974a47cf644a" title="lbann::optimizer::get\l_learning_rate" alt="" coords="434,487,574,529"/>
 </map>

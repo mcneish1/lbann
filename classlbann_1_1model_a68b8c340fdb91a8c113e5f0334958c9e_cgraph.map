@@ -1,0 +1,6 @@
+<map id="lbann::model::remap_pointers" name="lbann::model::remap_pointers">
+<area shape="rect" id="node2" href="$classlbann_1_1objective__function.html#aecd235681e35c8dc2dd8092328f7c65c" title="lbann::objective_function\l::get_layer_pointers" alt="" coords="195,5,362,46"/>
+<area shape="rect" id="node3" href="$classlbann_1_1objective__function.html#acc81b6c9bea84de5e96b58c4a1e75812" title="lbann::objective_function\l::set_layer_pointers" alt="" coords="195,70,362,111"/>
+<area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#a5870cb90980818749866758ee2403126" title="lbann::objective_function\l::get_weights_pointers" alt="" coords="195,135,362,177"/>
+<area shape="rect" id="node5" href="$classlbann_1_1objective__function.html#ad4bb20edfcb1cc8239b45b2fa48627f4" title="lbann::objective_function\l::set_weights_pointers" alt="" coords="195,201,362,242"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="lbann::target_layer_partitioned_minibatch::update_compute" name="lbann::target_layer_partitioned_minibatch::update_compute">
-<area shape="rect" id="node2" href="$classlbann_1_1partitioned__minibatch.html#acaf52f2e90c653ccf325550109cf91d3" title="lbann::partitioned\l_minibatch::is_data\l_set_processed" alt="" coords="206,45,341,101"/>
-<area shape="rect" id="node5" href="$classlbann_1_1input__layer.html#a55b7424ab83ee66b3d5867f5c86c4eed" title="lbann::input_layer\l::get_data_reader" alt="" coords="211,126,335,167"/>
-<area shape="rect" id="node3" href="$classlbann_1_1generic__data__reader.html#a56e24bca78c64c7d33cf981c63157e1b" title="Get the number of iterations in each epoch. " alt="" coords="390,5,573,61"/>
-<area shape="rect" id="node4" href="$classlbann_1_1generic__data__reader.html#a8dd549fbec0b3a52f732a73036bbe87e" title="Return the index of the current iteration step in the epoch (also the mini&#45;batch index) ..." alt="" coords="412,85,551,141"/>
-</map>

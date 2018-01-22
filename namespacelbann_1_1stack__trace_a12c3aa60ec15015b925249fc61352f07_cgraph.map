@@ -1,0 +1,12 @@
+<map id="lbann::stack_trace::register_handler" name="lbann::stack_trace::register_handler">
+<area shape="rect" id="node2" href="$classoptions.html#a9ecfe9c365269df68a41b961c31ae3f5" title="returns a pointer to the Options singleton " alt="" coords="580,5,671,32"/>
+<area shape="rect" id="node3" href="$classoptions.html#aafb1d2a7ccde0b1bf786230ba4080ecd" title="options::has_bool" alt="" coords="563,168,687,195"/>
+<area shape="rect" id="node6" href="$classoptions.html#a99aa190102de33e2aed39723929f9fad" title="options::get_bool" alt="" coords="565,117,686,144"/>
+<area shape="rect" id="node7" href="$namespacelbann_1_1stack__trace.html#a4bf58556b9c42ac8930c273a921172de" title="lbann::stack_trace\l::lbann_signal_handler" alt="" coords="185,135,335,177"/>
+<area shape="rect" id="node4" href="$classoptions.html#ad9b4461e633b73acc2fde7752ef60d41" title="options::m_test_int" alt="" coords="736,143,869,169"/>
+<area shape="rect" id="node5" href="$classoptions.html#a99183ba43c8d7b35dbfa1bea0f43db48" title="options::m_has_opt" alt="" coords="917,143,1053,169"/>
+<area shape="rect" id="node8" href="$namespacelbann_1_1stack__trace.html#aa071d75a81128e2a8100d66529482842" title="lbann::stack_trace\l::open_output_file" alt="" coords="385,135,514,177"/>
+<area shape="rect" id="node9" href="$namespacelbann_1_1stack__trace.html#a22d63f8c305ad282df5af296d61639e6" title="lbann::stack_trace\l::sig_name" alt="" coords="385,201,514,242"/>
+<area shape="rect" id="node10" href="$namespacelbann_1_1stack__trace.html#a52adbb11fce7541e2bc34b712d09e868" title="lbann::stack_trace\l::print_stack_trace" alt="" coords="384,266,515,307"/>
+<area shape="rect" id="node11" href="$namespacelbann_1_1stack__trace.html#a45e4398bd4d0a7b9956107192a342b89" title="lbann::stack_trace\l::close_output_file" alt="" coords="385,70,514,111"/>
+</map>

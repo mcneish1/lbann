@@ -1,0 +1,5 @@
+<map id="lbann::distributed_io_buffer::get_data_buffer" name="lbann::distributed_io_buffer::get_data_buffer">
+<area shape="rect" id="node2" href="$classlbann_1_1distributed__io__buffer.html#a99af2b545ab08b42173bc704481269f1" title="Return the rank of the current root node for the Elemental Distribution. " alt="" coords="215,5,342,61"/>
+<area shape="rect" id="node3" href="$classlbann_1_1distributed__io__buffer.html#a6640f9657f4028089d9de1b61c9e4a89" title="Is this rank the current root node for the Elemental Distribution. " alt="" coords="192,85,365,126"/>
+<area shape="rect" id="node4" href="$classlbann_1_1distributed__io__buffer.html#abe4b7401f4662656bd3695d5d984573e" title="Is the local reader done. " alt="" coords="213,149,344,205"/>
+</map>

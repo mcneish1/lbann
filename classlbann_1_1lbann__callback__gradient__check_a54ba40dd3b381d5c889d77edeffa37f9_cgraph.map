@@ -1,6 +1,7 @@
 <map id="lbann::lbann_callback_gradient_check::compute_objective_function" name="lbann::lbann_callback_gradient_check::compute_objective_function">
-<area shape="rect" id="node2" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="238,5,402,32"/>
-<area shape="rect" id="node3" href="$classlbann_1_1model.html#ac843a0982ae11b989fc4ef8beb3542f2" title="lbann::model::get_objective\l_function" alt="" coords="229,57,411,98"/>
-<area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#ab9036db18ca94f7a39592d0ec09d5397" title="lbann::objective_function\l::compute_value" alt="" coords="237,122,403,163"/>
-<area shape="rect" id="node5" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="459,129,570,156"/>
+<area shape="rect" id="node2" href="$classlbann_1_1model.html#aa2743fb2bd6cf5720c780743fe31fbf8" title="lbann::model::get_layers" alt="" coords="259,5,423,32"/>
+<area shape="rect" id="node3" href="$classlbann_1_1model.html#ac843a0982ae11b989fc4ef8beb3542f2" title="lbann::model::get_objective\l_function" alt="" coords="251,57,432,98"/>
+<area shape="rect" id="node4" href="$classlbann_1_1objective__function.html#aef15864fcee47f4e31e6030bd8f40968" title="lbann::objective_function\l::evaluate" alt="" coords="258,122,425,163"/>
+<area shape="rect" id="node6" href="$classlbann_1_1model.html#a66c5ac5cb51cdc7dea79a475147bcd5b" title="lbann::model::get_execution_mode" alt="" coords="229,188,453,215"/>
+<area shape="rect" id="node5" href="$namespacelbann.html#a478d36031ff0659893c4322cd856157f" title="lbann::get_time" alt="" coords="502,129,613,156"/>
 </map>

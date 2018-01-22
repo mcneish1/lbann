@@ -1,4 +1,4 @@
 <map id="lbann::fully_connected_layer::copy" name="lbann::fully_connected_layer::copy">
-<area shape="rect" id="node2" href="$classlbann_1_1fully__connected__layer.html#ae5d9a0f2851f3c55abe47aa65afbe66c" title="lbann::fully_connected\l_layer::fully_connected_layer" alt="" coords="206,13,397,54"/>
-<area shape="rect" id="node3" href="$classlbann_1_1fully__connected__layer.html#a74e0750c0f5496267f071254d79b5e67" title="lbann::fully_connected\l_layer::initialize_distributed\l_matrices" alt="" coords="445,5,624,61"/>
+<area shape="rect" id="node2" href="$classlbann_1_1fully__connected__layer.html#ae5d9a0f2851f3c55abe47aa65afbe66c" title="lbann::fully_connected\l_layer::fully_connected_layer" alt="" coords="206,11,397,53"/>
+<area shape="rect" id="node3" href="$classlbann_1_1fully__connected__layer.html#a74e0750c0f5496267f071254d79b5e67" title="lbann::fully_connected\l_layer::initialize_distributed\l_matrices" alt="" coords="445,4,624,60"/>
 </map>
